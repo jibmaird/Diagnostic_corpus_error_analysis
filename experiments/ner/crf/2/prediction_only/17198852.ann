@@ -1,0 +1,26 @@
+T21	Disease 1929 1938	early ARM
+T20	Disease 1817 1826	early ARM
+T23	Disease 2063 2071	late ARM
+T22	Disease 1991 2000	early ARM
+T25	Symptom 2223 2242	early-stage lesions
+T24	Disease 2168 2171	ARM
+T26	Disease 2338 2346	late ARM
+T1	Disease 41 64	age-related maculopathy
+T2	Disease 140 163	age-related maculopathy
+T3	Disease 165 168	ARM
+T4	Characteristic 420 511	reexamined after 5 years (1997-1999) and 1952 (76% of survivors) after 10 years (2002-2004)
+T5	Classification_system 610 658	Wisconsin Age-Related Maculopathy Grading System
+T6	Symptom 693 704	ARM lesions
+T7	Disease 840 857	incident late ARM
+T8	Disease 883 886	ARM
+T9	Symptom 890 908	geographic atrophy
+T10	Disease 1009 1018	early ARM
+T12	Symptom 1095 1148	soft distinct drusen and retinal pigment abnormality)
+T11	Symptom 1036 1082	early ARM (soft indistinct or reticular drusen
+T14	Disease 1212 1235	Age-related maculopathy
+T13	Disease 1180 1198	early and late ARM
+T16	Disease 1478 1487	early ARM
+T15	Disease 1425 1428	ARM
+T18	Disease 1610 1618	late ARM
+T17	Disease 1546 1549	ARM
+T19	Disease 1765 1773	late ARM

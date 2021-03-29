@@ -1,0 +1,18 @@
+T4	Characteristic 278 386	Dossenheim, Germany), Cirrus (Carl Zeiss Meditec, Dublin, CA), and RTVue (Optovue Inc., Fremont, CA) devices
+T5	Disease 408 416	glaucoma
+T6	Disease 565 573	Glaucoma
+T7	Disease 620 628	Glaucoma
+T8	Symptom 683 752	RNFL thickness imaging with the Spectralis, Cirrus, and RTVue devices
+T9	Characteristic 832 835	age
+T10	Characteristic 863 936	quadrants (superior, nasal, inferior, temporal) and global RNFL thickness
+T12	Characteristic 1252 1341	Spectralis (0.88) and the global RNFL thickness for the Cirrus (0.88) and the RTVue (0.87
+T11	Characteristic 1171 1185	RNFL thickness
+T14	Symptom 1503 1559	AUC in the Spectralis and RTVue compared with the Cirrus
+T13	Anatomy 1456 1470	nasal quadrant
+T16	Characteristic 2012 2039	RTVue, the global thickness
+T15	Characteristic 1866 1882	global thickness
+T18	Disease 2288 2296	glaucoma
+T17	Diagnostic_tool 2151 2201	spectral-domain optic coherence tomography (SD-OCT
+T1	Diagnostic_tool 59 105	Cirrus, and RTVue optical coherence tomography
+T2	Disease 117 125	glaucoma
+T3	Characteristic 168 210	retinal nerve fiber layer (RNFL) thickness

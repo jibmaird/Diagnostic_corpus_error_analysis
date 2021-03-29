@@ -1,0 +1,15 @@
+T4	Disease 300 302	DR
+T5	Diagnostic_tool 336 357	Retinal fundus images
+T6	Disease 363 365	DR
+T7	Symptom 428 490	U.S. board-certified ophthalmologists, and retinal specialists
+T8	Characteristic 805 949	various DR severity cutoffs (e.g., mild or worse DR, moderate or worse DR), we measured area under the curve (AUC), sensitivity, and specificity
+T9	Symptom 1107 1165	MAs) (36%), artifacts (20%), and misclassified hemorrhages
+T10	Disease 1373 1375	DR
+T12	Disease 1845 1847	DR
+T11	Disease 1572 1574	DR
+T14	Disease 1923 1925	DR
+T13	Disease 1884 1886	DR
+T15	Symptom 2064 2125	U.S. Board-Certified ophthalmologists and retinal specialists
+T1	Disease 104 124	Diabetic Retinopathy
+T2	Disease 166 186	diabetic retinopathy
+T3	Disease 188 190	DR

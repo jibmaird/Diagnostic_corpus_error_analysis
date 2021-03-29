@@ -1,0 +1,24 @@
+T4	Disease 279 283	POAG
+T5	Disease 327 331	POAG
+T6	Disease 439 443	POAG
+T7	Disease 448 452	POAG
+T8	Disease 675 679	POAG
+T9	Anatomy 694 697	eye
+T10	Symptom 839 875	bone loss, and root canal treatments
+T21	Characteristic 1902 1922	IOP  < 22 mmHg (MVRR
+T20	Disease 1883 1887	POAG
+T12	Symptom 998 1136	intraocular pressure (IOP; ≥ or  < 22 mmHg) or visual field (VF) loss pattern at diagnosis (peripheral loss only or early paracentral loss
+T23	Disease 2081 2085	POAG
+T11	Disease 917 921	POAG
+T22	Symptom 1953 1984	early paracentral VF loss (MVRR
+T14	Disease 1323 1327	POAG
+T13	Characteristic 1252 1297	periodontal disease, and root canal treatment
+T24	Disease 2146 2150	POAG
+T16	Disease 1476 1480	POAG
+T15	Symptom 1365 1375	tooth loss
+T18	Disease 1677 1681	POAG
+T17	Disease 1607 1626	periodontal disease
+T1	Disease 45 79	Primary Open-Angle Glaucoma in Men
+T19	Disease 1784 1788	POAG
+T2	Disease 148 167	periodontal disease
+T3	Disease 250 277	primary open-angle glaucoma

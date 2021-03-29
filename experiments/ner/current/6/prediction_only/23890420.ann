@@ -1,0 +1,31 @@
+T1	Disease 27 42	type 1 diabetic
+T2	Disease 75 86	retinopathy
+T3	Diagnostic_tool 157 184	panretinal photocoagulation
+T4	Diagnostic_tool 186 189	PRP
+T5	Diagnostic_tool 195 217	focal photocoagulation
+T6	Diagnostic_tool 219 221	FP
+T7	Diagnostic_tool 237 255	fundus photography
+T8	Disease 322 337	type 1 diabetic
+T9	Disease 372 380	Diabetes
+T10	Disease 496 504	Diabetes
+T11	Diagnostic_tool 621 624	PRP
+T12	Diagnostic_tool 626 628	FP
+T13	Diagnostic_tool 684 702	Fundus photographs
+T14	Diagnostic_tool 810 821	Photographs
+T15	Diagnostic_tool 865 868	PRP
+T16	Diagnostic_tool 873 875	FP
+T17	Diagnostic_tool 940 943	PRP
+T18	Diagnostic_tool 948 950	FP
+T19	Diagnostic_tool 1097 1100	PRP
+T20	Diagnostic_tool 1105 1107	FP
+T21	Diagnostic_tool 1296 1299	PRP
+T22	Anatomy 1315 1319	eyes
+T23	Diagnostic_tool 1405 1407	FP
+T24	Diagnostic_tool 1413 1416	PRP
+T25	Diagnostic_tool 1421 1423	FP
+T26	Disease 1765 1785	diabetic retinopathy
+T27	Anatomy 1796 1802	ocular
+T28	Disease 1846 1861	type 1 diabetes
+T29	Diagnostic_tool 1883 1903	clinical examination
+T30	Diagnostic_tool 1907 1925	fundus photographs
+T31	Disease 2036 2056	diabetic retinopathy

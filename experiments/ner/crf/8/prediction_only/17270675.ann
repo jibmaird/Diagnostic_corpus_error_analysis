@@ -1,0 +1,32 @@
+T21	Symptom 1724 1746	soft indistinct drusen
+T20	Symptom 1588 1657	small hard drusen (1-2), those with large numbers of only hard drusen
+T23	Anatomy 1809 1813	Eyes
+T22	Symptom 1767 1791	pigmentary abnormalities
+T25	Symptom 1845 1869	pigmentary abnormalities
+T24	Symptom 1819 1841	soft indistinct drusen
+T27	Anatomy 1937 1941	eyes
+T26	Disease 1910 1918	late AMD
+T29	Symptom 2106 2164	hard drusen to late AMD in older persons in the population
+T28	Disease 2075 2078	AMD
+T1	Disease 40 72	age-related macular degeneration
+T2	Disease 176 213	late age-related macular degeneration
+T3	Disease 215 218	AMD
+T4	Diagnostic_tool 522 553	stereoscopic fundus photographs
+T5	Classification_system 564 612	Wisconsin Age-Related Maculopathy Grading System
+T6	Symptom 615 708	Main outcome measures: Cumulative incidence of drusen type and size, pigmentary abnormalities
+T7	Symptom 710 728	geographic atrophy
+T8	Disease 734 747	exudative AMD
+T9	Disease 845 854	early AMD
+T30	Disease 2202 2210	late AMD
+T10	Symptom 879 901	soft indistinct drusen
+T32	Characteristic 2322 2355	United States population this age
+T31	Characteristic 2221 2258	> or = 75 years of age (8%) indicates
+T12	Disease 993 1001	late AMD
+T11	Symptom 921 978	pigmentary abnormalities together with any type of drusen
+T14	Symptom 1032 1050	geographic atrophy
+T13	Disease 1015 1028	exudative AMD
+T16	Characteristic 1106 1118	age (P<0.05)
+T15	Disease 1089 1092	AMD
+T18	Symptom 1274 1505	years of age: larger drusen (125 mum in diameter, 24.1% vs 10.6%), soft indistinct drusen (18.7% vs 6.5%), retinal pigmentary abnormalities (20.2% vs 3.7%), exudative macular degeneration (4.4% vs 0.4%), and pure geographic atrophy
+T17	Characteristic 1132 1154	> or = 75 years of age
+T19	Characteristic 1536 1539	age

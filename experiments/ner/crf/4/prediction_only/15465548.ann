@@ -1,0 +1,25 @@
+T21	Characteristic 1911 1954	superior RNFL sectors and superior VF zones
+T20	Characteristic 1663 1833	between superior and superior temporal RNFL sectors (e.g., 12-o'clock, 11-o'clock) and inferior central and arcuate VF zones (e.g., zones 5, 6, 7) (R2 range = 24.3%-37.3%
+T23	Diagnostic_tool 2006 2009	OCT
+T22	Characteristic 1956 1991	Retinal nerve fiber layer thickness
+T25	Diagnostic_tool 2083 2087	SWAP
+T24	Symptom 2045 2068	glaucomatous VF defects
+T1	Diagnostic_tool 0 36	Short-wavelength automated perimetry
+T2	Characteristic 65 129	optical coherence tomography retinal nerve fiber layer thickness
+T3	Disease 146 158	glaucomatous
+T4	Anatomy 159 163	eyes
+T5	Characteristic 204 246	retinal nerve fiber layer (RNFL) thickness
+T6	Diagnostic_tool 262 290	optical coherence tomography
+T7	Diagnostic_tool 292 295	OCT
+T8	Diagnostic_tool 359 401	short-wavelength automated perimetry (SWAP
+T9	Disease 554 562	Glaucoma
+T10	Disease 585 593	glaucoma
+T12	Diagnostic_tool 633 663	SWAP visual field (VF) testing
+T11	Diagnostic_tool 608 619	OCT imaging
+T14	Characteristic 851 900	SWAP average pattern deviation within 21 VF zones
+T13	Characteristic 755 808	normal) RNFL measurements taken at 30 degrees sectors
+T16	Characteristic 1059 1150	OCT nerve fiber layer thickness was outside of the normal limits in at least 1 sector in 26
+T15	Characteristic 932 1034	OCT-measured RNFL sectors outside of normal limits and the number of VF zones outside of normal limits
+T18	Characteristic 1253 1434	Optical coherence tomography sectors 6-o'clock, 7-o'clock, and 8-o'clock (inferior and inferotemporal) and SWAP VF zones 13, 14, and 16 (superior hemifield central and arcuate areas
+T17	Characteristic 1214 1251	SWAP VF zone outside of normal limits
+T19	Characteristic 1517 1639	between inferior and inferior temporal RNFL sectors (e.g., 6-o'clock, 7-o'clock) and superior nasal/arcuate VF zones (e.g.

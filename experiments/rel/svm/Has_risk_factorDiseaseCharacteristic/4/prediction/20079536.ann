@@ -1,0 +1,39 @@
+T21	Characteristic 1004 1009	males
+T20	Characteristic 997 1000	CCT
+T23	Characteristic 1111 1114	CCT
+T22	Characteristic 1076 1083	females
+T25	Characteristic 1199 1202	age
+T24	Characteristic 1163 1179	urban population
+T27	Characteristic 1382 1398	urban population
+T26	Characteristic 1322 1338	rural population
+T29	Characteristic 1473 1493	intraocular pressure
+T28	Characteristic 1425 1428	CCT
+T1	Characteristic 0 25	Central corneal thickness
+T2	Characteristic 29 48	adult South Indians
+T3	Disease 62 70	Glaucoma
+T4	Characteristic 114 139	central corneal thickness
+T5	Characteristic 141 144	CCT
+T6	Characteristic 171 174	age
+T7	Characteristic 176 182	gender
+T8	Characteristic 188 208	intraocular pressure
+T9	Characteristic 212 252	rural and urban South Indian populations
+T30	Characteristic 1501 1517	rural population
+T10	Characteristic 379 402	aged 40 years and older
+T32	Characteristic 1614 1621	females
+T31	Characteristic 1564 1580	urban population
+T12	Characteristic 534 537	CCT
+T34	Symptom 1662 1677	thinner corneas
+T11	Diagnostic_tool 497 519	ophthalmic examination
+T33	Characteristic 1647 1657	rural area
+T14	Diagnostic_tool 585 606	applanation tonometry
+T36	Characteristic 1743 1763	intraocular pressure
+T13	Diagnostic_tool 559 580	ultrasonic pachymeter
+T35	Characteristic 1707 1710	age
+T16	Disease 684 692	cataract
+T15	Characteristic 608 633	Central corneal thickness
+T37	Disease 1848 1856	glaucoma
+T18	Characteristic 841 868	corneal pathologic features
+T17	Disease 794 802	glaucoma
+T19	Characteristic 945 948	CCT
+R2	Has_risk_factor Arg1:T3 Arg2:T2
+R1	Has_risk_factor Arg1:T3 Arg2:T1

@@ -1,0 +1,8 @@
+T4	Symptom 187 246	complain of irritation, tearing, and foreign body sensation
+T5	Disease 463 487	lid imbrication syndrome
+T6	Disease 740 756	dry eye syndrome
+T7	Symptom 776 805	persistent epithelial defects
+T8	Symptom 985 1024	dry eye or persistent epithelial defect
+T1	Disease 0 24	Lid imbrication syndrome
+T2	Disease 64 88	Lid imbrication syndrome
+T3	Symptom 110 170	lid apposition in which the upper lid overlies the lower lid

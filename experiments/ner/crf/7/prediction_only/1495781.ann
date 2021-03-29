@@ -1,0 +1,9 @@
+T4	Diagnostic_tool 839 909	electroretinography, visual-evoked potentials, and electro-oculography
+T5	Symptom 928 994	early signs of anterior lenticonus, three had flecks in the retina
+T6	Symptom 1022 1053	posterior subcapsular cataracts
+T7	Symptom 1155 1169	ocular changes
+T8	Disease 1217 1232	Alport syndrome
+T9	Characteristic 1287 1304	severity with age
+T1	Disease 49 64	Alport syndrome
+T2	Symptom 355 408	abnormal ocular features in adolescence and childhood
+T3	Characteristic 453 534	Alport syndrome underwent ophthalmologic, audiologic, and nephrologic assessments

@@ -1,0 +1,100 @@
+T61	Symptom 1991 1995	H/Ma
+T60	Anatomy 1877 1954	temporal, superotemporal, inferotemporal, superonasal, and inferonasal fields
+T63	Symptom 2118 2122	IRMA
+T62	Symptom 2056 2058	VB
+T21	Symptom 849 853	H/Ma
+T65	Anatomy 2250 2265	temporal fields
+T20	Symptom 816 847	hemorrhage and/or microaneurysm
+T64	Symptom 2182 2185	NVE
+T23	Symptom 872 874	VB
+T67	Diagnostic_tool 2311 2326	DiSLO200 images
+T22	Symptom 856 870	venous beading
+T66	Anatomy 2284 2296	nasal fields
+T25	Symptom 917 921	IRMA
+T69	Diagnostic_tool 2385 2388	DFE
+T24	Symptom 877 915	intraretinal microvascular abnormality
+T68	Diagnostic_tool 2358 2380	ETDRS film photographs
+T27	Symptom 951 954	NVE
+T26	Symptom 928 949	new vessels elsewhere
+T29	Diagnostic_tool 1043 1082	ETDRS 7-standard field film photographs
+T28	Disease 1028 1030	DR
+T70	Disease 2404 2406	DR
+T72	Symptom 2489 2499	DR lesions
+T71	Diagnostic_tool 2433 2448	DiSLO200 images
+T30	Characteristic 1087 1092	no DR
+T74	Symptom 2546 2564	peripheral lesions
+T73	Anatomy 2523 2529	retina
+T32	Disease 1132 1140	moderate
+T76	Disease 2641 2643	DR
+T31	Disease 1100 1119	nonproliferative DR
+T75	Diagnostic_tool 2579 2587	DiSLO200
+T34	Disease 1177 1193	proliferative DR
+T78	Symptom 2747 2765	peripheral lesions
+T33	Disease 1150 1168	severe/very severe
+T77	Anatomy 2654 2658	eyes
+T36	Diagnostic_tool 1237 1245	DiSLO200
+T35	Disease 1199 1219	Diabetic retinopathy
+T79	Characteristic 2769 2783	DR progression
+T38	Anatomy 1291 1295	eyes
+T37	Diagnostic_tool 1250 1272	ETDRS film photographs
+T39	Anatomy 1360 1364	eyes
+T80	Characteristic 2802 2816	ETDRS severity
+T41	Diagnostic_tool 1379 1382	DFE
+T40	Diagnostic_tool 1366 1374	DiSLO200
+T43	Anatomy 1473 1477	eyes
+T42	Anatomy 1403 1407	eyes
+T45	Disease 1500 1502	DR
+T44	Anatomy 1485 1489	eyes
+T47	Diagnostic_tool 1547 1569	ETDRS film photographs
+T46	Diagnostic_tool 1534 1542	DiSLO200
+T49	Symptom 1618 1622	H/Ma
+T48	Symptom 1575 1590	retinal lesions
+T1	Symptom 0 18	Peripheral lesions
+T2	Diagnostic_tool 33 66	mydriatic ultrawide field imaging
+T3	Disease 105 125	diabetic retinopathy
+T4	Disease 147 167	diabetic retinopathy
+T5	Disease 169 171	DR
+T6	Diagnostic_tool 215 248	mydriatic ultrawide field imaging
+T7	Diagnostic_tool 250 258	DiSLO200
+T8	Diagnostic_tool 299 383	Early Treatment Diabetic Retinopathy Study (ETDRS) 7-standard field film photography
+T9	Diagnostic_tool 418 426	DiSLO200
+T50	Symptom 1628 1632	IRMA
+T52	Symptom 1651 1653	VB
+T51	Symptom 1638 1641	NVE
+T10	Diagnostic_tool 428 467	ETDRS 7-standard field film photographs
+T54	Symptom 1691 1695	IRMA
+T53	Symptom 1685 1689	H/Ma
+T12	Diagnostic_tool 501 504	DFE
+T56	Diagnostic_tool 1768 1776	DiSLO200
+T11	Diagnostic_tool 473 499	dilated fundus examination
+T55	Symptom 1701 1704	NVE
+T14	Disease 534 542	diabetic
+T58	Disease 1832 1834	DR
+T13	Anatomy 522 526	eyes
+T57	Diagnostic_tool 1785 1807	ETDRS film photographs
+T16	Diagnostic_tool 605 613	DiSLO200
+T15	Disease 588 590	DR
+T59	Anatomy 1851 1855	eyes
+T18	Diagnostic_tool 660 663	DFE
+T17	Diagnostic_tool 615 654	ETDRS 7-standard field film photographs
+T19	Symptom 717 727	DR lesions
+R2	Diagnosed_with Arg1:T4 Arg2:T7
+R3	Diagnosed_with Arg1:T5 Arg2:T6
+R4	Diagnosed_with Arg1:T5 Arg2:T8
+R5	Diagnosed_with Arg1:T31 Arg2:T29
+R6	Diagnosed_with Arg1:T33 Arg2:T29
+R7	Diagnosed_with Arg1:T35 Arg2:T36
+R8	Diagnosed_with Arg1:T45 Arg2:T46
+R9	Diagnosed_with Arg1:T58 Arg2:T57
+R10	Diagnosed_with Arg1:T70 Arg2:T69
+R20	Diagnosed_with Arg1:T4 Arg2:T6
+R12	Diagnosed_with Arg1:T70 Arg2:T68
+R11	Diagnosed_with Arg1:T76 Arg2:T75
+R14	Diagnosed_with Arg1:T35 Arg2:T37
+R13	Diagnosed_with Arg1:T45 Arg2:T47
+R16	Diagnosed_with Arg1:T32 Arg2:T29
+R15	Diagnosed_with Arg1:T34 Arg2:T29
+R18	Diagnosed_with Arg1:T5 Arg2:T7
+R17	Diagnosed_with Arg1:T28 Arg2:T29
+R19	Diagnosed_with Arg1:T4 Arg2:T8
+R1	Diagnosed_with Arg1:T3 Arg2:T2

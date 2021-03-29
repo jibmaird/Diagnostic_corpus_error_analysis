@@ -1,0 +1,43 @@
+T1	Disease 23 39	Joubert syndrome
+T2	Disease 42 58	Joubert syndrome
+T3	Symptom 109 196	rare autosomal recessive congenital malformation of the brainstem and cerebellar vermis
+T4	Disease 260 269	hypotonia
+T5	Symptom 271 289	episodic hyperpnea
+T6	Symptom 291 310	developmental delay
+T7	Disease 312 323	progressive
+T8	Symptom 324 330	ataxia
+T9	Characteristic 364 379	neuroradiologic
+T10	Symptom 401 402	"
+T11	Symptom 403 422	molar tooth "  sign
+T12	Anatomy 520 523	eye
+T13	Disease 719 735	Joubert syndrome
+T14	Characteristic 834 842	children
+T15	Diagnostic_tool 894 916	Ophthalmic examination
+T16	Diagnostic_tool 921 945	visual electrophysiology
+T17	Diagnostic_tool 947 980	Ocular and oculomotor examination
+T18	Diagnostic_tool 1018 1037	electroretinography
+T19	Diagnostic_tool 1039 1068	flash visual-evoked potential
+T20	Diagnostic_tool 1070 1074	fVEP
+T21	Characteristic 1085 1086	'
+T22	Characteristic 1087 1124	ages ranged from 7 months to 10 years
+T23	Symptom 1126 1146	Saccadic dysfunction
+T24	Symptom 1195 1229	compensatory head thrusts or turns
+T25	Characteristic 1261 1269	youngest
+T26	Characteristic 1279 1294	7 months of age
+T27	Disease 1321 1347	primary-position nystagmus
+T28	Symptom 1366 1382	Abnormal pursuit
+T29	Symptom 1395 1424	dystrophic retinal appearance
+T30	Symptom 1463 1520	bilateral asymmetric ptosis with unilateral lid elevation
+T31	Diagnostic_tool 1551 1570	Electroretinography
+T32	Diagnostic_tool 1637 1641	fVEP
+T33	Symptom 1767 1787	saccadic dysfunction
+T34	Symptom 1804 1816	head thrusts
+T35	Disease 1822 1848	primary position nystagmus
+T36	Characteristic 1874 1903	developmentally delayed child
+T37	Disease 1929 1945	Joubert syndrome
+T38	Symptom 1963 1992	dystrophic retinal appearance
+T39	Symptom 2026 2042	asymmetric fVEPs
+T40	Disease 2047 2064	see-saw nystagmus
+T41	Symptom 2076 2114	abnormality in optic nerve decussation
+T42	Symptom 2149 2173	impaired axonal guidance
+T43	Disease 2198 2214	Joubert syndrome

@@ -1,0 +1,30 @@
+T21	Symptom 1616 1711	high AUC in the detection of large drusen (0.94), pigmentary abnormalities (0.93), and late AMD
+T20	Anatomy 1437 1444	retinal
+T23	Symptom 1856 1880	pigmentary abnormalities
+T22	Symptom 1749 1801	retinal specialists in the detection of large drusen
+T25	Disease 2201 2204	AMD
+T24	Disease 1980 1988	late AMD
+T27	Disease 2386 2389	AMD
+T26	Classification_system 2234 2265	AREDS Simplified Severity Scale
+T29	Disease 2454 2462	late AMD
+T28	Disease 2399 2408	early AMD
+T1	Diagnostic_tool 14 33	Deep Learning Model
+T2	Disease 80 112	Age-related Macular Degeneration
+T3	Diagnostic_tool 127 151	Color Fundus Photographs
+T4	Disease 183 215	age-related macular degeneration
+T5	Disease 217 220	AMD
+T6	Classification_system 227 290	Age-Related Eye Disease Study (AREDS) Simplified Severity Scale
+T7	Disease 327 335	late AMD
+T8	Diagnostic_tool 513 537	color fundus photographs
+T9	Characteristic 539 586	CFP) of individual eyes by AREDS severity score
+T30	Disease 2487 2538	available on https://github.com/ncbi-nlp/DeepSeeNet
+T10	Anatomy 668 672	eyes
+T12	Classification_system 792 855	AREDS Simplified Severity Scale (score 0-5) using bilateral CFP
+T11	Diagnostic_tool 715 734	deep learning model
+T14	Symptom 1152 1176	pigmentary abnormalities
+T13	Characteristic 1121 1150	AMD risk factors (drusen size
+T16	Disease 1228 1231	AMD
+T15	Anatomy 1187 1190	eye
+T18	Characteristic 1353 1378	area under the curve (AUC
+T17	Classification_system 1257 1288	AREDS Simplified Severity Scale
+T19	Symptom 1400 1410	DeepSeeNet

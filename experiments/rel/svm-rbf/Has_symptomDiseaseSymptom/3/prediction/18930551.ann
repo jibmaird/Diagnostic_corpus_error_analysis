@@ -1,0 +1,51 @@
+T21	Characteristic 1029 1042	visual acuity
+T20	Characteristic 978 1024	OCT-derived measurements of retinal morphology
+T23	Symptom 1097 1120	decreased visual acuity
+T22	Symptom 1047 1076	increased total volume of SRT
+T25	Symptom 1204 1277	increased thickness of the neurosensory retina at the foveal center point
+T24	Symptom 1146 1169	Decreased visual acuity
+T27	Characteristic 1387 1419	total volume of subretinal fluid
+T26	Characteristic 1365 1378	visual acuity
+T29	Characteristic 1478 1491	visual acuity
+T28	Symptom 1423 1452	pigment epithelial detachment
+T30	Anatomy 1505 1524	neurosensory retina
+T32	Diagnostic_tool 1607 1630	fluorescein angiography
+T31	Anatomy 1533 1536	SRT
+T34	Characteristic 1758 1761	age
+T33	Characteristic 1676 1689	visual acuity
+T36	Characteristic 1842 1855	visual acuity
+T35	Characteristic 1766 1776	SRT volume
+T38	Characteristic 1929 1962	total neurosensory retinal volume
+T37	Characteristic 1924 1927	age
+T39	Characteristic 1968 1984	total SRT volume
+T41	Diagnostic_tool 2040 2043	OCT
+T40	Symptom 2002 2036	increased SRT thickness and volume
+T43	Symptom 2140 2163	decreased visual acuity
+T42	Symptom 2068 2119	increased neurosensory retinal thickness and volume
+T45	Disease 2235 2250	neovascular AMD
+T44	Disease 2167 2182	neovascular AMD
+T47	Characteristic 2362 2375	visual acuity
+T46	Diagnostic_tool 2284 2294	StratusOCT
+T49	Characteristic 2472 2485	visual acuity
+T48	Anatomy 2452 2467	retinal anatomy
+T1	Characteristic 21 68	optical coherence tomography retinal parameters
+T2	Characteristic 73 86	visual acuity
+T3	Disease 90 134	neovascular age-related macular degeneration
+T4	Characteristic 177 254	optical coherence tomography (OCT)-derived measurements of retinal morphology
+T5	Characteristic 259 272	visual acuity
+T6	Disease 290 334	neovascular age-related macular degeneration
+T7	Disease 336 339	AMD
+T8	Anatomy 420 424	eyes
+T9	Disease 447 462	neovascular AMD
+T10	Diagnostic_tool 477 487	StratusOCT
+T12	Diagnostic_tool 603 620	StratusOCT images
+T11	Characteristic 522 558	Best-corrected Snellen visual acuity
+T14	Characteristic 843 865	morphologic parameters
+T13	Diagnostic_tool 705 710	OCTOR
+T16	Symptom 900 916	subretinal fluid
+T15	Anatomy 879 898	neurosensory retina
+T18	Anatomy 937 940	SRT
+T17	Anatomy 918 935	subretinal tissue
+T19	Symptom 947 976	pigment epithelial detachment
+R2	Has_symptom Arg1:T44 Arg2:T43
+R1	Has_symptom Arg1:T44 Arg2:T42

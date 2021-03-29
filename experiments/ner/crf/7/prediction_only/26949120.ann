@@ -1,0 +1,31 @@
+T21	Diagnostic_tool 1382 1393	UWF imaging
+T20	Disease 1348 1361	DME or worse)
+T23	Disease 1495 1497	DR
+T22	Anatomy 1485 1489	eyes
+T25	Symptom 1586 1640	peripheral lesions suggested a more severe level of DR
+T24	Diagnostic_tool 1510 1521	UWF imaging
+T27	Diagnostic_tool 1755 1785	NMFP, nonmydriatic UWF imaging
+T26	Anatomy 1652 1656	eyes
+T29	Disease 1864 1866	DR
+T28	Anatomy 1819 1823	eyes
+T1	Disease 18 38	Diabetic Retinopathy
+T2	Diagnostic_tool 70 133	Ultrawide Field Imaging in a National Teleophthalmology Program
+T3	Disease 147 167	diabetic retinopathy
+T4	Disease 169 171	DR
+T5	Diagnostic_tool 223 318	nonmydriatic ultrawide field (UWF) imaging and nonmydriatic multifield fundus photography (NMFP
+T6	Anatomy 535 539	eyes
+T7	Diagnostic_tool 571 575	NMFP
+T8	Anatomy 587 591	eyes
+T9	Diagnostic_tool 621 632	UWF imaging
+T30	Symptom 1897 1941	peripheral lesions suggesting more severe DR
+T10	Diagnostic_tool 658 725	Joslin Vision Network (JVN) imaging with either NMFP or UWF imaging
+T31	Disease 2042 2044	DR
+T12	Disease 1051 1073	diabetic macular edema
+T11	Disease 1044 1046	DR
+T14	Disease 1117 1119	DR
+T13	Disease 1075 1078	DME
+T16	Diagnostic_tool 1157 1191	UWF imaging compared with NMFP (DR
+T15	Disease 1124 1127	DME
+T18	Anatomy 1279 1283	eyes
+T17	Disease 1224 1227	DME
+T19	Disease 1296 1344	DR or referable DR (moderate nonproliferative DR

@@ -1,0 +1,12 @@
+T4	Symptom 156 175	glaucomatous change
+T5	Diagnostic_tool 179 210	serial optic disc stereo-slides
+T6	Diagnostic_tool 252 283	Serial optic disc stereo-slides
+T10	Symptom 1742 1761	glaucomatous change
+T7	Diagnostic_tool 371 419	serial 20 degrees optic disc color stereo-slides
+T8	Disease 472 480	Glaucoma
+T9	Symptom 1094 1124	glaucomatous optic disc change
+T11	Diagnostic_tool 1765 1796	serial optic disc stereo-slides
+T1	Anatomy 33 43	optic disc
+T2	Disease 55 63	glaucoma
+T3	Diagnostic_tool 69 98	stereo optic disc photographs
+R1	Diagnosed_with Arg1:T2 Arg2:T3

@@ -1,0 +1,55 @@
+T41	Diagnostic_tool 2201 2239	digitized nonstereoscopic color images
+T40	Diagnostic_tool 2183 2199	digitized images
+T21	Anatomy 791 797	macula
+T43	Disease 2279 2282	AMD
+T20	Diagnostic_tool 723 757	Ektachrome slide transparency film
+T42	Disease 2271 2274	ARM
+T23	Classification_system 894 936	International ARM Epidemiology Study Group
+T22	Diagnostic_tool 803 823	color transparencies
+T25	Diagnostic_tool 1173 1185	color slides
+T24	Anatomy 980 987	retinal
+T27	Diagnostic_tool 1286 1319	stereoscopic slide transparencies
+T26	Diagnostic_tool 1190 1206	digitized images
+T29	Symptom 1362 1401	small hard and intermediate soft drusen
+T28	Diagnostic_tool 1324 1356	digitized nonstereoscopic images
+T1	Diagnostic_tool 16 59	digitizing stereoscopic fundus color slides
+T2	Anatomy 64 71	macular
+T3	Disease 83 123	age-related maculopathy and degeneration
+T4	Diagnostic_tool 137 176	35-mm stereoscopic slide transparencies
+T5	Diagnostic_tool 182 214	digitized nonstereoscopic images
+T6	Disease 273 296	age-related maculopathy
+T7	Disease 298 301	ARM
+T8	Disease 307 339	age-related macular degeneration
+T9	Disease 341 344	AMD
+T30	Anatomy 1517 1536	3 macular subfields
+T10	Anatomy 411 415	eyes
+T32	Symptom 1685 1703	geographic atrophy
+T31	Symptom 1568 1585	hyperpigmentation
+T12	Disease 433 436	AMD
+T34	Symptom 1798 1801	CNV
+T11	Disease 422 425	ARM
+T33	Symptom 1768 1796	choroidal neovascularization
+T14	Disease 468 471	AMD
+T36	Symptom 1997 2015	geographic atrophy
+T13	Disease 464 467	ARM
+T35	Symptom 1927 1930	CNV
+T16	Characteristic 593 607	United Kingdom
+T38	Diagnostic_tool 2061 2077	digitized images
+T15	Anatomy 486 489	eye
+T37	Symptom 2031 2034	CNV
+T18	Symptom 659 668	mydriasis
+T17	Diagnostic_tool 620 639	Retinal photography
+T39	Diagnostic_tool 2153 2178	stereoscopic color slides
+T19	Diagnostic_tool 679 719	Zeiss FF-series 30 degrees fundus camera
+R2	Diagnosed_with Arg1:T6 Arg2:T5
+R10	Diagnosed_with Arg1:T8 Arg2:T5
+R3	Diagnosed_with Arg1:T7 Arg2:T5
+R4	Diagnosed_with Arg1:T42 Arg2:T39
+R12	Diagnosed_with Arg1:T6 Arg2:T4
+R5	Diagnosed_with Arg1:T42 Arg2:T41
+R11	Diagnosed_with Arg1:T7 Arg2:T4
+R6	Diagnosed_with Arg1:T43 Arg2:T40
+R7	Diagnosed_with Arg1:T43 Arg2:T41
+R8	Diagnosed_with Arg1:T43 Arg2:T39
+R9	Diagnosed_with Arg1:T42 Arg2:T40
+R1	Diagnosed_with Arg1:T3 Arg2:T1

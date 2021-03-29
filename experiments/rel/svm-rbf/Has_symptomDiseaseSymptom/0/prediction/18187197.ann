@@ -1,0 +1,66 @@
+T21	Characteristic 552 555	CDR
+T20	Symptom 525 535	hemorrhage
+T23	Characteristic 575 578	VFs
+T22	Characteristic 560 573	visual fields
+T25	Symptom 704 719	disc hemorrhage
+T24	Disease 684 688	PACG
+T27	Anatomy 869 873	eyes
+T26	Symptom 801 822	bilateral hemorrhages
+T29	Anatomy 919 923	eyes
+T28	Symptom 901 912	hemorrhages
+T30	Anatomy 938 942	eyes
+T32	Symptom 994 1005	hemorrhages
+T31	Symptom 954 975	recurrent hemorrhages
+T34	Anatomy 1111 1115	eyes
+T33	Anatomy 1032 1100	inferotemporal and 19 (17%) in the superotemporal sector of the disc
+T36	Anatomy 1199 1203	disc
+T35	Symptom 1121 1147	recurrent disc hemorrhages
+T38	Characteristic 1267 1270	IOP
+T37	Symptom 1229 1240	hemorrhages
+T39	Characteristic 1275 1278	CDR
+T41	Anatomy 1337 1341	eyes
+T40	Anatomy 1316 1320	eyes
+T43	Symptom 1380 1406	unilateral disc hemorrhage
+T42	Symptom 1350 1360	hemorrhage
+T45	Anatomy 1462 1466	eyes
+T44	Characteristic 1435 1438	CDR
+T47	Symptom 1496 1511	disc hemorrhage
+T46	Anatomy 1483 1487	eyes
+T49	Anatomy 1545 1549	eyes
+T48	Symptom 1517 1527	VF defects
+T1	Symptom 19 34	disc hemorrhage
+T2	Disease 38 68	primary angle-closure glaucoma
+T3	Symptom 105 120	disc hemorrhage
+T4	Disease 124 154	primary angle-closure glaucoma
+T5	Disease 156 160	PACG
+T6	Disease 222 230	glaucoma
+T7	Disease 244 248	PACG
+T8	Symptom 266 281	disc hemorrhage
+T9	Diagnostic_tool 283 301	Goldmann tonometry
+T50	Symptom 1555 1570	disc hemorrhage
+T52	Disease 1622 1626	PACG
+T51	Symptom 1589 1604	disc hemorrhage
+T10	Diagnostic_tool 303 313	gonioscopy
+T54	Disease 1716 1720	PACG
+T53	Symptom 1697 1712	disc hemorrhage
+T12	Diagnostic_tool 335 354	automated perimetry
+T56	Symptom 1790 1800	VF defects
+T11	Diagnostic_tool 315 329	ophthalmoscopy
+T55	Symptom 1741 1785	progression of glaucomatous optic neuropathy
+T14	Characteristic 433 453	intraocular pressure
+T13	Characteristic 356 417	Location, number of episodes, and duration of disc hemorrhage
+T16	Characteristic 464 481	cup-to-disc ratio
+T15	Characteristic 455 458	IOP
+T18	Anatomy 491 495	eyes
+T17	Characteristic 483 486	CDR
+T19	Anatomy 512 516	eyes
+R2	Has_symptom Arg1:T5 Arg2:T3
+R10	Has_symptom Arg1:T4 Arg2:T3
+R3	Has_symptom Arg1:T7 Arg2:T8
+R4	Has_symptom Arg1:T52 Arg2:T51
+R5	Has_symptom Arg1:T54 Arg2:T55
+R6	Has_symptom Arg1:T54 Arg2:T56
+R7	Has_symptom Arg1:T54 Arg2:T53
+R8	Has_symptom Arg1:T24 Arg2:T25
+R9	Has_symptom Arg1:T6 Arg2:T8
+R1	Has_symptom Arg1:T2 Arg2:T1

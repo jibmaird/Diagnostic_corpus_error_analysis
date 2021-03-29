@@ -1,0 +1,28 @@
+T21	Anatomy 979 990	optic nerve
+T20	Characteristic 961 968	EBV DNA
+T23	Characteristic 1043 1050	EBV DNA
+T22	Characteristic 1021 1028	EBV DNA
+T25	Characteristic 1181 1184	EBV
+T24	Anatomy 1064 1078	ocular tissues
+T27	Characteristic 1352 1355	EBV
+T26	Anatomy 1216 1222	ocular
+T28	Anatomy 1359 1365	ocular
+T1	Characteristic 13 38	Epstein-Barr virus genome
+T2	Anatomy 42 56	ocular tissues
+T3	Characteristic 59 77	Epstein-Barr virus
+T4	Characteristic 79 82	EBV
+T5	Characteristic 215 218	EBV
+T6	Disease 223 252	ocular inflammatory disorders
+T7	Anatomy 291 295	eyes
+T8	Characteristic 316 326	EBV genome
+T9	Anatomy 366 370	eyes
+T10	Anatomy 391 404	limbal cornea
+T12	Anatomy 422 435	aqueous humor
+T11	Anatomy 406 420	central cornea
+T14	Anatomy 443 457	vitreous humor
+T13	Anatomy 437 441	iris
+T16	Characteristic 552 557	EBV's
+T15	Anatomy 463 474	optic nerve
+T18	Characteristic 891 901	EBV genome
+T17	Anatomy 797 801	eyes
+T19	Anatomy 936 942	ocular

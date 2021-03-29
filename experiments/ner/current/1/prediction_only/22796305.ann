@@ -1,0 +1,38 @@
+T1	Disease 54 73	open-angle glaucoma
+T2	Characteristic 183 197	anthropometric
+T3	Disease 260 279	open-angle glaucoma
+T4	Disease 281 284	OAG
+T5	Characteristic 292 308	adult population
+T6	Characteristic 388 395	Latinos
+T7	Characteristic 396 410	aged ≥40 years
+T8	Characteristic 416 427	Los Angeles
+T9	Characteristic 429 439	California
+T10	Disease 458 461	OAG
+T11	Diagnostic_tool 636 662	ophthalmologic examination
+T12	Disease 675 678	OAG
+T13	Symptom 701 711	open angle
+T14	Symptom 718 755	glaucomatous visual field abnormality
+T15	Symptom 775 806	glaucomatous optic nerve damage
+T16	Anatomy 813 816	eye
+T17	Disease 981 984	OAG
+T18	Disease 1077 1080	OAG
+T19	Disease 1140 1143	OAG
+T20	Characteristic 1152 1161	older age
+T21	Characteristic 1251 1257	higher
+T22	Characteristic 1258 1278	intraocular pressure
+T23	Characteristic 1280 1283	IOP
+T24	Characteristic 1335 1354	longer axial length
+T25	Characteristic 1404 1426	thinner central cornea
+T26	Characteristic 1494 1512	waist-to-hip ratio
+T27	Characteristic 1574 1598	lack of vision insurance
+T28	Characteristic 1665 1668	IOP
+T29	Characteristic 1683 1690	Latinos
+T30	Characteristic 1692 1698	higher
+T31	Characteristic 1699 1702	IOP
+T32	Disease 1746 1749	OAG
+T33	Characteristic 1751 1769	Biometric measures
+T34	Characteristic 1816 1835	longer axial length
+T35	Characteristic 1840 1870	thin central corneal thickness
+T36	Anatomy 1957 1960	eye
+T37	Disease 1994 1997	OAG
+T38	Disease 2061 2064	OAG

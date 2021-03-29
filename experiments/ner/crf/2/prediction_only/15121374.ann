@@ -1,0 +1,17 @@
+T4	Disease 307 327	HLA-A29-positive BCR
+T5	Characteristic 429 451	Eye Hospital Rotterdam
+T6	Disease 589 609	HLA-A29-positive BCR
+T7	Symptom 611 841	Numerous variables were compared, including age and gender distribution, onset and course of BCR, ocular manifestations, therapeutic strategies and their outcomes, complications, systemic diseases, visual acuity (VA), and features
+T8	Symptom 879 889	Loss of VA
+T9	Anatomy 926 930	eyes
+T10	Symptom 936 955	VA less than 20/200
+T12	Disease 1114 1147	macular edema and macular atrophy
+T11	Symptom 1081 1095	compromised VA
+T14	Characteristic 1314 1316	VA
+T13	Characteristic 1216 1227	VA at onset
+T16	Symptom 1443 1460	annual loss of VA
+T15	Characteristic 1368 1423	macular leakage was observed on angiography (P < 0.001)
+T17	Characteristic 1563 1586	visual prognosis of BCR
+T1	Symptom 0 73	Birdshot chorioretinopathy: long-term manifestations and visual prognosis
+T2	Characteristic 115 178	long-term visual prognosis of birdshot chorioretinopathy (BCR),
+T3	Symptom 215 226	visual loss

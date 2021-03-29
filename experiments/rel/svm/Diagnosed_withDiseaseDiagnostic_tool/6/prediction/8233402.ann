@@ -1,0 +1,24 @@
+T4	Characteristic 102 115	corneal shape
+T5	Diagnostic_tool 157 185	color-coded topographic maps
+T6	Characteristic 346 364	corneal topography
+T7	Symptom 373 392	regular astigmatism
+T8	Symptom 394 415	irregular astigmatism
+T9	Symptom 417 434	early keratoconus
+T10	Symptom 440 476	contact lens-induced corneal warpage
+T21	Anatomy 1198 1205	corneas
+T20	Anatomy 1122 1129	corneas
+T12	Anatomy 511 518	corneas
+T23	Diagnostic_tool 1779 1798	corneal topographic
+T11	Anatomy 499 506	corneas
+T22	Anatomy 1707 1714	corneas
+T14	Disease 577 585	moderate
+T13	Disease 552 563	keratoconus
+T24	Characteristic 1899 1917	corneal topography
+T16	Disease 654 676	extracapsular cataract
+T15	Disease 593 601	advanced
+T18	Diagnostic_tool 878 897	corneal topographic
+T17	Disease 744 750	myopia
+T1	Diagnostic_tool 13 29	color-coded maps
+T19	Diagnostic_tool 915 931	Color-coded maps
+T2	Anatomy 34 41	corneal
+T3	Diagnostic_tool 62 78	videokeratoscopy

@@ -1,0 +1,29 @@
+T21	Anatomy 1572 1576	eyes
+T20	Symptom 1555 1561	drusen
+T23	Characteristic 1937 1995	drusen shape and reflectivity, whereas the least agreement
+T22	Symptom 1638 1746	drusen were convex with medium internal reflectivity and homogeneous without overlying hyper-reflective foci
+T25	Diagnostic_tool 2065 2070	SDOCT
+T24	Symptom 2024 2045	Drusen ultrastructure
+T27	Symptom 2362 2374	drusen types
+T26	Diagnostic_tool 2326 2331	SDOCT
+T29	Anatomy 2454 2458	eyes
+T28	Symptom 2398 2420	ultrastructural drusen
+T1	Symptom 0 21	Drusen ultrastructure
+T2	Diagnostic_tool 35 79	spectral domain optical coherence tomography
+T3	Disease 83 115	age-related macular degeneration
+T4	Disease 157 189	age-related macular degeneration
+T5	Disease 191 194	AMD
+T6	Diagnostic_tool 202 308	spectral domain optical coherence tomography (SDOCT) and correlate the tomographic and photographic drusen
+T7	Disease 383 402	non-neovascular AMD
+T8	Symptom 418 424	drusen
+T9	Disease 453 456	AMD
+T10	Diagnostic_tool 477 490	SDOCT imaging
+T12	Characteristic 792 852	morphologic pattern and combinations of morphologic patterns
+T11	Characteristic 640 718	morphologic categories: shape, predominant internal reflectivity, homogeneity,
+T14	Diagnostic_tool 1080 1085	SDOCT
+T13	Characteristic 1037 1073	Prevalence of morphologic parameters
+T16	Symptom 1309 1400	homogeneous, with medium internal reflectivity, and without overlying hyper-reflective foci
+T15	Diagnostic_tool 1122 1135	SDOCT B-scans
+T18	Anatomy 1444 1448	eyes
+T17	Anatomy 1422 1426	eyes
+T19	Symptom 1460 1481	nonhomogeneous drusen

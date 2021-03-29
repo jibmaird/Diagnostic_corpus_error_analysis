@@ -1,0 +1,45 @@
+T1	Disease 106 126	Diabetic Retinopathy
+T2	Disease 210 244	proliferative diabetic retinopathy
+T3	Disease 246 249	PDR
+T4	Classification_system 287 358	Early Treatment Diabetic Retinopathy Study (ETDRS) diabetic retinopathy
+T5	Disease 360 362	DR
+T6	Classification_system 362 363	)
+T7	Classification_system 373 378	scale
+T8	Classification_system 380 384	DRSS
+T9	Disease 429 451	Diabetic Macular Edema
+T10	Disease 453 457	FAME
+T11	Disease 563 567	FAME
+T12	Disease 598 620	diabetic macular edema
+T13	Disease 622 625	DME
+T14	Classification_system 748 752	DRSS
+T15	Characteristic 753 758	grade
+T16	Characteristic 763 787	retinal perfusion status
+T17	Diagnostic_tool 803 836	7-field stereo fundus photography
+T18	Diagnostic_tool 841 864	fluorescein angiography
+T19	Disease 880 891	Retinopathy
+T20	Classification_system 929 933	DRSS
+T21	Anatomy 1177 1180	eye
+T22	Disease 1196 1199	PDR
+T23	Disease 1262 1299	nonproliferative diabetic retinopathy
+T24	Disease 1301 1305	NPDR
+T25	Disease 1310 1313	PDR
+T26	Diagnostic_tool 1330 1348	fundus photographs
+T27	Disease 1428 1431	PDR
+T28	Anatomy 1443 1446	eye
+T29	Classification_system 1462 1466	DRSS
+T30	Disease 1486 1490	FAME
+T31	Disease 1560 1563	PDR
+T32	Disease 1700 1702	DR
+T33	Disease 1707 1718	chronic DME
+T34	Symptom 1759 1779	retinal nonperfusion
+T35	Disease 1835 1838	PDR
+T36	Characteristic 1931 1935	mean
+T37	Disease 1936 1938	DR
+T38	Characteristic 1939 1947	severity
+T39	Disease 2102 2104	DR
+T40	Disease 2254 2256	DR
+T41	Diagnostic_tool 2314 2317	FAc
+T42	Disease 2396 2399	DME
+T43	Diagnostic_tool 2435 2438	FAc
+T44	Disease 2460 2463	PDR
+T45	Disease 2489 2509	diabetic retinopathy

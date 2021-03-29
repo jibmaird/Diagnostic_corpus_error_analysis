@@ -1,0 +1,21 @@
+T4	Disease 217 271	untreated neovascular age-related macular degeneration
+T5	Disease 273 276	AMD
+T6	Disease 364 379	neovascular AMD
+T7	Disease 581 596	neovascular AMD
+T8	Symptom 781 815	Changes in visual acuity (VA) loss
+T9	Anatomy 858 861	eye
+T10	Characteristic 1115 1168	logarithm of the minimum angle of resolution (logMAR)
+T21	Symptom 2271 2305	visual function in neovascular AMD
+T20	Disease 2045 2060	neovascular AMD
+T12	Symptom 1396 1414	severe vision loss
+T11	Characteristic 1204 1228	mean VA change in logMAR
+T14	Disease 1624 1639	Neovascular AMD
+T13	Symptom 1528 1568	VA worse than logMAR 1.0 (20/200 Snellen
+T16	Disease 1773 1788	neovascular AMD
+T15	Anatomy 1664 1667	eye
+T18	Anatomy 1923 1927	eyes
+T17	Symptom 1826 1855	visual angle of presenting VA
+T1	Disease 37 81	neovascular age-related macular degeneration
+T19	Disease 1933 1958	untreated neovascular AMD
+T2	Symptom 192 203	visual loss
+T3	Anatomy 207 211	eyes

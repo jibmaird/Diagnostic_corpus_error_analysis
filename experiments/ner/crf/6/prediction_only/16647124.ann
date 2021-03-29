@@ -1,0 +1,16 @@
+T4	Symptom 359 412	BK without peripheral neovascularization [NV(-) group
+T5	Anatomy 428 432	eyes
+T6	Symptom 438 477	BK with neovascularization [NV(+) group
+T7	Anatomy 495 499	eyes
+T8	Diagnostic_tool 709 738	Penetrating keratoplasty (PK)
+T9	Characteristic 897 962	duration of BK, and duration of postoperative reepithelialization
+T10	Symptom 995 1052	peripheral corneal surface in all eyes in the NV(+) group
+T12	Characteristic 1185 1238	NV(-) group and 66.2+/-65.5 months in the NV(+) group
+T11	Characteristic 1054 1090	However, all eyes in the NV(-) group
+T14	Anatomy 1414 1431	peripheral cornea
+T13	Symptom 1322 1373	NV(-) group and 28.8+/-36.5 days in the NV(+) group
+T16	Symptom 1496 1498	NV
+T15	Disease 1479 1481	BK
+T1	Disease 14 33	bullous keratopathy
+T2	Symptom 53 105	peripheral conjunctivalization and limbal deficiency
+T3	Symptom 131 226	peripheral corneal neovascularization in bullous keratopathy (BK) is due to conjunctivalization

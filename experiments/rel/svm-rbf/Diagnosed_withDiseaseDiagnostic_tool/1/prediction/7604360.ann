@@ -1,0 +1,38 @@
+T21	Diagnostic_tool 848 861	Visual acuity
+T20	Symptom 763 846	(peri)retinal fibrous scarring in the absence of other retinal (vascular) disorders
+T23	Disease 905 914	Early ARM
+T22	Disease 900 903	ARM
+T25	Symptom 956 984	RPE pigmentary abnormalities
+T24	Symptom 945 951	drusen
+T27	Disease 1025 1057	age-related macular degeneration
+T26	Disease 1002 1010	late ARM
+T29	Disease 1077 1084	dry AMD
+T28	Disease 1059 1062	AMD
+T1	Disease 58 81	age-related maculopathy
+T2	Disease 86 118	age-related macular degeneration
+T3	Disease 138 141	ARM
+T4	Disease 255 278	age-related maculopathy
+T5	Disease 280 283	ARM
+T6	Disease 312 315	ARM
+T7	Disease 344 347	ARM
+T8	Disease 364 385	degenerative disorder
+T9	Characteristic 397 419	> or = 50 years of age
+T30	Symptom 1086 1149	geographic atrophy of the RPE in the absence of neovascular AMD
+T10	Diagnostic_tool 448 475	color fundus transparencies
+T32	Symptom 1171 1185	RPE detachment
+T31	Disease 1154 1169	neovascular AMD
+T12	Symptom 544 555	soft drusen
+T34	Symptom 1207 1212	scars
+T11	Symptom 509 542	abnormalities in the macular area
+T33	Symptom 1187 1198	hemorrhages
+T14	Symptom 575 592	hyperpigmentation
+T13	Dimension 556 573	> or = 63 microns
+T35	Diagnostic_tool 1260 1281	fundus transparencies
+T16	Anatomy 652 655	RPE
+T15	Symptom 600 650	hypopigmentation of the retinal pigment epithelium
+T18	Symptom 702 727	(peri)retinal hemorrhages
+T17	Symptom 658 700	RPE and associated neurosensory detachment
+T19	Symptom 729 758	geographic atrophy of the RPE
+R2	Diagnosed_with Arg1:T22 Arg2:T21
+R3	Diagnosed_with Arg1:T8 Arg2:T10
+R1	Diagnosed_with Arg1:T7 Arg2:T10

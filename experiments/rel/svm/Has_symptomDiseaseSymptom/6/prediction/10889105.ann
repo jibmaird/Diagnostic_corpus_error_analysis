@@ -1,0 +1,29 @@
+T21	Characteristic 1528 1595	change in vessel position, color, and other cues for contour change
+T20	Diagnostic_tool 1404 1458	Alternation flicker of superimposed, sequential images
+T23	Diagnostic_tool 1671 1690	alternation flicker
+T22	Diagnostic_tool 1634 1666	standard stereoscopic comparison
+T25	Diagnostic_tool 1826 1845	alternation flicker
+T24	Symptom 1786 1798	disc changes
+T27	Diagnostic_tool 1919 1978	Digital image processing techniques and alternation flicker
+T26	Diagnostic_tool 1847 1872	Digital stereochronoscopy
+T28	Symptom 2044 2074	glaucomatous optic disc change
+T1	Diagnostic_tool 0 54	Computerized stereochronoscopy and alternation flicker
+T2	Symptom 65 96	optic nerve head contour change
+T3	Diagnostic_tool 99 116	Stereochronoscopy
+T4	Disease 168 176	glaucoma
+T5	Diagnostic_tool 195 213	optic nerve images
+T6	Diagnostic_tool 371 389	optic nerve images
+T7	Diagnostic_tool 407 443	computerized registration techniques
+T8	Diagnostic_tool 457 497	sequential, monoscopic optic disc images
+T9	Symptom 535 567	optic nerve head contour changes
+T10	Disease 571 579	glaucoma
+T12	Diagnostic_tool 769 791	optic disc photographs
+T11	Disease 689 697	Glaucoma
+T14	Symptom 857 892	glaucomatous optic disc progression
+T13	Anatomy 835 839	eyes
+T16	Diagnostic_tool 1013 1038	digital stereochronoscopy
+T15	Symptom 968 993	Change in disc morphology
+T18	Symptom 1233 1267	change in optic nerve head contour
+T17	Diagnostic_tool 1043 1117	user-controlled alternation flicker of superimposed, time-separated images
+T19	Diagnostic_tool 1380 1402	optic disc photographs
+R1	Has_symptom Arg1:T10 Arg2:T9

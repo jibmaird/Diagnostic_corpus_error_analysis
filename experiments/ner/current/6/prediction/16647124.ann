@@ -1,0 +1,38 @@
+T1	Disease 0 33	Long-standing bullous keratopathy
+T2	Symptom 53 83	peripheral conjunctivalization
+T3	Symptom 88 105	limbal deficiency
+T4	Symptom 131 168	peripheral corneal neovascularization
+T5	Disease 172 191	bullous keratopathy
+T6	Disease 193 195	BK
+T7	Symptom 207 226	conjunctivalization
+T8	Symptom 238 265	limbal stem cell deficiency
+T9	Characteristic 309 311	BK
+T10	Characteristic 359 361	BK
+T11	Symptom 370 399	peripheral neovascularization
+T12	Characteristic 401 403	NV
+T13	Anatomy 428 432	eyes
+T14	Characteristic 438 440	BK
+T15	Symptom 446 464	neovascularization
+T16	Characteristic 466 468	NV
+T17	Anatomy 495 499	eyes
+T18	Symptom 515 534	conjunctivalization
+T19	Diagnostic_tool 552 581	periodic acid-Schiff staining
+T20	Diagnostic_tool 585 604	impression cytology
+T21	Anatomy 622 652	peripheral vascularized cornea
+T22	Anatomy 857 869	goblet cells
+T23	Diagnostic_tool 876 895	impression cytology
+T24	Characteristic 909 911	BK
+T25	Anatomy 964 976	Goblet cells
+T26	Anatomy 995 1021	peripheral corneal surface
+T27	Anatomy 1029 1033	eyes
+T28	Anatomy 1067 1071	eyes
+T29	Characteristic 1079 1081	NV
+T30	Characteristic 1109 1115	goblet
+T31	Anatomy 1116 1121	cells
+T32	Characteristic 1252 1295	Duration of postoperative epithelialization
+T33	Symptom 1387 1431	Conjunctivalization of the peripheral cornea
+T34	Symptom 1436 1443	delayed
+T35	Characteristic 1479 1481	BK
+T36	Symptom 1496 1498	NV
+T37	Symptom 1523 1550	limbal stem cell deficiency
+T38	Symptom 1636 1654	neovascularization

@@ -1,0 +1,18 @@
+T4	Symptom 319 409	atrophy due to late-stage non-neovascular and neovascular age-related macular degeneration
+T5	Disease 411 414	AMD
+T6	Anatomy 648 654	retina
+T7	Disease 966 981	neovascular AMD
+T8	Symptom 992 1060	Advantages and disadvantages of current retinal imaging technologies
+T9	Disease 1098 1110	advanced AMD
+T10	Diagnostic_tool 1185 1383	atrophy should include color fundus photography (CFP), confocal fundus autofluorescence (FAF), confocal near-infrared reflectance (NIR), and high-resolution optical coherence tomography volume scans
+T12	Diagnostic_tool 1578 1581	CFP
+T11	Disease 1474 1493	non-neovascular AMD
+T14	Diagnostic_tool 1736 1772	Indocyanine-green angiography (ICG-A
+T13	Diagnostic_tool 1636 1663	Fluorescein angiography (FA
+T16	Diagnostic_tool 1998 2000	FA
+T15	Disease 1859 1874	neovascular AMD
+T18	Symptom 2203 2210	atrophy
+T17	Characteristic 2061 2080	ICG-A under certain
+T1	Disease 41 82	Advanced Age-Related Macular Degeneration
+T2	Diagnostic_tool 123 130	Atrophy
+T3	Diagnostic_tool 220 258	Atrophy Meeting [CAM]) on conventional

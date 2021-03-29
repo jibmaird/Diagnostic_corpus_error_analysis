@@ -1,0 +1,27 @@
+T21	Characteristic 1770 1791	VA  < 0.3 (odds ratio
+T20	Symptom 1518 1545	TTF became blind more often
+T23	Disease 1986 1989	TTF
+T22	Anatomy 1976 1980	eyes
+T25	Disease 2007 2010	TTF
+T24	Anatomy 1994 1998	eyes
+T27	Characteristic 2202 2214	stage of VFL
+T26	Disease 2136 2144	glaucoma
+T1	Disease 74 93	open-angle glaucoma
+T2	Symptom 179 221	central vision loss and glaucoma blindness
+T3	Anatomy 280 284	eyes
+T4	Disease 291 299	glaucoma
+T5	Disease 355 382	primary open-angle glaucoma
+T6	Disease 425 433	glaucoma
+T7	Anatomy 441 445	eyes
+T8	Symptom 486 547	TTF in the first glaucomatous visual field: (1) eyes with TTF
+T9	Symptom 560 582	visual field loss (VFL
+T10	Symptom 643 704	% level in 24-2 or 30-2 Humphrey fields; (2) eyes without TTF
+T12	Disease 803 811	glaucoma
+T11	Symptom 775 798	visual acuity (VA) loss
+T14	Characteristic 1094 1178	Visual acuity  < 0.3 and blindness from glaucoma (World Health Organization criteria
+T13	Characteristic 978 1028	relative influence of TTF on the risk of blindness
+T16	Symptom 1279 1421	TTF increased with stage of glaucomatous loss: 28.3% in eyes with mean deviation (MD)  > -6.00 decibels (dB) versus 95.7% with MD  < -20.00 dB
+T15	Anatomy 1243 1247	eyes
+T18	Disease 1471 1474	TTF
+T17	Anatomy 1461 1465	eyes
+T19	Anatomy 1505 1509	eyes

@@ -1,0 +1,37 @@
+T21	Characteristic 1172 1185	visual acuity
+T20	Characteristic 1043 1065	center point thickness
+T23	Characteristic 1280 1336	age, hemoglobin A1C, and severity of fluorescein leakage
+T22	Characteristic 1252 1278	OCT center point thickness
+T25	Anatomy 1542 1546	eyes
+T24	Characteristic 1362 1427	change in visual acuity and change in OCT center point thickening
+T27	Characteristic 1693 1706	visual acuity
+T26	Symptom 1554 1634	paradoxical improvements in visual acuity with increased center point thickening
+T29	Characteristic 1818 1853	OCT-measured center point thickness
+T28	Characteristic 1726 1749	center point thickening
+T1	Characteristic 21 84	optical coherence tomography-measured central retinal thickness
+T2	Characteristic 89 102	visual acuity
+T3	Disease 106 128	diabetic macular edema
+T4	Diagnostic_tool 142 170	optical coherence tomography
+T5	Diagnostic_tool 172 175	OCT
+T6	Characteristic 186 203	retinal thickness
+T7	Characteristic 208 221	visual acuity
+T8	Anatomy 225 229	eyes
+T9	Disease 235 257	diabetic macular edema
+T30	Characteristic 1858 1946	visual acuity, and modest correlation of changes in retinal thickening and visual acuity
+T10	Disease 259 262	DME
+T32	Characteristic 2009 2022	visual acuity
+T31	Disease 1979 1982	DME
+T12	Disease 399 402	DME
+T34	Characteristic 2091 2128	OCT measurements of retinal thickness
+T11	Anatomy 388 392	eyes
+T33	Disease 2061 2074	retinal edema
+T14	Characteristic 500 521	OCT and visual acuity
+T36	Diagnostic_tool 2330 2333	OCT
+T13	Characteristic 464 481	Retinal thickness
+T35	Characteristic 2232 2245	visual acuity
+T16	Characteristic 644 666	center point thickness
+T15	Disease 574 594	Diabetic Retinopathy
+T37	Characteristic 2373 2386	visual acuity
+T18	Characteristic 719 766	visual acuity versus OCT center point thickness
+T17	Characteristic 671 684	visual acuity
+T19	Characteristic 989 1012	better of visual acuity

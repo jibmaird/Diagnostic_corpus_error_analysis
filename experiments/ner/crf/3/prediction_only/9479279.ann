@@ -1,0 +1,20 @@
+T4	Anatomy 415 419	eyes
+T5	Disease 437 464	chronic open-angle glaucoma
+T6	Characteristic 508 534	asymmetry in visual fields
+T7	Symptom 540 590	localized field loss or a nerve fiber layer defect
+T8	Diagnostic_tool 602 613	photography
+T9	Anatomy 710 716	retina
+T10	Anatomy 774 780	fundus
+T20	Symptom 1756 1869	neuroretinal loss in the central field of vision; (2) the mapping capability; and (3) the rapid image acquisition
+T12	Characteristic 1028 1115	asymmetry (difference) between the visual sensitivity of the upper and lower hemifields
+T11	Anatomy 898 904	fundus
+T14	Characteristic 1192 1237	Large losses (up to 34%) in retinal thickness
+T13	Characteristic 1138 1168	asymmetry in retinal thickness
+T16	Symptom 1311 1350	loss of ganglion cells and nerve fibers
+T15	Disease 1291 1299	glaucoma
+T18	Characteristic 1545 1562	retinal thickness
+T17	Characteristic 1414 1503	asymmetry in visual sensitivity loss and the asymmetry in deviation from normal thickness
+T1	Symptom 26 88	glaucomatous damage at the posterior pole by retinal thickness
+T19	Symptom 1630 1682	early glaucomatous tissue loss in the posterior pole
+T2	Symptom 118 206	posterior pole ganglion cell bodies form a substantial fraction of the retinal thickness
+T3	Symptom 267 373	, by scanning retinal thickness analysis, retinal changes at the posterior pole due to glaucomatous damage

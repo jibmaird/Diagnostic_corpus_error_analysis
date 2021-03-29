@@ -1,0 +1,36 @@
+T1	Characteristic 29 43	young patients
+T2	Disease 49 64	Alport syndrome
+T3	Disease 67 82	Alport syndrome
+T4	Disease 89 105	X-linked disease
+T5	Anatomy 116 133	basement membrane
+T6	Symptom 167 176	nephritis
+T7	Symptom 193 235	high-tone sensorineural hearing impairment
+T8	Symptom 240 256	ophthalmic signs
+T9	Symptom 267 281	ocular changes
+T10	Characteristic 305 311	adults
+T11	Symptom 355 379	abnormal ocular features
+T12	Characteristic 383 394	adolescence
+T13	Characteristic 399 408	childhood
+T14	Characteristic 418 422	male
+T15	Characteristic 432 438	female
+T16	Disease 453 468	Alport syndrome
+T17	Diagnostic_tool 479 534	ophthalmologic, audiologic, and nephrologic assessments
+T18	Disease 561 570	hematuria
+T19	Characteristic 586 600	family history
+T20	Disease 604 619	Alport syndrome
+T21	Diagnostic_tool 645 657	renal biopsy
+T22	Diagnostic_tool 685 705	electron microscopic
+T23	Symptom 706 713	changes
+T24	Symptom 750 784	high-tone sensorineural impairment
+T25	Diagnostic_tool 786 804	Electrophysiologic
+T26	Diagnostic_tool 839 858	electroretinography
+T27	Diagnostic_tool 860 884	visual-evoked potentials
+T28	Diagnostic_tool 890 909	electro-oculography
+T29	Symptom 943 962	anterior lenticonus
+T30	Symptom 974 994	flecks in the retina
+T31	Disease 1022 1053	posterior subcapsular cataracts
+T32	Symptom 1092 1124	electrophysiologic abnormalities
+T33	Symptom 1155 1169	ocular changes
+T34	Characteristic 1197 1211	young patients
+T35	Disease 1217 1232	Alport syndrome
+T36	Characteristic 1301 1304	age

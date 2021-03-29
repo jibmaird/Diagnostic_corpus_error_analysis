@@ -1,0 +1,56 @@
+T41	Diagnostic_tool 1883 1893	gonioscopy
+T40	Symptom 1860 1863	PAS
+T21	Diagnostic_tool 679 701	indentation gonioscopy
+T43	Diagnostic_tool 1944 1960	Swept-source OCT
+T20	Anatomy 635 658	anterior chamber angles
+T42	Diagnostic_tool 1898 1901	OCT
+T23	Diagnostic_tool 734 743	Casia OCT
+T45	Symptom 2098 2101	PAS
+T22	Diagnostic_tool 716 732	swept-source OCT
+T44	Symptom 2038 2041	PAS
+T25	Anatomy 983 986	eye
+T24	Symptom 945 948	PAS
+T46	Disease 2153 2175	angle-closure glaucoma
+T27	Anatomy 1038 1058	anterior irido-angle
+T26	Anatomy 1017 1029	scleral spur
+T29	Symptom 1178 1181	PAS
+T28	Symptom 1128 1131	PAS
+T1	Anatomy 0 22	Anterior chamber angle
+T2	Diagnostic_tool 36 77	swept-source optical coherence tomography
+T3	Symptom 89 117	peripheral anterior synechia
+T4	Disease 121 129	glaucoma
+T5	Diagnostic_tool 158 199	swept-source optical coherence tomography
+T6	Diagnostic_tool 201 204	OCT
+T7	Symptom 243 271	peripheral anterior synechia
+T8	Symptom 273 276	PAS
+T9	Disease 307 329	angle-closure glaucoma
+T30	Diagnostic_tool 1196 1206	gonioscopy
+T10	Anatomy 367 371	eyes
+T32	Symptom 1243 1246	PAS
+T31	Diagnostic_tool 1211 1214	OCT
+T12	Diagnostic_tool 394 416	indentation gonioscopy
+T34	Symptom 1356 1359	PAS
+T11	Symptom 377 380	PAS
+T33	Symptom 1326 1329	PAS
+T14	Anatomy 467 471	eyes
+T36	Symptom 1558 1561	PAS
+T13	Disease 440 462	angle-closure glaucoma
+T35	Symptom 1453 1456	PAS
+T16	Anatomy 513 517	eyes
+T38	Symptom 1764 1767	PAS
+T15	Disease 476 506	primary angle-closure glaucoma
+T37	Symptom 1591 1594	PAS
+T18	Disease 558 582	chronic anterior uveitis
+T17	Disease 522 544	angle-closure glaucoma
+T39	Symptom 1815 1818	PAS
+T19	Disease 595 619	Axenfeld-Rieger syndrome
+R2	Has_symptom Arg1:T9 Arg2:T8
+R10	Has_symptom Arg1:T9 Arg2:T7
+R3	Has_symptom Arg1:T15 Arg2:T11
+R4	Has_symptom Arg1:T18 Arg2:T11
+R5	Has_symptom Arg1:T46 Arg2:T44
+R6	Has_symptom Arg1:T46 Arg2:T45
+R7	Has_symptom Arg1:T19 Arg2:T11
+R8	Has_symptom Arg1:T17 Arg2:T11
+R9	Has_symptom Arg1:T13 Arg2:T11
+R1	Has_symptom Arg1:T4 Arg2:T3

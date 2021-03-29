@@ -1,0 +1,75 @@
+T61	Characteristic 1979 1982	NPI
+T60	Characteristic 1954 1957	NPA
+T63	Characteristic 2069 2072	NPA
+T62	Diagnostic_tool 2058 2064	UWF FA
+T21	Diagnostic_tool 712 750	stereographically projected UWF images
+T65	Symptom 2157 2161	PPLs
+T20	Anatomy 691 697	macula
+T64	Characteristic 2077 2080	NPI
+T23	Classification_system 866 871	ETDRS
+T67	Symptom 2217 2221	PPLs
+T22	Symptom 794 798	PPLs
+T66	Disease 2166 2168	DR
+T25	Characteristic 992 1017	retinal nonperfusion area
+T69	Symptom 2314 2318	PPLs
+T24	Diagnostic_tool 916 929	UWF-FA images
+T68	Disease 2267 2269	DR
+T27	Characteristic 1028 1046	nonperfusion index
+T26	Characteristic 1019 1022	NPA
+T29	Characteristic 1102 1105	NPA
+T28	Characteristic 1048 1051	NPI
+T70	Symptom 2353 2365	nonperfusion
+T71	Disease 2370 2378	ischemia
+T30	Characteristic 1110 1113	NPI
+T32	Symptom 1147 1151	PPLs
+T31	Disease 1119 1121	DR
+T34	Disease 1200 1202	DR
+T33	Disease 1169 1171	DR
+T36	Disease 1241 1245	NPDR
+T35	Disease 1215 1239	mild nonproliferative DR
+T38	Disease 1277 1288	severe NPDR
+T37	Disease 1255 1268	moderate NPDR
+T39	Disease 1297 1313	proliferative DR
+T41	Disease 1332 1345	high-risk PDR
+T40	Disease 1315 1318	PDR
+T43	Characteristic 1461 1464	NPA
+T42	Symptom 1358 1361	PPL
+T45	Characteristic 1513 1516	NPA
+T44	Symptom 1478 1482	PPLs
+T47	Disease 1657 1659	DR
+T46	Characteristic 1563 1566	NPI
+T49	Anatomy 1695 1699	eyes
+T48	Characteristic 1673 1690	diabetes duration
+T1	Disease 0 20	Diabetic Retinopathy
+T2	Symptom 34 52	Peripheral Lesions
+T3	Symptom 73 85	Nonperfusion
+T4	Diagnostic_tool 89 116	Ultrawide Field Angiography
+T5	Symptom 153 176	peripheral nonperfusion
+T6	Diagnostic_tool 180 225	ultrawide field (UWF) fluorescein angiography
+T7	Diagnostic_tool 227 229	FA
+T8	Disease 250 270	diabetic retinopathy
+T9	Disease 272 274	DR
+T50	Disease 1708 1711	PDR
+T52	Characteristic 1741 1744	NPI
+T51	Characteristic 1733 1736	NPA
+T10	Symptom 319 337	peripheral lesions
+T54	Characteristic 1779 1782	NPA
+T53	Disease 1775 1777	DR
+T12	Anatomy 409 413	eyes
+T56	Characteristic 1821 1824	NPI
+T11	Symptom 339 343	PPLs
+T55	Characteristic 1813 1816	NPA
+T14	Disease 454 456	DR
+T58	Characteristic 1888 1891	NPA
+T13	Disease 420 428	diabetic
+T57	Disease 1850 1886	clinically significant macular edema
+T16	Diagnostic_tool 541 554	UWF FA images
+T15	Diagnostic_tool 521 536	200° UWF images
+T59	Characteristic 1939 1952	visual acuity
+T18	Classification_system 632 637	ETDRS
+T17	Classification_system 588 630	Early Treatment Diabetic Retinopathy Study
+T19	Anatomy 682 686	disc
+R2	Has_symptom Arg1:T68 Arg2:T67
+R3	Has_symptom Arg1:T71 Arg2:T67
+R4	Has_symptom Arg1:T8 Arg2:T11
+R1	Has_symptom Arg1:T8 Arg2:T10

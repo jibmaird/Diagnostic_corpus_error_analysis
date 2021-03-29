@@ -1,0 +1,45 @@
+T41	Disease 1994 1997	OAG
+T40	Anatomy 1957 1960	eye
+T21	Symptom 718 755	glaucomatous visual field abnormality
+T20	Symptom 701 711	open angle
+T42	Disease 2061 2064	OAG
+T23	Disease 981 984	OAG
+T22	Symptom 775 816	glaucomatous optic nerve damage in ≥1 eye
+T25	Disease 1140 1143	OAG
+T24	Disease 1077 1080	OAG
+T27	Characteristic 1251 1278	higher intraocular pressure
+T26	Characteristic 1152 1161	older age
+T29	Characteristic 1335 1354	longer axial length
+T28	Characteristic 1280 1283	IOP
+T1	Disease 54 73	open-angle glaucoma
+T2	Characteristic 95 113	Los Angeles Latino
+T3	Anatomy 114 117	Eye
+T4	Characteristic 154 170	sociodemographic
+T5	Characteristic 172 181	lifestyle
+T6	Characteristic 183 197	anthropometric
+T7	Characteristic 199 207	clinical
+T8	Characteristic 213 232	ocular risk factors
+T9	Disease 260 279	open-angle glaucoma
+T30	Characteristic 1404 1426	thinner central cornea
+T10	Disease 281 284	OAG
+T32	Characteristic 1574 1598	lack of vision insurance
+T31	Characteristic 1487 1512	higher waist-to-hip ratio
+T12	Characteristic 388 395	Latinos
+T34	Characteristic 1683 1690	Latinos
+T11	Characteristic 292 297	adult
+T33	Symptom 1651 1679	mean baseline IOP of 14 mmHg
+T14	Characteristic 416 439	Los Angeles, California
+T36	Disease 1746 1749	OAG
+T13	Characteristic 396 410	aged ≥40 years
+T35	Characteristic 1699 1702	IOP
+T16	Characteristic 497 515	Los Angeles Latino
+T38	Characteristic 1840 1870	thin central corneal thickness
+T15	Disease 458 461	OAG
+T37	Characteristic 1816 1835	longer axial length
+T18	Diagnostic_tool 636 662	ophthalmologic examination
+T17	Anatomy 516 519	Eye
+T39	Characteristic 1914 1938	Lack of health insurance
+T19	Disease 675 678	OAG
+R2	Has_risk_factor Arg1:T41 Arg2:T39
+R3	Has_risk_factor Arg1:T25 Arg2:T26
+R1	Has_risk_factor Arg1:T9 Arg2:T8

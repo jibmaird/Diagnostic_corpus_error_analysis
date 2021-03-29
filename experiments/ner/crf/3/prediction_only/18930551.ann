@@ -1,0 +1,35 @@
+T21	Characteristic 1365 1378	visual acuity
+T20	Symptom 1204 1277	increased thickness of the neurosensory retina at the foveal center point
+T23	Symptom 1478 1536	visual acuity and both the neurosensory retina and the SRT
+T22	Characteristic 1387 1452	total volume of subretinal fluid or pigment epithelial detachment
+T25	Characteristic 1676 1689	visual acuity
+T24	Diagnostic_tool 1607 1630	fluorescein angiography
+T27	Characteristic 1842 1855	visual acuity
+T26	Characteristic 1766 1776	SRT volume
+T29	Characteristic 2012 2025	SRT thickness
+T28	Characteristic 1929 1984	total neurosensory retinal volume, and total SRT volume
+T1	Diagnostic_tool 21 68	optical coherence tomography retinal parameters
+T2	Characteristic 73 86	visual acuity
+T3	Disease 90 134	neovascular age-related macular degeneration
+T4	Diagnostic_tool 177 205	optical coherence tomography
+T5	Diagnostic_tool 207 210	OCT
+T6	Characteristic 236 272	retinal morphology and visual acuity
+T7	Disease 290 334	neovascular age-related macular degeneration
+T8	Disease 336 339	AMD
+T9	Anatomy 420 424	eyes
+T30	Diagnostic_tool 2040 2043	OCT
+T10	Disease 447 462	neovascular AMD
+T32	Disease 2235 2250	neovascular AMD
+T31	Symptom 2078 2182	neurosensory retinal thickness and volume, is associated with decreased visual acuity in neovascular AMD
+T12	Characteristic 537 558	Snellen visual acuity
+T34	Characteristic 2362 2375	visual acuity
+T11	Diagnostic_tool 477 495	StratusOCT imaging
+T33	Diagnostic_tool 2284 2294	StratusOCT
+T14	Symptom 843 916	morphologic parameters of interest: neurosensory retina, subretinal fluid
+T13	Diagnostic_tool 603 620	StratusOCT images
+T35	Characteristic 2472 2485	visual acuity
+T16	Characteristic 1006 1042	retinal morphology and visual acuity
+T15	Symptom 918 976	subretinal tissue (SRT), and pigment epithelial detachment
+T18	Characteristic 1107 1120	visual acuity
+T17	Characteristic 1057 1076	total volume of SRT
+T19	Characteristic 1156 1169	visual acuity

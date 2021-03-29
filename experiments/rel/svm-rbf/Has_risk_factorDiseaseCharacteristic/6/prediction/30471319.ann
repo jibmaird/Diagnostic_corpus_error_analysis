@@ -1,0 +1,40 @@
+T40	Diagnostic_tool 2464 2474	DeepSeeNet
+T21	Symptom 1152 1176	pigmentary abnormalities
+T20	Symptom 1139 1150	drusen size
+T23	Disease 1228 1231	AMD
+T22	Anatomy 1187 1190	eye
+T25	Diagnostic_tool 1400 1410	DeepSeeNet
+T24	Classification_system 1257 1288	AREDS Simplified Severity Scale
+T27	Symptom 1645 1657	large drusen
+T26	Diagnostic_tool 1458 1468	DeepSeeNet
+T29	Disease 1703 1711	late AMD
+T28	Symptom 1666 1690	pigmentary abnormalities
+T1	Diagnostic_tool 0 10	DeepSeeNet
+T2	Diagnostic_tool 14 33	Deep Learning Model
+T3	Disease 80 112	Age-related Macular Degeneration
+T4	Diagnostic_tool 127 151	Color Fundus Photographs
+T5	Disease 183 215	age-related macular degeneration
+T6	Disease 217 220	AMD
+T7	Classification_system 227 290	Age-Related Eye Disease Study (AREDS) Simplified Severity Scale
+T8	Disease 327 335	late AMD
+T9	Diagnostic_tool 513 537	color fundus photographs
+T30	Diagnostic_tool 1720 1730	DeepSeeNet
+T10	Diagnostic_tool 539 542	CFP
+T32	Symptom 1856 1880	pigmentary abnormalities
+T31	Symptom 1789 1801	large drusen
+T12	Anatomy 668 672	eyes
+T34	Diagnostic_tool 2081 2091	DeepSeeNet
+T11	Anatomy 558 562	eyes
+T33	Disease 1980 1988	late AMD
+T14	Diagnostic_tool 715 734	deep learning model
+T36	Classification_system 2234 2265	AREDS Simplified Severity Scale
+T13	Diagnostic_tool 701 711	DeepSeeNet
+T35	Disease 2201 2204	AMD
+T16	Diagnostic_tool 852 855	CFP
+T38	Disease 2399 2408	early AMD
+T15	Classification_system 792 823	AREDS Simplified Severity Scale
+T37	Disease 2386 2389	AMD
+T18	Diagnostic_tool 1044 1054	DeepSeeNet
+T17	Diagnostic_tool 857 867	DeepSeeNet
+T39	Disease 2454 2462	late AMD
+T19	Disease 1121 1124	AMD

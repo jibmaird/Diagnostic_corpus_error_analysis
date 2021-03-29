@@ -1,0 +1,52 @@
+T21	Disease 793 797	LHON
+T20	Disease 777 781	ADOA
+T23	Characteristic 819 834	normal controls
+T22	Disease 802 810	glaucoma
+T25	Anatomy 1150 1166	optic nerve head
+T24	Disease 1060 1068	glaucoma
+T27	Disease 1266 1270	ADOA
+T26	Disease 1256 1264	glaucoma
+T29	Disease 1355 1359	ADOA
+T28	Disease 1276 1280	LHON
+T30	Disease 1364 1368	LHON
+T32	Disease 1453 1461	glaucoma
+T31	Disease 1421 1433	glaucomatous
+T34	Disease 1803 1815	glaucomatous
+T33	Disease 1512 1524	glaucomatous
+T36	Disease 1852 1856	LHON
+T35	Disease 1844 1848	ADOA
+T38	Disease 1923 1935	glaucomatous
+T37	Symptom 1871 1877	pallor
+T39	Disease 2006 2010	ADOA
+T41	Disease 2038 2056	Optic neuropathies
+T40	Disease 2015 2019	LHON
+T43	Disease 2191 2195	ADOA
+T42	Characteristic 2079 2116	topographic changes at the optic disc
+T45	Disease 2210 2218	glaucoma
+T44	Disease 2200 2204	LHON
+T47	Characteristic 2293 2305	color vision
+T46	Characteristic 2285 2291	acuity
+T49	Characteristic 2335 2349	family history
+T48	Characteristic 2307 2329	history of visual loss
+T1	Anatomy 0 10	Optic disc
+T2	Disease 25 43	optic neuropathies
+T3	Anatomy 49 59	optic disc
+T4	Characteristic 81 103	Optic nerve morphology
+T5	Disease 149 157	Glaucoma
+T6	Disease 177 193	optic neuropathy
+T7	Disease 195 227	autosomal-dominant optic atrophy
+T8	Disease 229 233	ADOA
+T9	Disease 239 274	Leber's hereditary optic neuropathy
+T10	Disease 276 280	LHON
+T12	Characteristic 373 418	topographical changes at the optic nerve head
+T11	Disease 305 334	hereditary optic neuropathies
+T14	Disease 434 438	LHON
+T13	Disease 425 429	ADOA
+T16	Disease 523 531	glaucoma
+T15	Disease 480 488	glaucoma
+T18	Anatomy 672 683	optic nerve
+T17	Anatomy 609 619	optic disc
+T19	Diagnostic_tool 721 772	high-resolution stereoscopic optic disc photographs
+R2	Has_symptom Arg1:T39 Arg2:T37
+R3	Has_symptom Arg1:T36 Arg2:T37
+R1	Has_symptom Arg1:T35 Arg2:T37

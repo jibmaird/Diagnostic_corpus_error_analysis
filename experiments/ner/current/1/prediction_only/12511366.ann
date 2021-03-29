@@ -1,0 +1,42 @@
+T1	Symptom 39 82	far-advanced glaucomatous visual field loss
+T2	Characteristic 180 193	visual fields
+T3	Characteristic 195 198	VFs
+T4	Disease 223 244	far-advanced glaucoma
+T5	Anatomy 308 312	eyes
+T6	Disease 333 351	end-stage glaucoma
+T7	Symptom 368 382	collapse of VF
+T8	Disease 440 458	End-stage glaucoma
+T9	Characteristic 474 500	vertical cup-to-disc ratio
+T10	Symptom 504 507	0.9
+T11	Dimension 508 510	or
+T12	Symptom 565 591	central or temporal island
+T13	Characteristic 609 611	VF
+T14	Characteristic 745 747	VF
+T15	Characteristic 777 813	corrected pattern standard deviation
+T16	Characteristic 815 819	CPSD
+T17	Characteristic 833 851	standard deviation
+T18	Characteristic 908 911	WNL
+T19	Characteristic 914 957	short-term fluctuation (SF) probability WNL
+T20	Diagnostic_tool 959 982	glaucoma hemifield test
+T21	Diagnostic_tool 984 987	GHT
+T22	Anatomy 1016 1019	ONL
+T23	Characteristic 1127 1159	Visual field statistical indices
+T24	Diagnostic_tool 1171 1174	VFs
+T25	Anatomy 1228 1232	eyes
+T26	Characteristic 1286 1289	PSD
+T27	Characteristic 1291 1293	SF
+T28	Characteristic 1299 1303	CPSD
+T29	Anatomy 1396 1400	eyes
+T30	Anatomy 1420 1423	GHT
+T31	Anatomy 1428 1431	ONL
+T32	Anatomy 1443 1447	eyes
+T33	Characteristic 1490 1501	sensitivity
+T34	Characteristic 1503 1506	GRS
+T35	Anatomy 1517 1521	eyes
+T36	Characteristic 1532 1535	GRS
+T37	Anatomy 1554 1558	eyes
+T38	Characteristic 1612 1614	FN
+T39	Anatomy 1648 1652	eyes
+T40	Diagnostic_tool 1722 1728	static
+T41	Diagnostic_tool 1729 1732	VFs
+T42	Symptom 1746 1776	end-stage glaucomatous VF loss

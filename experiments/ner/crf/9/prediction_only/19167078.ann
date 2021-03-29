@@ -1,0 +1,44 @@
+T41	Characteristic 2217 2252	OCT-measured center point thickness
+T40	Characteristic 2179 2192	visual acuity
+T21	Characteristic 1045 1075	Dublin, CA), and visual acuity
+T43	Disease 2331 2353	retinal vein occlusion
+T20	Diagnostic_tool 985 996	Stratus OCT
+T42	Disease 2314 2327	macular edema
+T23	Characteristic 1173 1195	Center point thickness
+T22	Diagnostic_tool 1107 1171	Early Treatment Diabetic Retinopathy Study (E-ETDRS) methodology
+T44	Characteristic 2393 2406	visual acuity
+T25	Characteristic 1316 1351	OCT-measured center point thickness
+T24	Characteristic 1200 1236	best-corrected E-ETDRS visual acuity
+T27	Disease 1478 1482	CRVO
+T26	Characteristic 1356 1392	best-corrected E-ETDRS visual acuity
+T29	Characteristic 1622 1635	visual acuity
+T28	Disease 1545 1549	BRVO
+T1	Characteristic 52 77	central retinal thickness
+T2	Characteristic 82 95	visual acuity
+T3	Disease 113 135	retinal vein occlusion
+T4	Characteristic 178 217	baseline center point retinal thickness
+T5	Diagnostic_tool 230 258	optical coherence tomography
+T6	Diagnostic_tool 260 263	OCT
+T7	Characteristic 269 297	best-corrected visual acuity
+T8	Anatomy 301 305	eyes
+T9	Disease 311 324	macular edema
+T30	Characteristic 1682 1717	OCT-measured center point thickness
+T10	Disease 341 363	retinal vein occlusion
+T32	Disease 1784 1788	BRVO
+T31	Disease 1746 1750	CRVO
+T12	Diagnostic_tool 475 523	COrticosteroid for REtinal Vein Occlusion (SCORE
+T34	Disease 1998 2011	macular edema
+T11	Characteristic 422 435	visual acuity
+T33	Characteristic 1943 1981	visual acuity letter score include age
+T14	Diagnostic_tool 793 796	OCT
+T36	Characteristic 2038 2060	center point thickness
+T13	Symptom 616 733	central retinal vein occlusion (CRVO) and the other evaluating participants with branch retinal vein occlusion (BRVO)
+T35	Disease 2016 2020	CRVO
+T16	Disease 904 908	CRVO
+T38	Disease 2096 2100	BRVO
+T15	Anatomy 878 882	eyes
+T37	Symptom 2077 2091	cystoid spaces
+T18	Characteristic 941 963	center point thickness
+T17	Disease 922 926	BRVO
+T39	Characteristic 2139 2174	OCT-measured center point thickness
+T19	Diagnostic_tool 980 983	OCT

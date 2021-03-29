@@ -1,0 +1,32 @@
+T1	Diagnostic_tool 51 79	optical coherence tomography
+T2	Characteristic 160 177	retinal thickness
+T3	Diagnostic_tool 196 224	optical coherence tomography
+T4	Characteristic 286 303	retinal thickness
+T5	Characteristic 396 413	retinal thickness
+T6	Diagnostic_tool 440 468	optical coherence tomography
+T7	Diagnostic_tool 470 473	OCT
+T8	Characteristic 555 572	retinal thickness
+T9	Disease 709 731	diabetic macular edema
+T10	Disease 790 810	Diabetic Retinopathy
+T11	Characteristic 873 890	retinal thickness
+T12	Diagnostic_tool 941 944	OCT
+T13	Characteristic 1014 1031	retinal thickness
+T14	Characteristic 1116 1137	OCT retinal thickness
+T15	Characteristic 1152 1158	logOCT
+T16	Characteristic 1215 1232	retinal thickness
+T17	Anatomy 1246 1250	eyes
+T18	Disease 1256 1278	diabetic macular edema
+T19	Characteristic 1305 1323	macular thickening
+T20	Characteristic 1503 1513	OCT change
+T21	Characteristic 1648 1665	retinal thickness
+T22	Characteristic 1736 1780	logarithm of the minimum angle of resolution
+T23	Characteristic 1782 1788	logMAR
+T24	Characteristic 1805 1818	visual acuity
+T25	Characteristic 1847 1866	change in thickness
+T26	Characteristic 1932 1938	change
+T27	Characteristic 1942 1949	microns
+T28	Characteristic 2150 2171	OCT retinal thickness
+T29	Diagnostic_tool 2180 2186	logOCT
+T30	Characteristic 2252 2269	retinal thickness
+T31	Diagnostic_tool 2289 2295	logMAR
+T32	Characteristic 2356 2369	visual acuity

@@ -1,0 +1,16 @@
+T4	Diagnostic_tool 384 439	Fundus photographic sets, consisting of 2 fundus images
+T5	Anatomy 450 453	eye
+T6	Disease 518 526	diabetes
+T7	Disease 570 572	DR
+T8	Diagnostic_tool 578 601	fundus photographic set
+T9	Disease 730 732	DR
+T10	Disease 1008 1010	DR
+T12	Disease 1308 1310	DR
+T11	Disease 1095 1097	DR
+T14	Disease 1917 1925	diabetes
+T13	Disease 1530 1550	Diabetic retinopathy
+T16	Disease 2123 2134	advanced DR
+T15	Disease 1994 1996	DR
+T1	Disease 29 49	diabetic retinopathy
+T2	Diagnostic_tool 82 127	automated diabetic retinopathy (DR) detection
+T3	Disease 317 319	DR

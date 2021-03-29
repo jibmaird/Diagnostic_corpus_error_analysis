@@ -1,0 +1,52 @@
+T41	Disease 2178 2180	DR
+T40	Characteristic 2078 2141	Retinal vessel geometric characteristics of the retinal venules
+T21	Disease 1100 1104	CSME
+T43	Diagnostic_tool 2223 2251	digitized fundus photographs
+T20	Disease 1062 1098	clinically significant macular edema
+T42	Characteristic 2203 2208	RVGCs
+T23	Disease 1130 1132	DR
+T45	Disease 2369 2373	T1DM
+T22	Anatomy 1115 1119	eyes
+T44	Disease 2323 2325	DR
+T25	Disease 1186 1190	CSME
+T24	Disease 1170 1173	PDR
+T46	Disease 2378 2382	T2DM
+T27	Characteristic 1280 1316	retinal arteriolar simple tortuosity
+T26	Disease 1251 1259	diabetes
+T29	Characteristic 1442 1473	Retinal venular branching angle
+T28	Disease 1372 1374	DR
+T1	Characteristic 20 60	Retinal Vessel Geometric Characteristics
+T2	Disease 97 117	Diabetic Retinopathy
+T3	Characteristic 152 192	retinal vessel geometric characteristics
+T4	Characteristic 194 199	RVGCs
+T5	Disease 237 257	diabetic retinopathy
+T6	Disease 259 261	DR
+T7	Disease 342 366	type 1 diabetes mellitus
+T8	Disease 368 372	T1DM
+T9	Disease 396 420	type 2 diabetes mellitus
+T30	Disease 1523 1525	DR
+T10	Disease 422 426	T2DM
+T32	Disease 1645 1648	PDR
+T31	Characteristic 1557 1593	retinal venular curvature tortuosity
+T12	Disease 664 677	macular edema
+T34	Disease 1797 1801	CSME
+T11	Disease 639 659	Diabetic retinopathy
+T33	Characteristic 1684 1715	retinal venular branching angle
+T14	Characteristic 749 789	Retinal vessel geometric characteristics
+T36	Disease 1873 1875	DR
+T13	Diagnostic_tool 706 747	30° stereoscopic color fundus photographs
+T35	Characteristic 1851 1856	RVGCs
+T16	Disease 977 979	DR
+T38	Characteristic 2022 2045	retinal vessel diameter
+T15	Diagnostic_tool 894 912	fundus photographs
+T37	Characteristic 1943 1948	RVGCs
+T18	Disease 1017 1051	proliferative diabetic retinopathy
+T17	Disease 996 998	DR
+T39	Disease 2059 2061	DR
+T19	Disease 1053 1056	PDR
+R2	Diagnosed_with Arg1:T41 Arg2:T43
+R3	Diagnosed_with Arg1:T45 Arg2:T43
+R4	Diagnosed_with Arg1:T46 Arg2:T43
+R5	Diagnosed_with Arg1:T44 Arg2:T43
+R6	Diagnosed_with Arg1:T12 Arg2:T13
+R1	Diagnosed_with Arg1:T11 Arg2:T13

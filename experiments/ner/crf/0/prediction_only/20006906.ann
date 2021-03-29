@@ -1,0 +1,16 @@
+T4	Diagnostic_tool 562 578	light microscopy
+T5	Disease 595 598	ILM
+T6	Diagnostic_tool 618 686	Trypan blue (n = 30), indocyanine green (n = 7), or brilliant blue G
+T7	Symptom 812 886	neuronal cells respectively on the vitreous or retinal surfaces of the ILM
+T8	Symptom 941 972	full-thickness macular hole (MH
+T9	Disease 1036 1039	ERM
+T10	Symptom 1129 1195	neuronal or glial cells on the vitreous or retinal surfaces of ILM
+T12	Symptom 1601 1651	neuronal and glial cells with the type of dye used
+T11	Symptom 1344 1448	neuronal cells were detected on the retinal surface of the ILM in 10 of 31 (32%) of the MH ILM specimens
+T14	Disease 1800 1809	ERM and 2
+T13	Anatomy 1714 1729	retinal surface
+T16	Symptom 1995 2010	sub-ILM changes
+T15	Symptom 1865 1918	cells on the vitreous and the retinal surfaces of ILM
+T1	Symptom 24 102	epiretinal membrane alter the cleavage plane during internal limiting membrane
+T2	Symptom 197 296	epiretinal membrane (ERM) alters the cleavage plane during internal limiting membrane (ILM) peeling
+T3	Symptom 459 471	ILM excision

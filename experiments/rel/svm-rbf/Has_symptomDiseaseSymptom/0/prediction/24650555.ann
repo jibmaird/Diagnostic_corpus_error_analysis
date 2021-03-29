@@ -1,0 +1,27 @@
+T21	Classification_system 908 912	MRSS
+T20	Classification_system 866 870	MRSS
+T23	Classification_system 1252 1256	MRSS
+T22	Disease 1034 1046	Advanced AMD
+T25	Classification_system 1464 1468	MRSS
+T24	Characteristic 1305 1323	macular risk score
+T27	Disease 1618 1630	advanced AMD
+T26	Classification_system 1474 1478	MRSS
+T1	Disease 35 76	advanced age-related macular degeneration
+T2	Disease 188 229	advanced age-related macular degeneration
+T3	Disease 231 234	AMD
+T4	Classification_system 241 270	Age-Related Eye Disease Study
+T5	Classification_system 272 277	AREDS
+T6	Anatomy 365 368	Eye
+T7	Classification_system 464 469	AREDS
+T8	Anatomy 531 535	eyes
+T9	Anatomy 610 614	eyes
+T10	Diagnostic_tool 623 657	Bayes' theorem in a logistic model
+T12	Characteristic 694 697	sex
+T11	Characteristic 689 692	age
+T14	Characteristic 716 720	race
+T13	Characteristic 699 714	education level
+T16	Symptom 742 773	presence of pigment abnormality
+T15	Characteristic 722 736	smoking status
+T18	Characteristic 792 811	maximum drusen size
+T17	Symptom 775 786	soft drusen
+T19	Classification_system 837 864	macular risk scoring system

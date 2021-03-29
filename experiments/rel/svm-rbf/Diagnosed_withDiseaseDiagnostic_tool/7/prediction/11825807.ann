@@ -1,0 +1,47 @@
+T21	Symptom 1024 1047	intraretinal hemorrhage
+T20	Symptom 1008 1022	microaneurysms
+T23	Anatomy 1085 1089	eyes
+T22	Symptom 1053 1065	hard exudate
+T25	Disease 1250 1256	CSME 1
+T24	Disease 1229 1233	CSME
+T27	Disease 1280 1286	CSME 3
+T26	Disease 1265 1271	CSME 2
+T29	Symptom 1317 1331	microaneurysms
+T28	Disease 1295 1308	macular edema
+T1	Diagnostic_tool 0 55	High-resolution stereoscopic digital fundus photography
+T2	Diagnostic_tool 63 89	contact lens biomicroscopy
+T3	Disease 111 147	clinically significant macular edema
+T4	Diagnostic_tool 191 239	high-resolution stereoscopic digital photography
+T5	Diagnostic_tool 243 269	contact lens biomicroscopy
+T6	Diagnostic_tool 271 275	CLBM
+T7	Disease 298 334	clinically significant macular edema
+T8	Disease 408 416	diabetic
+T9	Diagnostic_tool 480 484	CLBM
+T30	Symptom 1340 1363	intraretinal hemorrhage
+T10	Diagnostic_tool 565 623	high-resolution stereoscopic digital imaging of the macula
+T32	Disease 1428 1434	CSME 2
+T31	Symptom 1376 1388	hard exudate
+T12	Disease 808 828	diabetic retinopathy
+T34	Disease 1492 1505	macular edema
+T11	Diagnostic_tool 629 656	stereoscopic digital images
+T33	Disease 1446 1450	CSME
+T14	Disease 916 952	clinically significant macular edema
+T36	Diagnostic_tool 1526 1574	High-resolution stereoscopic digital photography
+T13	Disease 876 896	Diabetic Retinopathy
+T35	Disease 1517 1523	CSME 2
+T16	Disease 969 975	CSME 1
+T38	Diagnostic_tool 1678 1682	CLBM
+T15	Disease 954 958	CSME
+T37	Disease 1623 1627	CSME
+T18	Disease 985 991	CSME 3
+T17	Disease 977 983	CSME 2
+T39	Disease 1704 1708	CSME
+T19	Disease 993 1006	macular edema
+R2	Diagnosed_with Arg1:T7 Arg2:T4
+R3	Diagnosed_with Arg1:T7 Arg2:T6
+R4	Diagnosed_with Arg1:T37 Arg2:T38
+R5	Diagnosed_with Arg1:T39 Arg2:T38
+R6	Diagnosed_with Arg1:T37 Arg2:T36
+R7	Diagnosed_with Arg1:T7 Arg2:T5
+R8	Diagnosed_with Arg1:T3 Arg2:T2
+R1	Diagnosed_with Arg1:T3 Arg2:T1

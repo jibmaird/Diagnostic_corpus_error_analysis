@@ -1,0 +1,26 @@
+T21	Symptom 1088 1181	Echographic examination did not reveal any anatomic abnormalities of the optic nerve or orbit
+T20	Characteristic 1072 1086	CMGS and NCMGS
+T23	Symptom 1259 1327	echography about the posterior pole, whereas echographic examination
+T22	Diagnostic_tool 1183 1227	Spectral-domain optical coherence tomography
+T25	Symptom 1430 1568	Retinal detachment in MGS generally is ascribed to abnormal communication between the subretinal and subarachnoid or vitreous compartments
+T24	Symptom 1397 1428	optic nerve in the orbital wall
+T26	Symptom 1594 1623	myopialike retinal detachment
+T1	Diagnostic_tool 42 94	spectral optical coherence tomography and echography
+T2	Anatomy 109 113	eyes
+T3	Diagnostic_tool 126 204	morning glory syndrome (MGS) with spectral-domain optical coherence tomography
+T4	Diagnostic_tool 206 228	SD OCT) and echography
+T5	Anatomy 277 281	eyes
+T6	Anatomy 308 311	Eye
+T7	Diagnostic_tool 407 433	ophthalmologic examination
+T8	Characteristic 461 474	visual acuity
+T9	Diagnostic_tool 476 510	fundus photography, and echography
+T10	Diagnostic_tool 536 587	SD OCT and high-frequency B-scan echography (20 MHz
+T12	Symptom 639 666	echographic findings in MGS
+T11	Diagnostic_tool 590 634	Spectral-domain optical coherence tomography
+T14	Symptom 722 768	retinal detachment in the conus area of 5 eyes
+T13	Diagnostic_tool 668 712	Spectral-domain optical coherence tomography
+T16	Symptom 863 876	retinal break
+T15	Diagnostic_tool 777 836	noncontractile MGS (NCMGS) and 1 with contractile MGS (CMGS
+T18	Symptom 912 990	abnormal communication between the subarachnoid space and the subretinal space
+T17	Anatomy 900 904	eyes
+T19	Diagnostic_tool 992 1036	Spectral-domain optical coherence tomography

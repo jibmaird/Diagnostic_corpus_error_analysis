@@ -1,0 +1,30 @@
+T21	Characteristic 1105 1146	intraclass correlation coefficient (ICC),
+T20	Characteristic 961 1025	mean total area at baseline was 4.59 mm(2) (1.8 disc areas [DA])
+T23	Symptom 1387 1389	GA
+T22	Characteristic 1284 1342	important source of variability in lesion size measurement
+T25	Characteristic 1631 1655	lesion area measurements
+T24	Symptom 1496 1498	GA
+T27	Symptom 1986 1988	GA
+T26	Characteristic 1681 1713	lesion size, the ER (0.28 mm/yr)
+T29	Symptom 2052 2054	GA
+T28	Diagnostic_tool 1994 2013	SD-OCT fundus image
+T1	Symptom 15 33	geographic atrophy
+T2	Disease 37 69	age-related macular degeneration
+T3	Diagnostic_tool 82 126	spectral domain optical coherence tomography
+T4	Symptom 155 198	enlargement rate (ER) of geographic atrophy
+T5	Symptom 200 202	GA
+T6	Disease 221 253	age-related macular degeneration
+T7	Disease 255 258	AMD
+T8	Diagnostic_tool 270 314	spectral domain optical coherence tomography
+T9	Diagnostic_tool 316 336	SD-OCT) fundus image
+T30	Symptom 2201 2331	GA along with the loss of photoreceptors and the retinal pigment epithelium that should correlate with the loss of visual function
+T10	Symptom 462 464	GA
+T12	Diagnostic_tool 550 563	Cirrus SD-OCT
+T11	Disease 478 481	AMD
+T14	Diagnostic_tool 632 652	SD-OCT fundus images
+T13	Symptom 611 613	GA
+T16	Characteristic 844 868	lesion area measurements
+T15	Symptom 761 763	GA
+T18	Anatomy 927 931	eyes
+T17	Symptom 903 905	GA
+T19	Symptom 953 955	GA

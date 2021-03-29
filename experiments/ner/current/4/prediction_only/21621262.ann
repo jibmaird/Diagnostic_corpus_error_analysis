@@ -1,0 +1,33 @@
+T1	Characteristic 0 35	Retinal nerve fiber layer thickness
+T2	Symptom 39 61	dominant optic atrophy
+T3	Diagnostic_tool 78 106	optical coherence tomography
+T4	Characteristic 128 131	age
+T5	Characteristic 149 191	retinal nerve fiber layer (RNFL) thickness
+T6	Diagnostic_tool 204 232	optical coherence tomography
+T7	Diagnostic_tool 234 237	OCT
+T8	Symptom 256 278	dominant optic atrophy
+T9	Disease 280 283	DOA
+T10	Disease 354 357	DOA
+T11	Characteristic 368 407	heterozygous mutations in the OPA1 gene
+T12	Anatomy 451 456	RNFLs
+T13	Disease 460 463	DOA
+T14	Diagnostic_tool 489 492	OCT
+T15	Characteristic 552 555	age
+T16	Characteristic 560 587	optic nerve head (ONH) size
+T17	Characteristic 589 624	Retinal nerve fiber layer thickness
+T18	Disease 626 648	Dominant optic atrophy
+T19	Characteristic 681 695	RNFL thickness
+T20	Anatomy 763 792	temporal and inferior sectors
+T21	Characteristic 821 835	RNFL thickness
+T22	Characteristic 841 844	age
+T23	Anatomy 1018 1035	temporal quadrant
+T24	Symptom 1040 1068	profoundly depleted of fiber
+T25	Symptom 1097 1112	loss of microns
+T26	Anatomy 1152 1166	nasal quadrant
+T27	Disease 1190 1207	neurodegeneration
+T28	Characteristic 1294 1308	small ONH size
+T29	Disease 1312 1315	DOA
+T30	Characteristic 1370 1374	born
+T31	Characteristic 1380 1403	fewer optic nerve axons
+T32	Symptom 1447 1458	visual loss
+T33	Symptom 1478 1504	age-related loss of fibers

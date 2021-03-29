@@ -1,0 +1,26 @@
+T21	Characteristic 1341 1367	SAP is within normal range
+T20	Characteristic 1177 1322	OCT-measured RNFL thickness outside 95% limits in the inferior and superior quadrants (P = 0.048) and outside 99% limits in the inferior quadrant
+T23	Diagnostic_tool 1408 1411	FDT
+T22	Symptom 1388 1395	VF loss
+T25	Symptom 1481 1500	glaucomatous damage
+T24	Characteristic 1429 1443	RNFL thickness
+T26	Disease 1564 1578	early glaucoma
+T1	Characteristic 0 32	Retinal nerve fiber layer damage
+T2	Diagnostic_tool 48 76	optical coherence tomography
+T3	Anatomy 80 84	eyes
+T4	Symptom 92 111	visual field defect
+T5	Diagnostic_tool 175 203	standard automated perimetry
+T6	Symptom 231 253	visual field (VF) loss
+T7	Diagnostic_tool 266 310	frequency doubling technology perimetry (FDT
+T8	Diagnostic_tool 323 360	standard automated perimetry (SAP) is
+T9	Characteristic 377 416	retinal nerve fiber layer (RNFL) damage
+T10	Diagnostic_tool 432 460	optical coherence tomography
+T12	Disease 624 632	Glaucoma
+T11	Diagnostic_tool 462 465	OCT
+T14	Diagnostic_tool 758 769	Stratus OCT
+T13	Diagnostic_tool 726 740	FDT 24-2 tests
+T16	Diagnostic_tool 870 873	OCT
+T15	Characteristic 820 855	Retinal nerve fiber layer thickness
+T18	Characteristic 1058 1084	normal SAP and FDT results
+T17	Characteristic 905 932	OCT-measured RNFL thickness
+T19	Characteristic 1137 1172	normal SAP and abnormal FDT results

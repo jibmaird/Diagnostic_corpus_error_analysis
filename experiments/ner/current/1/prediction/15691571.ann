@@ -1,0 +1,48 @@
+T1	Disease 0 17	Severe strabismus
+T2	Symptom 24 40	scleral buckling
+T3	Diagnostic_tool 74 116	high-resolution magnetic resonance imaging
+T4	Symptom 119 185	Strabismus occurring after scleral buckling for retinal detachment
+T5	Symptom 213 221	scarring
+T6	Diagnostic_tool 282 308	magnetic resonance imaging
+T7	Diagnostic_tool 310 313	MRI
+T8	Disease 355 365	strabismus
+T9	Symptom 382 398	scleral buckling
+T10	Disease 521 543	large-angle strabismus
+T11	Symptom 550 589	monocular or binocular scleral buckling
+T12	Characteristic 591 614	Horizontal and vertical
+T13	Diagnostic_tool 732 767	Multipositional high-resolution MRI
+T14	Anatomy 771 782	both orbits
+T15	Diagnostic_tool 811 816	coils
+T16	Anatomy 841 845	gaze
+T17	Anatomy 992 1011	extraocular muscles
+T18	Anatomy 1013 1017	EOMs
+T19	Disease 1034 1044	strabismus
+T20	Symptom 1051 1067	scleral buckling
+T21	Diagnostic_tool 1069 1095	Magnetic resonance imaging
+T22	Characteristic 1117 1125	EOM size
+T23	Characteristic 1130 1143	contractility
+T24	Anatomy 1168 1182	scleral buckle
+T25	Symptom 1200 1221	grooves and junctions
+T26	Symptom 1226 1247	relationships of EOMs
+T27	Symptom 1251 1261	the buckle
+T28	Anatomy 1266 1272	sclera
+T29	Diagnostic_tool 1274 1281	Imaging
+T30	Anatomy 1302 1313	rectus EOMs
+T31	Anatomy 1363 1378	superior rectus
+T32	Anatomy 1382 1395	medial rectus
+T33	Anatomy 1403 1417	lateral rectus
+T34	Symptom 1446 1481	inferior rectus muscle disinsertion
+T35	Disease 1486 1508	restrictive strabismus
+T36	Disease 1565 1582	myopic staphyloma
+T37	Diagnostic_tool 1584 1610	Magnetic resonance imaging
+T38	Symptom 1624 1642	anterior migration
+T39	Anatomy 1691 1702	rectus EOMs
+T40	Symptom 1730 1734	EOMs
+T41	Anatomy 1813 1823	orbitotomy
+T42	Anatomy 1897 1900	EOM
+T43	Diagnostic_tool 1915 1950	Multipositional high-resolution MRI
+T44	Symptom 2027 2043	disinserted EOMs
+T45	Symptom 2056 2091	mass effect from the scleral buckle
+T46	Diagnostic_tool 2093 2117	Preoperative orbital MRI
+T47	Disease 2177 2205	persistent severe strabismus
+T48	Symptom 2212 2228	scleral buckling

@@ -1,0 +1,54 @@
+T21	Anatomy 850 856	ipRGCs
+T20	Anatomy 839 844	cones
+T23	Characteristic 898 912	Pupil diameter
+T22	Characteristic 874 896	pupillary light reflex
+T25	Characteristic 966 1013	Pupillary responses to blue light and red light
+T24	Diagnostic_tool 935 957	infrared pupillography
+T27	Anatomy 1133 1140	corneal
+T26	Disease 1068 1072	POAG
+T29	Characteristic 1213 1232	pupillary responses
+T28	Disease 1207 1211	POAG
+T30	Diagnostic_tool 1260 1296	standard automated perimetry testing
+T32	Characteristic 1321 1324	HVF
+T31	Characteristic 1298 1319	Humphrey Visual Field
+T34	Diagnostic_tool 1405 1434	Heidelberg Retinal Tomography
+T33	Diagnostic_tool 1363 1392	scanning laser ophthalmoscopy
+T36	Characteristic 1493 1515	pupillary light reflex
+T35	Diagnostic_tool 1436 1439	HRT
+T38	Anatomy 1628 1634	ipRGCs
+T37	Disease 1545 1549	POAG
+T39	Characteristic 1636 1685	Pupillary responses to high-irradiance blue light
+T41	Characteristic 1826 1840	pupil diameter
+T40	Characteristic 1747 1769	responses to red light
+T43	Characteristic 1898 1926	HRT linear cup-to-disc ratio
+T42	Characteristic 1845 1848	HVF
+T45	Disease 2001 2013	glaucomatous
+T44	Anatomy 1969 1985	optic nerve head
+T47	Characteristic 2028 2077	pupillary responses to high-irradiance blue light
+T46	Anatomy 2014 2018	eyes
+T49	Symptom 2129 2147	optic disc cupping
+T48	Symptom 2107 2124	visual field loss
+T1	Characteristic 0 49	Pupillary Responses to High-Irradiance Blue Light
+T2	Disease 65 73	Glaucoma
+T3	Diagnostic_tool 107 134	chromatic pupillometry test
+T4	Symptom 157 229	impaired function of intrinsically photosensitive retinal ganglion cells
+T5	Anatomy 231 237	ipRGCs
+T6	Disease 256 283	primary open-angle glaucoma
+T7	Disease 285 289	POAG
+T8	Characteristic 311 330	pupillary responses
+T9	Symptom 346 364	optic nerve damage
+T50	Disease 2152 2156	POAG
+T52	Anatomy 2225 2231	ipRGCs
+T51	Diagnostic_tool 2166 2193	chromatic pupillometry test
+T10	Symptom 369 380	visual loss
+T54	Disease 2384 2392	glaucoma
+T53	Symptom 2270 2302	damage to retinal ganglion cells
+T12	Characteristic 495 509	ethnic Chinese
+T11	Characteristic 486 489	men
+T14	Disease 549 557	glaucoma
+T13	Disease 518 522	POAG
+T16	Characteristic 577 591	ethnic Chinese
+T15	Characteristic 569 572	men
+T18	Diagnostic_tool 638 743	monocular exposure to narrowband blue light (469 nm) or red light (631 nm) using a modified Ganzfeld dome
+T17	Characteristic 593 617	50 years of age or older
+T19	Anatomy 833 837	rods

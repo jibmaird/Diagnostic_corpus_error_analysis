@@ -1,0 +1,34 @@
+T1	Disease 27 35	Glaucoma
+T2	Characteristic 71 91	Intraocular Pressure
+T3	Disease 192 211	open-angle glaucoma
+T4	Disease 213 216	OAG
+T5	Characteristic 262 282	intraocular pressure
+T6	Characteristic 284 287	IOP
+T7	Characteristic 347 351	IOPs
+T8	Disease 451 475	moderate or advanced OAG
+T9	Disease 507 515	Glaucoma
+T10	Disease 547 564	Advanced Glaucoma
+T11	Diagnostic_tool 601 631	perimetric and tonometric data
+T12	Diagnostic_tool 684 709	Kalman Filter (KF) models
+T13	Disease 761 764	OAG
+T14	Characteristic 770 772	KF
+T15	Disease 836 839	OAG
+T16	Characteristic 875 878	IOP
+T17	Characteristic 993 996	IOP
+T18	Characteristic 1142 1145	IOP
+T19	Characteristic 1297 1300	IOP
+T20	Characteristic 1338 1358	mean age, 64.2 years
+T21	Characteristic 1414 1415	6
+T22	Characteristic 1416 1417	5
+T23	Characteristic 1567 1571	IOPs
+T24	Characteristic 1722 1726	IOPs
+T25	Disease 1779 1782	OAG
+T26	Characteristic 1913 1931	black versus white
+T27	Characteristic 1933 1937	male
+T28	Characteristic 1945 1951	female
+T29	Disease 1970 1974	AGIS
+T30	Characteristic 2011 2015	IOPs
+T31	Disease 2163 2166	OAG
+T32	Characteristic 2199 2202	IOP
+T33	Characteristic 2288 2292	IOPs
+T34	Disease 2311 2314	OAG

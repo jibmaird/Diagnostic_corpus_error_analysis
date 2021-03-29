@@ -1,0 +1,57 @@
+T1	Diagnostic_tool 21 49	optical coherence tomography
+T2	Characteristic 50 68	retinal parameters
+T3	Characteristic 73 86	visual acuity
+T4	Disease 90 134	neovascular age-related macular degeneration
+T5	Diagnostic_tool 177 205	optical coherence tomography
+T6	Diagnostic_tool 207 210	OCT
+T7	Characteristic 236 254	retinal morphology
+T8	Characteristic 259 272	visual acuity
+T9	Disease 290 334	neovascular age-related macular degeneration
+T10	Disease 336 339	AMD
+T11	Anatomy 420 424	eyes
+T12	Disease 447 462	neovascular AMD
+T13	Diagnostic_tool 477 495	StratusOCT imaging
+T14	Characteristic 522 558	Best-corrected Snellen visual acuity
+T15	Diagnostic_tool 603 620	StratusOCT images
+T16	Diagnostic_tool 793 795	B-
+T17	Symptom 879 898	neurosensory retina
+T18	Symptom 900 916	subretinal fluid
+T19	Symptom 918 935	subretinal tissue
+T20	Symptom 937 940	SRT
+T21	Symptom 947 976	pigment epithelial detachment
+T22	Diagnostic_tool 978 981	OCT
+T23	Characteristic 1006 1024	retinal morphology
+T24	Characteristic 1029 1042	visual acuity
+T25	Characteristic 1057 1076	total volume of SRT
+T26	Symptom 1097 1106	decreased
+T27	Characteristic 1107 1120	visual acuity
+T28	Symptom 1146 1155	Decreased
+T29	Characteristic 1156 1169	visual acuity
+T30	Characteristic 1204 1213	increased
+T31	Characteristic 1214 1277	thickness of the neurosensory retina at the foveal center point
+T32	Characteristic 1365 1378	visual acuity
+T33	Symptom 1387 1419	total volume of subretinal fluid
+T34	Symptom 1423 1452	pigment epithelial detachment
+T35	Characteristic 1478 1491	visual acuity
+T36	Anatomy 1505 1524	neurosensory retina
+T37	Diagnostic_tool 1533 1536	SRT
+T38	Diagnostic_tool 1607 1630	fluorescein angiography
+T39	Symptom 1636 1650	occult lesions
+T40	Characteristic 1676 1689	visual acuity
+T41	Characteristic 1758 1761	age
+T42	Characteristic 1766 1776	SRT volume
+T43	Characteristic 1842 1855	visual acuity
+T44	Characteristic 1924 1927	age
+T45	Characteristic 1929 1962	total neurosensory retinal volume
+T46	Characteristic 1968 1984	total SRT volume
+T47	Characteristic 2002 2036	increased SRT thickness and volume
+T48	Diagnostic_tool 2040 2043	OCT
+T49	Characteristic 2078 2119	neurosensory retinal thickness and volume
+T50	Characteristic 2140 2163	decreased visual acuity
+T51	Disease 2167 2182	neovascular AMD
+T52	Disease 2235 2250	neovascular AMD
+T53	Diagnostic_tool 2284 2294	StratusOCT
+T54	Characteristic 2362 2375	visual acuity
+T55	Anatomy 2452 2459	retinal
+T56	Characteristic 2460 2467	anatomy
+T57	Characteristic 2472 2485	visual acuity

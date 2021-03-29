@@ -1,0 +1,49 @@
+T1	Disease 18 38	Diabetic Retinopathy
+T2	Diagnostic_tool 43 64	Ungradable Image Rate
+T3	Diagnostic_tool 70 93	Ultrawide Field Imaging
+T4	Disease 147 167	diabetic retinopathy
+T5	Disease 169 171	DR
+T6	Diagnostic_tool 223 265	nonmydriatic ultrawide field (UWF) imaging
+T7	Diagnostic_tool 270 312	nonmydriatic multifield fundus photography
+T8	Diagnostic_tool 314 318	NMFP
+T9	Disease 359 361	DR
+T10	Anatomy 535 539	eyes
+T11	Diagnostic_tool 571 575	NMFP
+T12	Anatomy 587 591	eyes
+T13	Diagnostic_tool 621 632	UWF imaging
+T14	Diagnostic_tool 658 693	Joslin Vision Network (JVN) imaging
+T15	Diagnostic_tool 706 710	NMFP
+T16	Diagnostic_tool 714 725	UWF imaging
+T17	Characteristic 780 786	Indian
+T18	Characteristic 828 873	American Indian and Alaska Native communities
+T19	Diagnostic_tool 924 938	retinal images
+T20	Disease 1044 1046	DR
+T21	Disease 1051 1073	diabetic macular edema
+T22	Disease 1075 1078	DME
+T23	Disease 1117 1119	DR
+T24	Disease 1124 1127	DME
+T25	Diagnostic_tool 1157 1168	UWF imaging
+T26	Diagnostic_tool 1183 1187	NMFP
+T27	Disease 1189 1191	DR
+T28	Disease 1224 1227	DME
+T29	Anatomy 1279 1283	eyes
+T30	Disease 1296 1298	DR
+T31	Disease 1302 1314	referable DR
+T32	Disease 1316 1344	moderate nonproliferative DR
+T33	Disease 1348 1351	DME
+T34	Diagnostic_tool 1382 1393	UWF imaging
+T35	Anatomy 1485 1489	eyes
+T36	Disease 1495 1497	DR
+T37	Diagnostic_tool 1510 1521	UWF imaging
+T38	Anatomy 1532 1536	eyes
+T39	Symptom 1586 1604	peripheral lesions
+T40	Disease 1638 1640	DR
+T41	Anatomy 1652 1656	eyes
+T42	Disease 1708 1710	DR
+T43	Diagnostic_tool 1755 1759	NMFP
+T44	Diagnostic_tool 1761 1785	nonmydriatic UWF imaging
+T45	Anatomy 1819 1823	eyes
+T46	Disease 1864 1866	DR
+T47	Symptom 1897 1915	peripheral lesions
+T48	Disease 1939 1941	DR
+T49	Disease 2042 2044	DR

@@ -1,0 +1,50 @@
+T1	Symptom 0 29	Posterior Vitreous Detachment
+T2	Anatomy 38 47	Posterior
+T3	Symptom 48 64	Hyaloid Membrane
+T4	Symptom 75 104	posterior vitreous detachment
+T5	Symptom 120 132	ocular event
+T6	Characteristic 166 182	aging population
+T7	Anatomy 329 355	posterior hyaloid membrane
+T8	Anatomy 426 452	posterior vitreous surface
+T9	Symptom 459 488	posterior vitreous detachment
+T10	Anatomy 499 516	basement membrane
+T11	Anatomy 589 597	vitreous
+T12	Anatomy 648 688	internal limiting membrane of the retina
+T13	Symptom 732 765	rhegmatogenous retinal detachment
+T14	Symptom 770 803	vitreoretinal interface disorders
+T15	Anatomy 932 938	globes
+T16	Symptom 940 955	Vitreous bodies
+T17	Symptom 975 1004	posterior vitreous detachment
+T18	Diagnostic_tool 1024 1049	phase-contrast microscopy
+T19	Diagnostic_tool 1054 1073	confocal microscopy
+T20	Characteristic 1115 1152	collagen IV basement membrane markers
+T21	Characteristic 1169 1191	extracellular proteins
+T22	Characteristic 1214 1236	vitreoretinal junction
+T23	Characteristic 1238 1259	fibronectin, laminin)
+T24	Characteristic 1264 1294	vitreous gel (opticin) markers
+T25	Anatomy 1300 1316	posterior retina
+T26	Anatomy 1355 1381	internal limiting membrane
+T27	Anatomy 1442 1468	posterior hyaloid membrane
+T28	Diagnostic_tool 1485 1508	slit-lamp biomicroscopy
+T29	Symptom 1515 1544	posterior vitreous detachment
+T30	Characteristic 1620 1641	molecular composition
+T31	Anatomy 1649 1675	posterior hyaloid membrane
+T32	Diagnostic_tool 1677 1702	Phase-contrast microscopy
+T33	Symptom 1729 1815	creased and distinct glassy membranous sheet enveloping the posterior vitreous surface
+T34	Symptom 1846 1872	posterior hyaloid membrane
+T35	Diagnostic_tool 1889 1912	slit-lamp biomicroscopy
+T36	Symptom 1930 1959	posterior vitreous detachment
+T37	Diagnostic_tool 1961 1999	Immunofluorescent confocal micrographs
+T38	Symptom 2017 2048	enveloping membranous structure
+T39	Diagnostic_tool 2063 2088	phase-contrast microscopy
+T40	Anatomy 2124 2140	type IV collagen
+T41	Anatomy 2184 2210	internal limiting membrane
+T42	Anatomy 2218 2233	retinal surface
+T43	Anatomy 2273 2289	type IV collagen
+T44	Diagnostic_tool 2325 2344	immunohistochemical
+T45	Anatomy 2363 2389	posterior hyaloid membrane
+T46	Anatomy 2400 2458	basement membrane enveloping the posterior hyaloid surface
+T47	Symptom 2473 2493	membranous structure
+T48	Symptom 2517 2546	posterior vitreous detachment
+T49	Anatomy 2609 2635	internal limiting membrane
+T50	Anatomy 2645 2653	vitreous

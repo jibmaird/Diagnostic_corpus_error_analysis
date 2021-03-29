@@ -1,0 +1,68 @@
+T1	Symptom 0 31	Hemorrhage and/or Microaneurysm
+T2	Diagnostic_tool 54 76	Ultrawide Field Images
+T3	Disease 97 117	Diabetic Retinopathy
+T4	Classification_system 118 123	Study
+T5	Diagnostic_tool 124 135	Photography
+T6	Symptom 163 194	hemorrhage and/or microaneurysm
+T7	Symptom 196 200	H/Ma
+T8	Diagnostic_tool 208 245	ultrawide field (UWF) retinal imaging
+T9	Diagnostic_tool 272 342	Early Treatment Diabetic Retinopathy Study (ETDRS) 7-field photographs
+T10	Diagnostic_tool 344 356	ETDRS photos
+T11	Diagnostic_tool 392 402	UWF images
+T12	Diagnostic_tool 407 419	ETDRS photos
+T13	Anatomy 444 448	eyes
+T14	Disease 472 492	diabetic retinopathy
+T15	Disease 494 496	DR
+T16	Disease 501 537	mild or moderate nonproliferative DR
+T17	Disease 539 543	NPDR
+T18	Diagnostic_tool 546 574	Stereoscopic 200° UWF images
+T19	Diagnostic_tool 579 626	stereoscopic 35mm 30° 7-field color photographs
+T20	Symptom 712 716	H/Ma
+T21	Symptom 718 723	H/Mas
+T22	Classification_system 740 745	ETDRS
+T23	Diagnostic_tool 746 752	fields
+T24	Diagnostic_tool 768 780	ETDRS photos
+T25	Diagnostic_tool 785 795	UWF images
+T26	Symptom 797 802	H/Mas
+T27	Anatomy 810 831	UWF peripheral fields
+T28	Symptom 912 916	H/Ma
+T29	Characteristic 936 948	ETDRS fields
+T30	Diagnostic_tool 963 973	UWF images
+T31	Diagnostic_tool 978 990	ETDRS photos
+T32	Disease 1008 1010	DR
+T33	Diagnostic_tool 1023 1035	ETDRS photos
+T34	Characteristic 1051 1056	no DR
+T35	Disease 1069 1078	mild NPDR
+T36	Disease 1095 1108	moderate NPDR
+T37	Symptom 1165 1170	H/Mas
+T38	Diagnostic_tool 1174 1186	ETDRS photos
+T39	Diagnostic_tool 1191 1201	UWF images
+T40	Symptom 1250 1254	H/Ma
+T41	Symptom 1527 1531	H/Ma
+T42	Diagnostic_tool 1541 1551	UWF images
+T43	Diagnostic_tool 1578 1590	ETDRS photos
+T44	Diagnostic_tool 1592 1595	UWF
+T45	Diagnostic_tool 1645 1655	UWF images
+T46	Diagnostic_tool 1660 1672	ETDRS photos
+T47	Symptom 1702 1707	H/Mas
+T48	Diagnostic_tool 1730 1742	ETDRS photos
+T49	Diagnostic_tool 1755 1765	UWF images
+T50	Symptom 1805 1810	H/Mas
+T51	Anatomy 1865 1882	peripheral fields
+T52	Diagnostic_tool 1890 1900	UWF images
+T53	Diagnostic_tool 1947 1957	UWF images
+T54	Diagnostic_tool 1962 1974	ETDRS photos
+T55	Symptom 1990 1994	H/Ma
+T56	Symptom 2035 2039	H/Ma
+T57	Diagnostic_tool 2054 2065	ETDRS photo
+T58	Characteristic 2074 2095	UWF peripheral fields
+T59	Symptom 2118 2122	H/Ma
+T60	Symptom 2149 2153	H/Ma
+T61	Anatomy 2166 2170	eyes
+T62	Anatomy 2213 2230	peripheral fields
+T63	Symptom 2267 2271	H/Ma
+T64	Symptom 2276 2294	peripheral lesions
+T65	Symptom 2314 2318	H/Ma
+T66	Diagnostic_tool 2325 2335	UWF images
+T67	Disease 2382 2384	DR
+T68	Disease 2447 2449	DR

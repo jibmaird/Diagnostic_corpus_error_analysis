@@ -1,0 +1,14 @@
+T4	Symptom 230 248	acquired blindness
+T5	Characteristic 255 279	Americans of working age
+T6	Disease 464 488	Type I diabetes mellitus
+T7	Anatomy 728 731	eye
+T8	Disease 877 911	proliferative diabetic retinopathy
+T9	Disease 961 997	clinically significant macular edema
+T10	Disease 1096 1104	diabetes
+T12	Disease 1374 1382	diabetes
+T11	Disease 1157 1165	diabetes
+T13	Disease 1595 1603	Diabetes
+T1	Disease 23 34	retinopathy
+T2	Disease 52 76	type I diabetes mellitus
+T3	Disease 185 205	Diabetic retinopathy
+R1	Has_risk_factor Arg1:T3 Arg2:T5

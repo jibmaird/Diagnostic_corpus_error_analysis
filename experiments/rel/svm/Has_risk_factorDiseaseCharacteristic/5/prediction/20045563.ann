@@ -1,0 +1,35 @@
+T21	Anatomy 1110 1129	outer nuclear layer
+T20	Anatomy 1096 1099	PRL
+T23	Anatomy 1337 1340	ONL
+T22	Anatomy 1131 1134	ONL
+T25	Anatomy 1446 1449	PRL
+T24	Anatomy 1381 1407	external limiting membrane
+T27	Symptom 1465 1484	morphologic changes
+T26	Anatomy 1454 1457	RPE
+T29	Symptom 1539 1564	central retinal thickness
+T28	Symptom 1498 1515	biometric changes
+T1	Anatomy 8 26	retinal morphology
+T2	Disease 57 79	diabetic macular edema
+T3	Symptom 111 143	intraretinal morphologic changes
+T4	Diagnostic_tool 198 242	spectral domain optical coherence tomography
+T5	Diagnostic_tool 244 250	SD OCT
+T6	Disease 355 377	diabetic macular edema
+T7	Disease 379 382	DME
+T8	Diagnostic_tool 530 544	Spectralis OCT
+T9	Diagnostic_tool 616 635	eye-tracking system
+T30	Symptom 1579 1614	local thickening at the lesion site
+T10	Diagnostic_tool 637 660	infrared fundus imaging
+T32	Diagnostic_tool 1639 1683	Spectral domain optical coherence tomography
+T31	Anatomy 1634 1637	PRL
+T12	Diagnostic_tool 692 705	biomicroscopy
+T34	Anatomy 1884 1912	neurosensoric retinal layers
+T11	Diagnostic_tool 662 686	color fundus photography
+T33	Symptom 1724 1743	morphologic changes
+T14	Diagnostic_tool 820 843	fluorescein angiography
+T13	Diagnostic_tool 737 750	visual acuity
+T35	Symptom 1914 1931	Biometric changes
+T16	Anatomy 1002 1022	outer retinal layers
+T15	Symptom 872 891	Morphologic changes
+T18	Anatomy 1065 1068	RPE
+T17	Anatomy 1037 1063	retinal pigment epithelium
+T19	Anatomy 1075 1094	photoreceptor layer

@@ -1,0 +1,34 @@
+T21	Diagnostic_tool 1578 1595	ETDRS photos (UWF
+T20	Symptom 1527 1551	H/Ma level in UWF images
+T23	Diagnostic_tool 1724 1765	using ETDRS photos and 48.8 in UWF images
+T22	Diagnostic_tool 1645 1672	UWF images and ETDRS photos
+T25	Diagnostic_tool 1947 1957	UWF images
+T24	Symptom 1828 1900	P  <  0.0001) were identified in the peripheral fields of the UWF images
+T27	Characteristic 2035 2072	H/Ma counts within ETDRS photo fields
+T26	Diagnostic_tool 1962 1974	ETDRS photos
+T29	Symptom 2118 2153	H/Ma, suggesting a more severe H/Ma
+T28	Characteristic 2074 2095	UWF peripheral fields
+T1	Classification_system 0 135	Hemorrhage and/or Microaneurysm Severity and Count in Ultrawide Field Images and Early Treatment Diabetic Retinopathy Study Photography
+T2	Diagnostic_tool 163 245	hemorrhage and/or microaneurysm (H/Ma) using ultrawide field (UWF) retinal imaging
+T3	Diagnostic_tool 272 356	Early Treatment Diabetic Retinopathy Study (ETDRS) 7-field photographs (ETDRS photos
+T4	Diagnostic_tool 392 402	UWF images
+T5	Diagnostic_tool 407 419	ETDRS photos
+T6	Disease 469 492	no diabetic retinopathy
+T7	Disease 494 537	DR) or mild or moderate nonproliferative DR
+T8	Disease 539 543	NPDR
+T9	Diagnostic_tool 546 626	Stereoscopic 200° UWF images and stereoscopic 35mm 30° 7-field color photographs
+T30	Anatomy 2166 2170	eyes
+T10	Symptom 712 716	H/Ma
+T32	Diagnostic_tool 2325 2335	UWF images
+T31	Symptom 2182 2318	additional lesions detected in peripheral fields and the known risks associated with H/Ma and peripheral lesions, quantification of H/Ma
+T12	Characteristic 797 831	H/Mas in the UWF peripheral fields
+T34	Disease 2447 2449	DR
+T11	Diagnostic_tool 768 795	ETDRS photos and UWF images
+T33	Disease 2382 2392	DR disease
+T14	Diagnostic_tool 978 990	ETDRS photos
+T13	Symptom 912 973	H/Ma within and outside ETDRS fields identified in UWF images
+T16	Diagnostic_tool 1023 1035	ETDRS photos
+T15	Disease 1008 1010	DR
+T18	Diagnostic_tool 1174 1201	ETDRS photos and UWF images
+T17	Characteristic 1054 1108	DR, 48 (38.1%) mild NPDR, and 54 (42.9%) moderate NPDR
+T19	Characteristic 1238 1254	severity of H/Ma

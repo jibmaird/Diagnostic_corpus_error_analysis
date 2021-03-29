@@ -1,0 +1,42 @@
+T1	Characteristic 0 26	In vivo retinal morphology
+T2	Disease 57 79	diabetic macular edema
+T3	Symptom 111 143	intraretinal morphologic changes
+T4	Diagnostic_tool 198 242	spectral domain optical coherence tomography
+T5	Diagnostic_tool 244 250	SD OCT
+T6	Disease 332 377	clinically significant diabetic macular edema
+T7	Disease 379 382	DME
+T8	Diagnostic_tool 453 459	PASCAL
+T9	Diagnostic_tool 468 486	Pattern Scan Laser
+T10	Diagnostic_tool 530 544	Spectralis OCT
+T11	Diagnostic_tool 616 628	eye-tracking
+T12	Diagnostic_tool 637 660	infrared fundus imaging
+T13	Diagnostic_tool 662 686	color fundus photography
+T14	Diagnostic_tool 692 705	biomicroscopy
+T15	Diagnostic_tool 737 761	visual acuity assessment
+T16	Disease 779 799	Diabetic Retinopathy
+T17	Diagnostic_tool 820 843	fluorescein angiography
+T18	Symptom 884 891	changes
+T19	Characteristic 966 1001	morphologic alterations of only the
+T20	Anatomy 1002 1007	outer
+T21	Characteristic 1008 1022	retinal layers
+T22	Anatomy 1037 1063	retinal pigment epithelium
+T23	Anatomy 1065 1068	RPE
+T24	Anatomy 1075 1094	photoreceptor layer
+T25	Anatomy 1096 1099	PRL
+T26	Anatomy 1110 1129	outer nuclear layer
+T27	Anatomy 1131 1134	ONL
+T28	Symptom 1169 1190	laser-induced lesions
+T29	Anatomy 1337 1340	ONL
+T30	Anatomy 1381 1407	external limiting membrane
+T31	Anatomy 1446 1449	PRL
+T32	Anatomy 1454 1457	RPE
+T33	Symptom 1477 1484	changes
+T34	Symptom 1498 1515	biometric changes
+T35	Symptom 1527 1538	decrease in
+T36	Characteristic 1539 1564	central retinal thickness
+T37	Symptom 1579 1598	local thickening at
+T38	Symptom 1603 1614	lesion site
+T39	Anatomy 1634 1637	PRL
+T40	Diagnostic_tool 1639 1683	Spectral domain optical coherence tomography
+T41	Diagnostic_tool 1776 1782	PASCAL
+T42	Anatomy 1884 1912	neurosensoric retinal layers

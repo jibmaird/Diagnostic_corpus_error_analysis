@@ -1,0 +1,11 @@
+T4	Diagnostic_tool 346 357	Photography
+T5	Diagnostic_tool 385 399	ophthalmoscopy
+T6	Disease 413 430	early retinopathy
+T10	Disease 693 718	Proliferative retinopathy
+T7	Disease 462 473	Retinopathy
+T8	Disease 506 514	diabetes
+T9	Characteristic 540 640	prevalence of retinopathy rose in sigmoidal fashion, reaching 50% at just over seven years duration,
+T11	Disease 948 959	retinopathy
+T1	Characteristic 4 79	natural history of retinopathy in insulin-dependent juvenile-onset diabetes
+T2	Disease 135 146	retinopathy
+T3	Diagnostic_tool 263 344	ophthalmoscopy, photography, and fluorescein angiography in detecting retinopathy

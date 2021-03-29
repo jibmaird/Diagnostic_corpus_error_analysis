@@ -1,0 +1,35 @@
+T1	Symptom 98 118	visual field defects
+T2	Disease 122 130	glaucoma
+T3	Symptom 193 212	visual field damage
+T4	Symptom 214 217	VFD
+T5	Disease 222 230	glaucoma
+T6	Characteristic 356 368	visual field
+T7	Characteristic 370 372	VF
+T8	Disease 392 400	glaucoma
+T9	Symptom 547 550	VFD
+T10	Anatomy 569 573	eyes
+T11	Disease 581 600	open-angle glaucoma
+T12	Disease 602 605	OAG
+T13	Disease 621 632	progressing
+T14	Disease 633 636	VFD
+T15	Anatomy 645 649	eyes
+T16	Disease 668 678	stable OAG
+T17	Characteristic 692 694	VF
+T18	Characteristic 787 802	total deviation
+T19	Characteristic 804 806	TD
+T20	Characteristic 809 823	mean deviation
+T21	Characteristic 830 854	mean TD of a sectored VF
+T22	Disease 889 906	Advanced Glaucoma
+T23	Diagnostic_tool 950 957	VF test
+T24	Disease 1006 1016	stable OAG
+T25	Anatomy 1017 1021	eyes
+T26	Disease 1155 1177	stable glaucomatous VF
+T27	Diagnostic_tool 1265 1274	VF series
+T28	Diagnostic_tool 1329 1358	stable glaucomatous VF series
+T29	Characteristic 1474 1482	TD slope
+T30	Diagnostic_tool 1800 1811	sectored VF
+T31	Diagnostic_tool 1881 1885	AGIS
+T32	Diagnostic_tool 2018 2045	mathematically sectored VFs
+T33	Characteristic 2213 2221	TD slope
+T34	Diagnostic_tool 2266 2277	AGIS method
+T35	Diagnostic_tool 2323 2333	VF sectors

@@ -1,0 +1,22 @@
+T4	Diagnostic_tool 237 240	OCT
+T5	Anatomy 323 327	eyes
+T6	Anatomy 353 357	eyes
+T7	Diagnostic_tool 385 403	Fourier-domain OCT
+T8	Diagnostic_tool 673 676	OCT
+T9	Diagnostic_tool 851 854	OCT
+T10	Symptom 901 937	follow up structural corneal changes
+T21	Diagnostic_tool 2235 2263	Optical coherence tomography
+T20	Diagnostic_tool 2222 2225	OCT
+T12	Diagnostic_tool 1056 1059	OCT
+T11	Characteristic 957 983	structural corneal changes
+T22	Symptom 2299 2347	structural changes occurring in keratoconus eyes
+T14	Symptom 1202 1251	normal epithelial and stromal layers at the conus
+T13	Diagnostic_tool 1070 1088	Fourier-domain OCT
+T16	Symptom 1500 1552	increased epithelial thickening and stromal thinning
+T15	Symptom 1343 1377	epithelial thickening at the conus
+T18	Symptom 1957 2163	paraclinical characteristics of keratoconus, including visual acuity, corneal epithelium and stromal thickness changes, corneal topography, biomechanical corneal characteristics, and microstructural changes
+T17	Symptom 1627 1844	acute onset: Descemet's membrane rupture and dilaceration of collagen lamellae with large fluid-filled intrastromal cysts; 5b, healing stage: pan-stromal scarring with a remaining aspect of Descemet's membrane rupture
+T1	Diagnostic_tool 0 103	Fourier-domain optical coherence tomography imaging in keratoconus: a corneal structural classification
+T19	Diagnostic_tool 2176 2195	confocal microscopy
+T2	Symptom 123 176	morphologic changes in a large keratoconic population
+T3	Diagnostic_tool 196 235	structural optical coherence tomography

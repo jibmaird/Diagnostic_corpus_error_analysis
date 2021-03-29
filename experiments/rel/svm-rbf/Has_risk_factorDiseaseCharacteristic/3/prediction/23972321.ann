@@ -1,0 +1,28 @@
+T21	Characteristic 1261 1271	CLDN5 gene
+T20	Disease 1240 1244	CCDD
+T23	Disease 1356 1364	glaucoma
+T22	Characteristic 1306 1311	CLDN5
+T25	Characteristic 1408 1428	duplication of 22q11
+T24	Anatomy 1387 1393	ocular
+T27	Symptom 1506 1533	retinal vascular tortuosity
+T26	Disease 1500 1504	CCDD
+T28	Disease 1539 1547	glaucoma
+T1	Anatomy 0 6	Ocular
+T2	Characteristic 25 49	22q11.2 microduplication
+T3	Anatomy 68 74	ocular
+T4	Disease 96 113	dup22q11 syndrome
+T5	Characteristic 212 216	male
+T6	Characteristic 260 270	dup22q11.2
+T7	Diagnostic_tool 335 394	oligo-single nucleotide polymorphism chromosomal microarray
+T8	Diagnostic_tool 597 607	Microarray
+T9	Characteristic 744 754	dup22q11.2
+T10	Disease 766 789	Marcus Gunn jaw winking
+T12	Symptom 830 852	abnormal eye movements
+T11	Disease 791 818	Duane's retraction syndrome
+T14	Disease 915 919	CCDD
+T13	Disease 871 913	congenital cranial dysinnervation disorder
+T16	Disease 955 981	primary infantile glaucoma
+T15	Symptom 922 949	retinal vascular tortuosity
+T18	Symptom 1079 1106	retinal vascular tortuosity
+T17	Characteristic 1025 1031	SNAP29
+T19	Characteristic 1112 1117	MAPK1

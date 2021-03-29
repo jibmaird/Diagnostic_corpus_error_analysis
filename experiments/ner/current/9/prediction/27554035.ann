@@ -1,0 +1,49 @@
+T1	Disease 45 72	Primary Open-Angle Glaucoma
+T2	Characteristic 76 79	Men
+T3	Symptom 134 144	Tooth loss
+T4	Disease 148 167	periodontal disease
+T5	Symptom 187 219	systemic endothelial dysfunction
+T6	Disease 250 277	primary open-angle glaucoma
+T7	Disease 279 283	POAG
+T8	Characteristic 311 322	oral health
+T9	Disease 327 331	POAG
+T10	Characteristic 407 426	oral health history
+T11	Disease 439 443	POAG
+T12	Disease 448 452	POAG
+T13	Characteristic 547 550	men
+T14	Characteristic 646 660	aged 40+ years
+T15	Disease 675 679	POAG
+T16	Anatomy 694 697	eye
+T17	Characteristic 787 800	natural teeth
+T18	Symptom 802 812	teeth lost
+T19	Disease 814 833	periodontal disease
+T20	Symptom 834 848	with bone loss
+T21	Disease 917 921	POAG
+T22	Diagnostic_tool 942 957	medical records
+T23	Characteristic 998 1018	intraocular pressure
+T24	Characteristic 1020 1023	IOP
+T25	Dimension 1025 1040	≥ or  < 22 mmHg
+T26	Symptom 1045 1067	visual field (VF) loss
+T27	Symptom 1090 1105	peripheral loss
+T28	Symptom 1114 1136	early paracentral loss
+T29	Characteristic 1169 1174	MVRRs
+T30	Characteristic 1234 1236	of
+T31	Characteristic 1237 1250	natural teeth
+T32	Disease 1252 1271	periodontal disease
+T33	Characteristic 1277 1297	root canal treatment
+T34	Disease 1323 1327	POAG
+T35	Symptom 1365 1375	tooth loss
+T36	Symptom 1389 1401	losing teeth
+T37	Disease 1476 1480	POAG
+T38	Symptom 1558 1570	losing teeth
+T39	Disease 1607 1626	periodontal disease
+T40	Disease 1677 1681	POAG
+T41	Symptom 1732 1742	tooth loss
+T42	Disease 1784 1788	POAG
+T43	Disease 1883 1887	POAG
+T44	Characteristic 1902 1916	IOP  < 22 mmHg
+T45	Symptom 1953 1978	early paracentral VF loss
+T46	Characteristic 2025 2048	number of natural teeth
+T47	Disease 2081 2085	POAG
+T48	Symptom 2094 2104	tooth loss
+T49	Disease 2146 2150	POAG

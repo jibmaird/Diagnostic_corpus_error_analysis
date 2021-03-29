@@ -1,0 +1,33 @@
+T21	Disease 1353 1356	PDR
+T20	Anatomy 1343 1347	eyes
+T23	Disease 1406 1417	severe NPDR
+T22	Anatomy 1375 1379	eyes
+T25	Characteristic 1557 1596	general older onset diabetic population
+T24	Disease 1457 1460	PDR
+T27	Disease 1709 1722	NPDR or worse
+T26	Disease 1639 1642	PDR
+T29	Characteristic 1957 2005	disc diameter of the macular center detects CSME
+T28	Characteristic 1836 1858	older onset population
+T1	Disease 58 66	diabetes
+T2	Disease 87 117	vision-threatening retinopathy
+T3	Anatomy 281 297	posterior fundus
+T4	Disease 319 327	diabetes
+T5	Disease 337 348	retinopathy
+T6	Anatomy 383 386	eye
+T7	Diagnostic_tool 435 503	Early Treatment Diabetic Retinopathy Study (ETDRS) photographic data
+T8	Diagnostic_tool 514 533	fundus photographic
+T9	Disease 571 579	diabetes
+T30	Symptom 2061 2118	moderate or worse severity anywhere in the macular region
+T10	Disease 750 784	proliferative diabetic retinopathy
+T32	Anatomy 2256 2272	posterior fundus
+T31	Disease 2138 2142	CSME
+T12	Disease 794 830	clinically significant macular edema
+T11	Disease 786 789	PDR
+T33	Disease 2332 2362	vision-threatening retinopathy
+T14	Anatomy 1009 1012	eye
+T13	Disease 832 836	CSME
+T16	Disease 1101 1105	NPDR
+T15	Disease 1055 1099	severe nonproliferative diabetic retinopathy
+T18	Diagnostic_tool 1131 1149	fundus photographs
+T17	Characteristic 1108 1120	PDR, or CSME
+T19	Symptom 1151 1307	Hemorrhages and microaneurysms (h/ma) temporal to the macula (photographic field 3), as severe as or more severe than ETDRS standard photograph 1 (h/ma 3  >

@@ -1,0 +1,11 @@
+T4	Disease 331 347	idiopathic AEPVM
+T5	Disease 532 548	idiopathic AEPVM
+T6	Characteristic 577 650	Eighteen patients (age range, 21-74 years) with typical features of AEPVM
+T10	Disease 1475 1501	Paraneoplastic retinopathy
+T7	Symptom 731 792	characteristic yellow-white deposits in the vitelliform space
+T8	Symptom 1080 1293	fluorescein-negative intraretinal cystic changes, choroidal neovascularization, serous retinal elevations mimicking retinal folds, increased choroidal thickness, lack of rapid visual recovery, and recurrence years
+T9	Disease 1353 1399	exudative polymorphous vitelliform maculopathy
+T11	Symptom 1685 1841	AEPVM expands the clinical spectrum of the disorder, including demographics, clinical manifestations, imaging features, natural course, and visual prognosis
+T1	Diagnostic_tool 0 121	Idiopathic Acute Exudative Polymorphous Vitelliform Maculopathy: Clinical Spectrum and Multimodal Imaging Characteristics
+T2	Disease 171 223	acute exudative polymorphous vitelliform maculopathy
+T3	Disease 225 230	AEPVM

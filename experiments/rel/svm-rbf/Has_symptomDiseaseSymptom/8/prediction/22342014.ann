@@ -1,0 +1,73 @@
+T61	Characteristic 2108 2131	photoreceptor integrity
+T60	Disease 2088 2098	severe DME
+T62	Diagnostic_tool 2194 2200	SD-OCT
+T21	Diagnostic_tool 801 807	SD-OCT
+T20	Diagnostic_tool 790 792	VA
+T23	Characteristic 854 857	CMT
+T22	Characteristic 827 852	central macular thickness
+T25	Characteristic 895 938	integrity of the external limiting membrane
+T24	Characteristic 860 889	outer nuclear layer thickness
+T27	Characteristic 954 1036	integrity of the junction between the inner and outer segment of the photoreceptor
+T26	Anatomy 940 943	ELM
+T29	Characteristic 1046 1055	Better VA
+T28	Anatomy 1038 1043	IS/OS
+T30	Characteristic 1057 1091	preservation of the ELM, and IS/OS
+T32	Disease 1157 1160	DME
+T31	Characteristic 1121 1130	better VA
+T34	Symptom 1214 1227	increased FAF
+T33	Disease 1162 1183	cystoid macular edema
+T36	Symptom 1246 1265	higher level of FAF
+T35	Anatomy 1235 1242	foveola
+T38	Symptom 1315 1330	defect in IS/OS
+T37	Disease 1304 1307	DME
+T39	Dimension 1375 1380	10-μm
+T41	Characteristic 1438 1482	logarithm of the minimum angle of resolution
+T40	Characteristic 1393 1396	CMT
+T43	Symptom 1529 1537	high FAF
+T42	Characteristic 1484 1490	logMAR
+T45	Anatomy 1585 1589	eyes
+T44	Disease 1567 1577	severe DME
+T47	Symptom 1627 1639	IS/OS defect
+T46	Symptom 1597 1613	low level of FAF
+T49	Anatomy 1665 1669	eyes
+T48	Symptom 1644 1659	large logMAR VA
+T1	Diagnostic_tool 15 38	fundus autofluorescence
+T2	Diagnostic_tool 44 88	spectral-domain optical coherence tomography
+T3	Disease 103 125	diabetic macular edema
+T4	Diagnostic_tool 167 190	fundus autofluorescence
+T5	Diagnostic_tool 192 195	FAF
+T6	Diagnostic_tool 216 260	spectral-domain optical coherence tomography
+T7	Diagnostic_tool 262 268	SD-OCT
+T8	Diagnostic_tool 281 294	visual acuity
+T9	Diagnostic_tool 296 298	VA
+T50	Symptom 1677 1694	high level of FAF
+T52	Characteristic 1724 1744	average grade of FAF
+T51	Disease 1700 1710	severe DME
+T10	Disease 317 339	diabetic macular edema
+T54	Characteristic 1860 1871	good vision
+T53	Symptom 1781 1797	decreased vision
+T12	Disease 461 464	DME
+T56	Diagnostic_tool 1908 1914	SD-OCT
+T11	Disease 341 344	DME
+T55	Diagnostic_tool 1899 1902	FAF
+T14	Diagnostic_tool 573 576	FAF
+T58	Disease 1950 1953	DME
+T13	Diagnostic_tool 566 568	VA
+T57	Diagnostic_tool 1930 1932	VA
+T16	Diagnostic_tool 651 661	Foveal FAF
+T15	Diagnostic_tool 581 587	SD-OCT
+T59	Characteristic 2004 2027	photoreceptor integrity
+T18	Anatomy 733 740	foveola
+T17	Diagnostic_tool 722 725	FAF
+T19	Diagnostic_tool 781 784	FAF
+R2	Has_symptom Arg1:T37 Arg2:T36
+R10	Has_symptom Arg1:T37 Arg2:T38
+R3	Has_symptom Arg1:T44 Arg2:T46
+R4	Has_symptom Arg1:T44 Arg2:T48
+R5	Has_symptom Arg1:T51 Arg2:T47
+R11	Has_symptom Arg1:T33 Arg2:T34
+R6	Has_symptom Arg1:T51 Arg2:T50
+R7	Has_symptom Arg1:T51 Arg2:T48
+R8	Has_symptom Arg1:T51 Arg2:T46
+R9	Has_symptom Arg1:T44 Arg2:T47
+R1	Has_symptom Arg1:T32 Arg2:T34

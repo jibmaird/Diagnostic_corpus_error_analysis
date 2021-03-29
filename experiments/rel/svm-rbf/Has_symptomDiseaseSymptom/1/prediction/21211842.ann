@@ -1,0 +1,33 @@
+T21	Disease 1298 1301	EED
+T20	Disease 1237 1281	progressive keratolysis with pseudopterygium
+T23	Disease 1411 1437	Erythema elevatum diutinum
+T22	Symptom 1350 1378	cutaneous and ocular lesions
+T25	Symptom 1494 1532	dermatologic and ocular manifestations
+T24	Disease 1443 1479	rare, chronic, and recurrent disease
+T27	Disease 1654 1657	EED
+T26	Symptom 1534 1565	Peripheral ulcerative keratitis
+T28	Disease 1745 1793	ulcerative or nonulcerative peripheral keratitis
+T1	Disease 0 44	Progressive keratolysis with pseudopterygium
+T2	Disease 61 87	erythema elevatum diutinum
+T3	Disease 130 174	progressive keratolysis with pseudopterygium
+T4	Disease 191 217	erythema elevatum diutinum
+T5	Disease 219 222	EED
+T6	Disease 315 318	EED
+T7	Characteristic 337 348	64-year-old
+T8	Characteristic 349 354	woman
+T9	Disease 370 389	recurrent pterygium
+T10	Symptom 394 461	painful corneal thinning with impending perforation of the left eye
+T12	Symptom 520 566	paracentral and peripheral corneal ulcerations
+T11	Symptom 494 518	inflamed pseudopterygium
+T14	Symptom 685 733	skin lesions developed during hospital admission
+T13	Symptom 572 609	descemetocele with a pinpoint leakage
+T16	Diagnostic_tool 964 975	skin biopsy
+T15	Symptom 756 960	multiple, well-demarcated, discrete, red to violaceous, firm nodules and plaques on the knuckles and dorsum of the hands, and the extensor surface of the forearms, elbows, knees, right ankle, and buttocks
+T18	Symptom 1071 1180	neutrophilic infiltrates and nuclear dust (leukocytoclasis), located around small blood vessels in the dermis
+T17	Symptom 1007 1055	dense and diffuse inflammatory cell infiltration
+T19	Disease 1215 1218	EED
+R2	Has_symptom Arg1:T23 Arg2:T25
+R3	Has_symptom Arg1:T27 Arg2:T26
+R4	Has_symptom Arg1:T24 Arg2:T25
+R5	Has_symptom Arg1:T19 Arg2:T18
+R1	Has_symptom Arg1:T9 Arg2:T10

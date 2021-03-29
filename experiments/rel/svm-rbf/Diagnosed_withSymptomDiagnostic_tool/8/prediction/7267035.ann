@@ -1,0 +1,10 @@
+T4	Anatomy 162 168	fundus
+T5	Diagnostic_tool 222 249	conventional ophthalmoscopy
+T6	Anatomy 296 302	fundus
+T10	Anatomy 431 439	vitreous
+T7	Disease 313 330	asteroid hyalosis
+T8	Diagnostic_tool 342 372	fundus fluorescein angiography
+T9	Symptom 378 393	asteroid bodies
+T1	Symptom 20 29	asteroids
+T2	Disease 75 92	asteroid hyalosis
+T3	Disease 108 116	diabetes

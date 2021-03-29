@@ -1,0 +1,27 @@
+T21	Diagnostic_tool 2124 2127	OCT
+T20	Symptom 1907 2057	global circumpapillary retinal nerve fiber layer thinning rate correlated significantly with the global and inferotemporal sector GCIPL thinning rates
+T23	Characteristic 2237 2279	GCIPL thinning rate of the temporal sector
+T22	Disease 2171 2179	glaucoma
+T25	Characteristic 2450 2465	GCIPL thickness
+T24	Symptom 2361 2380	glaucomatous damage
+T27	Disease 2501 2509	glaucoma
+T26	Diagnostic_tool 2469 2472	OCT
+T1	Diagnostic_tool 24 109	Ganglion Cell-Inner Plexiform Layer Thickness Changes on Optical Coherence Tomography
+T2	Disease 113 121	Glaucoma
+T3	Diagnostic_tool 172 257	ganglion cell-inner plexiform layer (GCIPL) thickness by optical coherence tomography
+T4	Diagnostic_tool 259 262	OCT
+T5	Disease 267 279	glaucomatous
+T6	Anatomy 280 284	eyes
+T7	Disease 369 377	glaucoma
+T8	Disease 450 477	primary open-angle glaucoma
+T9	Diagnostic_tool 527 546	spectral-domain OCT
+T10	Characteristic 562 577	GCIPL thickness
+T12	Symptom 749 854	GCIPL thinning in the global region, affected hemifield, and 6 macular sectors, and the minimum thickness
+T11	Diagnostic_tool 685 734	serial red-free photography or visual field tests
+T14	Symptom 1123 1136	macular GCIPL
+T13	Characteristic 926 987	area under the receiver operating characteristic curves (AUCs
+T16	Characteristic 1276 1582	GCIPL thinning rate was significantly faster in progressors than in nonprogressors in the global area (P  <  0.001); in the affected hemifield (P = 0.001); in the temporal, vertical, and nasal sectors of the affected hemifield (P = 0.017, 0.032, and 0.030, respectively); and in the minimum GCIPL thickness
+T15	Disease 1250 1258	glaucoma
+T18	Characteristic 1627 1647	GCIPL thinning rates
+T17	Anatomy 1605 1621	temporal sectors
+T19	Characteristic 1745 1885	GCIPL parameters were the global (AUC = 0.791), minimum (AUC = 0.755), inferior hemifield (AUC = 0.708), and affected hemifield (AUC = 0.702

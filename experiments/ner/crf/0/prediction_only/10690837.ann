@@ -1,0 +1,18 @@
+T4	Anatomy 280 284	eyes
+T5	Disease 317 351	circumscribed choroidal hemangioma
+T6	Diagnostic_tool 353 433	Indocyanine green videoangiography and intravenous fluorescein angiography (IVFA
+T7	Disease 540 544	IVFA
+T8	Diagnostic_tool 621 635	ICG-V and IVFA
+T9	Characteristic 640 711	ICG-V, earliest hyperfluorescence of circumscribed choroidal hemangioma
+T10	Characteristic 730 855	mean of 27.6 seconds (range, 13-62 seconds), whereas maximum hyperfluorescence occurred at 222 seconds (range, 33-707 seconds
+T12	Anatomy 950 954	eyes
+T11	Anatomy 882 886	eyes
+T14	Characteristic 1221 1355	mean of 24 seconds (range, 10-66 seconds), whereas maximum hyperfluorescence occurred at a mean of 76.3 seconds (range, 21-720 seconds
+T13	Characteristic 1023 1155	ICG-V included intrinsic vessels in 19 eyes (76%), a late hyperfluorescent rim in 19 eyes (76%), and late frame hot spots in 14 eyes
+T16	Diagnostic_tool 1607 1612	ICG-V
+T15	Characteristic 1454 1531	intrinsic vessels in 12 eyes (48%) and hot spots in the late frames in 9 eyes
+T18	Disease 1732 1752	choroidal hemangioma
+T17	Diagnostic_tool 1642 1646	IVFA
+T1	Disease 0 50	Circumscribed choroidal hemangioma: characteristic
+T2	Diagnostic_tool 65 99	indocyanine green videoangiography
+T3	Diagnostic_tool 146 226	indocyanine green videoangiography (ICG-V) of circumscribed choroidal hemangioma

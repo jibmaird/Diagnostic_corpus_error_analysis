@@ -1,0 +1,34 @@
+T1	Disease 42 49	Atrophy
+T2	Disease 63 80	Stargardt Disease
+T3	Disease 269 286	Stargardt disease
+T4	Disease 288 293	STGD1
+T5	Characteristic 395 417	aged 6 years and older
+T6	Characteristic 465 482	in the ABCA4 gene
+T7	Symptom 502 516	ocular lesions
+T8	Characteristic 553 566	United States
+T9	Diagnostic_tool 720 743	fundus autofluorescence
+T10	Diagnostic_tool 745 748	FAF
+T11	Diagnostic_tool 751 800	spectral-domain (SD) optical coherence tomography
+T12	Diagnostic_tool 802 808	SD OCT
+T13	Diagnostic_tool 818 832	microperimetry
+T14	Diagnostic_tool 834 836	MP
+T15	Characteristic 932 943	Demographic
+T16	Characteristic 948 961	visual acuity
+T17	Characteristic 963 965	VA
+T18	Diagnostic_tool 1158 1226	Early Treatment Diabetic Retinopathy Study (ETDRS) best-corrected VA
+T19	Diagnostic_tool 1228 1234	SD OCT
+T20	Diagnostic_tool 1236 1239	FAF
+T21	Diagnostic_tool 1245 1247	MP
+T22	Disease 1325 1330	STGD1
+T23	Characteristic 1470 1482	demographics
+T24	Characteristic 1488 1529	structural and functional retinal metrics
+T25	Anatomy 1579 1583	eyes
+T26	Symptom 1682 1694	mild VA loss
+T27	Anatomy 1717 1721	eyes
+T28	Symptom 1746 1772	decreased autofluorescence
+T29	Symptom 1774 1778	DDAF
+T30	Dimension 1814 1823	±2.9 mm(2
+T31	Anatomy 1889 1893	eyes
+T32	Symptom 1962 1974	mild VA loss
+T33	Symptom 1997 2001	DDAF
+T34	Diagnostic_tool 2108 2110	MP

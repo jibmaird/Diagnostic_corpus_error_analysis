@@ -1,0 +1,33 @@
+T21	Characteristic 1339 1342	IOP
+T20	Characteristic 1167 1170	CCT
+T23	Characteristic 1486 1489	CCT
+T22	Characteristic 1356 1359	CCT
+T25	Characteristic 1580 1591	CCT or not,
+T24	Characteristic 1554 1557	IOP
+T27	Characteristic 1684 1687	CCT
+T26	Characteristic 1657 1660	CCT
+T29	Characteristic 1770 1773	CCT
+T28	Characteristic 1753 1756	IOP
+T1	Characteristic 35 60	central corneal thickness
+T2	Disease 100 127	primary open-angle glaucoma
+T3	Disease 215 242	primary open-angle glaucoma
+T4	Disease 244 248	POAG
+T5	Disease 267 286	ocular hypertension
+T6	Characteristic 317 337	intraocular pressure
+T7	Characteristic 339 342	IOP
+T8	Characteristic 348 373	central corneal thickness
+T9	Characteristic 375 378	CCT
+T30	Disease 1843 1847	POAG
+T10	Disease 448 452	POAG
+T32	Characteristic 1929 1932	CCT
+T31	Characteristic 1921 1924	IOP
+T12	Characteristic 535 538	CCT
+T11	Diagnostic_tool 462 521	Ocular Hypertension Treatment Study (OHTS) substituting IOP
+T33	Characteristic 2008 2011	CCT
+T14	Characteristic 726 806	IOP, CCT, vertical cup-to-disc ratio (VCDR), and pattern standard deviation (PSD
+T13	Symptom 688 724	factors in the prediction model: age
+T16	Characteristic 900 914	variables (age
+T15	Disease 871 875	POAG
+T18	Characteristic 974 977	CCT
+T17	Characteristic 916 956	IOP, CCT, VCDR, and PSD) except that IOP
+T19	Characteristic 1078 1081	CCT

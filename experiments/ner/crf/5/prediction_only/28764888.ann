@@ -1,0 +1,19 @@
+T4	Classification_system 290 325	Diabetic Retinopathy Severity Scale
+T5	Characteristic 327 369	DRSS) score at week 100 in VISTA and VIVID
+T6	Diagnostic_tool 429 444	VISTA and VIVID
+T7	Disease 473 511	center-involved diabetic macular edema
+T8	Disease 513 516	DME
+T9	Diagnostic_tool 519 534	VISTA and VIVID
+T10	Disease 550 553	DME
+T12	Characteristic 1072 1115	DRSS score from baseline at week 100 by age
+T11	Characteristic 680 726	doses (2q8), or macular laser photocoagulation
+T14	Characteristic 1216 1271	BCVA), central subfield thickness (CST), and DRSS score
+T13	Characteristic 1117 1214	duration of diabetes, hemoglobin A1c (HbA1c), body mass index (BMI), best-corrected visual acuity
+T16	Symptom 1731 1782	IAI-treated patients with worse BCVA or thicker CST
+T15	Characteristic 1416 1468	Age, duration of diabetes, HbA1c, BMI, BCVA, and CST
+T18	Disease 2064 2067	DME
+T17	Symptom 1840 1877	those with better BCVA or thinner CST
+T1	Disease 38 58	Diabetic Retinopathy
+T19	Disease 2080 2095	VISTA and VIVID
+T2	Disease 124 146	Diabetic Macular Edema
+T3	Diagnostic_tool 171 186	VISTA and VIVID

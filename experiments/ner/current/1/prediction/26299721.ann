@@ -1,0 +1,61 @@
+T1	Characteristic 0 22	Pupillary Responses to
+T2	Characteristic 23 49	High-Irradiance Blue Light
+T3	Disease 65 73	Glaucoma
+T4	Diagnostic_tool 107 134	chromatic pupillometry test
+T5	Symptom 157 229	impaired function of intrinsically photosensitive retinal ganglion cells
+T6	Anatomy 231 237	ipRGCs
+T7	Disease 256 283	primary open-angle glaucoma
+T8	Disease 285 289	POAG
+T9	Characteristic 311 330	pupillary responses
+T10	Symptom 346 364	optic nerve damage
+T11	Symptom 369 380	visual loss
+T12	Characteristic 495 509	ethnic Chinese
+T13	Disease 518 522	POAG
+T14	Disease 549 557	glaucoma
+T15	Characteristic 569 572	men
+T16	Characteristic 577 591	ethnic Chinese
+T17	Characteristic 593 617	50 years of age or older
+T18	Diagnostic_tool 660 681	narrowband blue light
+T19	Diagnostic_tool 694 703	red light
+T20	Anatomy 833 837	rods
+T21	Anatomy 839 844	cones
+T22	Anatomy 850 856	ipRGCs
+T23	Anatomy 874 896	pupillary light reflex
+T24	Characteristic 898 912	Pupil diameter
+T25	Diagnostic_tool 935 957	infrared pupillography
+T26	Characteristic 966 985	Pupillary responses
+T27	Diagnostic_tool 1008 1013	light
+T28	Disease 1068 1072	POAG
+T29	Characteristic 1133 1152	corneal irradiances
+T30	Disease 1207 1211	POAG
+T31	Characteristic 1213 1232	pupillary responses
+T32	Diagnostic_tool 1260 1296	standard automated perimetry testing
+T33	Diagnostic_tool 1298 1319	Humphrey Visual Field
+T34	Diagnostic_tool 1321 1324	HVF
+T35	Diagnostic_tool 1363 1392	scanning laser ophthalmoscopy
+T36	Characteristic 1393 1403	parameters
+T37	Diagnostic_tool 1405 1434	Heidelberg Retinal Tomography
+T38	Diagnostic_tool 1436 1439	HRT
+T39	Characteristic 1493 1515	pupillary light reflex
+T40	Disease 1545 1549	POAG
+T41	Anatomy 1628 1634	ipRGCs
+T42	Characteristic 1636 1655	Pupillary responses
+T43	Diagnostic_tool 1659 1685	high-irradiance blue light
+T44	Diagnostic_tool 1760 1769	red light
+T45	Characteristic 1826 1840	pupil diameter
+T46	Characteristic 1845 1863	HVF mean deviation
+T47	Characteristic 1898 1901	HRT
+T48	Characteristic 1902 1926	linear cup-to-disc ratio
+T49	Characteristic 1969 1996	optic nerve head parameters
+T50	Disease 2001 2013	glaucomatous
+T51	Anatomy 2014 2018	eyes
+T52	Symptom 2020 2050	reduced pupillary responses to
+T53	Diagnostic_tool 2051 2077	high-irradiance blue light
+T54	Symptom 2107 2124	visual field loss
+T55	Symptom 2129 2147	optic disc cupping
+T56	Disease 2152 2156	POAG
+T57	Diagnostic_tool 2160 2193	short chromatic pupillometry test
+T58	Characteristic 2225 2231	ipRGCs
+T59	Symptom 2270 2302	damage to retinal ganglion cells
+T60	Characteristic 2316 2336	image-forming vision
+T61	Disease 2384 2392	glaucoma

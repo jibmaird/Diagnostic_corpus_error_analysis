@@ -1,0 +1,37 @@
+T21	Symptom 1050 1070	intraretinal and SRF
+T20	Symptom 766 769	SRF
+T23	Symptom 1301 1304	IRC
+T22	Diagnostic_tool 1221 1234	deep learning
+T25	Symptom 1476 1479	SRF
+T24	Anatomy 1315 1322	macular
+T27	Disease 1648 1651	RVO
+T26	Disease 1628 1643	neovascular AMD
+T29	Symptom 1899 1902	IRC
+T28	Disease 1666 1669	DME
+T1	Symptom 48 61	Macular Fluid
+T2	Diagnostic_tool 65 68	OCT
+T3	Diagnostic_tool 75 88	Deep Learning
+T4	Symptom 169 182	macular fluid
+T5	Diagnostic_tool 199 209	OCT images
+T6	Diagnostic_tool 308 319	OCT volumes
+T7	Disease 337 381	neovascular age-related macular degeneration
+T8	Disease 383 386	AMD
+T9	Disease 398 420	diabetic macular edema
+T30	Symptom 1919 1922	SRF
+T10	Disease 422 425	DME
+T32	Diagnostic_tool 1942 1963	etinal image analysis
+T31	Diagnostic_tool 1924 1937	Deep learning
+T12	Disease 464 467	RVO
+T34	Disease 2072 2098	exudative macular diseases
+T11	Disease 440 462	retinal vein occlusion
+T33	Symptom 2026 2039	retinal fluid
+T14	Diagnostic_tool 551 572	Heidelberg Spectralis
+T36	Diagnostic_tool 2249 2267	retinal OCT images
+T13	Diagnostic_tool 492 504	Zeiss Cirrus
+T35	Diagnostic_tool 2103 2106	OCT
+T16	Diagnostic_tool 660 673	deep learning
+T15	Diagnostic_tool 629 632	OCT
+T37	Anatomy 2360 2367	retinal
+T18	Symptom 739 742	IRC
+T17	Symptom 711 737	intraretinal cystoid fluid
+T19	Symptom 748 764	subretinal fluid

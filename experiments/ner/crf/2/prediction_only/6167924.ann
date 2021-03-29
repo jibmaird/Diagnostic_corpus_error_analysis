@@ -1,0 +1,11 @@
+T4	Characteristic 327 454	W.P. Beetham Eye Unit of the Joslin Clinic developed diabetes at the age of 20 or over, and almost 30% at the age of 40 or over
+T5	Disease 501 526	proliferative retinopathy
+T6	Disease 578 603	proliferative retinopathy
+T10	Characteristic 878 952	adult-onset patients, and its presence in a patient less than 50 years old
+T7	Disease 715 740	proliferative retinopathy
+T8	Disease 775 783	diabetes
+T9	Disease 845 858	Macular edema
+T11	Disease 981 1026	proliferative or preproliferative retinopathy
+T1	Disease 0 20	Diabetic retinopathy
+T2	Disease 52 72	adult-onset diabetes
+T3	Diagnostic_tool 301 319	fundus photographs

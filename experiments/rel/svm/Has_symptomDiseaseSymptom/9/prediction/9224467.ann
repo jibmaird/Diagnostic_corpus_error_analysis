@@ -1,0 +1,46 @@
+T41	Symptom 1612 1638	nerve fiber layer thinning
+T40	Characteristic 1524 1551	nerve fiber layer thickness
+T21	Diagnostic_tool 748 774	Ophthalmologic examination
+T20	Anatomy 743 746	eye
+T23	Diagnostic_tool 808 847	automated Humphrey visual field testing
+T22	Diagnostic_tool 776 806	color and red-free photography
+T25	Symptom 872 894	Nerve fiber layer loss
+T24	Diagnostic_tool 852 855	OCT
+T27	Anatomy 977 993	optic nerve head
+T26	Diagnostic_tool 910 913	OCT
+T29	Characteristic 1025 1038	visual fields
+T28	Diagnostic_tool 998 1018	red-free photography
+T1	Symptom 25 48	optic nerve head drusen
+T2	Disease 53 61	glaucoma
+T3	Diagnostic_tool 67 95	optical coherence tomography
+T4	Symptom 98 121	Optic nerve head drusen
+T5	Anatomy 151 161	nerve head
+T6	Symptom 199 219	visual field defects
+T7	Symptom 256 273	optic disk drusen
+T8	Symptom 286 305	glaucomatous damage
+T9	Symptom 350 373	optic nerve head drusen
+T30	Characteristic 1086 1099	visual fields
+T10	Disease 378 386	glaucoma
+T32	Diagnostic_tool 1154 1157	OCT
+T31	Symptom 1119 1145	nerve fiber layer thinning
+T12	Diagnostic_tool 438 441	OCT
+T34	Symptom 1209 1235	nerve fiber layer thinning
+T11	Diagnostic_tool 408 436	optical coherence tomography
+T33	Diagnostic_tool 1162 1182	red-free photography
+T14	Symptom 518 541	optic nerve head drusen
+T36	Symptom 1271 1288	optic disk drusen
+T13	Anatomy 461 478	nerve fiber layer
+T35	Disease 1258 1266	glaucoma
+T16	Disease 565 592	primary open angle glaucoma
+T38	Symptom 1394 1400	drusen
+T15	Disease 546 554	glaucoma
+T37	Anatomy 1320 1336	optic nerve head
+T18	Symptom 670 698	asymmetric optic disk drusen
+T17	Disease 609 635	pseudoexfoliation glaucoma
+T39	Diagnostic_tool 1463 1466	OCT
+T19	Symptom 724 730	drusen
+R2	Has_symptom Arg1:T15 Arg2:T14
+R3	Has_symptom Arg1:T35 Arg2:T36
+R4	Has_symptom Arg1:T35 Arg2:T34
+R5	Has_symptom Arg1:T10 Arg2:T9
+R1	Has_symptom Arg1:T2 Arg2:T1

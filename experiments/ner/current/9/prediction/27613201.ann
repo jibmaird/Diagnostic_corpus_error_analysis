@@ -1,0 +1,72 @@
+T1	Diagnostic_tool 0 40	Optical Coherence Tomography Angiography
+T2	Disease 44 47	DME
+T3	Characteristic 123 181	structural integrity of the superficial capillary plexuses
+T4	Anatomy 183 187	SCPs
+T5	Anatomy 193 197	deep
+T6	Characteristic 198 207	capillary
+T7	Anatomy 208 216	plexuses
+T8	Anatomy 218 222	DCPs
+T9	Diagnostic_tool 230 260	optical coherence tomography (
+T10	Diagnostic_tool 260 276	OCT) angiography
+T11	Diagnostic_tool 278 282	OCTA
+T12	Disease 301 323	diabetic macular edema
+T13	Disease 325 328	DME
+T14	Disease 479 482	DME
+T15	Anatomy 483 487	eyes
+T16	Disease 536 539	age
+T17	Characteristic 539 547	-matched
+T18	Disease 548 551	DME
+T19	Anatomy 552 556	eyes
+T20	Anatomy 623 627	eyes
+T21	Disease 636 639	DME
+T22	Diagnostic_tool 681 688	records
+T23	Diagnostic_tool 700 704	OCTA
+T24	Diagnostic_tool 709 728	spectral-domain OCT
+T25	Diagnostic_tool 730 736	SD OCT
+T26	Diagnostic_tool 786 805	En face OCTA images
+T27	Anatomy 813 816	SCP
+T28	Anatomy 821 824	DCP
+T29	Anatomy 848 851	eye
+T30	Symptom 906 918	more than 50
+T31	Dimension 919 921	μm
+T32	Symptom 922 924	in
+T33	Symptom 925 950	central retinal thickness
+T34	Characteristic 995 1009	poor responder
+T35	Symptom 1027 1054	reduction of less than 50 μ
+T36	Dimension 1054 1055	m
+T37	Symptom 1074 1099	central retinal thickness
+T38	Characteristic 1144 1160	vascular density
+T39	Characteristic 1165 1197	foveal avascular zone (FAZ) area
+T40	Symptom 1224 1238	microaneurysms
+T41	Diagnostic_tool 1258 1271	SD OCT images
+T42	Diagnostic_tool 1291 1295	OCTA
+T43	Disease 1323 1327	-DME
+T44	Anatomy 1328 1332	eyes
+T45	Disease 1334 1337	DME
+T46	Anatomy 1338 1342	eyes
+T47	Characteristic 1355 1371	vascular density
+T48	Characteristic 1397 1405	FAZ area
+T49	Anatomy 1427 1430	DCP
+T50	Symptom 1440 1454	microaneurysms
+T51	Anatomy 1537 1540	SCP
+T52	Characteristic 1591 1606	poor responders
+T53	Symptom 1630 1636	damage
+T54	Symptom 1646 1671	microaneurysms in the DCP
+T55	Characteristic 1699 1707	FAZ area
+T56	Symptom 1755 1781	disrupted synaptic portion
+T57	Anatomy 1789 1810	outer plexiform layer
+T58	Anatomy 1812 1815	OPL
+T59	Diagnostic_tool 1820 1826	SD OCT
+T60	Characteristic 1855 1878	nonflow area of the DCP
+T61	Diagnostic_tool 1882 1886	OCTA
+T62	Disease 1902 1905	DME
+T63	Anatomy 1906 1910	eyes
+T64	Symptom 1983 2017	damage to the integrity of the DCP
+T65	Anatomy 2031 2034	SCP
+T66	Symptom 2050 2064	OPL disruption
+T67	Diagnostic_tool 2068 2074	SD OCT
+T68	Symptom 2111 2119	DCP loss
+T69	Disease 2123 2126	DME
+T70	Anatomy 2127 2131	eyes
+T71	Symptom 2147 2155	DCP loss
+T72	Symptom 2178 2192	OPL disruption

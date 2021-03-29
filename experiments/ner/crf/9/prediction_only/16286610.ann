@@ -1,0 +1,19 @@
+T4	Disease 208 211	AMD
+T5	Diagnostic_tool 231 299	Age-Related Eye Disease Study, stereoscopic color fundus photographs
+T6	Diagnostic_tool 380 391	Photographs
+T7	Symptom 408 770	drusen characteristics (size, type, area), pigmentary abnormalities (increased pigment, depigmentation, geographic atrophy), and presence of abnormalities characteristic of neovascular AMD (retinal pigment epithelial detachment, serous or hemorrhagic sensory retinal detachment, subretinal or sub-retinal pigment epithelial hemorrhage, subretinal fibrous tissue)
+T8	Disease 772 784	Advanced AMD
+T9	Symptom 812 851	1 or more neovascular AMD abnormalities
+T10	Disease 874 877	AMD
+T12	Anatomy 974 978	eyes
+T11	Symptom 882 935	geographic atrophy involving the center of the macula
+T14	Disease 1103 1115	advanced AMD
+T13	Symptom 1020 1071	drusen characteristics and pigmentary abnormalities
+T16	Disease 1306 1318	advanced AMD
+T15	Symptom 1195 1262	6-step drusen area scale with a 5-step pigmentary abnormality scale
+T18	Anatomy 1678 1682	eyes
+T17	Anatomy 1409 1413	eyes
+T1	Disease 56 95	age-related macular degeneration: AREDS
+T19	Disease 1858 1870	advanced AMD
+T2	Diagnostic_tool 135 154	fundus photographic
+T3	Disease 174 206	age-related macular degeneration

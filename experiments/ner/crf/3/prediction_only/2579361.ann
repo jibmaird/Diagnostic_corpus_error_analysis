@@ -1,0 +1,19 @@
+T4	Disease 107 127	Diabetic retinopathy
+T5	Characteristic 177 215	diabetic persons in southern Wisconsin
+T6	Diagnostic_tool 257 271	ophthalmoscopy
+T7	Diagnostic_tool 294 325	stereoscopic fundus photographs
+T8	Anatomy 347 351	eyes
+T9	Diagnostic_tool 369 383	Ophthalmoscopy
+T10	Diagnostic_tool 571 585	ophthalmoscopy
+T12	Diagnostic_tool 825 839	Ophthalmoscopy
+T11	Symptom 612 663	retinopathy (none, nonproliferative, proliferative)
+T14	Anatomy 903 907	eyes
+T13	Diagnostic_tool 873 891	fundus photography
+T16	Characteristic 1053 1056	age
+T15	Symptom 913 945	less severe forms of retinopathy
+T18	Characteristic 1077 1097	duration of diabetes
+T17	Characteristic 1058 1071	visual acuity
+T1	Diagnostic_tool 19 33	ophthalmoscopy
+T19	Diagnostic_tool 1192 1210	fundus photography
+T2	Diagnostic_tool 38 56	fundus photography
+T3	Disease 84 104	diabetic retinopathy

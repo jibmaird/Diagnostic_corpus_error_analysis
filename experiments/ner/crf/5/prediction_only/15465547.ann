@@ -1,0 +1,19 @@
+T4	Characteristic 218 234	healthy subjects
+T5	Disease 257 284	primary open-angle glaucoma
+T6	Characteristic 313 448	Healthy subjects had normal visual fields (VFs), healthy-looking optic discs, and intraocular pressures of  <  or =21 mmHg in both eyes
+T7	Disease 450 458	Glaucoma
+T8	Symptom 487 577	glaucomatous VF defect and a glaucomatous appearance of the optic disc in at least one eye
+T9	Symptom 981 1027	mild, moderate, and severe glaucomatous damage
+T10	Characteristic 1040 1176	Software-derived parameters TSNIT (temporal, superior, nasal, inferior, temporal) Average, Superior Average, Inferior Average, TSNIT Std
+T12	Characteristic 1272 1332	TSNIT Average, Superior Average, Inferior Average, TSNIT Std
+T11	Characteristic 1184 1235	standard deviation), and Nerve Fiber Indicator (NFI
+T14	Disease 1583 1591	glaucoma
+T13	Characteristic 1344 1347	NFI
+T16	Symptom 1808 1841	mild, moderate, and severe damage
+T15	Disease 1785 1793	glaucoma
+T18	Characteristic 1990 1993	NFI
+T17	Symptom 1890 1984	GDx VCC allowed easy, rapid, and accurate discrimination between healthy and glaucomatous eyes
+T1	Disease 39 47	glaucoma
+T19	Disease 2077 2085	glaucoma
+T2	Disease 122 130	glaucoma
+T3	Anatomy 203 206	eye

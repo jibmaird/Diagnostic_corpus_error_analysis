@@ -1,0 +1,27 @@
+T1	Diagnostic_tool 19 44	pattern electroretinogram
+T2	Disease 48 56	glaucoma
+T3	Disease 115 123	glaucoma
+T4	Diagnostic_tool 175 200	pattern electroretinogram
+T5	Diagnostic_tool 214 239	Pattern Electroretinogram
+T6	Disease 244 252	Glaucoma
+T7	Diagnostic_tool 254 260	PERGLA
+T8	Disease 284 292	glaucoma
+T9	Disease 360 368	glaucoma
+T10	Characteristic 408 416	mean age
+T11	Characteristic 446 448	69
+T12	Characteristic 454 459	years
+T13	Diagnostic_tool 506 532	static automatic perimetry
+T14	Diagnostic_tool 604 640	pattern electroretinogram recordings
+T15	Characteristic 735 770	Pattern electroretinogram amplitude
+T16	Diagnostic_tool 937 962	pattern electroretinogram
+T17	Characteristic 973 984	interocular
+T18	Diagnostic_tool 1055 1080	pattern electroretinogram
+T19	Characteristic 1092 1119	signal-to-noise (S/N) ratio
+T20	Anatomy 1206 1209	eye
+T21	Symptom 1239 1260	interocular asymmetry
+T22	Diagnostic_tool 1439 1464	pattern electroretinogram
+T23	Characteristic 1604 1654	pattern electroretinogram interocular asymmetry in
+T24	Characteristic 1746 1781	pattern electroretinogram S/N ratio
+T25	Disease 1785 1797	glaucomatous
+T26	Diagnostic_tool 1845 1851	PERGLA
+T27	Disease 1855 1867	glaucomatous

@@ -1,0 +1,28 @@
+T21	Disease 1506 1542	autosomal recessive bestrophinopathy
+T20	Disease 1475 1501	Paraneoplastic retinopathy
+T23	Disease 1685 1690	AEPVM
+T22	Disease 1560 1565	AEPVM
+T25	Characteristic 1762 1785	clinical manifestations
+T24	Characteristic 1748 1760	demographics
+T27	Characteristic 1805 1819	natural course
+T26	Characteristic 1787 1803	imaging features
+T28	Characteristic 1825 1841	visual prognosis
+T1	Disease 0 63	Idiopathic Acute Exudative Polymorphous Vitelliform Maculopathy
+T2	Disease 171 223	acute exudative polymorphous vitelliform maculopathy
+T3	Disease 225 230	AEPVM
+T4	Disease 331 347	idiopathic AEPVM
+T5	Diagnostic_tool 359 374	clinical charts
+T6	Diagnostic_tool 376 394	multimodal imaging
+T7	Characteristic 396 423	electrophysiologic findings
+T8	Characteristic 429 445	genetic findings
+T9	Disease 532 548	idiopathic AEPVM
+T10	Characteristic 596 618	age range, 21-74 years
+T12	Symptom 670 792	localized, serous detachments followed by the development of characteristic yellow-white deposits in the vitelliform space
+T11	Disease 645 650	AEPVM
+T14	Symptom 1130 1158	choroidal neovascularization
+T13	Symptom 1080 1128	fluorescein-negative intraretinal cystic changes
+T16	Symptom 1211 1240	increased choroidal thickness
+T15	Symptom 1160 1209	serous retinal elevations mimicking retinal folds
+T18	Symptom 1277 1345	recurrence years after complete resolution of initial manifestations
+T17	Symptom 1242 1271	lack of rapid visual recovery
+T19	Disease 1347 1399	Acute exudative polymorphous vitelliform maculopathy

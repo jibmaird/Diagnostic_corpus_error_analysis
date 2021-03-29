@@ -1,0 +1,52 @@
+T1	Symptom 14 32	visual acuity loss
+T2	Disease 70 89	Stargardt's disease
+T3	Symptom 162 173	diffuse, as
+T4	Symptom 188 212	localized, fundus flecks
+T5	Symptom 257 280	visual acuity (VA) loss
+T6	Dimension 288 294	20/200
+T7	Disease 312 331	Stargardt's disease
+T8	Disease 415 434	Stargardt's disease
+T9	Characteristic 436 449	Visual acuity
+T10	Disease 471 490	Stargardt's disease
+T11	Disease 558 577	Stargardt's disease
+T12	Anatomy 600 606	macula
+T13	Disease 649 668	Stargardt's disease
+T14	Symptom 712 725	fundus flecks
+T15	Characteristic 727 744	Best-corrected VA
+T16	Disease 755 774	Stargardt's disease
+T17	Anatomy 798 804	macula
+T18	Disease 949 976	stage 1 Stargardt's disease
+T19	Characteristic 1003 1022	20/200 or better VA
+T20	Anatomy 1039 1042	eye
+T21	Disease 1094 1134	stage 2 or stage 2-3 Stargardt's disease
+T22	Characteristic 1170 1172	20
+T23	Dimension 1172 1173	/
+T24	Characteristic 1173 1189	200 VA or better
+T25	Disease 1205 1212	stage 1
+T26	Characteristic 1242 1261	20/200 or better VA
+T27	Anatomy 1278 1281	eye
+T28	Disease 1315 1323	stage 2/
+T29	Disease 1323 1352	stage 2-3 Stargardt's disease
+T30	Disease 1406 1413	stage 1
+T31	Disease 1436 1453	stage 2/stage 2-3
+T32	Characteristic 1474 1476	20
+T33	Dimension 1476 1477	/
+T34	Characteristic 1477 1480	400
+T35	Dimension 1481 1483	or
+T36	Characteristic 1484 1490	better
+T37	Characteristic 1491 1493	VA
+T38	Anatomy 1510 1513	eye
+T39	Disease 1557 1584	stage 1 Stargardt's disease
+T40	Symptom 1596 1639	fundus flecks limited to the posterior pole
+T41	Characteristic 1670 1701	level of VA at 20/200 or better
+T42	Disease 1735 1760	stage 2/stage 2-3 disease
+T43	Symptom 1770 1791	diffuse fundus flecks
+T44	Disease 1837 1874	stage 2/stage 2-3 Stargardt's disease
+T45	Characteristic 1892 1914	VA of 20/200 or better
+T46	Disease 1943 1960	stage 2/stage 2-3
+T47	Characteristic 1965 1974	VA levels
+T48	Dimension 1975 1992	worse than 20/400
+T49	Disease 2025 2044	Stargardt's disease
+T50	Symptom 2049 2070	diffuse fundus flecks
+T51	Symptom 2105 2112	lose VA
+T52	Symptom 2149 2165	localized flecks

@@ -1,0 +1,59 @@
+T1	Diagnostic_tool 28 39	angiography
+T2	Diagnostic_tool 44 88	high-resolution optical coherence tomography
+T3	Disease 92 114	diabetic macular edema
+T4	Symptom 130 137	leakage
+T5	Diagnostic_tool 150 175	fluorescein angiography (
+T6	Diagnostic_tool 175 185	FA) images
+T7	Anatomy 190 209	retinal morphologic
+T8	Characteristic 210 218	features
+T9	Diagnostic_tool 222 266	high-definition optical coherence tomography
+T10	Diagnostic_tool 268 274	HD OCT
+T11	Disease 286 308	diabetic macular edema
+T12	Anatomy 381 385	eyes
+T13	Disease 392 414	diabetic macular edema
+T14	Diagnostic_tool 449 451	FA
+T15	Diagnostic_tool 453 458	HRA 2
+T16	Diagnostic_tool 488 494	HD OCT
+T17	Diagnostic_tool 633 638	Adobe
+T18	Diagnostic_tool 763 783	HD OCT en face image
+T19	Diagnostic_tool 790 809	late-phase FA image
+T20	Anatomy 823 830	retinal
+T21	Characteristic 890 899	subfields
+T22	Symptom 959 975	vascular leakage
+T23	Diagnostic_tool 979 981	FA
+T24	Symptom 1001 1028	retinal morphologic changes
+T25	Symptom 1057 1077	Angiographic leakage
+T26	Symptom 1087 1108	structural alteration
+T27	Anatomy 1112 1119	retinal
+T28	Diagnostic_tool 1144 1147	OCT
+T29	Diagnostic_tool 1186 1188	FA
+T30	Diagnostic_tool 1193 1196	OCT
+T31	Characteristic 1224 1241	hyperfluorescence
+T32	Symptom 1279 1325	large cystic spaces in the outer nuclear layer
+T33	Anatomy 1327 1330	ONL
+T34	Anatomy 1340 1361	outer plexiform layer
+T35	Anatomy 1363 1366	OPL
+T36	Symptom 1384 1400	subretinal fluid
+T37	Characteristic 1454 1496	honeycomblike pattern of hyperfluorescence
+T38	Symptom 1517 1525	swelling
+T39	Symptom 1530 1550	cystic spaces in ONL
+T40	Anatomy 1552 1555	OPL
+T41	Anatomy 1561 1574	inner nuclear
+T42	Symptom 1574 1575	,
+T43	Symptom 1580 1583	the
+T44	Anatomy 1584 1589	inner
+T45	Symptom 1590 1605	plexiform layer
+T46	Characteristic 1653 1670	hyperfluorescence
+T47	Symptom 1709 1724	retinal changes
+T48	Diagnostic_tool 1728 1734	HD OCT
+T49	Symptom 1779 1801	morphologic alteration
+T50	Symptom 1819 1840	central fluid pooling
+T51	Symptom 1850 1866	subretinal fluid
+T52	Diagnostic_tool 1896 1902	HD OCT
+T53	Diagnostic_tool 1914 1916	FA
+T54	Characteristic 1946 1954	petaloid
+T55	Characteristic 1969 2007	honeycomb pattern of hyperfluorescence
+T56	Diagnostic_tool 2020 2022	FA
+T57	Diagnostic_tool 2076 2082	HD OCT
+T58	Symptom 2094 2109	diffuse leakage
+T59	Symptom 2138 2188	nonuniform changes in retinal morphologic features

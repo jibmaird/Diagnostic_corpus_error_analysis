@@ -1,0 +1,23 @@
+T4	Disease 122 130	glaucoma
+T5	Disease 257 284	primary open-angle glaucoma
+T6	Characteristic 288 311	Caucasian racial origin
+T7	Characteristic 334 354	normal visual fields
+T8	Characteristic 356 359	VFs
+T9	Characteristic 362 389	healthy-looking optic discs
+T10	Characteristic 395 448	intraocular pressures of  <  or =21 mmHg in both eyes
+T21	Anatomy 1980 1984	eyes
+T20	Disease 1967 1979	glaucomatous
+T12	Symptom 474 509	reproducible glaucomatous VF defect
+T23	Diagnostic_tool 2077 2102	glaucoma screening device
+T11	Disease 450 458	Glaucoma
+T22	Diagnostic_tool 2037 2044	GDx VCC
+T14	Diagnostic_tool 615 669	GDx VCC with an automated variable corneal compensator
+T13	Symptom 516 577	glaucomatous appearance of the optic disc in at least one eye
+T16	Disease 1583 1591	glaucoma
+T15	Symptom 981 1027	mild, moderate, and severe glaucomatous damage
+T18	Symptom 1808 1841	mild, moderate, and severe damage
+T17	Disease 1785 1793	glaucoma
+T1	Diagnostic_tool 27 34	GDx VCC
+T19	Diagnostic_tool 1890 1897	GDx VCC
+T2	Disease 39 47	glaucoma
+T3	Diagnostic_tool 94 101	GDx VCC

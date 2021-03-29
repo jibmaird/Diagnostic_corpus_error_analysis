@@ -1,0 +1,18 @@
+T4	Disease 359 367	glaucoma
+T5	Characteristic 430 474	total of 65 eyes of normal, healthy subjects
+T6	Disease 512 520	glaucoma
+T7	Diagnostic_tool 565 658	Cirrus high-definition optical coherence tomography (HD-OCT) (Carl Zeiss Meditec, Dublin, CA)
+T8	Characteristic 687 720	subjects' macular and optic discs
+T9	Characteristic 722 796	A positive (i.e.,  " outside normal limits " ) GCIPL hemifield test result
+T10	Symptom 1000 1360	distance from the temporal inner elliptical annulus to the outer elliptical annulus; (2) the average GCIPL thickness difference within 10 pixels of the reference line, both above and below, is ≥5 μm; and (3) the average RGB color ranges of the 10 pixels above and below the reference line display blue in 1 hemifield and red/yellow/white in the other hemifield
+T12	Anatomy 1545 1562	glaucomatous eyes
+T11	Diagnostic_tool 1481 1508	GCIPL hemifield test result
+T14	Characteristic 1673 1906	AUC of the GCIPL hemifield test (0.967; sensitivity 94.94%, specificity 98.46%) was greater than that of the minimum GCIPL thickness (0.933), the inferotemporal GCIPL thickness (0.907), and the average GCIPL thickness (0.899) (P=0.09
+T13	Characteristic 1597 1632	perimetric) than in the normal eyes
+T16	Symptom 2268 2296	glaucomatous structural loss
+T15	Characteristic 1974 2207	AUC of the GCIPL hemifield test (0.962; sensitivity 93.98%, specificity 96.46%) was greater than that of the inferotemporal GCIPL thickness (0.938), the minimum GCIPL thickness (0.919), and the average GCIPL thickness (0.912) (P=0.38
+T18	Symptom 2344 2420	identification of the GCIPL thickness difference across the horizontal raphe
+T17	Disease 2314 2336	preperimetric glaucoma
+T1	Diagnostic_tool 71 121	Ganglion Cell--Inner Plexiform Layer Thickness Map
+T2	Characteristic 144 252	MathWorks, Inc, Natick, MA) computer program (the ganglion cell-inner plexiform layer [GCIPL] hemifield test
+T3	Symptom 281 335	GCIPL thickness difference across the horizontal raphe

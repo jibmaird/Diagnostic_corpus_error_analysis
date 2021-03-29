@@ -1,0 +1,83 @@
+T61	Characteristic 1911 1917	CBTmax
+T60	Characteristic 1894 1898	APCB
+T63	Anatomy 1944 1948	eyes
+T62	Characteristic 1922 1926	CBT0
+T21	Diagnostic_tool 760 784	ultrasound biomicroscopy
+T65	Characteristic 1972 1994	anterior chamber width
+T20	Diagnostic_tool 733 755	A-scan ultrasonography
+T64	Characteristic 1967 1970	ACD
+T23	Disease 830 848	malignant glaucoma
+T67	Characteristic 2025 2027	LV
+T22	Anatomy 820 824	eyes
+T66	Characteristic 2000 2002	PD
+T25	Disease 887 905	malignant glaucoma
+T69	Disease 2052 2070	malignant glaucoma
+T24	Anatomy 861 865	eyes
+T68	Anatomy 2042 2046	eyes
+T27	Characteristic 929 952	Ciliary body parameters
+T26	Anatomy 923 927	eyes
+T29	Characteristic 994 1000	CBTmax
+T28	Characteristic 962 992	maximum ciliary body thickness
+T70	Anatomy 2098 2102	eyes
+T72	Characteristic 2155 2177	anterior chamber width
+T71	Characteristic 2150 2153	ACD
+T30	Characteristic 1003 1109	ciliary body thickness at the point of the scleral spur (CBT0) and 1000 μm from the scleral spur (CBT1000)
+T74	Characteristic 2186 2188	LV
+T73	Characteristic 2179 2181	PD
+T32	Characteristic 1151 1155	APCB
+T76	Disease 2216 2234	malignant glaucoma
+T31	Characteristic 1111 1149	anterior placement of the ciliary body
+T75	Anatomy 2208 2212	eyes
+T34	Characteristic 1200 1203	TCA
+T78	Symptom 2269 2324	ciliary bodies were thinner and more anteriorly rotated
+T33	Characteristic 1166 1198	trabecular-ciliary process angle
+T77	Anatomy 2247 2251	eyes
+T36	Characteristic 1239 1251	axial length
+T35	Characteristic 1206 1228	Biometric measurements
+T79	Anatomy 2328 2332	eyes
+T38	Characteristic 1285 1288	ACD
+T37	Characteristic 1253 1283	central anterior chamber depth
+T39	Characteristic 1291 1305	pupil diameter
+T81	Anatomy 2384 2388	eyes
+T80	Disease 2338 2356	malignant glaucoma
+T82	Disease 2431 2449	malignant glaucoma
+T41	Characteristic 1312 1334	anterior chamber width
+T40	Characteristic 1307 1309	PD
+T43	Characteristic 1352 1354	LV
+T42	Characteristic 1340 1350	lens vault
+T45	Anatomy 1472 1476	eyes
+T44	Characteristic 1384 1390	CBTmax
+T47	Anatomy 1515 1519	eyes
+T46	Disease 1482 1500	malignant glaucoma
+T49	Characteristic 1565 1569	APCB
+T48	Anatomy 1537 1541	eyes
+T1	Anatomy 33 45	ciliary body
+T2	Anatomy 49 53	eyes
+T3	Disease 59 77	malignant glaucoma
+T4	Diagnostic_tool 105 129	ultrasound biomicroscopy
+T5	Anatomy 190 202	ciliary body
+T6	Anatomy 206 210	eyes
+T7	Disease 228 246	malignant glaucoma
+T8	Disease 320 338	malignant glaucoma
+T9	Anatomy 344 347	eye
+T50	Characteristic 1643 1646	TCA
+T52	Characteristic 1728 1732	CBT0
+T51	Characteristic 1720 1726	CBTmax
+T10	Disease 425 446	primary angle closure
+T54	Characteristic 1747 1750	TCA
+T53	Characteristic 1734 1741	CBT1000
+T12	Disease 456 468	PAC glaucoma
+T56	Anatomy 1792 1796	eyes
+T11	Disease 448 451	PAC
+T55	Characteristic 1773 1777	APCB
+T14	Disease 490 493	PAC
+T58	Anatomy 1848 1852	eyes
+T13	Disease 470 474	PACG
+T57	Disease 1802 1820	malignant glaucoma
+T16	Anatomy 499 503	eyes
+T15	Disease 494 498	PACG
+T59	Anatomy 1878 1882	eyes
+T18	Disease 652 670	malignant glaucoma
+T17	Anatomy 640 644	eyes
+T19	Disease 707 715	glaucoma
+R1	Has_symptom Arg1:T80 Arg2:T78

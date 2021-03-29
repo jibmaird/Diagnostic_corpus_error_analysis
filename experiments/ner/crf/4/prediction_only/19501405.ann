@@ -1,0 +1,23 @@
+T4	Disease 196 198	ME
+T5	Anatomy 244 248	eyes
+T6	Anatomy 292 296	Eyes
+T7	Characteristic 350 375	1-month retinal thickness
+T8	Diagnostic_tool 382 410	optical coherence tomography
+T9	Characteristic 470 483	visual acuity
+T10	Characteristic 485 489	BCVA
+T21	Characteristic 1296 1328	greater reduction in CSF (or CPT
+T20	Anatomy 1286 1290	Eyes
+T12	Symptom 521 566	central subfield thickness  >  or =272 microm
+T23	Disease 1555 1557	ME
+T11	Disease 492 505	Macular edema
+T22	Disease 1445 1447	ME
+T14	Disease 624 626	ME
+T13	Characteristic 568 609	Retinal thickness, inflammation, and BCVA
+T16	Characteristic 708 734	Mean 1-month visual acuity
+T15	Diagnostic_tool 630 658	optical coherence tomography
+T18	Characteristic 929 1020	Mean 1-month center point thickness (CPT), central subfield (CSF), and total macular volume
+T17	Symptom 773 899	minimum angle of resolution [logMAR]  units) to 20/80(+1) (0.58+/-0.46 logMAR units) from 20/150(-2) (0.91+/-0.63 logMAR units
+T1	Disease 13 41	postvitrectomy macular edema
+T19	Characteristic 1145 1162	retinal thickness
+T2	Diagnostic_tool 48 76	optical coherence tomography
+T3	Disease 166 194	postvitrectomy macular edema

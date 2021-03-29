@@ -1,0 +1,58 @@
+T1	Anatomy 0 5	Optic
+T2	Diagnostic_tool 6 10	disc
+T3	Disease 25 43	optic neuropathies
+T4	Anatomy 49 59	optic disc
+T5	Characteristic 81 103	Optic nerve morphology
+T6	Disease 149 157	Glaucoma
+T7	Disease 177 193	optic neuropathy
+T8	Disease 195 227	autosomal-dominant optic atrophy
+T9	Disease 229 233	ADOA
+T10	Disease 239 274	Leber's hereditary optic neuropathy
+T11	Disease 276 280	LHON
+T12	Disease 305 334	hereditary optic neuropathies
+T13	Symptom 373 397	topographical changes at
+T14	Anatomy 402 413	optic nerve
+T15	Symptom 414 418	head
+T16	Disease 480 488	glaucoma
+T17	Disease 523 531	glaucoma
+T18	Anatomy 609 619	optic disc
+T19	Anatomy 672 683	optic nerve
+T20	Diagnostic_tool 721 772	high-resolution stereoscopic optic disc photographs
+T21	Diagnostic_tool 777 788	ADOA images
+T22	Diagnostic_tool 793 797	LHON
+T23	Disease 802 810	glaucoma
+T24	Anatomy 870 875	discs
+T25	Characteristic 895 915	topographic features
+T26	Disease 1060 1068	glaucoma
+T27	Anatomy 1150 1166	optic nerve head
+T28	Characteristic 1167 1176	phenotype
+T29	Disease 1256 1264	glaucoma
+T30	Disease 1266 1270	ADOA
+T31	Characteristic 1276 1280	LHON
+T32	Anatomy 1281 1285	disc
+T33	Classification_system 1355 1359	ADOA
+T34	Disease 1421 1433	glaucomatous
+T35	Disease 1453 1461	glaucoma
+T36	Disease 1512 1524	glaucomatous
+T37	Symptom 1550 1571	nonglaucomatous discs
+T38	Anatomy 1674 1678	disc
+T39	Anatomy 1713 1718	discs
+T40	Anatomy 1803 1820	glaucomatous disc
+T41	Diagnostic_tool 1844 1848	ADOA
+T42	Diagnostic_tool 1852 1861	LHON disc
+T43	Symptom 1871 1877	pallor
+T44	Anatomy 1923 1941	glaucomatous discs
+T45	Disease 2006 2010	ADOA
+T46	Anatomy 2015 2019	LHON
+T47	Anatomy 2020 2025	discs
+T48	Disease 2038 2056	Optic neuropathies
+T49	Symptom 2079 2116	topographic changes at the optic disc
+T50	Disease 2134 2152	late-stage disease
+T51	Disease 2191 2195	ADOA
+T52	Disease 2200 2204	LHON
+T53	Disease 2210 2218	glaucoma
+T54	Anatomy 2228 2232	disc
+T55	Characteristic 2285 2291	acuity
+T56	Characteristic 2293 2305	color vision
+T57	Symptom 2318 2329	visual loss
+T58	Characteristic 2335 2349	family history

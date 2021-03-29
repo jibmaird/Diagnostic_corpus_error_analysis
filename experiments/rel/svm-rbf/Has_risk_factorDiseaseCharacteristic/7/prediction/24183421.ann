@@ -1,0 +1,67 @@
+T61	Characteristic 1844 1881	anterior segment biometric parameters
+T60	Characteristic 1813 1827	smaller I-Curv
+T63	Characteristic 1967 2004	anterior segment biometric parameters
+T62	Disease 1898 1902	APAC
+T21	Characteristic 719 728	iris area
+T65	Anatomy 2024 2028	eyes
+T20	Characteristic 710 716	I-Curv
+T64	Disease 2008 2012	APAC
+T23	Characteristic 739 749	lens vault
+T67	Disease 2154 2158	APAC
+T22	Characteristic 730 736	I-Area
+T66	Symptom 2063 2103	Anatomic changes in the anterior segment
+T25	Characteristic 760 782	angle opening distance
+T24	Characteristic 751 753	LV
+T27	Characteristic 793 819	trabecular iris space area
+T26	Characteristic 784 790	AOD750
+T29	Characteristic 835 889	iris thickness (IT750) at 750 μm from the scleral spur
+T28	Characteristic 821 828	TISA750
+T30	Disease 1034 1038	APAC
+T32	Characteristic 1087 1124	Anterior segment biometric parameters
+T31	Anatomy 1064 1067	eye
+T34	Characteristic 1151 1194	mean age of the patients was 60.9±7.5 years
+T33	Disease 1141 1145	APAC
+T36	Characteristic 1235 1260	mean intraocular pressure
+T35	Characteristic 1225 1229	male
+T38	Anatomy 1290 1293	eye
+T37	Disease 1285 1289	APAC
+T39	Anatomy 1325 1328	eye
+T41	Disease 1397 1401	APAC
+T40	Characteristic 1381 1395	pupil diameter
+T43	Characteristic 1419 1422	ACD
+T42	Anatomy 1402 1406	eyes
+T45	Characteristic 1429 1432	ACV
+T44	Characteristic 1424 1427	ACA
+T47	Characteristic 1459 1465	AOD750
+T46	Characteristic 1434 1440	I-Curv
+T49	Characteristic 1500 1506	I-Area
+T48	Characteristic 1479 1486	TISA750
+T1	Diagnostic_tool 0 37	Pretreatment anterior segment imaging
+T2	Disease 45 72	acute primary angle closure
+T3	Diagnostic_tool 146 191	anterior segment optical coherence tomography
+T4	Diagnostic_tool 193 198	ASOCT
+T5	Disease 218 245	acute primary angle closure
+T6	Disease 247 251	APAC
+T7	Disease 338 342	APAC
+T8	Anatomy 343 347	eyes
+T9	Anatomy 360 364	eyes
+T50	Characteristic 1524 1529	IT750
+T52	Anatomy 1580 1584	eyes
+T51	Characteristic 1553 1555	LV
+T10	Disease 441 445	APAC
+T54	Characteristic 1646 1649	ACD
+T53	Characteristic 1630 1644	pupil diameter
+T12	Anatomy 492 496	eyes
+T56	Disease 1698 1702	APAC
+T11	Diagnostic_tool 470 483	ASOCT imaging
+T55	Characteristic 1655 1661	I-Curv
+T14	Characteristic 628 631	ACD
+T58	Characteristic 1749 1755	I-Curv
+T13	Characteristic 604 626	anterior chamber depth
+T57	Characteristic 1720 1723	ACD
+T16	Characteristic 657 660	ACA
+T15	Characteristic 634 655	anterior chamber area
+T59	Characteristic 1795 1808	Shallower ACD
+T18	Characteristic 688 691	ACV
+T17	Characteristic 663 686	anterior chamber volume
+T19	Characteristic 694 708	iris curvature

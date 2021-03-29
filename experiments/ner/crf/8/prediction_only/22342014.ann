@@ -1,0 +1,36 @@
+T21	Disease 1304 1307	DME
+T20	Diagnostic_tool 1262 1265	FAF
+T23	Characteristic 1438 1537	logarithm of the minimum angle of resolution (logMAR) pre-IVB increased the probability of high FAF
+T22	Symptom 1313 1348	a defect in IS/OS and 10 times more
+T25	Anatomy 1585 1589	eyes
+T24	Disease 1574 1577	DME
+T27	Symptom 1627 1669	IS/OS defect and large logMAR VA than eyes
+T26	Diagnostic_tool 1610 1613	FAF
+T29	Disease 1707 1718	DME pre-IVB
+T28	Diagnostic_tool 1691 1694	FAF
+T1	Diagnostic_tool 15 88	fundus autofluorescence with spectral-domain optical coherence tomography
+T2	Disease 103 125	diabetic macular edema
+T3	Diagnostic_tool 167 195	fundus autofluorescence (FAF
+T4	Diagnostic_tool 216 268	spectral-domain optical coherence tomography (SD-OCT
+T5	Symptom 281 302	visual acuity (VA) in
+T6	Disease 317 339	diabetic macular edema
+T7	Disease 341 344	DME
+T8	Disease 461 464	DME
+T9	Characteristic 479 521	intravitreal injection of bevacizumab (IVB
+T30	Diagnostic_tool 1741 1752	FAF pre-IVB
+T10	Characteristic 566 568	VA
+T32	Diagnostic_tool 1899 1925	FAF with SD-OCT parameters
+T31	Symptom 1837 1871	increased or unchanged good vision
+T12	Symptom 626 649	IVB (pre- and post-IVB)
+T34	Disease 1950 1953	DME
+T11	Diagnostic_tool 573 594	FAF and SD-OCT images
+T33	Characteristic 1930 1932	VA
+T14	Symptom 722 740	FAF at the foveola
+T36	Diagnostic_tool 2194 2200	SD-OCT
+T13	Diagnostic_tool 651 661	Foveal FAF
+T35	Disease 2088 2098	severe DME
+T16	Characteristic 827 1043	central macular thickness (CMT), outer nuclear layer thickness, the integrity of the external limiting membrane (ELM), and the integrity of the junction between the inner and outer segment of the photoreceptor (IS/OS
+T15	Symptom 781 815	FAF with VA and the SD-OCT results
+T18	Disease 1157 1183	DME, cystoid macular edema
+T17	Symptom 1046 1139	Better VA, preservation of the ELM, and IS/OS pre-IVB were associated with better VA post-IVB
+T19	Symptom 1214 1242	increased FAF at the foveola

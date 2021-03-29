@@ -1,0 +1,19 @@
+T4	Symptom 158 167	blindness
+T5	Characteristic 174 195	working-age Americans
+T6	Disease 306 317	retinopathy
+T7	Characteristic 323 342	diabetic population
+T8	Diagnostic_tool 377 403	dilated fundus examination
+T9	Diagnostic_tool 456 474	fundus photography
+T10	Symptom 579 607	blindness-related disability
+T12	Disease 665 689	type I diabetes mellitus
+T11	Disease 636 647	retinopathy
+T14	Disease 1057 1065	diabetic
+T13	Disease 895 919	type I diabetes mellitus
+T16	Diagnostic_tool 1177 1195	fundus photography
+T15	Disease 1117 1128	retinopathy
+T17	Disease 1275 1295	Diabetic Retinopathy
+T1	Disease 23 34	retinopathy
+T2	Disease 52 76	type I diabetes mellitus
+T3	Disease 102 122	Diabetic retinopathy
+R2	Diagnosed_with Arg1:T15 Arg2:T16
+R1	Diagnosed_with Arg1:T14 Arg2:T16

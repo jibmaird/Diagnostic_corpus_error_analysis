@@ -1,0 +1,46 @@
+T1	Disease 38 58	Diabetic Retinopathy
+T2	Characteristic 59 79	Severity Scale Score
+T3	Disease 124 146	Diabetic Macular Edema
+T4	Classification_system 290 325	Diabetic Retinopathy Severity Scale
+T5	Classification_system 327 331	DRSS
+T6	Diagnostic_tool 429 434	VISTA
+T7	Diagnostic_tool 439 444	VIVID
+T8	Disease 489 511	diabetic macular edema
+T9	Disease 513 516	DME
+T10	Diagnostic_tool 519 524	VISTA
+T11	Disease 550 553	DME
+T12	Anatomy 696 703	macular
+T13	Classification_system 813 817	DRSS
+T14	Classification_system 1072 1076	DRSS
+T15	Characteristic 1077 1082	score
+T16	Characteristic 1112 1115	age
+T17	Characteristic 1117 1137	duration of diabetes
+T18	Characteristic 1139 1160	hemoglobin A1c (HbA1c
+T19	Characteristic 1163 1178	body mass index
+T20	Characteristic 1180 1183	BMI
+T21	Characteristic 1186 1214	best-corrected visual acuity
+T22	Characteristic 1216 1220	BCVA
+T23	Characteristic 1223 1249	central subfield thickness
+T24	Characteristic 1251 1254	CST
+T25	Classification_system 1261 1265	DRSS
+T26	Characteristic 1266 1271	score
+T27	Classification_system 1378 1382	DRSS
+T28	Characteristic 1416 1419	Age
+T29	Characteristic 1421 1441	duration of diabetes
+T30	Characteristic 1443 1448	HbA1c
+T31	Characteristic 1450 1453	BMI
+T32	Characteristic 1455 1459	BCVA
+T33	Characteristic 1465 1468	CST
+T34	Classification_system 1532 1536	DRSS
+T35	Classification_system 1552 1556	DRSS
+T36	Characteristic 1557 1562	score
+T37	Classification_system 1621 1625	DRSS
+T38	Characteristic 1763 1767	BCVA
+T39	Symptom 1771 1778	thicker
+T40	Characteristic 1779 1782	CST
+T41	Classification_system 1803 1807	DRSS
+T42	Characteristic 1858 1862	BCVA
+T43	Characteristic 1866 1877	thinner CST
+T44	Characteristic 2002 2012	DRSS score
+T45	Characteristic 2025 2035	DRSS score
+T46	Disease 2064 2067	DME

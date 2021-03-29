@@ -1,0 +1,31 @@
+T21	Symptom 1686 1752	abnormal findings in the GCA sector, deviation, and thickness maps
+T20	Anatomy 1637 1641	eyes
+T23	Diagnostic_tool 1897 1919	Cirrus HD-OCT GCA maps
+T22	Symptom 1784 1821	abnormal GCA findings in healthy eyes
+T25	Diagnostic_tool 1977 1985	GCA maps
+T24	Disease 1952 1966	early glaucoma
+T27	Anatomy 2033 2037	eyes
+T26	Disease 2020 2032	glaucomatous
+T29	Symptom 2082 2093	RNFL defect
+T28	Anatomy 2047 2077	angular distance between fovea
+T1	Disease 54 62	glaucoma
+T2	Diagnostic_tool 95 146	Cirrus high-definition optical coherence tomography
+T3	Diagnostic_tool 148 269	Cirrus HD-OCT; Carl Zeiss Meditec, Dublin, CA) macular ganglion cell analysis (GCA) sector, deviation, and thickness maps
+T4	Disease 280 294	early glaucoma
+T5	Anatomy 335 339	eyes
+T6	Disease 345 359	early glaucoma
+T7	Anatomy 438 442	eyes
+T8	Diagnostic_tool 444 460	Macular GCA maps
+T9	Diagnostic_tool 481 494	Cirrus HD-OCT
+T30	Disease 2157 2171	early glaucoma
+T10	Characteristic 510 597	angular distance, and width of circumpapillary retinal nerve fiber layer (RNFL) defects
+T31	Diagnostic_tool 2178 2186	GCA maps
+T12	Symptom 672 709	structural abnormality in the GCA map
+T11	Diagnostic_tool 634 652	fundus photographs
+T14	Anatomy 1001 1005	eyes
+T13	Symptom 725 862	(1) yellow/red color codes in the sector map, (2) yellow/red pixels ( > 10) in the deviation map, and (3) blue areas in the thickness map
+T16	Symptom 1160 1214	abnormal findings in the GCA maps of glaucomatous eyes
+T15	Symptom 1056 1129	structural abnormalities in the GCA sector, deviation, and thickness maps
+T18	Symptom 1382 1498	RNFL defect, less severe visual field defects, or an isolated peripheral nasal step (outside 10 degrees of fixation)
+T17	Symptom 1251 1356	RNFL defects in the superior hemisphere, a greater angular distance between the fovea and the RNFL defect
+T19	Symptom 1545 1556	RNFL defect

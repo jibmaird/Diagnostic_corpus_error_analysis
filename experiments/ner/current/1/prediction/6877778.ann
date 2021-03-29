@@ -1,0 +1,25 @@
+T1	Disease 18 48	central retinal vein occlusion
+T2	Anatomy 89 93	eyes
+T3	Disease 99 129	central retinal vein occlusion
+T4	Disease 131 135	CRVO
+T5	Disease 169 173	CRVO
+T6	Anatomy 180 184	eyes
+T7	Characteristic 188 202	rhesus monkeys
+T8	Disease 219 223	CRVO
+T9	Disease 277 293	Nonischemic CRVO
+T10	Symptom 326 362	stasis of retinal venous circulation
+T11	Disease 375 400	venous stasis retinopathy
+T12	Disease 402 405	VSR
+T13	Disease 412 425	Ischemic CRVO
+T14	Disease 440 463	hemorrhagic retinopathy
+T15	Disease 465 467	HR
+T16	Disease 566 570	CRVO
+T17	Symptom 576 579	VSR
+T18	Disease 584 586	HR
+T19	Disease 645 648	VSR
+T20	Disease 695 697	HR
+T21	Disease 703 740	severe, potentially blinding disorder
+T22	Disease 767 771	CRVO
+T23	Disease 865 869	CRVO
+T24	Disease 936 939	VSR
+T25	Disease 944 946	HR

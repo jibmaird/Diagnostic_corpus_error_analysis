@@ -1,0 +1,21 @@
+T4	Disease 98 106	Glaucoma
+T5	Diagnostic_tool 119 137	Fundus Photographs
+T6	Diagnostic_tool 166 315	deep learning (DL) algorithm that predicts referable glaucomatous optic neuropathy (GON) and optic nerve head (ONH) features from color fundus images
+T7	Symptom 397 442	glaucoma specialists (GSs) and the algorithm,
+T8	Anatomy 496 499	eye
+T9	Diagnostic_tool 560 573	Fundus images
+T10	Disease 614 622	glaucoma
+T21	Disease 2405 2413	glaucoma
+T20	Diagnostic_tool 2182 2195	fundus images
+T12	Characteristic 1010 1024	GSs; dataset B
+T11	Symptom 719 762	glaucomatous ONH features and referable GON
+T14	Disease 1203 1211	glaucoma
+T13	Diagnostic_tool 1087 1152	diabetic teleretinal screening program; and dataset C (346 images
+T16	Symptom 1642 1667	glaucomatous ONH features
+T15	Characteristic 1258 1396	area under the receiver operating characteristic curve (AUC), sensitivity, and specificity for referable GON and glaucomatous ONH features
+T18	Disease 1988 2001	referable GON
+T17	Disease 1876 1878	GS
+T1	Diagnostic_tool 0 13	Deep Learning
+T19	Symptom 2020 2122	vertical cup-to-disc ratio of 0.7 or more, neuroretinal rim notching, retinal nerve fiber layer defect
+T2	Disease 18 26	Glaucoma
+T3	Anatomy 67 77	Optic Disc

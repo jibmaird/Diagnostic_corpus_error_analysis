@@ -1,0 +1,16 @@
+T4	Diagnostic_tool 308 346	digital stereoscopic optic disc images
+T5	Characteristic 416 419	CDR
+T6	Diagnostic_tool 462 472	disc image
+T7	Diagnostic_tool 493 504	Disc images
+T8	Diagnostic_tool 536 542	images
+T9	Diagnostic_tool 544 554	image sets
+T10	Characteristic 602 606	CDRs
+T12	Anatomy 779 789	optic disc
+T11	Diagnostic_tool 617 627	image sets
+T14	Characteristic 1158 1161	CDR
+T13	Characteristic 1091 1094	CDR
+T16	Characteristic 2114 2118	CDRs
+T15	Diagnostic_tool 2010 2030	digital stereoscopic
+T1	Diagnostic_tool 0 47	Digital stereoscopic analysis of the optic disc
+T2	Characteristic 161 181	optic cup/disc ratio
+T3	Characteristic 183 186	CDR

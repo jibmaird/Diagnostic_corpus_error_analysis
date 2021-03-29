@@ -1,0 +1,30 @@
+T1	Symptom 25 49	22q11.2 microduplication
+T2	Disease 96 113	dup22q11 syndrome
+T3	Disease 236 244	syndrome
+T4	Symptom 260 268	dup22q11
+T5	Characteristic 268 269	.
+T6	Symptom 269 270	2
+T7	Diagnostic_tool 335 394	oligo-single nucleotide polymorphism chromosomal microarray
+T8	Symptom 522 551	ophthalmologic manifestations
+T9	Symptom 744 752	dup22q11
+T10	Characteristic 752 754	.2
+T11	Symptom 766 789	Marcus Gunn jaw winking
+T12	Disease 791 818	Duane's retraction syndrome
+T13	Symptom 830 852	abnormal eye movements
+T14	Disease 871 913	congenital cranial dysinnervation disorder
+T15	Disease 915 919	CCDD
+T16	Symptom 922 949	retinal vascular tortuosity
+T17	Disease 955 981	primary infantile glaucoma
+T18	Symptom 987 997	duplicated
+T19	Characteristic 1025 1031	SNAP29
+T20	Symptom 1079 1106	retinal vascular tortuosity
+T21	Characteristic 1112 1117	MAPK1
+T22	Characteristic 1149 1167	axonal development
+T23	Disease 1240 1244	CCDD
+T24	Characteristic 1261 1271	CLDN5 gene
+T25	Characteristic 1306 1311	CLDN5
+T26	Disease 1356 1364	glaucoma
+T27	Characteristic 1420 1428	of 22q11
+T28	Disease 1500 1504	CCDD
+T29	Characteristic 1506 1533	retinal vascular tortuosity
+T30	Disease 1539 1547	glaucoma

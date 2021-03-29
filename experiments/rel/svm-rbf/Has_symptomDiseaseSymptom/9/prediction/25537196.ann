@@ -1,0 +1,56 @@
+T21	Symptom 717 720	VFL
+T20	Symptom 701 704	TTF
+T23	Symptom 803 821	glaucoma blindness
+T22	Symptom 775 798	visual acuity (VA) loss
+T25	Symptom 1019 1028	blindness
+T24	Symptom 1000 1003	TTF
+T27	Symptom 1119 1128	blindness
+T26	Symptom 1094 1114	Visual acuity  < 0.3
+T29	Symptom 1195 1213	Threat to fixation
+T28	Disease 1134 1142	glaucoma
+T30	Anatomy 1243 1247	eyes
+T32	Symptom 1307 1324	glaucomatous loss
+T31	Symptom 1279 1282	TTF
+T34	Anatomy 1461 1465	eyes
+T33	Anatomy 1335 1339	eyes
+T36	Anatomy 1505 1509	eyes
+T35	Symptom 1471 1474	TTF
+T38	Symptom 1529 1534	blind
+T37	Symptom 1518 1521	TTF
+T39	Symptom 1634 1643	blindness
+T41	Symptom 1770 1779	VA  < 0.3
+T40	Symptom 1727 1730	TTF
+T43	Anatomy 1976 1980	eyes
+T42	Symptom 1838 1847	blindness
+T45	Anatomy 1994 1998	eyes
+T44	Symptom 1986 1989	TTF
+T47	Symptom 2102 2105	TTF
+T46	Symptom 2007 2010	TTF
+T49	Symptom 2211 2214	VFL
+T48	Symptom 2136 2154	glaucoma blindness
+T1	Symptom 0 18	Threat to fixation
+T2	Symptom 53 70	visual impairment
+T3	Disease 74 93	open-angle glaucoma
+T4	Symptom 119 137	threat to fixation
+T5	Symptom 139 142	TTF
+T6	Symptom 179 198	central vision loss
+T7	Symptom 203 221	glaucoma blindness
+T8	Anatomy 280 284	eyes
+T9	Disease 291 299	glaucoma
+T10	Disease 355 382	primary open-angle glaucoma
+T12	Anatomy 441 445	eyes
+T11	Disease 413 433	exfoliation glaucoma
+T14	Disease 503 515	glaucomatous
+T13	Symptom 486 489	TTF
+T16	Symptom 544 547	TTF
+T15	Anatomy 534 538	eyes
+T18	Symptom 579 582	VFL
+T17	Symptom 560 577	visual field loss
+T19	Anatomy 688 692	eyes
+R2	Has_symptom Arg1:T14 Arg2:T13
+R3	Has_symptom Arg1:T14 Arg2:T17
+R4	Has_symptom Arg1:T28 Arg2:T27
+R5	Has_symptom Arg1:T28 Arg2:T26
+R6	Has_symptom Arg1:T14 Arg2:T16
+R7	Has_symptom Arg1:T3 Arg2:T2
+R1	Has_symptom Arg1:T3 Arg2:T1

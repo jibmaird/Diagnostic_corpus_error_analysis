@@ -1,0 +1,35 @@
+T1	Anatomy 40 43	Eye
+T2	Anatomy 80 83	Eye
+T3	Anatomy 176 179	eye
+T4	Anatomy 381 384	Eye
+T5	Anatomy 489 492	eye
+T6	Diagnostic_tool 509 515	vision
+T7	Diagnostic_tool 517 527	refraction
+T8	Diagnostic_tool 533 552	retinal photography
+T9	Anatomy 554 557	Eye
+T10	Disease 707 715	glaucoma
+T11	Disease 748 756	glaucoma
+T12	Disease 757 773	glaucoma suspect
+T13	Diagnostic_tool 941 945	TECS
+T14	Disease 1060 1074	ocular disease
+T15	Disease 1099 1113	ocular disease
+T16	Anatomy 1150 1153	eye
+T17	Characteristic 1173 1183	Atlanta VA
+T18	Diagnostic_tool 1256 1259	FTF
+T19	Classification_system 1309 1313	TECS
+T20	Diagnostic_tool 1356 1359	FTF
+T21	Classification_system 1452 1456	TECS
+T22	Diagnostic_tool 1493 1496	FTF
+T23	Classification_system 1514 1518	TECS
+T24	Disease 1560 1568	cataract
+T25	Disease 1584 1604	diabetic retinopathy
+T26	Disease 1658 1666	glaucoma
+T27	Disease 1667 1683	glaucoma suspect
+T28	Diagnostic_tool 1712 1715	FTF
+T29	Disease 1729 1761	Age-related macular degeneration
+T30	Disease 1763 1766	AMD
+T31	Classification_system 1833 1837	TECS
+T32	Diagnostic_tool 2193 2197	TECS
+T33	Diagnostic_tool 2241 2244	FTF
+T34	Disease 2278 2297	common eye diseases
+T35	Diagnostic_tool 2343 2346	OCT

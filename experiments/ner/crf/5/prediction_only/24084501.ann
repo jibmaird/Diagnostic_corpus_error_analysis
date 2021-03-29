@@ -1,0 +1,14 @@
+T4	Disease 399 414	type 2 diabetic
+T5	Disease 495 497	DR
+T6	Disease 529 531	DR
+T7	Disease 767 769	DR
+T8	Characteristic 785 827	average quality-adjusted life years (QALYs
+T9	Disease 911 931	Diabetic retinopathy
+T10	Symptom 933 979	macular edema, blindness, and associated QALYs
+T12	Characteristic 1139 1173	> 3500, patients aged  < 80 years,
+T11	Disease 1052 1054	DR
+T14	Characteristic 1960 1997	older than 80 years or in populations
+T13	Disease 1331 1333	DR
+T1	Disease 44 64	diabetic retinopathy
+T2	Disease 176 196	diabetic retinopathy
+T3	Disease 198 200	DR

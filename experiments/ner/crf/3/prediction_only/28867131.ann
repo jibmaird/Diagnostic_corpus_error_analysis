@@ -1,0 +1,16 @@
+T4	Symptom 589 688	vitreous (in both its attached and detached state) and the internal limiting membrane of the retina
+T5	Symptom 732 803	rhegmatogenous retinal detachment and vitreoretinal interface disorders
+T6	Symptom 940 1004	Vitreous bodies identified to have posterior vitreous detachment
+T7	Diagnostic_tool 1039 1073	microscopy and confocal microscopy
+T8	Characteristic 1115 1294	collagen IV basement membrane markers, in addition to extracellular proteins that characterize the vitreoretinal junction (fibronectin, laminin) and vitreous gel (opticin) markers
+T9	Anatomy 1355 1381	internal limiting membrane
+T10	Symptom 1438 1544	the posterior hyaloid membrane observed during slit-lamp biomicroscopy after posterior vitreous detachment
+T12	Symptom 1729 1959	creased and distinct glassy membranous sheet enveloping the posterior vitreous surface, correlating closely with the posterior hyaloid membrane observed during slit-lamp biomicroscopy in patients with posterior vitreous detachment
+T11	Symptom 1593 1675	Morphologic appearance and molecular composition of the posterior hyaloid membrane
+T14	Anatomy 2363 2389	posterior hyaloid membrane
+T13	Anatomy 2218 2233	retinal surface
+T16	Anatomy 2609 2656	internal limiting membrane when the vitreous is
+T15	Anatomy 2433 2458	posterior hyaloid surface
+T1	Symptom 10 64	Vitreous Detachment and the Posterior Hyaloid Membrane
+T2	Symptom 273 355	morphologic appearance and molecular composition of the posterior hyaloid membrane
+T3	Anatomy 426 488	posterior vitreous surface after posterior vitreous detachment

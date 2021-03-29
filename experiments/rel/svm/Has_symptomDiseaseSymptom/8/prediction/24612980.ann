@@ -1,0 +1,45 @@
+T41	Characteristic 2207 2223	cpRNFL thickness
+T40	Characteristic 2151 2168	RNFL defect depth
+T21	Characteristic 1040 1143	average and segmental (4 quadrants and 12 clock-hour sectors) circumpapillary RNFL (cpRNFL) thicknesses
+T43	Symptom 2312 2339	moderate and severe defects
+T20	Characteristic 983 1038	Retinal nerve fiber layer defect depth percentage index
+T42	Symptom 2250 2280	mild and moderate RNFL defects
+T23	Characteristic 1191 1246	area under the receiver operating characteristic curves
+T22	Symptom 1161 1172	RNFL defect
+T25	Diagnostic_tool 1268 1271	OCT
+T24	Characteristic 1248 1254	AUROCs
+T27	Symptom 1340 1351	RNFL defect
+T26	Characteristic 1288 1293	RDPIs
+T29	Characteristic 1474 1480	AUROCs
+T28	Anatomy 1364 1396	superior and inferior hemifields
+T1	Characteristic 27 65	retinal nerve fiber layer defect depth
+T2	Diagnostic_tool 72 116	spectral-domain optical coherence tomography
+T3	Symptom 157 197	retinal nerve fiber layer (RNFL) defects
+T4	Diagnostic_tool 206 305	Cirrus high-definition (HD) optical coherence tomography (OCT)-derived RNFL thickness deviation map
+T5	Anatomy 365 369	eyes
+T6	Symptom 397 409	RNFL defects
+T7	Disease 417 425	glaucoma
+T8	Anatomy 443 447	eyes
+T9	Disease 481 489	glaucoma
+T30	Characteristic 1488 1493	RDPIs
+T10	Symptom 520 531	RNFL defect
+T32	Symptom 1644 1679	mild from the moderate RNFL defects
+T31	Characteristic 1603 1621	cpRNFL thicknesses
+T12	Characteristic 654 671	RNFL defect depth
+T34	Characteristic 1769 1775	AUROCs
+T11	Diagnostic_tool 546 573	red-free fundus photographs
+T33	Symptom 1726 1763	moderate from the severe RNFL defects
+T14	Characteristic 728 762	RNFL defect depth percentage index
+T36	Characteristic 1891 1909	cpRNFL thicknesses
+T13	Diagnostic_tool 679 707	RNFL thickness deviation map
+T35	Characteristic 1783 1788	RDPIs
+T16	Characteristic 792 819	thicknesses of RNFL defects
+T38	Characteristic 2008 2012	RDPI
+T15	Characteristic 764 768	RDPI
+T37	Anatomy 1934 1951	inferior quadrant
+T18	Characteristic 912 931	age-matched healthy
+T17	Characteristic 861 877	RNFL thicknesses
+T39	Diagnostic_tool 2038 2088	Cirrus HD OCT-derived RNFL thickness deviation map
+T19	Symptom 967 979	RNFL defects
+R2	Has_symptom Arg1:T9 Arg2:T10
+R1	Has_symptom Arg1:T7 Arg2:T6

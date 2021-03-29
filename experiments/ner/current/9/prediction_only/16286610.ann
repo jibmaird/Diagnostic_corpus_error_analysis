@@ -1,0 +1,33 @@
+T1	Classification_system 7 36	Age-Related Eye Disease Study
+T2	Disease 56 88	age-related macular degeneration
+T3	Diagnostic_tool 135 154	fundus photographic
+T4	Disease 174 206	age-related macular degeneration
+T5	Disease 208 211	AMD
+T6	Classification_system 231 260	Age-Related Eye Disease Study
+T7	Diagnostic_tool 262 299	stereoscopic color fundus photographs
+T8	Diagnostic_tool 380 391	Photographs
+T9	Symptom 408 414	drusen
+T10	Symptom 451 475	pigmentary abnormalities
+T11	Symptom 477 510	increased pigment, depigmentation
+T12	Symptom 512 530	geographic atrophy
+T13	Symptom 549 577	abnormalities characteristic
+T14	Disease 581 596	neovascular AMD
+T15	Symptom 598 635	retinal pigment epithelial detachment
+T16	Symptom 637 685	serous or hemorrhagic sensory retinal detachment
+T17	Symptom 687 742	subretinal or sub-retinal pigment epithelial hemorrhage
+T18	Symptom 744 769	subretinal fibrous tissue
+T19	Disease 772 784	Advanced AMD
+T20	Symptom 812 816	1 or
+T21	Symptom 822 851	neovascular AMD abnormalities
+T22	Disease 874 877	AMD
+T23	Symptom 882 935	geographic atrophy involving the center of the macula
+T24	Anatomy 974 978	eyes
+T25	Characteristic 1008 1026	severity of drusen
+T26	Symptom 1047 1071	pigmentary abnormalities
+T27	Disease 1103 1115	advanced AMD
+T28	Symptom 1202 1208	drusen
+T29	Symptom 1234 1256	pigmentary abnormality
+T30	Disease 1306 1318	advanced AMD
+T31	Anatomy 1409 1413	eyes
+T32	Anatomy 1678 1682	eyes
+T33	Disease 1858 1870	advanced AMD

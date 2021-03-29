@@ -1,0 +1,17 @@
+T1	Disease 0 26	Aging macular degeneration
+T2	Disease 49 66	treatable disease
+T3	Symptom 99 110	visual loss
+T4	Disease 128 153	aged macular degeneration
+T5	Symptom 158 202	extrafoveal subretinal neovascular membranes
+T6	Symptom 204 209	SRNVM
+T7	Symptom 282 311	subretinal neovascularization
+T8	Diagnostic_tool 329 340	Amsler grid
+T9	Diagnostic_tool 405 440	High quality fluorescein angiograms
+T10	Diagnostic_tool 445 481	meticulous contact lens examinations
+T11	Anatomy 489 495	macula
+T12	Symptom 533 551	neovascularization
+T13	Diagnostic_tool 609 633	fluorescein angiographic
+T14	Symptom 645 651	drusen
+T15	Symptom 653 687	retinal pigment epithelial atrophy
+T16	Symptom 693 731	retinal pigment epithelial detachments
+T17	Symptom 768 800	subretinal neovascular membranes

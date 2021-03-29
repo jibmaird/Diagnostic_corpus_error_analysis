@@ -1,0 +1,12 @@
+T4	Classification_system 241 277	Age-Related Eye Disease Study (AREDS
+T5	Anatomy 531 535	eyes
+T6	Characteristic 546 563	BMES participants
+T10	Disease 1034 1046	Advanced AMD
+T7	Anatomy 610 614	eyes
+T8	Symptom 699 871	education level, race, smoking status, and presence of pigment abnormality, soft drusen, and maximum drusen size-to devise and validate a macular risk scoring system (MRSS)
+T12	Disease 1618 1630	advanced AMD
+T9	Characteristic 908 1032	MRSS by calculating sensitivity, specificity, and the area under the receiver operating characteristic curve (i.e., c-index)
+T11	Diagnostic_tool 1474 1478	MRSS
+T1	Disease 35 76	advanced age-related macular degeneration
+T2	Disease 188 229	advanced age-related macular degeneration
+T3	Disease 231 234	AMD

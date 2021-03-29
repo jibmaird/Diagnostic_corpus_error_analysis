@@ -1,0 +1,49 @@
+T21	Anatomy 1360 1364	eyes
+T20	Anatomy 1291 1295	eyes
+T23	Anatomy 1403 1407	eyes
+T22	Characteristic 1366 1382	DiSLO200 and DFE
+T25	Anatomy 1485 1489	eyes
+T24	Anatomy 1473 1477	eyes
+T27	Characteristic 1534 1542	DiSLO200
+T26	Disease 1500 1502	DR
+T29	Characteristic 1628 1656	IRMA 26%, NVE 17%, and VB 4%
+T28	Diagnostic_tool 1547 1569	ETDRS film photographs
+T30	Symptom 1685 1704	H/Ma, IRMA, and NVE
+T32	Disease 1832 1834	DR
+T31	Diagnostic_tool 1768 1807	DiSLO200 but not ETDRS film photographs
+T34	Characteristic 1857 1954	Distribution in the temporal, superotemporal, inferotemporal, superonasal, and inferonasal fields
+T33	Anatomy 1851 1855	eyes
+T36	Characteristic 2182 2185	NVE
+T35	Symptom 1991 1995	H/Ma
+T38	Diagnostic_tool 2311 2326	DiSLO200 images
+T37	Characteristic 2250 2309	temporal fields compared with the nasal fields (P < 0.0001)
+T39	Diagnostic_tool 2358 2388	ETDRS film photographs and DFE
+T41	Diagnostic_tool 2433 2448	DiSLO200 images
+T40	Disease 2404 2406	DR
+T43	Symptom 2546 2564	peripheral lesions
+T42	Symptom 2489 2529	DR lesions was evident across the retina
+T45	Disease 2641 2643	DR
+T44	Diagnostic_tool 2579 2587	DiSLO200
+T47	Characteristic 2704 2716	ETDRS fields
+T46	Anatomy 2654 2658	eyes
+T49	Disease 2769 2771	DR
+T48	Symptom 2747 2765	peripheral lesions
+T1	Symptom 0 18	Peripheral lesions
+T2	Diagnostic_tool 33 66	mydriatic ultrawide field imaging
+T3	Disease 105 125	diabetic retinopathy
+T4	Disease 147 167	diabetic retinopathy
+T5	Disease 169 171	DR
+T6	Diagnostic_tool 215 383	mydriatic ultrawide field imaging (DiSLO200; Optos plc, Scotland, UK) compared with Early Treatment Diabetic Retinopathy Study (ETDRS) 7-standard field film photography
+T7	Diagnostic_tool 418 504	DiSLO200, ETDRS 7-standard field film photographs, and dilated fundus examination (DFE
+T8	Anatomy 522 526	eyes
+T9	Disease 588 590	DR
+T10	Diagnostic_tool 605 663	DiSLO200, ETDRS 7-standard field film photographs, and DFE
+T12	Symptom 816 955	hemorrhage and/or microaneurysm (H/Ma), venous beading (VB), intraretinal microvascular abnormality (IRMA), and new vessels elsewhere (NVE)
+T11	Disease 717 719	DR
+T14	Diagnostic_tool 1043 1082	ETDRS 7-standard field film photographs
+T13	Disease 1028 1030	DR
+T16	Symptom 1117 1193	DR mild 22.5%, moderate 30%, and severe/very severe 8%; and proliferative DR
+T15	Disease 1090 1092	DR
+T18	Characteristic 1237 1245	DiSLO200
+T17	Disease 1199 1219	Diabetic retinopathy
+T19	Diagnostic_tool 1250 1272	ETDRS film photographs

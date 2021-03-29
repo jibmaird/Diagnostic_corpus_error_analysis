@@ -1,0 +1,19 @@
+T4	Disease 136 144	glaucoma
+T5	Disease 340 348	glaucoma
+T6	Characteristic 384 409	Central corneal thickness
+T7	Characteristic 547 577	Mean central corneal thickness
+T8	Characteristic 668 685	corneal thickness
+T9	Anatomy 720 723	eye
+T10	Anatomy 759 762	eye
+T12	Anatomy 886 890	eyes
+T11	Characteristic 823 840	corneal thickness
+T14	Disease 1058 1066	glaucoma
+T13	Symptom 905 979	statistical significance in both the right eye (P = 0.02) and the left eye
+T16	Symptom 1172 1220	recategorization in both the right and left eyes
+T15	Anatomy 1158 1162	eyes
+T18	Characteristic 1334 1337	CCT
+T17	Characteristic 1238 1241	CCT
+T1	Characteristic 0 25	Central corneal thickness
+T19	Disease 1389 1406	glaucoma suspects
+T2	Characteristic 89 114	central corneal thickness
+T3	Characteristic 116 119	CCT

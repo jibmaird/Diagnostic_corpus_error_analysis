@@ -1,0 +1,55 @@
+T21	Anatomy 955 959	eyes
+T20	Symptom 936 940	PPLs
+T23	Diagnostic_tool 987 998	UWF imaging
+T22	Symptom 968 972	PPLs
+T25	Disease 1028 1031	PDR
+T24	Anatomy 1015 1019	eyes
+T27	Disease 1112 1114	DR
+T26	Symptom 1090 1094	PPLs
+T29	Symptom 1155 1159	PPLs
+T28	Anatomy 1142 1146	eyes
+T30	Anatomy 1161 1165	eyes
+T32	Disease 1224 1226	DR
+T31	Symptom 1171 1175	PPLs
+T34	Characteristic 1432 1438	gender
+T33	Disease 1323 1326	PDR
+T36	Characteristic 1455 1472	diabetes duration
+T35	Characteristic 1440 1453	diabetes type
+T38	Characteristic 1509 1529	baseline DR severity
+T37	Characteristic 1474 1503	hemoglobin A1c (HbA1c) levels
+T39	Symptom 1564 1568	PPLs
+T41	Disease 1653 1656	PDR
+T40	Disease 1607 1609	DR
+T43	Disease 1748 1750	DR
+T42	Symptom 1704 1708	PPLs
+T45	Characteristic 1817 1829	HbA1c levels
+T44	Disease 1801 1803	DR
+T47	Disease 1893 1895	DR
+T46	Symptom 1852 1856	PPLs
+T49	Disease 1960 1962	DR
+T48	Disease 1927 1930	PDR
+T1	Symptom 0 18	Peripheral Lesions
+T2	Diagnostic_tool 33 56	Ultrawide Field Imaging
+T3	Disease 83 103	Diabetic Retinopathy
+T4	Symptom 152 196	peripheral diabetic retinopathy (DR) lesions
+T5	Diagnostic_tool 211 240	ultrawide field (UWF) imaging
+T6	Disease 271 273	DR
+T7	Anatomy 333 337	eyes
+T8	Diagnostic_tool 460 522	Early Treatment Diabetic Retinopathy Study (ETDRS) photographs
+T9	Diagnostic_tool 527 537	UWF images
+T50	Diagnostic_tool 2017 2046	peripheral retinal evaluation
+T51	Disease 2129 2131	DR
+T10	Diagnostic_tool 556 566	UWF images
+T12	Symptom 661 693	predominantly peripheral lesions
+T11	Symptom 568 578	DR lesions
+T14	Diagnostic_tool 712 729	ETDRS photographs
+T13	Symptom 695 699	PPLs
+T16	Diagnostic_tool 826 843	ETDRS photographs
+T15	Disease 797 799	DR
+T18	Disease 918 921	PDR
+T17	Disease 900 916	proliferative DR
+T19	Anatomy 926 930	eyes
+R2	Diagnosed_with Arg1:T15 Arg2:T16
+R3	Diagnosed_with Arg1:T51 Arg2:T50
+R4	Diagnosed_with Arg1:T6 Arg2:T5
+R1	Diagnosed_with Arg1:T3 Arg2:T2

@@ -1,0 +1,57 @@
+T1	Symptom 0 29	Variable corneal compensation
+T2	Disease 73 85	glaucomatous
+T3	Anatomy 86 90	eyes
+T4	Diagnostic_tool 100 126	scanning laser polarimeter
+T5	Diagnostic_tool 153 179	scanning laser polarimeter
+T6	Diagnostic_tool 181 184	SLP
+T7	Anatomy 198 205	corneal
+T8	Diagnostic_tool 206 217	compensator
+T9	Anatomy 219 222	FCC
+T10	Characteristic 241 262	corneal birefringence
+T11	Anatomy 271 275	eyes
+T12	Characteristic 281 294	birefringence
+T13	Diagnostic_tool 341 369	variable corneal compensator
+T14	Diagnostic_tool 371 374	VCC
+T15	Characteristic 414 435	corneal birefringence
+T16	Characteristic 456 475	macular retardation
+T17	Anatomy 552 555	SLP
+T18	Diagnostic_tool 565 568	FCC
+T19	Diagnostic_tool 582 585	VCC
+T20	Disease 621 633	glaucomatous
+T21	Anatomy 634 638	eyes
+T22	Anatomy 742 746	eyes
+T23	Disease 754 766	glaucomatous
+T24	Anatomy 767 771	eyes
+T25	Anatomy 824 828	eyes
+T26	Disease 836 848	glaucomatous
+T27	Anatomy 849 853	eyes
+T28	Disease 863 874	retardation
+T29	Diagnostic_tool 911 914	SLP
+T30	Diagnostic_tool 924 927	FCC
+T31	Diagnostic_tool 936 939	VCC
+T32	Characteristic 987 990	age
+T33	Characteristic 992 998	gender
+T34	Characteristic 1000 1013	ethnic origin
+T35	Characteristic 1019 1027	eye side
+T36	Disease 1126 1134	glaucoma
+T37	Disease 1294 1306	glaucomatous
+T38	Anatomy 1307 1311	eyes
+T39	Diagnostic_tool 1380 1383	VCC
+T40	Diagnostic_tool 1398 1401	FCC
+T41	Characteristic 1432 1445	nasal average
+T42	Characteristic 1460 1476	superior maximum
+T43	Characteristic 1491 1506	ellipse average
+T44	Characteristic 1520 1537	average thickness
+T45	Diagnostic_tool 1615 1636	Discriminant analysis
+T46	Diagnostic_tool 1694 1697	FCC
+T47	Anatomy 1710 1713	VCC
+T48	Characteristic 1854 1857	VCC
+T49	Symptom 1945 1968	early visual field loss
+T50	Characteristic 2014 2017	FCC
+T51	Characteristic 2035 2038	VCC
+T52	Symptom 2078 2099	corneal birefringence
+T53	Diagnostic_tool 2109 2112	VCC
+T54	Diagnostic_tool 2155 2158	SLP
+T55	Disease 2193 2205	glaucomatous
+T56	Anatomy 2206 2210	eyes
+T57	Disease 2250 2264	early glaucoma

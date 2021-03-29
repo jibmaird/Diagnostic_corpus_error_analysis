@@ -1,0 +1,9 @@
+T4	Disease 396 402	myopia
+T5	Disease 1060 1066	myopia
+T6	Disease 1134 1140	myopia
+T7	Disease 2036 2042	myopic
+T8	Disease 2079 2085	myopia
+T9	Diagnostic_tool 2184 2194	topography
+T1	Characteristic 140 158	corneal topography
+T2	Diagnostic_tool 232 248	Topographic maps
+T3	Disease 356 366	emmetropia

@@ -1,0 +1,21 @@
+T4	Anatomy 489 492	eye
+T5	Characteristic 499 552	including vision, refraction, and retinal photography
+T6	Disease 707 715	glaucoma
+T7	Disease 748 765	glaucoma/glaucoma
+T8	Diagnostic_tool 941 994	TECS protocol versus a face-to-face (FTF) examination
+T9	Disease 1048 1074	significant ocular disease
+T10	Anatomy 1150 1153	eye
+T21	Diagnostic_tool 2343 2346	OCT
+T20	Anatomy 2285 2288	eye
+T12	Diagnostic_tool 1356 1371	FTF examination
+T11	Diagnostic_tool 1256 1271	FTF examination
+T14	Disease 1584 1604	diabetic retinopathy
+T13	Diagnostic_tool 1493 1508	FTF examination
+T16	Diagnostic_tool 1712 1727	FTF examination
+T15	Disease 1658 1683	glaucoma/glaucoma suspect
+T18	Disease 1763 1766	AMD
+T17	Disease 1729 1761	Age-related macular degeneration
+T1	Anatomy 176 179	eye
+T19	Diagnostic_tool 2241 2256	FTF examination
+T2	Classification_system 321 404	Veterans Affairs (VA) Healthcare System is Technology-based Eye Care Services (TECS
+T3	Characteristic 411 424	TECS services

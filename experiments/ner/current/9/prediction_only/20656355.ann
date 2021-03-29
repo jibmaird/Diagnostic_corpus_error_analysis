@@ -1,0 +1,77 @@
+T1	Symptom 0 21	Foveal cystoid spaces
+T2	Symptom 42 72	enlarged foveal avascular zone
+T3	Symptom 77 91	microaneurysms
+T4	Disease 95 117	diabetic macular edema
+T5	Anatomy 176 189	foveal center
+T6	Diagnostic_tool 204 248	spectral domain optical coherence tomography
+T7	Diagnostic_tool 250 256	SD-OCT
+T8	Symptom 262 295	vascular changes around the fovea
+T9	Diagnostic_tool 299 322	fluorescein angiography
+T10	Diagnostic_tool 324 326	FA
+T11	Disease 345 367	diabetic macular edema
+T12	Disease 369 372	DME
+T13	Anatomy 453 457	eyes
+T14	Disease 480 516	clinically significant macular edema
+T15	Disease 518 522	CSME
+T16	Diagnostic_tool 533 539	SD-OCT
+T17	Diagnostic_tool 544 546	FA
+T18	Diagnostic_tool 579 602	Fluorescein angiography
+T19	Characteristic 609 613	HRA2
+T20	Diagnostic_tool 664 677	SD-OCT images
+T21	Diagnostic_tool 684 698	Spectralis OCT
+T22	Symptom 756 770	Microaneurysms
+T23	Symptom 772 775	MAs
+T24	Anatomy 784 812	perifoveal capillary network
+T25	Anatomy 814 817	PCN
+T26	Anatomy 823 844	foveal avascular zone
+T27	Anatomy 846 849	FAZ
+T28	Diagnostic_tool 858 867	FA images
+T29	Anatomy 912 925	foveal center
+T30	Diagnostic_tool 943 953	OCT images
+T31	Symptom 1000 1033	pathologic perifoveal capillaries
+T32	Diagnostic_tool 1037 1039	FA
+T33	Characteristic 1048 1069	neuroglial morphology
+T34	Diagnostic_tool 1073 1076	OCT
+T35	Characteristic 1103 1113	pathologic
+T36	Symptom 1114 1147	changes in perifoveal capillaries
+T37	Diagnostic_tool 1151 1153	FA
+T38	Characteristic 1158 1180	foveal pathomorphology
+T39	Diagnostic_tool 1184 1187	OCT
+T40	Anatomy 1206 1212	foveal
+T41	Characteristic 1213 1223	morphology
+T42	Diagnostic_tool 1227 1237	OCT images
+T43	Anatomy 1242 1246	eyes
+T44	Symptom 1257 1278	foveal cystoid spaces
+T45	Disease 1280 1301	cystoid macular edema
+T46	Disease 1303 1306	CME
+T47	Anatomy 1313 1317	eyes
+T48	Symptom 1322 1349	serous retinal detachment (
+T49	Symptom 1349 1374	SRD) at the foveal center
+T50	Anatomy 1383 1387	eyes
+T51	Symptom 1392 1432	foveal thickening without cystoid spaces
+T52	Symptom 1436 1454	retinal detachment
+T53	Symptom 1456 1472	retinal swelling
+T54	Anatomy 1483 1487	eyes
+T55	Disease 1493 1513	ischemic maculopathy
+T56	Symptom 1575 1578	MAs
+T57	Anatomy 1586 1589	PCN
+T58	Anatomy 1619 1623	eyes
+T59	Disease 1629 1632	CME
+T60	Anatomy 1655 1659	eyes
+T61	Symptom 1665 1668	SRD
+T62	Symptom 1698 1714	retinal swelling
+T63	Diagnostic_tool 1759 1762	FAZ
+T64	Anatomy 1770 1774	eyes
+T65	Disease 1780 1783	CME
+T66	Anatomy 1848 1852	eyes
+T67	Symptom 1858 1861	SRD
+T68	Symptom 1899 1915	retinal swelling
+T69	Anatomy 1984 1988	eyes
+T70	Symptom 1994 2031	thickened posterior hyaloid membranes
+T71	Anatomy 2037 2041	eyes
+T72	Symptom 2047 2082	cystoid spaces at the foveal center
+T73	Diagnostic_tool 2097 2100	OCT
+T74	Symptom 2110 2113	MAs
+T75	Anatomy 2121 2124	PCN
+T76	Characteristic 2136 2139	FAZ
+T77	Diagnostic_tool 2143 2152	FA images

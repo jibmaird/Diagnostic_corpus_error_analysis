@@ -1,0 +1,22 @@
+T1	Disease 35 72	adult chlamydial keratoconjunctivitis
+T2	Diagnostic_tool 75 94	Conjunctival smears
+T3	Disease 145 176	chlamydial keratoconjunctivitis
+T4	Characteristic 235 239	age-
+T5	Characteristic 244 255	sex-matched
+T6	Diagnostic_tool 325 376	fluorescent monoclonal antibody (FMAb) direct tests
+T7	Diagnostic_tool 378 402	IgG single antigen tests
+T8	Characteristic 424 438	serum antibody
+T9	Diagnostic_tool 440 447	IgG-IFT
+T10	Diagnostic_tool 454 457	IgA
+T11	Diagnostic_tool 462 488	IgG immunoperoxidase tests
+T12	Diagnostic_tool 490 493	IgA
+T13	Diagnostic_tool 503 506	IgG
+T14	Characteristic 517 531	serum antibody
+T15	Diagnostic_tool 621 625	FMAb
+T16	Diagnostic_tool 699 706	IgG-IFT
+T17	Diagnostic_tool 779 786	IgA-IPA
+T18	Diagnostic_tool 864 871	IgG-IPA
+T19	Diagnostic_tool 968 972	FMAb
+T20	Diagnostic_tool 977 984	IgA-IPA
+T21	Diagnostic_tool 1011 1018	culture
+T22	Disease 1091 1109	chlamydial disease

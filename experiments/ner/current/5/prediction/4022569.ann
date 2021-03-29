@@ -1,0 +1,20 @@
+T1	Diagnostic_tool 0 29	Quantitative office perimetry
+T2	Diagnostic_tool 107 144	automated threshold static parameters
+T3	Diagnostic_tool 166 187	projection perimeters
+T4	Diagnostic_tool 189 212	Humphrey Field Analyzer
+T5	Diagnostic_tool 248 273	light-emitting diode (LED
+T6	Diagnostic_tool 275 285	perimeters
+T7	Characteristic 402 417	31-58 years old
+T8	Symptom 438 474	glaucomatous field loss in both eyes
+T9	Characteristic 476 491	55-70 years old
+T10	Symptom 516 574	neuro-ophthalmologic or retinal visual field abnormalities
+T11	Anatomy 583 587	eyes
+T12	Characteristic 589 604	12-61 years old
+T13	Diagnostic_tool 1091 1102	Octopus 500
+T14	Diagnostic_tool 1104 1109	Squid
+T15	Diagnostic_tool 1119 1130	Fieldmaster
+T16	Diagnostic_tool 1191 1214	Humphrey Field Analyzer
+T17	Diagnostic_tool 1234 1255	projection perimeters
+T18	Diagnostic_tool 1257 1280	Humphrey Field Analyzer
+T19	Diagnostic_tool 1282 1287	Squid
+T20	Diagnostic_tool 1293 1304	Octopus 500

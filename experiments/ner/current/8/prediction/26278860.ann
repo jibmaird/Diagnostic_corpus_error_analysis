@@ -1,0 +1,43 @@
+T1	Characteristic 23 61	Hemifield Difference across Horizontal
+T2	Anatomy 62 67	Raphe
+T3	Diagnostic_tool 71 121	Ganglion Cell--Inner Plexiform Layer Thickness Map
+T4	Diagnostic_tool 194 252	ganglion cell-inner plexiform layer [GCIPL] hemifield test
+T5	Characteristic 281 335	GCIPL thickness difference across the horizontal raphe
+T6	Disease 359 367	glaucoma
+T7	Anatomy 442 446	eyes
+T8	Anatomy 490 494	eyes
+T9	Disease 512 520	glaucoma
+T10	Characteristic 525 538	preperimetric
+T11	Characteristic 546 562	early perimetric
+T12	Diagnostic_tool 565 616	Cirrus high-definition optical coherence tomography
+T13	Diagnostic_tool 618 624	HD-OCT
+T14	Anatomy 697 720	macular and optic discs
+T15	Diagnostic_tool 769 789	GCIPL hemifield test
+T16	Anatomy 931 941	hemifields
+T17	Anatomy 1018 1051	temporal inner elliptical annulus
+T18	Anatomy 1059 1083	outer elliptical annulus
+T19	Characteristic 1101 1144	GCIPL thickness difference within 10 pixels
+T20	Characteristic 1220 1239	RGB color ranges of
+T21	Characteristic 1244 1246	10
+T22	Characteristic 1297 1301	blue
+T23	Anatomy 1307 1316	hemifield
+T24	Characteristic 1321 1337	red/yellow/white
+T25	Anatomy 1351 1360	hemifield
+T26	Diagnostic_tool 1481 1501	GCIPL hemifield test
+T27	Characteristic 1502 1508	result
+T28	Disease 1545 1557	glaucomatous
+T29	Anatomy 1558 1562	eyes
+T30	Characteristic 1591 1607	early perimetric
+T31	Anatomy 1628 1632	eyes
+T32	Diagnostic_tool 1684 1704	GCIPL hemifield test
+T33	Characteristic 1790 1805	GCIPL thickness
+T34	Characteristic 1819 1849	inferotemporal GCIPL thickness
+T35	Characteristic 1875 1890	GCIPL thickness
+T36	Characteristic 1946 1968	early perimetric group
+T37	Diagnostic_tool 1985 2005	GCIPL hemifield test
+T38	Characteristic 2083 2113	inferotemporal GCIPL thickness
+T39	Characteristic 2135 2150	GCIPL thickness
+T40	Characteristic 2176 2191	GCIPL thickness
+T41	Symptom 2262 2296	early glaucomatous structural loss
+T42	Disease 2314 2336	preperimetric glaucoma
+T43	Characteristic 2366 2420	GCIPL thickness difference across the horizontal raphe

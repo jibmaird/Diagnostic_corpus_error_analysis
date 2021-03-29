@@ -1,0 +1,33 @@
+T1	Disease 41 82	Advanced Age-Related Macular Degeneration
+T2	Symptom 123 130	Atrophy
+T3	Symptom 220 227	Atrophy
+T4	Symptom 319 326	atrophy
+T5	Disease 334 409	late-stage non-neovascular and neovascular age-related macular degeneration
+T6	Disease 411 414	AMD
+T7	Anatomy 648 654	retina
+T8	Classification_system 679 682	CAM
+T9	Disease 946 981	non-neovascular and neovascular AMD
+T10	Diagnostic_tool 1032 1047	retinal imaging
+T11	Disease 1098 1110	advanced AMD
+T12	Symptom 1185 1192	atrophy
+T13	Diagnostic_tool 1208 1232	color fundus photography
+T14	Diagnostic_tool 1234 1237	CFP
+T15	Diagnostic_tool 1240 1272	confocal fundus autofluorescence
+T16	Diagnostic_tool 1274 1277	FAF
+T17	Diagnostic_tool 1280 1314	confocal near-infrared reflectance
+T18	Diagnostic_tool 1316 1319	NIR
+T19	Diagnostic_tool 1326 1383	high-resolution optical coherence tomography volume scans
+T20	Disease 1474 1493	non-neovascular AMD
+T21	Symptom 1520 1558	active or regressed neovascularization
+T22	Symptom 1560 1562	NV
+T23	Diagnostic_tool 1578 1581	CFP
+T24	Diagnostic_tool 1636 1659	Fluorescein angiography
+T25	Diagnostic_tool 1661 1663	FA
+T26	Symptom 1702 1704	NV
+T27	Diagnostic_tool 1736 1765	Indocyanine-green angiography
+T28	Diagnostic_tool 1767 1772	ICG-A
+T29	Disease 1859 1874	neovascular AMD
+T30	Anatomy 1916 1927	vasculature
+T31	Diagnostic_tool 1998 2000	FA
+T32	Diagnostic_tool 2061 2066	ICG-A
+T33	Symptom 2203 2210	atrophy

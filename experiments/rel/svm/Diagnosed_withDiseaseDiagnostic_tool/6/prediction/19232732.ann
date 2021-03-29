@@ -1,0 +1,54 @@
+T21	Characteristic 1077 1094	retinal thickness
+T20	Symptom 975 1021	sub-retinal pigment epithelium (sub-RPE) fluid
+T23	Diagnostic_tool 1215 1221	SD-OCT
+T22	Symptom 1142 1145	CNV
+T25	Diagnostic_tool 1280 1286	SD-OCT
+T24	Diagnostic_tool 1243 1249	TD-OCT
+T27	Diagnostic_tool 1367 1373	TD-OCT
+T26	Symptom 1339 1352	sub-RPE fluid
+T29	Symptom 1441 1459	intraretinal fluid
+T28	Diagnostic_tool 1397 1403	SD-OCT
+T30	Diagnostic_tool 1472 1478	SD-OCT
+T32	Symptom 1537 1555	intraretinal cysts
+T31	Symptom 1516 1532	subretinal fluid
+T34	Symptom 1658 1674	subretinal fluid
+T33	Diagnostic_tool 1616 1622	SD-OCT
+T36	Symptom 1728 1758	sub-RPE and intraretinal fluid
+T35	Diagnostic_tool 1686 1692	SD-OCT
+T38	Diagnostic_tool 1845 1851	SD-OCT
+T37	Characteristic 1810 1832	center point thickness
+T39	Diagnostic_tool 1864 1870	TD-OCT
+T41	Diagnostic_tool 1956 1962	TD-OCT
+T40	Diagnostic_tool 1905 1911	SD-OCT
+T43	Characteristic 2004 2029	center subfield thickness
+T42	Characteristic 1966 1988	center point thickness
+T45	Diagnostic_tool 2079 2085	TD-OCT
+T44	Diagnostic_tool 2057 2063	SD-OCT
+T47	Disease 2134 2141	wet AMD
+T46	Symptom 2104 2107	CNV
+T49	Diagnostic_tool 2210 2216	SD-OCT
+T48	Characteristic 2171 2188	Retinal thickness
+T1	Diagnostic_tool 14 77	spectral-domain versus time-domain optical coherence tomography
+T2	Disease 95 127	age-related macular degeneration
+T3	Symptom 206 234	choroidal neovascularization
+T4	Symptom 236 239	CNV
+T5	Disease 267 309	exudative age-related macular degeneration
+T6	Disease 311 314	AMD
+T7	Diagnostic_tool 352 392	time-domain optical coherence tomography
+T8	Diagnostic_tool 394 400	TD-OCT
+T9	Diagnostic_tool 418 462	spectral-domain optical coherence tomography
+T50	Diagnostic_tool 2221 2227	TD-OCT
+T10	Diagnostic_tool 464 470	SD-OCT
+T12	Disease 554 567	exudative AMD
+T11	Anatomy 529 533	eyes
+T14	Diagnostic_tool 692 698	SD-OCT
+T13	Diagnostic_tool 655 661	TD-OCT
+T16	Symptom 877 880	CNV
+T15	Diagnostic_tool 758 768	OCT images
+T18	Symptom 935 953	intraretinal cysts
+T17	Symptom 917 933	subretinal fluid
+T19	Symptom 955 973	intraretinal fluid
+R2	Diagnosed_with Arg1:T6 Arg2:T8
+R3	Diagnosed_with Arg1:T6 Arg2:T9
+R4	Diagnosed_with Arg1:T6 Arg2:T7
+R1	Diagnosed_with Arg1:T2 Arg2:T1

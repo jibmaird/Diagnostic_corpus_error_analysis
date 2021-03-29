@@ -1,0 +1,47 @@
+T41	Dimension 1929 1937	≤ 135 μm
+T40	Characteristic 1926 1928	CT
+T21	Symptom 852 868	Drusenoid lesion
+T43	Symptom 2103 2120	HRF overlying DLs
+T20	Symptom 815 828	local atrophy
+T42	Symptom 1981 1988	atrophy
+T23	Characteristic 949 964	lesion diameter
+T45	Disease 2374 2380	NNVAMD
+T22	Characteristic 926 947	maximum lesion height
+T44	Symptom 2227 2234	atrophy
+T25	Symptom 1023 1066	overlying intraretinal hyperreflective foci
+T24	Characteristic 966 994	lesion internal reflectivity
+T27	Characteristic 1074 1103	Subfoveal choroidal thickness
+T26	Symptom 1068 1071	HRF
+T29	Characteristic 1115 1134	choroidal thickness
+T28	Characteristic 1105 1109	SFCT
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Symptom 73 89	drusenoid lesion
+T3	Anatomy 93 97	eyes
+T4	Disease 103 139	dry age-related macular degeneration
+T5	Diagnostic_tool 149 193	spectral domain optical coherence tomography
+T6	Diagnostic_tool 195 201	SD-OCT
+T7	Symptom 265 293	atrophy of drusenoid lesions
+T8	Symptom 295 298	DLs
+T9	Symptom 301 307	drusen
+T30	Characteristic 1136 1138	CT
+T10	Symptom 312 351	drusenoid pigment epithelium detachment
+T32	Symptom 1354 1357	DLs
+T31	Symptom 1199 1202	DLs
+T12	Disease 366 414	non-neovascular age-related macular degeneration
+T34	Symptom 1457 1515	Drusenoid lesions with heterogeneous internal reflectivity
+T11	Anatomy 356 360	eyes
+T33	Symptom 1381 1388	atrophy
+T14	Anatomy 449 453	eyes
+T36	Symptom 1645 1652	atrophy
+T13	Disease 416 422	NNVAMD
+T35	Symptom 1555 1562	atrophy
+T16	Disease 498 504	NNVAMD
+T38	Symptom 1769 1776	atrophy
+T15	Disease 476 482	NNVAMD
+T37	Symptom 1730 1733	HRF
+T18	Symptom 594 611	Drusenoid lesions
+T17	Diagnostic_tool 530 544	SD-OCT imaging
+T39	Dimension 1915 1922	> 80 μm
+T19	Symptom 641 648	atrophy
+R2	Diagnosed_with Arg1:T16 Arg2:T17
+R1	Diagnosed_with Arg1:T12 Arg2:T6

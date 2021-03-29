@@ -1,0 +1,52 @@
+T1	Disease 14 36	morning glory syndrome
+T2	Diagnostic_tool 42 79	spectral optical coherence tomography
+T3	Diagnostic_tool 84 94	echography
+T4	Anatomy 109 113	eyes
+T5	Disease 126 148	morning glory syndrome
+T6	Disease 150 153	MGS
+T7	Diagnostic_tool 160 204	spectral-domain optical coherence tomography
+T8	Diagnostic_tool 206 212	SD OCT
+T9	Diagnostic_tool 218 228	echography
+T10	Anatomy 277 281	eyes
+T11	Disease 288 291	MGS
+T12	Anatomy 308 311	Eye
+T13	Diagnostic_tool 407 433	ophthalmologic examination
+T14	Characteristic 448 474	best-correct visual acuity
+T15	Diagnostic_tool 476 494	fundus photography
+T16	Diagnostic_tool 500 510	echography
+T17	Diagnostic_tool 536 542	SD OCT
+T18	Diagnostic_tool 547 579	high-frequency B-scan echography
+T19	Diagnostic_tool 590 634	Spectral-domain optical coherence tomography
+T20	Diagnostic_tool 639 650	echographic
+T21	Disease 663 666	MGS
+T22	Diagnostic_tool 668 712	Spectral-domain optical coherence tomography
+T23	Symptom 722 747	retinal detachment in the
+T24	Anatomy 748 758	conus area
+T25	Anatomy 764 768	eyes
+T26	Symptom 777 795	noncontractile MGS
+T27	Symptom 797 802	NCMGS
+T28	Symptom 815 830	contractile MGS
+T29	Symptom 832 836	CMGS
+T30	Symptom 863 876	retinal break
+T31	Anatomy 900 904	eyes
+T32	Symptom 912 934	abnormal communication
+T33	Symptom 947 965	subarachnoid space
+T34	Anatomy 974 984	subretinal
+T35	Symptom 985 990	space
+T36	Diagnostic_tool 992 1036	Spectral-domain optical coherence tomography
+T37	Characteristic 1072 1076	CMGS
+T38	Characteristic 1081 1086	NCMGS
+T39	Diagnostic_tool 1088 1111	Echographic examination
+T40	Anatomy 1161 1172	optic nerve
+T41	Anatomy 1176 1181	orbit
+T42	Diagnostic_tool 1183 1227	Spectral-domain optical coherence tomography
+T43	Diagnostic_tool 1259 1269	echography
+T44	Anatomy 1280 1294	posterior pole
+T45	Diagnostic_tool 1304 1327	echographic examination
+T46	Anatomy 1397 1408	optic nerve
+T47	Anatomy 1416 1428	orbital wall
+T48	Symptom 1430 1448	Retinal detachment
+T49	Disease 1452 1455	MGS
+T50	Symptom 1481 1568	abnormal communication between the subretinal and subarachnoid or vitreous compartments
+T51	Symptom 1594 1647	myopialike retinal detachment without a retinal break
+T52	Symptom 1664 1712	tissue stretching around the peripapillary conus

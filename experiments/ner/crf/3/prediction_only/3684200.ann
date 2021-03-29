@@ -1,0 +1,12 @@
+T4	Disease 152 172	diabetic retinopathy
+T5	Diagnostic_tool 266 286	standard photographs
+T6	Symptom 305 399	diabetic persons (N = 996), macular edema was more prevalent in persons with blue or grey eyes
+T10	Disease 857 877	diabetic retinopathy
+T7	Anatomy 510 514	eyes
+T8	Characteristic 535 615	intermediate (22%) or brown (20%) in the younger-onset group (P less than 0.001)
+T12	Disease 966 974	glaucoma
+T9	Symptom 641 795	N = 1370), intraocular pressure (IOP) was higher in persons with brown eyes (17.8 mmHg) compared with blue or grey (17.1 mmHg) or intermediate (16.6 mmHg)
+T11	Disease 930 962	age-related macular degeneration
+T1	Characteristic 19 58	iris color with eye disease in diabetes
+T2	Characteristic 61 77	Iris (eye) color
+T3	Anatomy 109 112	eye

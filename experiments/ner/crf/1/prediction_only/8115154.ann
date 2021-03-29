@@ -1,0 +1,12 @@
+T4	Disease 310 313	PDS
+T5	Anatomy 345 349	eyes
+T6	Anatomy 382 386	eyes
+T10	Characteristic 655 707	iris concavity and irido-zonular contact in all eyes
+T7	Symptom 470 533	irido-zonular contact in 25%, and irido-ciliary process contact
+T8	Anatomy 554 558	eyes
+T12	Characteristic 858 934	iris, lens, zonules, and ciliary processes in vivo that characterize the PDS
+T9	Symptom 564 567	PDS
+T11	Anatomy 783 787	eyes
+T1	Characteristic 0 55	Ultrasound biomicroscopy in pigment dispersion syndrome
+T2	Characteristic 101 193	iris, lens, ciliary processes, and zonules in eyes with the pigment dispersion syndrome (PDS
+T3	Diagnostic_tool 196 254	High-resolution, anterior segment ultrasound biomicroscopy

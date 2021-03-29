@@ -1,0 +1,11 @@
+T4	Symptom 341 398	mechanisms of strabismus occurring after scleral buckling
+T5	Symptom 521 589	large-angle strabismus after monocular or binocular scleral buckling
+T6	Symptom 732 782	Multipositional high-resolution MRI of both orbits
+T10	Diagnostic_tool 1584 1642	Magnetic resonance imaging demonstrated anterior migration
+T7	Symptom 958 1067	pathologic characteristics of the extraocular muscles (EOMs) in complicated strabismus after scleral buckling
+T8	Diagnostic_tool 1069 1095	Magnetic resonance imaging
+T9	Disease 1565 1582	myopic staphyloma
+T11	Symptom 2177 2228	persistent severe strabismus after scleral buckling
+T1	Symptom 0 61	Severe strabismus after scleral buckling: multiple mechanisms
+T2	Diagnostic_tool 74 116	high-resolution magnetic resonance imaging
+T3	Diagnostic_tool 282 313	magnetic resonance imaging (MRI

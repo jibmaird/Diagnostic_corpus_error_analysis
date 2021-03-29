@@ -1,0 +1,17 @@
+T1	Characteristic 140 158	corneal topography
+T2	Diagnostic_tool 232 248	Topographic maps
+T3	Disease 324 327	PRK
+T4	Disease 356 366	emmetropia
+T5	Disease 396 402	myopia
+T6	Symptom 1033 1066	Low levels of preoperative myopia
+T7	Disease 1130 1133	low
+T8	Symptom 1134 1140	myopia
+T9	Diagnostic_tool 1397 1401	maps
+T10	Diagnostic_tool 1642 1655	Eyesys device
+T11	Characteristic 1657 1679	Topographic experience
+T12	Disease 1746 1749	PRK
+T13	Disease 1954 1957	PRK
+T14	Disease 2036 2042	myopic
+T15	Disease 2079 2085	myopia
+T16	Dimension 2087 2097	<  -3.00 D
+T17	Disease 2300 2303	PRK

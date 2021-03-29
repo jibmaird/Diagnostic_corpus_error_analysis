@@ -1,0 +1,25 @@
+T4	Disease 136 144	glaucoma
+T5	Disease 241 260	Ocular Hypertension
+T6	Disease 340 348	glaucoma
+T7	Anatomy 370 373	Eye
+T8	Characteristic 384 409	Central corneal thickness
+T9	Diagnostic_tool 432 462	ultrasonic handheld pachymeter
+T10	Characteristic 496 500	CCTs
+T21	Anatomy 1216 1220	eyes
+T20	Anatomy 1158 1162	eyes
+T12	Characteristic 668 685	corneal thickness
+T23	Characteristic 1334 1337	CCT
+T11	Characteristic 547 577	Mean central corneal thickness
+T22	Characteristic 1238 1241	CCT
+T14	Anatomy 759 762	eye
+T13	Anatomy 720 723	eye
+T24	Disease 1389 1397	glaucoma
+T16	Anatomy 886 890	eyes
+T15	Characteristic 823 840	corneal thickness
+T18	Anatomy 976 979	eye
+T17	Anatomy 948 951	eye
+T1	Characteristic 0 25	Central corneal thickness
+T19	Disease 1058 1066	glaucoma
+T2	Characteristic 89 114	central corneal thickness
+T3	Characteristic 116 119	CCT
+R1	Has_risk_factor Arg1:T4 Arg2:T2

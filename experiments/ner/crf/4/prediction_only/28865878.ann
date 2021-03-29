@@ -1,0 +1,15 @@
+T4	Diagnostic_tool 271 299	standard automated perimetry
+T5	Diagnostic_tool 301 304	SAP
+T6	Diagnostic_tool 326 329	SAP
+T7	Disease 366 374	glaucoma
+T8	Disease 493 501	glaucoma
+T9	Symptom 619 639	visual field testing
+T10	Diagnostic_tool 705 724	electroretinography
+T12	Diagnostic_tool 945 963	visual field tests
+T11	Diagnostic_tool 831 859	Standard automated perimetry
+T14	Diagnostic_tool 1411 1431	Visual field testing
+T13	Disease 1082 1090	Glaucoma
+T15	Disease 1507 1515	glaucoma
+T1	Disease 39 47	Glaucoma
+T2	Diagnostic_tool 58 78	Visual field testing
+T3	Disease 143 151	glaucoma

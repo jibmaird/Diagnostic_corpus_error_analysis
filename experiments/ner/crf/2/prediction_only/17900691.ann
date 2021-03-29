@@ -1,0 +1,14 @@
+T4	Symptom 366 403	peripheral iridotomy (LPI) in one eye
+T5	Diagnostic_tool 405 429	Ultrasound biomicroscopy
+T6	Diagnostic_tool 473 504	Ultrasound biomicroscopy images
+T7	Characteristic 643 700	ciliary body, an absent ciliary sulcus, a steep iris root
+T8	Symptom 806 854	central flat iris plane, and irido-angle contact
+T9	Anatomy 917 920	eye
+T10	Characteristic 1093 1112	PACS eyes after LPI
+T12	Characteristic 1175 1287	plateau iris in 1 quadrant, 36 (21.5%) in 2 quadrants, 16 (9.5%) in 3 quadrants, and 2 (1.2%) in all 4 quadrants
+T11	Anatomy 1166 1170	eyes
+T14	Disease 1445 1464	PACS eyes after LPI
+T13	Characteristic 1388 1414	UBM criteria, plateau iris
+T1	Characteristic 0 60	Prevalence of plateau iris in primary angle closure suspects
+T2	Diagnostic_tool 156 230	primary angle closure suspects (PACSs) using ultrasound biomicroscopy (UBM
+T3	Characteristic 288 322	age of 50 years diagnosed as PACSs

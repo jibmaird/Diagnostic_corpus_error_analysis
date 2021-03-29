@@ -1,0 +1,15 @@
+T4	Disease 396 402	myopia
+T5	Characteristic 601 604	PRK
+T6	Characteristic 656 682	PRK) and specificity rates
+T7	Disease 1047 1066	preoperative myopia
+T8	Characteristic 1115 1180	higher levels (low myopia -1.50 to -2.99 diopters [D] sensitivity
+T9	Diagnostic_tool 1408 1439	homogeneous topographic pattern
+T10	Symptom 1514 1572	topography patterns (e.g., homogeneous, focal, and keyhole
+T12	Disease 1954 1957	PRK
+T11	Diagnostic_tool 1883 1893	topography
+T14	Diagnostic_tool 2184 2194	topography
+T13	Characteristic 2059 2097	general population (myopia  <  -3.00 D
+T15	Disease 2286 2303	postoperative PRK
+T1	Characteristic 140 158	corneal topography
+T2	Disease 310 327	postoperative PRK
+T3	Disease 356 366	emmetropia

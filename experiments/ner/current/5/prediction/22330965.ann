@@ -1,0 +1,55 @@
+T1	Diagnostic_tool 21 40	fluorescein pooling
+T2	Diagnostic_tool 45 74	optical coherence tomographic
+T3	Symptom 91 105	cystoid spaces
+T4	Disease 109 131	diabetic macular edema
+T5	Symptom 190 204	cystoid spaces
+T6	Symptom 209 234	serous retinal detachment
+T7	Symptom 236 239	SRD
+T8	Diagnostic_tool 244 288	spectral-domain optical coherence tomography
+T9	Diagnostic_tool 290 296	SD-OCT
+T10	Diagnostic_tool 323 334	fluorescein
+T11	Disease 347 369	diabetic macular edema
+T12	Disease 371 374	DME
+T13	Anatomy 446 450	eyes
+T14	Disease 472 508	clinically significant macular edema
+T15	Diagnostic_tool 518 524	SD-OCT
+T16	Diagnostic_tool 529 552	fluorescein angiography
+T17	Diagnostic_tool 554 556	FA
+T18	Diagnostic_tool 590 613	Fluorescein angiography
+T19	Diagnostic_tool 620 650	Heidelberg Retina Angiograph 2
+T20	Diagnostic_tool 701 711	OCT images
+T21	Diagnostic_tool 718 732	Spectralis OCT
+T22	Symptom 797 811	cystoid spaces
+T23	Symptom 816 819	SRD
+T24	Diagnostic_tool 827 837	OCT images
+T25	Characteristic 907 918	fluorescein
+T26	Diagnostic_tool 940 949	FA images
+T27	Anatomy 1044 1058	cystoid spaces
+T28	Diagnostic_tool 1062 1075	SD-OCT images
+T29	Symptom 1092 1106	cystoid spaces
+T30	Anatomy 1114 1118	eyes
+T31	Diagnostic_tool 1138 1148	OCT images
+T32	Symptom 1209 1223	cystoid spaces
+T33	Characteristic 1244 1255	fluorescein
+T34	Diagnostic_tool 1300 1310	OCT images
+T35	Symptom 1427 1441	cystoid spaces
+T36	Diagnostic_tool 1449 1459	OCT images
+T37	Symptom 1540 1582	hyperreflective foci in the cystoid spaces
+T38	Characteristic 1618 1644	modest fluorescein pooling
+T39	Diagnostic_tool 1689 1699	OCT images
+T40	Symptom 1772 1786	cystoid spaces
+T41	Symptom 1792 1806	microaneurysms
+T42	Diagnostic_tool 1851 1861	OCT images
+T43	Symptom 1897 1911	microaneurysms
+T44	Symptom 1984 1987	SRD
+T45	Symptom 2035 2049	cystoid spaces
+T46	Anatomy 2062 2065	eye
+T47	Diagnostic_tool 2107 2110	OCT
+T48	Diagnostic_tool 2166 2185	fluorescein pooling
+T49	Diagnostic_tool 2190 2193	OCT
+T50	Symptom 2213 2227	cystoid spaces
+T51	Symptom 2232 2235	SRD
+T52	Disease 2239 2242	DME
+T53	Symptom 2289 2310	blood-retinal barrier
+T54	Symptom 2314 2323	disrupted
+T55	Symptom 2340 2357	edematous changes

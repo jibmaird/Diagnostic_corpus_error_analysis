@@ -1,0 +1,28 @@
+T1	Diagnostic_tool 30 80	serial fourier-domain optical coherence tomography
+T2	Diagnostic_tool 85 100	macular imaging
+T3	Diagnostic_tool 145 170	retinal imaging technique
+T4	Diagnostic_tool 177 216	high-speed optical coherence tomography
+T5	Diagnostic_tool 218 221	OCT
+T6	Diagnostic_tool 252 274	retinal structural map
+T7	Symptom 317 334	macular pathology
+T8	Symptom 407 426	macular pathologies
+T9	Diagnostic_tool 456 501	Fourier-domain high-speed high-resolution OCT
+T10	Diagnostic_tool 553 556	OCT
+T11	Diagnostic_tool 559 563	scan
+T12	Anatomy 571 577	macula
+T13	Diagnostic_tool 612 634	retinal structural map
+T14	Diagnostic_tool 708 726	serial OCT B-scans
+T15	Diagnostic_tool 745 757	macular maps
+T16	Symptom 816 828	macular hole
+T17	Symptom 830 851	lamellar macular hole
+T18	Symptom 853 896	regressed macular hole or macular microhole
+T19	Symptom 898 928	choroidal neovascular membrane
+T20	Symptom 930 933	CNV
+T21	Disease 940 972	age-related macular degeneration
+T22	Symptom 978 981	CNV
+T23	Disease 996 1026	ocular histoplasmosis syndrome
+T24	Diagnostic_tool 1167 1178	retinal map
+T25	Diagnostic_tool 1186 1222	serial Fourier-domain OCT B-scanning
+T26	Diagnostic_tool 1256 1278	retinal structural map
+T27	Diagnostic_tool 1356 1366	OCT images
+T28	Anatomy 1529 1547	retinal structures

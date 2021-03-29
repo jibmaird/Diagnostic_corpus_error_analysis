@@ -1,0 +1,44 @@
+T41	Characteristic 2086 2102	younger patients
+T40	Symptom 2030 2060	retinal vascular abnormalities
+T21	Symptom 1005 1020	lipid exudation
+T43	Symptom 2267 2310	hemorrhage near larger vascular dilatations
+T20	Symptom 980 1003	vascular telangiectasis
+T42	Characteristic 2176 2182	adults
+T23	Symptom 1041 1119	areas of capillary nonperfusion with adjacent webs of filigreelike capillaries
+T22	Symptom 1022 1035	macular edema
+T25	Symptom 1341 1361	localized hemorrhage
+T24	Anatomy 1226 1269	retinal vasculature anterior to the equator
+T27	Symptom 1452 1494	Limited exudative detachment of the retina
+T26	Symptom 1421 1450	larger aneurysmal dilatations
+T29	Symptom 1589 1605	subretinal fluid
+T28	Anatomy 1509 1513	eyes
+T1	Disease 0 14	Coats' disease
+T2	Characteristic 28 37	adulthood
+T3	Disease 97 111	Coats' disease
+T4	Characteristic 125 134	adulthood
+T5	Anatomy 249 253	eyes
+T6	Disease 274 288	Coats' disease
+T7	Characteristic 299 317	after age 35 years
+T8	Disease 380 394	Coats' disease
+T9	Characteristic 405 430	after the age of 35 years
+T30	Diagnostic_tool 1614 1641	ocular coherence tomography
+T10	Characteristic 475 493	radiation exposure
+T32	Symptom 1773 1790	decline in vision
+T31	Characteristic 1713 1726	visual acuity
+T12	Characteristic 521 547	retinal vascular occlusion
+T34	Characteristic 1843 1856	stable vision
+T11	Characteristic 495 519	intraocular inflammation
+T33	Symptom 1807 1822	improved vision
+T14	Diagnostic_tool 627 651	fluorescein angiographic
+T36	Symptom 1919 1942	iris neovascularization
+T13	Characteristic 552 567	Coats' response
+T35	Disease 1895 1909	Coats' disease
+T16	Characteristic 728 771	age at diagnosis of 50 years (range, 36-79)
+T38	Disease 1974 1988	Coats' disease
+T15	Characteristic 665 677	demographics
+T37	Symptom 1946 1972	total exudative detachment
+T18	Disease 872 886	Coats' disease
+T17	Characteristic 783 819	follow-up of 5.8 years (range, 0-17)
+T39	Characteristic 2015 2024	adulthood
+T19	Characteristic 953 957	male
+R1	Diagnosed_with Arg1:T29 Arg2:T30

@@ -1,0 +1,60 @@
+T1	Symptom 0 32	Hyporeflective wedge-shaped band
+T2	Symptom 36 54	geographic atrophy
+T3	Disease 68 100	age-related macular degeneration
+T4	Diagnostic_tool 179 223	spectral-domain optical coherence tomography
+T5	Diagnostic_tool 225 231	SD-OCT
+T6	Symptom 253 290	hyporeflective wedge-shaped structure
+T7	Symptom 325 332	atrophy
+T8	Characteristic 409 434	50 years of age and older
+T9	Symptom 440 458	geographic atrophy
+T10	Symptom 460 462	GA
+T11	Disease 477 509	age-related macular degeneration
+T12	Disease 511 514	AMD
+T13	Diagnostic_tool 606 613	imaging
+T14	Diagnostic_tool 639 661	35° fundus photography
+T15	Diagnostic_tool 663 672	infrared,
+T16	Diagnostic_tool 673 696	fundus autofluorescence
+T17	Diagnostic_tool 698 701	FAF
+T18	Diagnostic_tool 708 714	SD-OCT
+T19	Anatomy 737 743	fundus
+T20	Diagnostic_tool 749 752	FAF
+T21	Diagnostic_tool 782 785	OCT
+T22	Anatomy 830 837	macular
+T23	Anatomy 895 900	fovea
+T24	Diagnostic_tool 934 935	-
+T25	Symptom 1005 1037	hyporeflective wedge-shaped band
+T26	Symptom 1058 1060	GA
+T27	Symptom 1071 1108	hyporeflective wedge-shaped structure
+T28	Anatomy 1127 1143	Bruch's membrane
+T29	Anatomy 1177 1217	inner limit of the outer plexiform layer
+T30	Anatomy 1219 1222	OPL
+T31	Symptom 1259 1273	atrophied area
+T32	Anatomy 1292 1298	retina
+T33	Anatomy 1325 1329	eyes
+T34	Anatomy 1426 1429	OPL
+T35	Diagnostic_tool 1447 1465	SD-OCT acquisition
+T36	Anatomy 1494 1513	outer nuclear layer
+T37	Anatomy 1515 1518	ONL
+T38	Anatomy 1524 1543	Henle's fiber layer
+T39	Anatomy 1545 1548	HFL
+T40	Anatomy 1586 1589	ONL
+T41	Symptom 1616 1657	atrophy of the retinal pigment epithelium
+T42	Anatomy 1659 1662	RPE
+T43	Symptom 1667 1694	narrow hyperreflective band
+T44	Anatomy 1723 1726	ONL
+T45	Anatomy 1731 1734	RPE
+T46	Anatomy 1744 1763	hyporeflective band
+T47	Symptom 1784 1792	atrophic
+T48	Symptom 1801 1838	hyporeflective wedge-shaped structure
+T49	Anatomy 1887 1890	OPL
+T50	Symptom 1908 1910	GA
+T51	Disease 1924 1927	AMD
+T52	Symptom 1971 1981	of the HFL
+T53	Symptom 2005 2020	axonal swelling
+T54	Symptom 2024 2041	interaxonal edema
+T55	Diagnostic_tool 2090 2103	SD-OCT images
+T56	Anatomy 2111 2123	outer layers
+T57	Anatomy 2183 2202	photoreceptor cells
+T58	Anatomy 2211 2214	RPE
+T59	Symptom 2291 2293	GA
+T60	Disease 2307 2310	AMD

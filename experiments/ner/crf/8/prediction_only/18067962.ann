@@ -1,0 +1,40 @@
+T40	Disease 2464 2477	macular edema
+T21	Disease 1132 1169	moderate nonproliferative retinopathy
+T20	Anatomy 1114 1118	eyes
+T23	Disease 1208 1233	proliferative retinopathy
+T22	Anatomy 1171 1175	eyes
+T25	Disease 1259 1284	proliferative retinopathy
+T24	Anatomy 1239 1243	eyes
+T27	Characteristic 1438 1533	diabetics without retinopathy, and diabetics with mild to moderate nonproliferative retinopathy
+T26	Characteristic 1316 1361	mean CSMT was larger in males than in females
+T29	Diagnostic_tool 1711 1714	OCT
+T28	Characteristic 1639 1698	retinopathy severity, the probability of macular thickening
+T1	Characteristic 20 37	macular thickness
+T2	Disease 59 79	diabetic retinopathy
+T3	Anatomy 92 96	eyes
+T4	Disease 125 147	diabetic macular edema
+T5	Diagnostic_tool 181 209	optical coherence tomography
+T6	Diagnostic_tool 211 214	OCT
+T7	Characteristic 225 278	macular thickness to retinopathy severity in patients
+T8	Disease 284 292	diabetes
+T9	Disease 322 335	macular edema
+T30	Anatomy 1786 1790	eyes
+T10	Anatomy 477 481	eyes
+T32	Symptom 1886 1917	OCT-measured macular thickening
+T31	Disease 1823 1848	proliferative retinopathy
+T12	Disease 638 690	severe nonproliferative or proliferative retinopathy
+T34	Diagnostic_tool 2051 2054	OCT
+T11	Characteristic 485 619	patients without diabetes, 100 eyes of diabetics without retinopathy, 100 eyes of diabetics with mild to moderate retinopathy, 35 eyes
+T33	Diagnostic_tool 1927 1930	OCT
+T14	Disease 732 757	proliferative retinopathy
+T36	Characteristic 2106 2180	retinopathy severity increases, the probability of subclinical edema rises
+T13	Anatomy 699 703	eyes
+T35	Disease 2066 2088	diabetic macular edema
+T16	Characteristic 832 863	Central subfield mean thickness
+T38	Anatomy 2345 2349	eyes
+T15	Diagnostic_tool 789 817	optical coherence tomography
+T37	Diagnostic_tool 2338 2341	OCT
+T18	Characteristic 933 966	Central subfield mean thicknesses
+T17	Characteristic 865 931	CSMT), inner and outer zone measurements, and total macular volume
+T39	Disease 2355 2423	diabetes and no retinopathy or mild to moderate diabetic retinopathy
+T19	Disease 1083 1112	diabetics without retinopathy

@@ -1,0 +1,31 @@
+T1	Diagnostic_tool 13 29	color-coded maps
+T2	Characteristic 34 52	corneal topography
+T3	Diagnostic_tool 55 78	Modern videokeratoscopy
+T4	Anatomy 102 109	corneal
+T5	Characteristic 110 115	shape
+T6	Diagnostic_tool 157 185	color-coded topographic maps
+T7	Characteristic 346 364	corneal topography
+T8	Symptom 373 392	regular astigmatism
+T9	Symptom 394 415	irregular astigmatism
+T10	Disease 417 434	early keratoconus
+T11	Symptom 440 476	contact lens-induced corneal warpage
+T12	Characteristic 492 498	normal
+T13	Anatomy 499 506	corneas
+T14	Anatomy 511 518	corneas
+T15	Disease 552 563	keratoconus
+T16	Disease 568 576	early to
+T17	Disease 654 676	extracapsular cataract
+T18	Diagnostic_tool 698 727	excimer laser photorefractive
+T19	Disease 744 750	myopia
+T20	Diagnostic_tool 764 770	radial
+T21	Disease 794 817	aphakic epikeratophakia
+T22	Disease 834 856	myopic epikeratophakia
+T23	Diagnostic_tool 878 906	corneal topographic analysis
+T24	Anatomy 1122 1129	corneas
+T25	Characteristic 1135 1150	dioptric powers
+T26	Anatomy 1198 1205	corneas
+T27	Characteristic 1437 1455	Klyce/Wilson scale
+T28	Anatomy 1707 1714	corneas
+T29	Diagnostic_tool 1736 1748	Klyce/Wilson
+T30	Diagnostic_tool 1779 1798	corneal topographic
+T31	Characteristic 1899 1917	corneal topography

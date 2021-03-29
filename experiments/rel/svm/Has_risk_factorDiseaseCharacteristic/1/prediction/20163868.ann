@@ -1,0 +1,45 @@
+T41	Symptom 1430 1448	Retinal detachment
+T40	Characteristic 1371 1427	anatomic integrity of the optic nerve in the orbital wal
+T21	Diagnostic_tool 668 712	Spectral-domain optical coherence tomography
+T43	Symptom 1481 1568	abnormal communication between the subretinal and subarachnoid or vitreous compartments
+T20	Disease 663 666	MGS
+T42	Disease 1452 1455	MGS
+T23	Anatomy 764 768	eyes
+T45	Symptom 1664 1712	tissue stretching around the peripapillary conus
+T22	Symptom 722 758	retinal detachment in the conus area
+T44	Symptom 1594 1647	myopialike retinal detachment without a retinal break
+T25	Disease 797 802	NCMGS
+T24	Disease 777 795	noncontractile MGS
+T27	Disease 832 836	CMGS
+T26	Disease 815 830	contractile MGS
+T29	Anatomy 900 904	eyes
+T28	Symptom 863 876	retinal break
+T1	Disease 14 36	morning glory syndrome
+T2	Diagnostic_tool 42 79	spectral optical coherence tomography
+T3	Diagnostic_tool 84 94	echography
+T4	Anatomy 109 113	eyes
+T5	Disease 126 148	morning glory syndrome
+T6	Disease 150 153	MGS
+T7	Diagnostic_tool 160 204	spectral-domain optical coherence tomography
+T8	Diagnostic_tool 206 212	SD OCT
+T9	Diagnostic_tool 218 228	echography
+T30	Symptom 912 990	abnormal communication between the subarachnoid space and the subretinal space
+T10	Anatomy 277 281	eyes
+T32	Disease 1072 1076	CMGS
+T31	Diagnostic_tool 992 1036	Spectral-domain optical coherence tomography
+T12	Diagnostic_tool 407 433	ophthalmologic examination
+T34	Diagnostic_tool 1088 1111	Echographic examination
+T11	Disease 288 291	MGS
+T33	Disease 1081 1086	NCMGS
+T14	Diagnostic_tool 476 494	fundus photography
+T36	Diagnostic_tool 1183 1227	Spectral-domain optical coherence tomography
+T13	Diagnostic_tool 448 474	best-correct visual acuity
+T35	Symptom 1131 1181	anatomic abnormalities of the optic nerve or orbit
+T16	Diagnostic_tool 536 542	SD OCT
+T38	Anatomy 1280 1294	posterior pole
+T15	Diagnostic_tool 500 510	echography
+T37	Diagnostic_tool 1259 1269	echography
+T18	Diagnostic_tool 590 634	Spectral-domain optical coherence tomography
+T17	Diagnostic_tool 547 588	high-frequency B-scan echography (20 MHz)
+T39	Diagnostic_tool 1304 1327	echographic examination
+T19	Diagnostic_tool 639 650	echographic

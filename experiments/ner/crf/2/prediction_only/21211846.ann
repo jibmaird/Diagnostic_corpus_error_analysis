@@ -1,0 +1,34 @@
+T21	Characteristic 693 792	Nasal, superior, temporal, and inferior choroidal thicknesses, 1500 μm apart from the foveal center
+T20	Anatomy 644 660	Bruch's membrane
+T23	Characteristic 827 846	Choroidal thickness
+T22	Anatomy 821 825	eyes
+T25	Anatomy 968 972	eyes
+T24	Symptom 868 936	± standard deviation) subfoveal choroidal thickness in eyes with PCV
+T27	Anatomy 1191 1195	eyes
+T26	Characteristic 1158 1187	Subfoveal choroidal thickness
+T29	Anatomy 1235 1239	eyes
+T28	Disease 1201 1214	exudative AMD
+T1	Symptom 0 56	Choroidal thickness in polypoidal choroidal vasculopathy
+T2	Disease 61 103	exudative age-related macular degeneration
+T3	Anatomy 145 149	eyes
+T4	Symptom 155 198	polypoidal choroidal vasculopathy (PCV) and
+T5	Anatomy 199 203	eyes
+T6	Disease 209 241	age-related macular degeneration
+T7	Disease 243 246	AMD
+T8	Anatomy 301 305	eyes
+T9	Disease 311 314	PCV
+T30	Disease 1245 1254	early AMD
+T10	Anatomy 337 341	eyes
+T32	Anatomy 1558 1562	eyes
+T31	Symptom 1480 1545	choroid in the eyes with PCV, in contrast with choroidal thinning
+T12	Anatomy 355 359	eyes
+T34	Disease 1664 1677	exudative AMD
+T11	Disease 347 350	PCV
+T33	Disease 1568 1571	AMD
+T14	Anatomy 383 387	eyes
+T13	Disease 365 378	exudative AMD
+T16	Characteristic 448 467	Choroidal thickness
+T15	Disease 393 402	early AMD
+T18	Characteristic 540 569	Subfoveal choroidal thickness
+T17	Diagnostic_tool 487 538	enhanced-depth imaging optical coherence tomography
+T19	Anatomy 578 581	eye

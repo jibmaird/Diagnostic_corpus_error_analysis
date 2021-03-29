@@ -1,0 +1,57 @@
+T1	Disease 14 36	ocular surface disease
+T2	Disease 54 62	glaucoma
+T3	Disease 118 140	ocular surface disease
+T4	Disease 158 166	glaucoma
+T5	Disease 202 210	glaucoma
+T6	Symptom 225 257	bilateral visual field (VF) loss
+T7	Disease 265 282	glaucoma suspects
+T8	Characteristic 295 298	VFs
+T9	Anatomy 366 369	Eye
+T10	Disease 380 388	Glaucoma
+T11	Characteristic 397 419	Tear film breakup time
+T12	Characteristic 421 425	TBUT
+T13	Characteristic 428 450	corneal staining score
+T14	Characteristic 452 456	0-15
+T15	Diagnostic_tool 463 478	Schirmer's test
+T16	Classification_system 535 541	Ocular
+T17	Characteristic 542 549	Surface
+T18	Classification_system 550 563	Disease Index
+T19	Classification_system 565 569	OSDI
+T20	Characteristic 628 638	OSDI score
+T21	Characteristic 640 663	vision-related subscore
+T22	Characteristic 728 755	discomfort-related subscore
+T23	Symptom 786 811	ocular surface discomfort
+T24	Disease 879 887	glaucoma
+T25	Disease 916 933	glaucoma suspects
+T26	Characteristic 974 996	corneal staining grade
+T27	Disease 1012 1020	glaucoma
+T28	Disease 1038 1046	glaucoma
+T29	Characteristic 1123 1127	TBUT
+T30	Disease 1222 1230	glaucoma
+T31	Characteristic 1289 1317	total corneal staining grade
+T32	Characteristic 1347 1355	glaucoma
+T33	Symptom 1426 1430	TBUT
+T34	Disease 1474 1482	Glaucoma
+T35	Characteristic 1517 1522	total
+T36	Characteristic 1523 1534	OSDI scores
+T37	Disease 1540 1557	glaucoma suspects
+T38	Characteristic 1623 1647	vision-related subscores
+T39	Disease 1655 1663	glaucoma
+T40	Symptom 1697 1732	Ocular discomfort-related subscores
+T41	Characteristic 1850 1878	better-eye VF mean deviation
+T42	Characteristic 1923 1939	total OSDI score
+T43	Characteristic 2001 2008	vision-
+T44	Classification_system 2008 2015	related
+T45	Characteristic 2016 2024	subscore
+T46	Characteristic 2083 2110	discomfort-related subscore
+T47	Disease 2145 2153	glaucoma
+T48	Characteristic 2200 2216	total OSDI score
+T49	Characteristic 2220 2258	vision- or discomfort-related subscore
+T50	Disease 2279 2287	Glaucoma
+T51	Disease 2319 2341	ocular surface disease
+T52	Disease 2355 2363	glaucoma
+T53	Characteristic 2399 2415	corneal staining
+T54	Diagnostic_tool 2435 2439	OSDI
+T55	Disease 2471 2493	ocular surface disease
+T56	Disease 2497 2505	glaucoma
+T57	Symptom 2553 2560	VF loss

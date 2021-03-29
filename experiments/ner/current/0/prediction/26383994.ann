@@ -1,0 +1,36 @@
+T1	Disease 42 62	Diabetic Retinopathy
+T2	Disease 206 226	diabetic retinopathy
+T3	Disease 228 230	DR
+T4	Disease 251 275	type 2 diabetes mellitus
+T5	Disease 277 279	DM
+T6	Disease 359 379	Diabetic Retinopathy
+T7	Diagnostic_tool 796 843	45° nonstereoscopic retinal digital photographs
+T8	Anatomy 848 851	eye
+T9	Classification_system 926 975	International Clinical Diabetic Retinopathy Scale
+T10	Disease 977 1007	Referable diabetic retinopathy
+T11	Disease 1009 1012	RDR
+T12	Disease 1053 1081	moderate nonproliferative DR
+T13	Disease 1083 1087	NPDR
+T14	Disease 1090 1101	severe NPDR
+T15	Disease 1106 1122	proliferative DR
+T16	Disease 1124 1127	PDR
+T17	Disease 1146 1157	maculopathy
+T18	Disease 1161 1187	mild NPDR with maculopathy
+T19	Disease 1377 1388	retinopathy
+T20	Disease 1537 1539	DR
+T21	Disease 1565 1567	DR
+T22	Disease 1588 1599	retinopathy
+T23	Disease 1763 1772	mild NPDR
+T24	Disease 1810 1813	RDR
+T25	Disease 1872 1874	DR
+T26	Disease 1879 1882	RDR
+T27	Disease 1887 1889	DR
+T28	Characteristic 1934 1954	duration of diabetes
+T29	Characteristic 1956 1972	age at diagnosis
+T30	Characteristic 1985 2002	insulin treatment
+T31	Disease 2082 2084	DR
+T32	Disease 2134 2149	type 2 diabetes
+T33	Characteristic 2176 2196	Duration of diabetes
+T34	Characteristic 2198 2214	age at diagnosis
+T35	Characteristic 2220 2237	insulin treatment
+T36	Disease 2307 2309	DR

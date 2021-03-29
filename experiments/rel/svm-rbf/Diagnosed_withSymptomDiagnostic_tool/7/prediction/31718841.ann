@@ -1,0 +1,78 @@
+T41	Diagnostic_tool 1599 1619	Deep learning models
+T40	Diagnostic_tool 1563 1582	RNFL en face images
+T21	Diagnostic_tool 702 706	CSLO
+T43	Symptom 1663 1667	GFVD
+T20	Diagnostic_tool 662 700	confocal scanning laser ophthalmoscopy
+T42	Anatomy 1653 1657	eyes
+T23	Symptom 737 741	GVFD
+T45	Diagnostic_tool 1720 1733	SD OCT images
+T22	Anatomy 727 731	eyes
+T44	Symptom 1699 1714	functional loss
+T25	Diagnostic_tool 834 836	VF
+T47	Diagnostic_tool 1783 1797	SD OCT imaging
+T24	Diagnostic_tool 767 769	VF
+T46	Symptom 1773 1777	GFVD
+T27	Diagnostic_tool 887 907	Deep learning models
+T26	Diagnostic_tool 874 880	SD OCT
+T48	Diagnostic_tool 1866 1876	VF testing
+T29	Symptom 963 967	GVFD
+T28	Characteristic 932 946	RNFL thickness
+T1	Diagnostic_tool 0 24	Deep Learning Approaches
+T2	Symptom 33 65	Glaucomatous Visual Field Damage
+T3	Diagnostic_tool 71 106	OCT Optic Nerve Head En Face Images
+T4	Diagnostic_tool 111 151	Retinal Nerve Fiber Layer Thickness Maps
+T5	Anatomy 229 233	eyes
+T6	Symptom 251 283	glaucomatous visual field damage
+T7	Symptom 285 289	GVFD
+T8	Symptom 322 326	GFVD
+T9	Diagnostic_tool 332 351	spectral domain OCT
+T30	Diagnostic_tool 1147 1167	deep learning models
+T10	Diagnostic_tool 353 359	SD OCT
+T32	Anatomy 1237 1241	eyes
+T31	Diagnostic_tool 1177 1196	RNFL en face images
+T12	Diagnostic_tool 441 453	visual field
+T34	Symptom 1275 1284	mild GVFD
+T11	Anatomy 361 377	optic nerve head
+T33	Symptom 1247 1251	GVFD
+T14	Diagnostic_tool 459 465	SD OCT
+T36	Diagnostic_tool 1401 1421	Deep learning models
+T13	Diagnostic_tool 455 457	VF
+T35	Characteristic 1331 1363	mean RNFL thickness measurements
+T16	Anatomy 533 537	eyes
+T38	Diagnostic_tool 1503 1505	VF
+T15	Symptom 522 526	GVFD
+T37	Characteristic 1444 1471	RNFL thickness measurements
+T18	Diagnostic_tool 581 636	SD OCT retinal nerve fiber layer (RNFL) thickness maps,
+T17	Diagnostic_tool 540 560	Deep learning models
+T39	Diagnostic_tool 1533 1553	deep learning models
+T19	Diagnostic_tool 637 656	RNFL en face images
+R21	Diagnosed_with Arg1:T29 Arg2:T27
+R20	Diagnosed_with Arg1:T33 Arg2:T31
+R23	Diagnosed_with Arg1:T23 Arg2:T21
+R22	Diagnosed_with Arg1:T23 Arg2:T25
+R25	Diagnosed_with Arg1:T15 Arg2:T14
+R24	Diagnosed_with Arg1:T23 Arg2:T19
+R27	Diagnosed_with Arg1:T8 Arg2:T9
+R26	Diagnosed_with Arg1:T15 Arg2:T12
+R29	Diagnosed_with Arg1:T6 Arg2:T9
+R28	Diagnosed_with Arg1:T7 Arg2:T9
+R1	Diagnosed_with Arg1:T2 Arg2:T1
+R2	Diagnosed_with Arg1:T2 Arg2:T4
+R3	Diagnosed_with Arg1:T6 Arg2:T10
+R4	Diagnosed_with Arg1:T7 Arg2:T10
+R5	Diagnosed_with Arg1:T8 Arg2:T10
+R6	Diagnosed_with Arg1:T15 Arg2:T13
+R7	Diagnosed_with Arg1:T23 Arg2:T18
+R8	Diagnosed_with Arg1:T23 Arg2:T20
+R9	Diagnosed_with Arg1:T23 Arg2:T24
+R30	Diagnosed_with Arg1:T2 Arg2:T3
+R10	Diagnosed_with Arg1:T23 Arg2:T26
+R12	Diagnosed_with Arg1:T34 Arg2:T31
+R11	Diagnosed_with Arg1:T33 Arg2:T30
+R14	Diagnosed_with Arg1:T44 Arg2:T41
+R13	Diagnosed_with Arg1:T43 Arg2:T41
+R16	Diagnosed_with Arg1:T46 Arg2:T48
+R15	Diagnosed_with Arg1:T46 Arg2:T47
+R18	Diagnosed_with Arg1:T43 Arg2:T45
+R17	Diagnosed_with Arg1:T44 Arg2:T45
+R19	Diagnosed_with Arg1:T43 Arg2:T40

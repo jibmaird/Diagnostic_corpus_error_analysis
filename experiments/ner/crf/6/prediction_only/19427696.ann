@@ -1,0 +1,25 @@
+T21	Characteristic 1657 1671	RNFL thickness
+T20	Characteristic 1595 1617	average RNFL thickness
+T23	Diagnostic_tool 1734 1747	Cirrus HD-OCT
+T22	Diagnostic_tool 1718 1729	Stratus OCT
+T25	Diagnostic_tool 1865 1875	Cirrus OCT
+T24	Characteristic 1784 1798	RNFL thickness
+T1	Characteristic 14 49	retinal nerve fiber layer thickness
+T2	Diagnostic_tool 62 112	Cirrus HD and Stratus optical coherence tomography
+T3	Characteristic 149 191	retinal nerve fiber layer (RNFL) thickness
+T4	Diagnostic_tool 204 286	time domain (Stratus) and spectral domain (Cirrus HD) optical coherence tomography
+T5	Diagnostic_tool 288 291	OCT
+T6	Disease 348 356	glaucoma
+T7	Disease 388 396	glaucoma
+T8	Diagnostic_tool 462 535	Stratus OCT (fast RNFL scan mode) and Cirrus HD-OCT (optic disc cube mode
+T9	Characteristic 560 574	RNFL thickness
+T10	Diagnostic_tool 594 667	Stratus OCT (fast RNFL scan mode) and Cirrus HD-OCT (optic disc cube mode
+T12	Symptom 835 858	abnormal classification
+T11	Characteristic 724 738	RNFL thickness
+T14	Characteristic 1062 1084	Average RNFL thickness
+T13	Diagnostic_tool 1028 1031	OCT
+T16	Diagnostic_tool 1304 1317	Cirrus HD-OCT
+T15	Diagnostic_tool 1108 1111	OCT
+T18	Diagnostic_tool 1453 1463	Cirrus OCT
+T17	Characteristic 1352 1451	percentage of eyes as abnormal (Stratus, 12.9%; Cirrus, 23.3%; P < 0.001) in average RNFL thickness
+T19	Diagnostic_tool 1534 1545	Stratus OCT

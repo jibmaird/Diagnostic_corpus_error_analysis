@@ -1,0 +1,28 @@
+T21	Characteristic 1723 1797	ONL and RPE from the hyporeflective band, already within the atrophic area
+T20	Characteristic 1586 1663	ONL ends before the margin of atrophy of the retinal pigment epithelium (RPE)
+T23	Disease 1924 1927	AMD
+T22	Symptom 1908 1910	GA
+T25	Diagnostic_tool 2090 2103	SD-OCT images
+T24	Symptom 1949 2041	increase in the width of the HFL, presumably because of axonal swelling or interaxonal edema
+T27	Symptom 2291 2293	GA
+T26	Anatomy 2183 2214	photoreceptor cells and the RPE
+T28	Disease 2307 2310	AMD
+T1	Symptom 36 54	geographic atrophy
+T2	Disease 68 100	age-related macular degeneration
+T3	Diagnostic_tool 179 231	spectral-domain optical coherence tomography (SD-OCT
+T4	Symptom 325 332	atrophy
+T5	Characteristic 412 434	years of age and older
+T6	Symptom 440 458	geographic atrophy
+T7	Symptom 460 462	GA
+T8	Disease 477 509	age-related macular degeneration
+T9	Disease 511 514	AMD
+T10	Diagnostic_tool 643 661	fundus photography
+T12	Diagnostic_tool 737 752	fundus with FAF
+T11	Diagnostic_tool 673 714	fundus autofluorescence (FAF), and SD-OCT
+T14	Anatomy 895 900	fovea
+T13	Diagnostic_tool 782 785	OCT
+T16	Characteristic 1177 1232	inner limit of the outer plexiform layer (OPL) adjacent
+T15	Symptom 1058 1060	GA
+T18	Diagnostic_tool 1447 1465	SD-OCT acquisition
+T17	Anatomy 1325 1329	eyes
+T19	Characteristic 1494 1548	outer nuclear layer (ONL) and Henle's fiber layer (HFL

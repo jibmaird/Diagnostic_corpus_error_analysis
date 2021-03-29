@@ -1,0 +1,32 @@
+T21	Anatomy 1253 1257	eyes
+T20	Disease 1240 1252	glaucomatous
+T23	Characteristic 1343 1357	RNFL thickness
+T22	Characteristic 1301 1324	mean OCT RNFL thickness
+T25	Diagnostic_tool 1371 1374	HRT
+T24	Diagnostic_tool 1364 1367	OCT
+T27	Diagnostic_tool 1476 1479	HRT
+T26	Symptom 1402 1454	visual field mean defect during achromatic perimetry
+T29	Anatomy 1540 1544	eyes
+T28	Diagnostic_tool 1484 1487	OCT
+T1	Diagnostic_tool 0 28	Heidelberg retina tomography
+T2	Characteristic 33 115	optical coherence tomography in normal, ocular-hypertensive, and glaucomatous eyes
+T3	Symptom 130 242	optic disc and retinal nerve fiber layer (RNFL) appearance in normal, ocular-hypertensive, and glaucomatous eyes
+T4	Diagnostic_tool 278 292	ophthalmoscopy
+T5	Diagnostic_tool 297 325	optical coherence tomography
+T6	Diagnostic_tool 327 330	OCT
+T7	Symptom 457 478	glaucomatous subjects
+T8	Diagnostic_tool 559 629	achromatic automated perimetry, confocal scanning laser ophthalmoscopy
+T9	Diagnostic_tool 631 676	Heidelberg Retinal Tomography [HRT]), and OCT
+T30	Characteristic 1546 1560	RNFL thickness
+T10	Characteristic 690 793	HRT parameters (disc area, cup-disc ratio, rim area, rim volume, cup shape measure, mean RNFL thickness
+T32	Diagnostic_tool 1632 1635	HRT
+T31	Diagnostic_tool 1580 1614	OCT correspond to disc topographic
+T12	Diagnostic_tool 889 892	OCT
+T11	Characteristic 799 858	cross-sectional area) and mean OCT-generated RNFL thickness
+T14	Characteristic 944 962	OCT RNFL thickness
+T13	Characteristic 897 942	HRT assessment of optic disc and RNFL anatomy
+T16	Disease 1069 1081	glaucomatous
+T15	Characteristic 992 1027	normal and ocular-hypertensive eyes
+T18	Characteristic 1102 1181	HRT measurements of rim area, cup-disc ratio, cup shape measure, RNFL thickness
+T17	Anatomy 1082 1086	eyes
+T19	Characteristic 1187 1212	RNFL cross-sectional area

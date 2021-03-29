@@ -1,0 +1,82 @@
+T1	Diagnostic_tool 16 52	stereoscopic fluorescein angiography
+T2	Diagnostic_tool 58 92	indocyanine green videoangiography
+T3	Disease 96 128	age-related macular degeneration
+T4	Diagnostic_tool 156 196	indocyanine green (ICG) videoangiography
+T5	Diagnostic_tool 202 237	stereo film fluorescein angiography
+T6	Diagnostic_tool 239 241	FA
+T7	Disease 262 294	age-related macular degeneration
+T8	Disease 296 299	AMD
+T9	Disease 408 411	AMD
+T10	Diagnostic_tool 434 457	FA-ICG videoangiography
+T11	Disease 490 493	AMD
+T12	Diagnostic_tool 535 558	FA-ICG videoangiography
+T13	Diagnostic_tool 721 723	FA
+T14	Disease 736 739	AMD
+T15	Diagnostic_tool 766 786	ICG videoangiography
+T16	Symptom 799 814	hypocyanescence
+T17	Diagnostic_tool 816 836	ICG videoangiography
+T18	Symptom 856 892	moderate or intense hypercyanescence
+T19	Diagnostic_tool 894 914	ICG videoangiography
+T20	Characteristic 938 977	absence of fluorescence over background
+T21	Diagnostic_tool 979 999	ICG videoangiography
+T22	Diagnostic_tool 1034 1054	ICG videoangiography
+T23	Anatomy 1080 1083	eye
+T24	Symptom 1098 1126	choroidal neovascularization
+T25	Symptom 1128 1131	CNV
+T26	Diagnostic_tool 1136 1138	FA
+T27	Anatomy 1146 1149	eye
+T28	Diagnostic_tool 1180 1203	FA-ICG videoangiography
+T29	Diagnostic_tool 1229 1249	ICG videoangiography
+T30	Symptom 1281 1291	occult CNV
+T31	Symptom 1293 1330	serous pigment epithelial detachments
+T32	Symptom 1332 1337	SPEDs
+T33	Symptom 1361 1364	CNV
+T34	Symptom 1366 1384	macular hemorrhage
+T35	Anatomy 1444 1448	eyes
+T36	Symptom 1458 1488	significant macular hemorrhage
+T37	Diagnostic_tool 1492 1494	FA
+T38	Diagnostic_tool 1510 1512	FA
+T39	Symptom 1522 1525	CNV
+T40	Symptom 1560 1570	hemorrhage
+T41	Diagnostic_tool 1582 1597	ICG examination
+T42	Symptom 1636 1651	hypercyanescent
+T43	Diagnostic_tool 1686 1688	FA
+T44	Symptom 1708 1713	SPEDs
+T45	Symptom 1718 1721	CNV
+T46	Diagnostic_tool 1725 1727	FA
+T47	Symptom 1764 1780	hypercyanescence
+T48	Symptom 1797 1801	SPED
+T49	Diagnostic_tool 1810 1830	ICG videoangiography
+T50	Anatomy 1856 1860	eyes
+T51	Symptom 1866 1905	classic choroidal neovascular membranes
+T52	Symptom 1907 1911	CCNV
+T53	Anatomy 1934 1938	eyes
+T54	Symptom 1944 1988	fibrovascular pigment epithelial detachments
+T55	Symptom 1990 1995	FVPED
+T56	Symptom 2012 2027	hypercyanescent
+T57	Anatomy 2066 2070	eyes
+T58	Symptom 2081 2116	late leakage of undetermined source
+T59	Symptom 2118 2122	LLUS
+T60	Symptom 2129 2144	hypercyanescent
+T61	Diagnostic_tool 2180 2200	ICG videoangiography
+T62	Anatomy 2225 2229	eyes
+T63	Diagnostic_tool 2239 2259	ICG videoangiography
+T64	Symptom 2284 2305	hypercyanescent areas
+T65	Diagnostic_tool 2315 2317	FA
+T66	Symptom 2335 2341	drusen
+T67	Symptom 2345 2374	elevated blocked fluorescence
+T68	Diagnostic_tool 2376 2410	Indocyanine green videoangiography
+T69	Anatomy 2431 2435	eyes
+T70	Symptom 2456 2472	hypercyanescence
+T71	Anatomy 2487 2491	eyes
+T72	Disease 2509 2523	unilateral AMD
+T73	Diagnostic_tool 2525 2559	Indocyanine green videoangiography
+T74	Diagnostic_tool 2588 2603	stereoscopic FA
+T75	Symptom 2624 2628	CCNV
+T76	Symptom 2632 2637	FVPED
+T77	Symptom 2666 2670	LLUS
+T78	Symptom 2707 2710	CNV
+T79	Symptom 2731 2735	SPED
+T80	Symptom 2739 2757	macular hemorrhage
+T81	Diagnostic_tool 2759 2779	ICG videoangiography
+T82	Diagnostic_tool 2818 2820	FA

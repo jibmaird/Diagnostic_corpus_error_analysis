@@ -1,0 +1,31 @@
+T21	Anatomy 1065 1068	eye
+T20	Disease 1036 1048	advanced AMD
+T23	Symptom 1244 1263	intermediate drusen
+T22	Symptom 1218 1230	large drusen
+T25	Disease 1396 1408	advanced AMD
+T24	Anatomy 1272 1276	eyes
+T27	Classification_system 1518 1547	Age-Related Eye Disease Study
+T26	Diagnostic_tool 1477 1500	photographic procedures
+T1	Disease 34 66	age-related macular degeneration
+T2	Classification_system 68 73	AREDS
+T3	Disease 183 224	advanced age-related macular degeneration
+T4	Disease 226 229	AMD
+T5	Anatomy 299 303	eyes
+T6	Diagnostic_tool 325 343	fundus photographs
+T7	Classification_system 351 380	Age-Related Eye Disease Study
+T8	Disease 406 418	advanced AMD
+T9	Anatomy 485 488	eye
+T10	Symptom 512 533	retinal abnormalities
+T12	Symptom 546 567	pigment abnormalities
+T11	Symptom 535 541	drusen
+T14	Symptom 590 605	pigment changes
+T13	Symptom 569 581	Large drusen
+T16	Anatomy 731 734	eye
+T15	Disease 649 661	advanced AMD
+T18	Symptom 892 911	pigment abnormality
+T17	Symptom 769 849	1 or more large (> or = 125 microm, width of a large vein at disc margin) drusen
+T19	Anatomy 949 953	eyes
+R2	Has_symptom Arg1:T15 Arg2:T13
+R3	Has_symptom Arg1:T15 Arg2:T14
+R4	Has_symptom Arg1:T8 Arg2:T11
+R1	Has_symptom Arg1:T8 Arg2:T10

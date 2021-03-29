@@ -1,0 +1,40 @@
+T40	Anatomy 2454 2458	eyes
+T21	Symptom 1233 1239	drusen
+T20	Diagnostic_tool 1122 1135	SDOCT B-scans
+T23	Symptom 1369 1400	overlying hyper-reflective foci
+T22	Symptom 1273 1279	drusen
+T25	Anatomy 1444 1448	eyes
+T24	Anatomy 1422 1426	eyes
+T27	Symptom 1523 1561	Hyper-reflective foci overlying drusen
+T26	Symptom 1460 1481	nonhomogeneous drusen
+T29	Symptom 1622 1644	soft-indistinct drusen
+T28	Anatomy 1572 1576	eyes
+T1	Symptom 0 21	Drusen ultrastructure
+T2	Diagnostic_tool 35 79	spectral domain optical coherence tomography
+T3	Disease 83 115	age-related macular degeneration
+T4	Symptom 132 153	drusen ultrastructure
+T5	Disease 157 189	age-related macular degeneration
+T6	Disease 191 194	AMD
+T7	Diagnostic_tool 202 246	spectral domain optical coherence tomography
+T8	Diagnostic_tool 248 253	SDOCT
+T9	Symptom 302 308	drusen
+T30	Symptom 1715 1746	overlying hyper-reflective foci
+T10	Disease 383 402	non-neovascular AMD
+T32	Symptom 1937 1943	drusen
+T31	Symptom 1874 1880	drusen
+T12	Disease 453 456	AMD
+T34	Symptom 2024 2045	Drusen ultrastructure
+T11	Symptom 418 424	drusen
+T33	Symptom 2004 2010	drusen
+T14	Diagnostic_tool 533 552	Foveal linear scans
+T36	Diagnostic_tool 2119 2131	Photographic
+T13	Diagnostic_tool 477 482	SDOCT
+T35	Diagnostic_tool 2065 2070	SDOCT
+T16	Symptom 735 766	overlying hyper-reflective foci
+T38	Symptom 2362 2368	drusen
+T15	Symptom 616 622	Drusen
+T37	Diagnostic_tool 2326 2331	SDOCT
+T18	Diagnostic_tool 1080 1085	SDOCT
+T17	Symptom 915 920	druse
+T39	Symptom 2398 2420	ultrastructural drusen
+T19	Anatomy 1098 1102	eyes

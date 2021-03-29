@@ -1,0 +1,36 @@
+T21	Anatomy 1142 1146	eyes
+T20	Disease 1112 1114	DR
+T23	Symptom 1209 1238	2-step or more DR progression
+T22	Symptom 1155 1175	PPLs, eyes with PPLs
+T25	Characteristic 1432 1503	gender, diabetes type, diabetes duration, hemoglobin A1c (HbA1c) levels
+T24	Disease 1323 1326	PDR
+T27	Symptom 1564 1621	PPLs increased the risk for 2-step or more DR progression
+T26	Disease 1518 1520	DR
+T29	Symptom 1704 1708	PPLs
+T28	Disease 1653 1656	PDR
+T1	Disease 83 103	Diabetic Retinopathy
+T2	Disease 163 183	diabetic retinopathy
+T3	Disease 185 187	DR
+T4	Diagnostic_tool 211 240	ultrawide field (UWF) imaging
+T5	Disease 271 273	DR
+T6	Diagnostic_tool 433 537	mydriatic 7-standard field Early Treatment Diabetic Retinopathy Study (ETDRS) photographs and UWF images
+T7	Diagnostic_tool 556 566	UWF images
+T8	Disease 568 570	DR
+T9	Symptom 675 700	peripheral lesions (PPLs)
+T30	Disease 1748 1750	DR
+T10	Diagnostic_tool 702 729	Follow-up ETDRS photographs
+T32	Characteristic 1817 1829	HbA1c levels
+T31	Disease 1801 1803	DR
+T12	Diagnostic_tool 826 843	ETDRS photographs
+T34	Disease 1927 1930	PDR
+T11	Disease 797 799	DR
+T33	Disease 1893 1895	DR
+T14	Disease 918 921	PDR
+T36	Disease 2129 2131	DR
+T13	Disease 900 916	proliferative DR
+T35	Disease 1960 1962	DR
+T16	Symptom 936 972	PPLs compared with eyes without PPLs
+T15	Anatomy 926 930	eyes
+T18	Anatomy 1015 1019	eyes
+T17	Diagnostic_tool 987 998	UWF imaging
+T19	Disease 1028 1031	PDR

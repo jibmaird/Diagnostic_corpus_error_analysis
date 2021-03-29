@@ -1,0 +1,52 @@
+T1	Diagnostic_tool 0 5	Three
+T2	Diagnostic_tool 6 25	dimensional imaging
+T3	Disease 29 50	cystoid macular edema
+T4	Disease 54 76	retinal vein occlusion
+T5	Disease 121 142	cystoid macular edema
+T6	Disease 144 147	CME
+T7	Disease 165 187	retinal vein occlusion
+T8	Diagnostic_tool 191 242	three-dimensional (3D) optical coherence tomography
+T9	Diagnostic_tool 244 247	OCT
+T10	Anatomy 286 292	ocular
+T11	Characteristic 305 320	visual function
+T12	Anatomy 356 360	eyes
+T13	Disease 381 403	retinal vein occlusion
+T14	Diagnostic_tool 417 423	3D OCT
+T15	Diagnostic_tool 440 469	Fourier-domain OCT technology
+T16	Diagnostic_tool 543 565	superluminescent diode
+T17	Diagnostic_tool 861 877	volume rendering
+T18	Disease 965 968	CME
+T19	Diagnostic_tool 1001 1007	3D OCT
+T20	Diagnostic_tool 1015 1026	Stratus OCT
+T21	Diagnostic_tool 1057 1071	3D OCT imaging
+T22	Disease 1113 1116	CME
+T23	Anatomy 1145 1149	eyes
+T24	Diagnostic_tool 1151 1157	3D OCT
+T25	Symptom 1165 1192	large foveal cystoid spaces
+T26	Symptom 1228 1273	small cystoid spaces in the parafoveal region
+T27	Symptom 1275 1289	Cystoid spaces
+T28	Anatomy 1313 1336	inner nuclear layer and
+T29	Anatomy 1337 1358	outer plexiform layer
+T30	Anatomy 1400 1414	retinal layers
+T31	Diagnostic_tool 1420 1426	3D OCT
+T32	Characteristic 1453 1464	-reflecting
+T33	Anatomy 1491 1517	external limiting membrane
+T34	Anatomy 1519 1522	ELM
+T35	Anatomy 1530 1534	eyes
+T36	Symptom 1546 1560	cystoid spaces
+T37	Anatomy 1581 1594	inside of the
+T38	Anatomy 1595 1598	ELM
+T39	Anatomy 1604 1608	eyes
+T40	Anatomy 1648 1651	ELM
+T41	Anatomy 1657 1661	eyes
+T42	Anatomy 1668 1672	eyes
+T43	Characteristic 1678 1686	ELM line
+T44	Symptom 1725 1752	large foveal cystoid spaces
+T45	Characteristic 1764 1795	of the ELM in the foveal region
+T46	Characteristic 1826 1839	visual acuity
+T47	Disease 1856 1859	CME
+T48	Diagnostic_tool 1866 1872	3D OCT
+T49	Anatomy 1925 1938	retinal layer
+T50	Anatomy 1982 1985	ELM
+T51	Diagnostic_tool 1998 2004	3D OCT
+T52	Disease 2040 2043	CME

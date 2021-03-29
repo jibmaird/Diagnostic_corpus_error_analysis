@@ -1,0 +1,36 @@
+T1	Symptom 0 12	Pseudophakic
+T2	Symptom 25 43	retinal detachment
+T3	Disease 54 75	cystoid macular edema
+T4	Anatomy 88 92	eyes
+T5	Anatomy 170 174	eyes
+T6	Anatomy 195 199	eyes
+T7	Disease 201 222	cystoid macular edema
+T8	Disease 224 227	CME
+T9	Anatomy 260 264	eyes
+T10	Symptom 272 290	retinal detachment
+T11	Symptom 292 294	RD
+T12	Anatomy 307 311	eyes
+T13	Disease 316 319	CME
+T14	Disease 325 327	RD
+T15	Characteristic 334 337	RDs
+T16	Disease 365 396	Proliferative vitreoretinopathy
+T17	Disease 398 401	PVR
+T18	Anatomy 419 423	eyes
+T19	Symptom 454 467	vitreous loss
+T20	Anatomy 513 517	eyes
+T21	Characteristic 519 532	Visual acuity
+T22	Symptom 545 550	20/40
+T23	Symptom 554 568	hand movements
+T24	Diagnostic_tool 570 581	Fundus view
+T25	Anatomy 599 603	eyes
+T26	Diagnostic_tool 609 632	indirect ophthalmoscopy
+T27	Disease 662 664	RD
+T28	Anatomy 666 673	Retinal
+T29	Symptom 674 686	reattachment
+T30	Symptom 692 708	scleral buckling
+T31	Anatomy 746 750	eyes
+T32	Symptom 813 844	longstanding macular detachment
+T33	Anatomy 875 879	eyes
+T34	Anatomy 895 899	eyes
+T35	Symptom 915 927	20/50 vision
+T36	Symptom 971 977	20/400

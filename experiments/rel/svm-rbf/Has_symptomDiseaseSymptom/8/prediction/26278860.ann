@@ -1,0 +1,35 @@
+T21	Disease 1545 1557	glaucomatous
+T20	Diagnostic_tool 1481 1501	GCIPL hemifield test
+T23	Anatomy 1628 1632	eyes
+T22	Anatomy 1558 1562	eyes
+T25	Characteristic 1790 1805	GCIPL thickness
+T24	Diagnostic_tool 1684 1704	GCIPL hemifield test
+T27	Characteristic 1875 1890	GCIPL thickness
+T26	Characteristic 1819 1849	inferotemporal GCIPL thickness
+T29	Characteristic 2083 2113	inferotemporal GCIPL thickness
+T28	Diagnostic_tool 1985 2005	GCIPL hemifield test
+T1	Characteristic 23 43	Hemifield Difference
+T2	Anatomy 51 67	Horizontal Raphe
+T3	Diagnostic_tool 71 121	Ganglion Cell--Inner Plexiform Layer Thickness Map
+T4	Diagnostic_tool 194 252	ganglion cell-inner plexiform layer [GCIPL] hemifield test
+T5	Characteristic 281 335	GCIPL thickness difference across the horizontal raphe
+T6	Disease 359 367	glaucoma
+T7	Anatomy 442 446	eyes
+T8	Anatomy 490 494	eyes
+T9	Disease 512 520	glaucoma
+T30	Characteristic 2135 2150	GCIPL thickness
+T10	Diagnostic_tool 565 616	Cirrus high-definition optical coherence tomography
+T32	Symptom 2262 2296	early glaucomatous structural loss
+T31	Characteristic 2176 2191	GCIPL thickness
+T12	Anatomy 697 720	macular and optic discs
+T34	Characteristic 2366 2420	GCIPL thickness difference across the horizontal raphe
+T11	Diagnostic_tool 618 624	HD-OCT
+T33	Disease 2314 2336	preperimetric glaucoma
+T14	Anatomy 909 941	superior and inferior hemifields
+T13	Diagnostic_tool 769 789	GCIPL hemifield test
+T16	Anatomy 1059 1083	outer elliptical annulus
+T15	Anatomy 1018 1051	temporal inner elliptical annulus
+T18	Dimension 1193 1198	≥5 μm
+T17	Characteristic 1093 1166	average GCIPL thickness difference within 10 pixels of the reference line
+T19	Anatomy 1307 1316	hemifield
+R1	Has_symptom Arg1:T33 Arg2:T32

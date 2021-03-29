@@ -1,0 +1,14 @@
+T4	Characteristic 307 363	Age-Related Macular Degeneration Treatments Trials (CATT
+T5	Diagnostic_tool 437 440	OCT
+T6	Symptom 490 505	CATT enrollment
+T7	Diagnostic_tool 726 736	OCT images
+T8	Diagnostic_tool 850 858	CATT OCT
+T9	Symptom 873 1015	total thickness at the foveal center point and intraretinal fluid (IRF), subretinal fluid (SRF), and subretinal pigment epithelium (RPE) fluid
+T10	Symptom 1552 1565	sub-RPE fluid
+T12	Diagnostic_tool 1987 1990	OCT
+T11	Symptom 1676 1746	total thickness at the foveal center point, the intraclass correlation
+T14	Disease 2108 2152	neovascular age-related macular degeneration
+T13	Diagnostic_tool 2077 2080	OCT
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Disease 78 110	Age-related Macular Degeneration
+T3	Diagnostic_tool 190 272	Stratus optical coherence tomography (OCT) (Carl Zeiss Meditec, Dublin, CA) images

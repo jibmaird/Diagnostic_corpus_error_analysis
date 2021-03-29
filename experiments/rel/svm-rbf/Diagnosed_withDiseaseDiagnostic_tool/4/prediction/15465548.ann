@@ -1,0 +1,40 @@
+T21	Characteristic 1214 1226	SWAP VF zone
+T20	Characteristic 1059 1090	OCT nerve fiber layer thickness
+T23	Characteristic 1360 1373	SWAP VF zones
+T22	Diagnostic_tool 1253 1281	Optical coherence tomography
+T25	Characteristic 1538 1568	inferior temporal RNFL sectors
+T24	Anatomy 1390 1434	superior hemifield central and arcuate areas
+T27	Characteristic 1671 1714	superior and superior temporal RNFL sectors
+T26	Characteristic 1602 1633	superior nasal/arcuate VF zones
+T29	Characteristic 1911 1932	superior RNFL sectors
+T28	Characteristic 1750 1787	inferior central and arcuate VF zones
+T1	Diagnostic_tool 0 36	Short-wavelength automated perimetry
+T2	Diagnostic_tool 65 93	optical coherence tomography
+T3	Characteristic 94 142	retinal nerve fiber layer thickness measurements
+T4	Disease 146 158	glaucomatous
+T5	Anatomy 159 163	eyes
+T6	Characteristic 204 246	retinal nerve fiber layer (RNFL) thickness
+T7	Diagnostic_tool 262 290	optical coherence tomography
+T8	Diagnostic_tool 292 295	OCT
+T9	Characteristic 301 343	short wavelength-sensitive visual function
+T30	Characteristic 1937 1954	superior VF zones
+T10	Diagnostic_tool 359 395	short-wavelength automated perimetry
+T32	Diagnostic_tool 2006 2009	OCT
+T31	Characteristic 1956 1991	Retinal nerve fiber layer thickness
+T12	Disease 554 562	Glaucoma
+T34	Diagnostic_tool 2083 2087	SWAP
+T11	Diagnostic_tool 397 401	SWAP
+T33	Symptom 2045 2068	glaucomatous VF defects
+T14	Diagnostic_tool 608 619	OCT imaging
+T13	Disease 585 593	glaucoma
+T16	Characteristic 710 780	deviation from normal (thinner than 97.5% of normal) RNFL measurements
+T15	Diagnostic_tool 633 655	SWAP visual field (VF)
+T18	Characteristic 932 957	OCT-measured RNFL sectors
+T17	Characteristic 851 900	SWAP average pattern deviation within 21 VF zones
+T19	Characteristic 1001 1009	VF zones
+R2	Diagnosed_with Arg1:T12 Arg2:T14
+R3	Diagnosed_with Arg1:T13 Arg2:T14
+R4	Diagnosed_with Arg1:T13 Arg2:T15
+R5	Diagnosed_with Arg1:T12 Arg2:T15
+R6	Diagnosed_with Arg1:T4 Arg2:T2
+R1	Diagnosed_with Arg1:T4 Arg2:T1

@@ -1,0 +1,64 @@
+T41	Characteristic 2133 2146	older persons
+T40	Disease 2121 2129	late AMD
+T21	Characteristic 1265 1286	43 to 54 years of age
+T43	Characteristic 2221 2243	> or = 75 years of age
+T20	Characteristic 1132 1154	> or = 75 years of age
+T42	Disease 2202 2210	late AMD
+T23	Dimension 1303 1322	125 mum in diameter
+T45	Characteristic 2352 2355	age
+T22	Symptom 1288 1301	larger drusen
+T44	Characteristic 2322 2346	United States population
+T25	Symptom 1381 1413	retinal pigmentary abnormalities
+T24	Symptom 1341 1363	soft indistinct drusen
+T27	Symptom 1482 1505	pure geographic atrophy
+T26	Disease 1431 1461	exudative macular degeneration
+T29	Symptom 1588 1611	small hard drusen (1-2)
+T28	Characteristic 1536 1539	age
+T1	Disease 40 72	age-related macular degeneration
+T2	Disease 166 213	early and late age-related macular degeneration
+T3	Disease 215 218	AMD
+T4	Characteristic 302 323	43 to 86 years of age
+T5	Diagnostic_tool 522 553	stereoscopic fundus photographs
+T6	Classification_system 564 612	Wisconsin Age-Related Maculopathy Grading System
+T7	Symptom 662 668	drusen
+T8	Symptom 684 708	pigmentary abnormalities
+T9	Symptom 710 728	geographic atrophy
+T30	Symptom 1646 1667	hard drusen (> or =8)
+T10	Disease 734 747	exudative AMD
+T32	Symptom 1767 1791	pigmentary abnormalities
+T31	Symptom 1724 1746	soft indistinct drusen
+T12	Symptom 879 901	soft indistinct drusen
+T34	Symptom 1819 1841	soft indistinct drusen
+T11	Disease 845 854	early AMD
+T33	Anatomy 1809 1813	Eyes
+T14	Symptom 972 978	drusen
+T36	Disease 1910 1918	late AMD
+T13	Symptom 921 945	pigmentary abnormalities
+T35	Symptom 1845 1869	pigmentary abnormalities
+T16	Disease 1015 1028	exudative AMD
+T38	Disease 2075 2078	AMD
+T15	Disease 993 1001	late AMD
+T37	Anatomy 1937 1941	eyes
+T18	Symptom 1089 1100	AMD lesions
+T17	Symptom 1032 1050	geographic atrophy
+T39	Symptom 2100 2117	small hard drusen
+T19	Characteristic 1106 1109	age
+R2	Has_symptom Arg1:T11 Arg2:T14
+R3	Has_symptom Arg1:T15 Arg2:T12
+R4	Has_symptom Arg1:T15 Arg2:T14
+R5	Has_symptom Arg1:T16 Arg2:T12
+R6	Has_symptom Arg1:T16 Arg2:T14
+R7	Has_symptom Arg1:T26 Arg2:T22
+R8	Has_symptom Arg1:T26 Arg2:T25
+R9	Has_symptom Arg1:T36 Arg2:T35
+R10	Has_symptom Arg1:T40 Arg2:T39
+R12	Has_symptom Arg1:T36 Arg2:T34
+R11	Has_symptom Arg1:T38 Arg2:T39
+R14	Has_symptom Arg1:T16 Arg2:T17
+R13	Has_symptom Arg1:T26 Arg2:T24
+R16	Has_symptom Arg1:T15 Arg2:T17
+R15	Has_symptom Arg1:T16 Arg2:T13
+R18	Has_symptom Arg1:T11 Arg2:T17
+R17	Has_symptom Arg1:T15 Arg2:T13
+R19	Has_symptom Arg1:T11 Arg2:T13
+R1	Has_symptom Arg1:T11 Arg2:T12

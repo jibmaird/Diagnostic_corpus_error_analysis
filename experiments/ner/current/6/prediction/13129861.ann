@@ -1,0 +1,25 @@
+T1	Disease 32 52	diabetic retinopathy
+T2	Disease 57 79	diabetic macular edema
+T3	Classification_system 80 87	disease
+T4	Disease 190 210	diabetic retinopathy
+T5	Disease 215 237	diabetic macular edema
+T6	Disease 371 379	diabetes
+T7	Classification_system 426 463	diabetic retinopathy disease severity
+T8	Anatomy 559 565	retina
+T9	Classification_system 671 713	Early Treatment Diabetic Retinopathy Study
+T10	Characteristic 722 731	Wisconsin
+T11	Classification_system 746 751	Study
+T12	Disease 755 775	Diabetic Retinopathy
+T13	Disease 987 1007	diabetic retinopathy
+T14	Disease 1012 1025	macular edema
+T15	Disease 1282 1302	diabetic retinopathy
+T16	Disease 1356 1391	severe nonproliferative retinopathy
+T17	Disease 1414 1439	proliferative retinopathy
+T18	Disease 1441 1463	Diabetic macular edema
+T19	Disease 1593 1606	macular edema
+T20	Characteristic 1651 1683	distance from the central macula
+T21	Disease 1783 1803	diabetic retinopathy
+T22	Disease 1808 1830	diabetic macular edema
+T23	Disease 1962 1982	diabetic retinopathy
+T24	Disease 1987 2000	macular edema
+T25	Disease 2098 2106	diabetes

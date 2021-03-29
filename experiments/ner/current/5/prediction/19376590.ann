@@ -1,0 +1,42 @@
+T1	Diagnostic_tool 31 61	Heidelberg Retinal Tomograph 3
+T2	Disease 84 92	glaucoma
+T3	Diagnostic_tool 182 212	Heidelberg Retinal Tomograph 3
+T4	Diagnostic_tool 214 218	HRT3
+T5	Disease 256 268	glaucomatous
+T6	Anatomy 269 273	eyes
+T7	Characteristic 319 323	disc
+T8	Disease 333 341	glaucoma
+T9	Anatomy 438 442	eyes
+T10	Disease 475 483	glaucoma
+T11	Symptom 525 535	repeatable
+T12	Symptom 536 555	visual field defect
+T13	Diagnostic_tool 597 601	HRT3
+T14	Diagnostic_tool 634 657	stereometric parameters
+T15	Diagnostic_tool 659 689	Moorfields regression analysis
+T16	Diagnostic_tool 691 694	MRA
+T17	Characteristic 701 727	glaucoma probability score
+T18	Characteristic 729 732	GPS
+T19	Characteristic 763 777	glaucoma stage
+T20	Characteristic 782 797	optic disc size
+T21	Characteristic 969 1020	cup-to-disc area ratio of the inferotemporal sector
+T22	Diagnostic_tool 1059 1062	MRA
+T23	Diagnostic_tool 1067 1070	GPS
+T24	Diagnostic_tool 1202 1205	MRA
+T25	Diagnostic_tool 1226 1229	GPS
+T26	Diagnostic_tool 1271 1283	MRA analysis
+T27	Diagnostic_tool 1324 1362	global optic nerve head (ONH) analysis
+T28	Characteristic 1573 1596	stereometric parameters
+T29	Characteristic 1715 1720	optic
+T30	Anatomy 1721 1725	disc
+T31	Characteristic 1726 1730	size
+T32	Characteristic 1742 1757	MRA sensitivity
+T33	Disease 1774 1788	early-glaucoma
+T34	Anatomy 1924 1927	ONH
+T35	Disease 1958 1966	glaucoma
+T36	Diagnostic_tool 2072 2102	Heidelberg Retinal Tomograph 3
+T37	Characteristic 2253 2258	Small
+T38	Anatomy 2259 2264	discs
+T39	Anatomy 2313 2331	inferonasal sector
+T40	Anatomy 2348 2353	discs
+T41	Anatomy 2402 2423	inferotemporal sector
+T42	Diagnostic_tool 2433 2436	HRT

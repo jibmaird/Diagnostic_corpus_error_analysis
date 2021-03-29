@@ -1,0 +1,40 @@
+T1	Diagnostic_tool 26 46	fast blue-yellow and
+T2	Diagnostic_tool 47 75	standard automated perimetry
+T3	Disease 79 93	early glaucoma
+T4	Diagnostic_tool 168 256	Fast Swedish interactive threshold algorithm (SITA) short-wavelength automated perimetry
+T5	Diagnostic_tool 258 262	SWAP
+T6	Diagnostic_tool 265 294	lengthier full-threshold SWAP
+T7	Diagnostic_tool 300 328	standard automated perimetry
+T8	Diagnostic_tool 330 333	SAP
+T9	Symptom 373 391	early glaucomatous
+T10	Symptom 392 409	visual field loss
+T11	Symptom 612 631	ocular hypertension
+T12	Disease 636 670	suspect or early manifest glaucoma
+T13	Anatomy 676 679	eye
+T14	Diagnostic_tool 714 736	blue-yellow perimetric
+T15	Diagnostic_tool 751 755	SITA
+T16	Diagnostic_tool 760 779	full-threshold SWAP
+T17	Diagnostic_tool 788 801	SAP SITA Fast
+T18	Symptom 811 823	Glaucomatous
+T19	Symptom 824 841	visual field loss
+T20	Symptom 864 898	significantly depressed test point
+T21	Diagnostic_tool 1247 1256	SITA SWAP
+T22	Diagnostic_tool 1295 1298	SAP
+T23	Diagnostic_tool 1317 1326	SITA SWAP
+T24	Diagnostic_tool 1331 1334	SAP
+T25	Anatomy 1350 1354	eyes
+T26	Diagnostic_tool 1449 1468	full-threshold SWAP
+T27	Anatomy 1495 1499	eyes
+T28	Diagnostic_tool 1501 1510	SITA SWAP
+T29	Anatomy 1537 1541	eyes
+T30	Diagnostic_tool 1547 1560	SITA Fast SAP
+T31	Anatomy 1587 1591	eyes
+T32	Diagnostic_tool 1649 1653	SWAP
+T33	Diagnostic_tool 1672 1681	SITA SWAP
+T34	Diagnostic_tool 1696 1705	SITA Fast
+T35	Diagnostic_tool 1711 1720	SITA SWAP
+T36	Symptom 1749 1779	glaucomatous visual field loss
+T37	Characteristic 1787 1812	older full-threshold SWAP
+T38	Diagnostic_tool 1859 1875	Conventional SAP
+T39	Diagnostic_tool 1882 1891	SITA Fast
+T40	Diagnostic_tool 1950 1954	SWAP

@@ -1,0 +1,68 @@
+T61	Diagnostic_tool 2205 2208	OCT
+T60	Diagnostic_tool 2178 2180	FA
+T63	Diagnostic_tool 2239 2242	OCT
+T62	Symptom 2222 2237	vascular damage
+T21	Diagnostic_tool 899 902	OCT
+T20	Symptom 841 880	Foveal ganglion cell layer (GCL) damage
+T64	Diagnostic_tool 2320 2322	FA
+T23	Symptom 995 1021	asymmetry within the fovea
+T22	Symptom 909 988	evident difference in foveal thickness and contour compared with a normal fovea
+T25	Diagnostic_tool 1064 1102	confocal scanning laser ophthalmoscope
+T24	Diagnostic_tool 1023 1046	Fluorescein angiography
+T27	Symptom 1161 1171	FAZ damage
+T26	Diagnostic_tool 1104 1109	HRA 2
+T29	Classification_system 1237 1305	Early Treatment Diabetic Retinopathy Study (ETDRS) FA grading system
+T28	Diagnostic_tool 1191 1193	FA
+T30	Symptom 1340 1357	foveal GCL damage
+T32	Characteristic 1380 1406	FA capillary dropout sites
+T31	Diagnostic_tool 1372 1375	OCT
+T34	Diagnostic_tool 1429 1432	OCT
+T33	Symptom 1408 1425	Foveal GCL damage
+T36	Characteristic 1481 1502	area of GCL thickness
+T35	Characteristic 1438 1464	size of the foveola on OCT
+T38	Characteristic 1550 1563	visual acuity
+T37	Characteristic 1518 1544	ETDRS grading of FAZ on FA
+T39	Anatomy 1579 1583	eyes
+T41	Diagnostic_tool 1624 1626	FA
+T40	Disease 1589 1609	diabetic retinopathy
+T43	Symptom 1680 1698	FAZ capillary loss
+T42	Symptom 1646 1656	FAZ damage
+T45	Symptom 1715 1732	damage to the FAZ
+T44	Anatomy 1709 1713	eyes
+T47	Diagnostic_tool 1770 1773	OCT
+T46	Diagnostic_tool 1741 1743	FA
+T49	Diagnostic_tool 1880 1882	FA
+T48	Symptom 1861 1871	FAZ damage
+T1	Symptom 0 33	Foveal ganglion cell layer damage
+T2	Disease 37 66	ischemic diabetic maculopathy
+T3	Diagnostic_tool 83 112	optical coherence tomographic
+T4	Disease 176 205	ischemic diabetic maculopathy
+T5	Diagnostic_tool 209 253	high-resolution optical coherence tomography
+T6	Diagnostic_tool 255 258	OCT
+T7	Symptom 291 320	damaged foveal avascular zone
+T8	Anatomy 322 325	FAZ
+T9	Diagnostic_tool 330 353	fluorescein angiography
+T50	Symptom 1915 1932	foveal GCL damage
+T52	Anatomy 1964 1968	eyes
+T51	Diagnostic_tool 1936 1939	OCT
+T10	Diagnostic_tool 355 357	FA
+T54	Characteristic 2013 2034	size of the FAZ on FA
+T53	Characteristic 1974 2000	size of the foveola on OCT
+T12	Disease 436 456	diabetic retinopathy
+T56	Diagnostic_tool 2069 2072	OCT
+T11	Anatomy 411 415	eyes
+T55	Symptom 2048 2065	foveal GCL damage
+T14	Diagnostic_tool 479 489	OCT images
+T58	Anatomy 2123 2127	eyes
+T13	Diagnostic_tool 472 474	FA
+T57	Symptom 2096 2119	macular ischemic damage
+T16	Anatomy 531 535	eyes
+T15	Characteristic 517 530	normal fellow
+T59	Disease 2133 2153	diabetic retinopathy
+T18	Diagnostic_tool 633 712	High-speed Fourier-domain OCT was used with a speckle noise-reduction technique
+T17	Disease 568 613	unilateral acute central serous choroidopathy
+T19	Anatomy 775 794	center of the fovea
+R2	Has_symptom Arg1:T59 Arg2:T55
+R3	Has_symptom Arg1:T59 Arg2:T57
+R4	Has_symptom Arg1:T40 Arg2:T42
+R1	Has_symptom Arg1:T2 Arg2:T1

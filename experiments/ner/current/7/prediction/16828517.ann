@@ -1,0 +1,51 @@
+T1	Characteristic 0 24	Retinal vascular caliber
+T2	Disease 41 56	type 2 diabetes
+T3	Disease 97 117	Diabetic Retinopathy
+T4	Characteristic 119 121	XX
+T5	Characteristic 136 160	retinal vascular caliber
+T6	Disease 191 206	type 2 diabetes
+T7	Disease 283 291	diabetes
+T8	Characteristic 295 319	or after 30 years of age
+T9	Characteristic 344 367	south central Wisconsin
+T10	Diagnostic_tool 387 427	Retinal photographs of 7 standard fields
+T11	Diagnostic_tool 440 449	light box
+T12	Disease 480 491	retinopathy
+T13	Diagnostic_tool 544 570	digitized image of field 1
+T14	Characteristic 588 625	central retinal arteriolar equivalent
+T15	Characteristic 627 631	CRAE
+T16	Characteristic 633 651	arteriolar caliber
+T17	Characteristic 657 691	central retinal venular equivalent
+T18	Characteristic 693 697	CRVE
+T19	Characteristic 699 714	venular caliber
+T20	Characteristic 717 756	Retinal arteriolar and venular calibers
+T21	Characteristic 860 870	refractive
+T22	Characteristic 878 882	CRAE
+T23	Characteristic 917 920	age
+T24	Characteristic 926 934	10 years
+T25	Characteristic 957 985	mean arterial blood pressure
+T26	Characteristic 987 989	BP
+T27	Characteristic 1026 1040	smoking status
+T28	Characteristic 1042 1066	current vs. never smoked
+T29	Characteristic 1092 1112	intraocular pressure
+T30	Characteristic 1114 1117	IOP
+T31	Disease 1156 1160	CRVE
+T32	Characteristic 1195 1198	age
+T33	Characteristic 1207 1212	years
+T34	Characteristic 1235 1251	mean arterial BP
+T35	Dimension 1257 1264	10 mmHg
+T36	Characteristic 1287 1301	smoking status
+T37	Characteristic 1303 1327	current vs. never smoked
+T38	Characteristic 1350 1367	pack-years smoked
+T39	Characteristic 1408 1423	body mass index
+T40	Characteristic 1452 1462	pulse rate
+T41	Characteristic 1505 1525	retinopathy severity
+T42	Characteristic 1565 1568	IOP
+T43	Dimension 1574 1581	10 mmHg
+T44	Symptom 1604 1617	Smaller CRAEs
+T45	Symptom 1622 1627	CRVEs
+T46	Anatomy 1642 1646	eyes
+T47	Anatomy 1698 1702	eyes
+T48	Disease 1743 1758	type 2 diabetes
+T49	Characteristic 1774 1798	retinal vascular caliber
+T50	Symptom 1925 1949	retinal vascular changes
+T51	Disease 1953 1961	diabetes

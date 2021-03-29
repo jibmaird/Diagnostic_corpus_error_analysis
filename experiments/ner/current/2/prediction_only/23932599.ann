@@ -1,0 +1,62 @@
+T1	Diagnostic_tool 0 51	Fourier-domain optical coherence tomography imaging
+T2	Disease 55 66	keratoconus
+T3	Anatomy 70 77	corneal
+T4	Symptom 115 142	corneal morphologic changes
+T5	Anatomy 154 165	keratoconic
+T6	Diagnostic_tool 196 235	structural optical coherence tomography
+T7	Diagnostic_tool 237 240	OCT
+T8	Disease 311 322	keratoconic
+T9	Anatomy 323 327	eyes
+T10	Anatomy 353 357	eyes
+T11	Diagnostic_tool 385 403	Fourier-domain OCT
+T12	Diagnostic_tool 468 489	high-resolution scans
+T13	Anatomy 511 527	keratoconus cone
+T14	Disease 556 567	keratoconus
+T15	Diagnostic_tool 673 676	OCT
+T16	Disease 819 830	keratoconus
+T17	Diagnostic_tool 851 854	OCT
+T18	Symptom 911 937	structural corneal changes
+T19	Symptom 957 983	structural corneal changes
+T20	Disease 997 1008	keratoconus
+T21	Diagnostic_tool 1056 1059	OCT
+T22	Diagnostic_tool 1070 1088	Fourier-domain OCT
+T23	Disease 1126 1137	keratoconus
+T24	Disease 1158 1165	Stage 1
+T25	Symptom 1179 1251	thinning of apparently normal epithelial and stromal layers at the conus
+T26	Disease 1253 1260	Stage 2
+T27	Symptom 1274 1316	hyperreflective anomalies occurring at the
+T28	Anatomy 1317 1331	Bowman's layer
+T29	Symptom 1332 1337	level
+T30	Symptom 1343 1377	epithelial thickening at the conus
+T31	Disease 1379 1386	Stage 3
+T32	Symptom 1400 1466	posterior displacement of the hyperreflective structures occurring
+T33	Anatomy 1474 1488	Bowman's layer
+T34	Symptom 1500 1535	increased epithelial thickening and
+T35	Symptom 1536 1552	stromal thinning
+T36	Disease 1554 1561	Stage 4
+T37	Symptom 1575 1591	pan-stromal scar
+T38	Disease 1593 1613	Stage 5 demonstrates
+T39	Disease 1614 1621	hydrops
+T40	Disease 1627 1638	acute onset
+T41	Symptom 1640 1667	Descemet's membrane rupture
+T42	Symptom 1672 1748	dilaceration of collagen lamellae with large fluid-filled intrastromal cysts
+T43	Symptom 1769 1806	pan-stromal scarring with a remaining
+T44	Symptom 1817 1844	Descemet's membrane rupture
+T45	Anatomy 1914 1921	corneal
+T46	Disease 1989 2000	keratoconus
+T47	Characteristic 2012 2025	visual acuity
+T48	Characteristic 2027 2045	corneal epithelium
+T49	Symptom 2046 2057	and stromal
+T50	Characteristic 2058 2067	thickness
+T51	Symptom 2068 2075	changes
+T52	Characteristic 2077 2095	corneal topography
+T53	Characteristic 2097 2134	biomechanical corneal characteristics
+T54	Symptom 2140 2155	microstructural
+T55	Characteristic 2156 2163	changes
+T56	Diagnostic_tool 2176 2195	confocal microscopy
+T57	Diagnostic_tool 2222 2225	OCT
+T58	Diagnostic_tool 2235 2263	Optical coherence tomography
+T59	Disease 2331 2342	keratoconus
+T60	Anatomy 2343 2347	eyes
+T61	Disease 2524 2535	keratoconus
+T62	Disease 2587 2598	keratoconus

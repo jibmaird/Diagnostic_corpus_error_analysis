@@ -1,0 +1,24 @@
+T4	Diagnostic_tool 206 262	Cirrus high-definition (HD) optical coherence tomography
+T5	Diagnostic_tool 264 267	OCT
+T6	Characteristic 277 291	RNFL thickness
+T7	Anatomy 365 369	eyes
+T8	Symptom 375 409	localized and diffuse RNFL defects
+T9	Disease 417 425	glaucoma
+T10	Characteristic 481 531	glaucoma subjects, the severity of the RNFL defect
+T21	Anatomy 1891 1897	cpRNFL
+T20	Symptom 1693 1845	Meanwhile, in discriminating the moderate from the severe RNFL defects, the AUROCs of the RDPIs (0.961 and 0.891 in the superior and inferior hemifields
+T12	Symptom 654 707	RNFL defect depth on the RNFL thickness deviation map
+T23	Symptom 2151 2168	RNFL defect depth
+T11	Diagnostic_tool 546 573	red-free fundus photographs
+T22	Symptom 2038 2088	Cirrus HD OCT-derived RNFL thickness deviation map
+T14	Symptom 807 981	RNFL defects {red or yellow superpixels}/summation of RNFL thicknesses of upper 95th percentile range of age-matched healthy subjects in areas corresponding to RNFL defects])
+T13	Symptom 728 775	RNFL defect depth percentage index (RDPI): 100×
+T24	Symptom 2192 2339	advantage over cpRNFL thickness in discriminating between mild and moderate RNFL defects, not in discriminating between moderate and severe defects
+T16	Characteristic 1161 1282	RNFL defect severity, and the area under the receiver operating characteristic curves (AUROCs) for various OCT parameters
+T15	Symptom 983 1143	Retinal nerve fiber layer defect depth percentage index, average and segmental (4 quadrants and 12 clock-hour sectors) circumpapillary RNFL (cpRNFL) thicknesses
+T18	Characteristic 1474 1550	AUROCs of the RDPIs (0.969 and 0.975 in the superior and inferior hemifields
+T17	Symptom 1340 1396	RNFL defect in both the superior and inferior hemifields
+T1	Symptom 27 59	retinal nerve fiber layer defect
+T19	Symptom 1603 1679	cpRNFL thicknesses in discriminating the mild from the moderate RNFL defects
+T2	Diagnostic_tool 72 116	spectral-domain optical coherence tomography
+T3	Symptom 157 197	retinal nerve fiber layer (RNFL) defects

@@ -1,0 +1,29 @@
+T1	Disease 38 61	age-related maculopathy
+T2	Disease 127 159	age-related macular degeneration
+T3	Disease 161 164	AMD
+T4	Disease 211 234	age-related maculopathy
+T5	Disease 236 239	ARM
+T6	Anatomy 272 278	fundus
+T7	Characteristic 279 287	features
+T8	Characteristic 351 374	aged 55 years and older
+T9	Characteristic 385 411	Rotterdam, The Netherlands
+T10	Disease 491 519	neovascular and atrophic AMD
+T11	Disease 596 599	ARM
+T12	Diagnostic_tool 601 622	Fundus transparencies
+T13	Disease 651 654	ARM
+T14	Classification_system 665 700	International Classification System
+T15	Disease 702 705	ARM
+T16	Symptom 768 774	drusen
+T17	Symptom 791 816	pigmentary irregularities
+T18	Disease 871 874	AMD
+T19	Characteristic 919 937	85 years and older
+T20	Symptom 1091 1121	macular area covered by drusen
+T21	Symptom 1196 1210	depigmentation
+T22	Symptom 1241 1258	hyperpigmentation
+T23	Disease 1316 1319	AMD
+T24	Characteristic 1343 1346	The
+T25	Characteristic 1347 1358	Netherlands
+T26	Characteristic 1371 1384	United States
+T27	Disease 1401 1410	early ARM
+T28	Symptom 1483 1492	of drusen
+T29	Symptom 1509 1527	pigmentary changes

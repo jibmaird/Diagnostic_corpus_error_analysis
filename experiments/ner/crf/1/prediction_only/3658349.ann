@@ -1,0 +1,19 @@
+T4	Disease 201 222	cystoid macular edema
+T5	Disease 224 227	CME
+T6	Symptom 272 311	retinal detachment (RD), and eight eyes
+T7	Disease 316 319	CME
+T8	Symptom 325 327	RD
+T9	Disease 365 396	Proliferative vitreoretinopathy
+T10	Anatomy 419 423	eyes
+T12	Anatomy 513 517	eyes
+T11	Symptom 454 467	vitreous loss
+T14	Diagnostic_tool 570 581	Fundus view
+T13	Characteristic 519 532	Visual acuity
+T16	Diagnostic_tool 618 632	ophthalmoscopy
+T15	Anatomy 599 603	eyes
+T18	Anatomy 875 879	eyes
+T17	Anatomy 746 750	eyes
+T1	Symptom 17 75	aphakic retinal detachment mimicking cystoid macular edema
+T19	Anatomy 895 899	eyes
+T2	Anatomy 170 174	eyes
+T3	Anatomy 195 199	eyes

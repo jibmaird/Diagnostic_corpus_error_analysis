@@ -1,0 +1,32 @@
+T1	Disease 0 26	Birdshot chorioretinopathy
+T2	Disease 145 171	birdshot chorioretinopathy
+T3	Disease 173 176	BCR
+T4	Symptom 215 226	visual loss
+T5	Characteristic 307 314	HLA-A29
+T6	Disease 314 323	-positive
+T7	Disease 324 327	BCR
+T8	Anatomy 429 432	Eye
+T9	Symptom 589 596	HLA-A29
+T10	Disease 596 609	-positive BCR
+T11	Characteristic 655 658	age
+T12	Characteristic 663 682	gender distribution
+T13	Characteristic 694 700	course
+T14	Disease 704 707	BCR
+T15	Characteristic 709 730	ocular manifestations
+T16	Characteristic 809 822	visual acuity
+T17	Characteristic 824 826	VA
+T18	Symptom 879 889	Loss of VA
+T19	Anatomy 926 930	eyes
+T20	Symptom 936 955	VA less than 20/200
+T21	Symptom 1081 1095	compromised VA
+T22	Disease 1114 1127	macular edema
+T23	Symptom 1132 1147	macular atrophy
+T24	Characteristic 1216 1218	VA
+T25	Characteristic 1309 1313	Mean
+T26	Characteristic 1314 1316	VA
+T27	Symptom 1368 1383	macular leakage
+T28	Diagnostic_tool 1400 1411	angiography
+T29	Symptom 1450 1460	loss of VA
+T30	Disease 1583 1586	BCR
+T31	Disease 1604 1611	uveitis
+T32	Disease 1757 1774	blinding disorder

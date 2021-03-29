@@ -1,0 +1,26 @@
+T1	Disease 24 32	diabetic
+T2	Anatomy 33 36	eye
+T3	Classification_system 92 100	Diabetic
+T4	Anatomy 101 104	Eye
+T5	Classification_system 105 110	Exams
+T6	Anatomy 177 180	eye
+T7	Disease 227 235	Diabetic
+T8	Anatomy 236 239	Eye
+T9	Disease 329 349	diabetic retinopathy
+T10	Anatomy 361 364	eye
+T11	Characteristic 428 434	adults
+T12	Disease 440 448	diabetes
+T13	Anatomy 731 734	eye
+T14	Characteristic 946 969	self-reported adherence
+T15	Anatomy 1068 1071	eye
+T16	Anatomy 1226 1229	eye
+T17	Anatomy 1510 1513	eye
+T18	Anatomy 1617 1620	eye
+T19	Anatomy 1668 1671	eye
+T20	Disease 1727 1747	diabetic eye disease
+T21	Characteristic 1792 1819	Lower hemoglobin A1c levels
+T22	Characteristic 1841 1850	insurance
+T23	Disease 1888 1896	diabetes
+T24	Characteristic 1994 2015	demographic variables
+T25	Symptom 2411 2437	uncontrolled blood glucose
+T26	Anatomy 2467 2470	eye

@@ -1,0 +1,55 @@
+T1	Diagnostic_tool 14 77	spectral-domain versus time-domain optical coherence tomography
+T2	Disease 95 127	age-related macular degeneration
+T3	Characteristic 206 236	choroidal neovascularization (
+T4	Characteristic 236 249	CNV) activity
+T5	Disease 267 309	exudative age-related macular degeneration
+T6	Disease 311 314	AMD
+T7	Diagnostic_tool 352 392	time-domain optical coherence tomography
+T8	Diagnostic_tool 394 400	TD-OCT
+T9	Diagnostic_tool 418 462	spectral-domain optical coherence tomography
+T10	Diagnostic_tool 464 470	SD-OCT
+T11	Anatomy 529 533	eyes
+T12	Disease 554 567	exudative AMD
+T13	Diagnostic_tool 655 661	TD-OCT
+T14	Diagnostic_tool 692 698	SD-OCT
+T15	Diagnostic_tool 758 768	OCT images
+T16	Symptom 877 889	CNV activity
+T17	Symptom 917 933	subretinal fluid
+T18	Symptom 935 953	intraretinal cysts
+T19	Symptom 955 973	intraretinal fluid
+T20	Symptom 975 1021	sub-retinal pigment epithelium (sub-RPE) fluid
+T21	Characteristic 1077 1094	retinal thickness
+T22	Symptom 1142 1154	CNV activity
+T23	Diagnostic_tool 1158 1172	linear B-scans
+T24	Diagnostic_tool 1177 1200	3-dimensional so-called
+T25	Diagnostic_tool 1201 1211	cube scans
+T26	Diagnostic_tool 1215 1221	SD-OCT
+T27	Diagnostic_tool 1226 1239	linear B-scan
+T28	Diagnostic_tool 1243 1249	TD-OCT
+T29	Diagnostic_tool 1280 1286	SD-OCT
+T30	Symptom 1339 1352	sub-RPE fluid
+T31	Diagnostic_tool 1367 1373	TD-OCT
+T32	Diagnostic_tool 1397 1403	SD-OCT
+T33	Symptom 1441 1459	intraretinal fluid
+T34	Diagnostic_tool 1472 1478	SD-OCT
+T35	Symptom 1516 1532	subretinal fluid
+T36	Symptom 1537 1555	intraretinal cysts
+T37	Diagnostic_tool 1616 1622	SD-OCT
+T38	Symptom 1658 1674	subretinal fluid
+T39	Diagnostic_tool 1686 1692	SD-OCT
+T40	Symptom 1728 1735	sub-RPE
+T41	Symptom 1740 1758	intraretinal fluid
+T42	Characteristic 1810 1832	center point thickness
+T43	Diagnostic_tool 1845 1851	SD-OCT
+T44	Diagnostic_tool 1864 1870	TD-OCT
+T45	Diagnostic_tool 1905 1911	SD-OCT
+T46	Diagnostic_tool 1956 1962	TD-OCT
+T47	Characteristic 1966 1988	center point thickness
+T48	Characteristic 2004 2029	center subfield thickness
+T49	Diagnostic_tool 2057 2063	SD-OCT
+T50	Diagnostic_tool 2079 2085	TD-OCT
+T51	Characteristic 2104 2116	CNV activity
+T52	Disease 2134 2141	wet AMD
+T53	Characteristic 2171 2188	Retinal thickness
+T54	Diagnostic_tool 2210 2216	SD-OCT
+T55	Diagnostic_tool 2221 2227	TD-OCT

@@ -1,0 +1,43 @@
+T21	Characteristic 1279 1294	7 months of age
+T20	Symptom 1195 1229	compensatory head thrusts or turns
+T23	Symptom 1366 1382	Abnormal pursuit
+T22	Symptom 1321 1347	primary-position nystagmus
+T25	Symptom 1463 1549	bilateral asymmetric ptosis with unilateral lid elevation during ipsilateral abduction
+T24	Symptom 1395 1424	dystrophic retinal appearance
+T27	Diagnostic_tool 1637 1641	fVEP
+T26	Diagnostic_tool 1551 1570	Electroretinography
+T29	Symptom 1822 1868	primary position nystagmus (typically see-saw)
+T28	Symptom 1767 1817	saccadic dysfunction (typically with head thrusts)
+T1	Disease 23 39	Joubert syndrome
+T2	Disease 42 58	Joubert syndrome
+T3	Symptom 114 196	autosomal recessive congenital malformation of the brainstem and cerebellar vermis
+T4	Symptom 260 269	hypotonia
+T5	Symptom 271 289	episodic hyperpnea
+T6	Symptom 291 310	developmental delay
+T7	Symptom 312 330	progressive ataxia
+T8	Symptom 364 388	neuroradiologic findings
+T9	Symptom 401 422	" molar tooth "  sign
+T30	Characteristic 1874 1903	developmentally delayed child
+T10	Anatomy 520 523	eye
+T32	Symptom 1963 1992	dystrophic retinal appearance
+T31	Disease 1929 1945	Joubert syndrome
+T12	Diagnostic_tool 894 916	Ophthalmic examination
+T34	Symptom 2047 2064	see-saw nystagmus
+T11	Disease 719 735	Joubert syndrome
+T33	Symptom 2026 2042	asymmetric fVEPs
+T14	Diagnostic_tool 947 980	Ocular and oculomotor examination
+T36	Symptom 2149 2173	impaired axonal guidance
+T13	Diagnostic_tool 921 945	visual electrophysiology
+T35	Symptom 2076 2114	abnormality in optic nerve decussation
+T16	Diagnostic_tool 1039 1068	flash visual-evoked potential
+T15	Diagnostic_tool 1018 1037	electroretinography
+T37	Disease 2198 2214	Joubert syndrome
+T18	Characteristic 1104 1124	7 months to 10 years
+T17	Diagnostic_tool 1070 1074	fVEP
+T19	Symptom 1126 1146	Saccadic dysfunction
+R2	Has_symptom Arg1:T37 Arg2:T33
+R3	Has_symptom Arg1:T37 Arg2:T35
+R4	Has_symptom Arg1:T37 Arg2:T36
+R5	Has_symptom Arg1:T37 Arg2:T34
+R6	Has_symptom Arg1:T31 Arg2:T29
+R1	Has_symptom Arg1:T2 Arg2:T3

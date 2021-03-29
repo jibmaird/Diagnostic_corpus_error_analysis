@@ -1,0 +1,36 @@
+T21	Symptom 1234 1273	cystoid spaces in the parafoveal region
+T20	Symptom 1171 1192	foveal cystoid spaces
+T23	Diagnostic_tool 1420 1426	3D OCT
+T22	Symptom 1275 1358	Cystoid spaces were seen often in the inner nuclear layer and outer plexiform layer
+T25	Characteristic 1648 1661	ELM in 9 eyes
+T24	Characteristic 1491 1608	external limiting membrane (ELM) in 18 eyes; of these, cystoid spaces were located on the inside of the ELM in 7 eyes
+T27	Characteristic 1678 1686	ELM line
+T26	Anatomy 1668 1672	eyes
+T29	Characteristic 1754 1795	Integrity of the ELM in the foveal region
+T28	Symptom 1725 1752	large foveal cystoid spaces
+T1	Disease 29 50	cystoid macular edema
+T2	Disease 54 76	retinal vein occlusion
+T3	Disease 121 142	cystoid macular edema
+T4	Disease 144 147	CME
+T5	Diagnostic_tool 165 242	retinal vein occlusion by three-dimensional (3D) optical coherence tomography
+T6	Diagnostic_tool 244 247	OCT
+T7	Characteristic 305 320	visual function
+T8	Disease 381 403	retinal vein occlusion
+T9	Diagnostic_tool 417 423	3D OCT
+T30	Characteristic 1826 1839	visual acuity
+T10	Diagnostic_tool 440 469	Fourier-domain OCT technology
+T32	Diagnostic_tool 1866 1872	3D OCT
+T31	Disease 1856 1859	CME
+T12	Diagnostic_tool 818 843	Three-dimensional imaging
+T34	Anatomy 1982 1985	ELM
+T11	Characteristic 626 652	50 nm, as the light source
+T33	Anatomy 1925 1938	retinal layer
+T14	Diagnostic_tool 1001 1007	3D OCT
+T36	Disease 2040 2043	CME
+T13	Disease 965 968	CME
+T35	Diagnostic_tool 1998 2004	3D OCT
+T16	Diagnostic_tool 1057 1063	3D OCT
+T15	Diagnostic_tool 1015 1051	Stratus OCT (Carl Zeiss, Dublin, CA)
+T18	Anatomy 1145 1149	eyes
+T17	Disease 1113 1116	CME
+T19	Diagnostic_tool 1151 1157	3D OCT

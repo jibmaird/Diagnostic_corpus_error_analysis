@@ -1,0 +1,46 @@
+T1	Anatomy 0 10	Optic disc
+T2	Diagnostic_tool 24 68	spectral-domain optical coherence tomography
+T3	Diagnostic_tool 107 135	Heidelberg retinal tomograph
+T4	Anatomy 167 177	optic disc
+T5	Diagnostic_tool 209 257	Cirrus high-density optical coherence tomography
+T6	Diagnostic_tool 259 265	HD-OCT
+T7	Diagnostic_tool 275 302	Heidelberg retina tomograph
+T8	Diagnostic_tool 304 307	HRT
+T9	Disease 454 462	glaucoma
+T10	Characteristic 470 485	normal subjects
+T11	Anatomy 492 495	eye
+T12	Anatomy 543 553	optic disc
+T13	Diagnostic_tool 569 582	Cirrus HD-OCT
+T14	Diagnostic_tool 591 594	HRT
+T15	Characteristic 596 631	Areas of the optic disc and the cup
+T16	Characteristic 633 643	cup volume
+T17	Characteristic 645 671	vertical cup-to-disc ratio
+T18	Characteristic 676 698	cup-to-disc area ratio
+T19	Diagnostic_tool 742 745	OCT
+T20	Characteristic 778 798	ocular magnification
+T21	Disease 973 981	glaucoma
+T22	Diagnostic_tool 1005 1023	optic disc imaging
+T23	Anatomy 1146 1156	optic disc
+T24	Characteristic 1157 1167	parameters
+T25	Characteristic 1248 1269	optic disc parameters
+T26	Diagnostic_tool 1275 1278	OCT
+T27	Characteristic 1288 1320	smaller optic disc and rim areas
+T28	Characteristic 1333 1343	cup volume
+T29	Characteristic 1345 1371	vertical cup-to-disc ratio
+T30	Characteristic 1376 1398	cup-to-disc area ratio
+T31	Diagnostic_tool 1408 1411	HRT
+T32	Diagnostic_tool 1503 1506	OCT
+T33	Characteristic 1511 1525	HRT optic disc
+T34	Characteristic 1550 1558	rim area
+T35	Characteristic 1563 1585	cup-to-disc area ratio
+T36	Anatomy 1725 1731	ocular
+T37	Diagnostic_tool 1752 1755	OCT
+T38	Diagnostic_tool 1760 1763	HRT
+T39	Characteristic 1867 1879	OCT rim area
+T40	Dimension 1881 1883	0.
+T41	Dimension 1887 1889	mm
+T42	Dimension 1890 1891	2
+T43	Diagnostic_tool 1986 1989	HRT
+T44	Anatomy 2105 2115	Optic disc
+T45	Diagnostic_tool 2130 2149	spectral-domain OCT
+T46	Diagnostic_tool 2154 2192	confocal scanning laser ophthalmoscopy

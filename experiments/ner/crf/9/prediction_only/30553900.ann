@@ -1,0 +1,17 @@
+T4	Disease 178 180	DR
+T5	Diagnostic_tool 320 341	retinal fundus images
+T6	Disease 352 360	diabetic
+T7	Disease 476 478	DR
+T8	Disease 524 544	Diabetic Retinopathy
+T9	Disease 690 692	DR
+T10	Disease 942 944	DR
+T12	Disease 1390 1392	DR
+T11	Disease 1330 1332	DR
+T14	Disease 1602 1621	grades plus heatmap
+T13	Disease 1450 1494	sensitivity moderate-or-worse DR: unassisted
+T16	Diagnostic_tool 2248 2272	Deep learning algorithms
+T15	Disease 1798 1817	grades plus heatmap
+T17	Disease 2321 2323	DR
+T1	Diagnostic_tool 8 31	Deep Learning Algorithm
+T2	Disease 91 111	Diabetic Retinopathy
+T3	Diagnostic_tool 142 176	deep learning diabetic retinopathy

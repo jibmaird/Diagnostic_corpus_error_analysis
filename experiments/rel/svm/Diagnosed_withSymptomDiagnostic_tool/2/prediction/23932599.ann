@@ -1,0 +1,58 @@
+T21	Diagnostic_tool 1070 1088	Fourier-domain OCT
+T20	Diagnostic_tool 1056 1059	OCT
+T23	Disease 1158 1165	Stage 1
+T22	Disease 1126 1137	keratoconus
+T25	Disease 1253 1260	Stage 2
+T24	Symptom 1179 1251	thinning of apparently normal epithelial and stromal layers at the conus
+T27	Disease 1379 1386	Stage 3
+T26	Symptom 1274 1377	hyperreflective anomalies occurring at the Bowman's layer level with epithelial thickening at the conus
+T29	Disease 1554 1561	Stage 4
+T28	Symptom 1400 1552	posterior displacement of the hyperreflective structures occurring at the Bowman's layer level with increased epithelial thickening and stromal thinning
+T30	Symptom 1575 1591	pan-stromal scar
+T32	Symptom 1614 1621	hydrops
+T31	Disease 1593 1600	Stage 5
+T34	Symptom 1640 1748	Descemet's membrane rupture and dilaceration of collagen lamellae with large fluid-filled intrastromal cysts
+T33	Disease 1623 1638	5a, acute onset
+T36	Symptom 1769 1844	pan-stromal scarring with a remaining aspect of Descemet's membrane rupture
+T35	Disease 1750 1767	5b, healing stage
+T38	Disease 1989 2000	keratoconus
+T37	Anatomy 1914 1921	corneal
+T39	Characteristic 2012 2025	visual acuity
+T41	Characteristic 2077 2095	corneal topography
+T40	Symptom 2027 2075	corneal epithelium and stromal thickness changes
+T43	Symptom 2140 2163	microstructural changes
+T42	Characteristic 2097 2134	biomechanical corneal characteristics
+T45	Diagnostic_tool 2222 2225	OCT
+T44	Diagnostic_tool 2176 2195	confocal microscopy
+T47	Symptom 2299 2317	structural changes
+T46	Diagnostic_tool 2235 2263	Optical coherence tomography
+T49	Anatomy 2343 2347	eyes
+T48	Disease 2331 2342	keratoconus
+T1	Diagnostic_tool 0 43	Fourier-domain optical coherence tomography
+T2	Disease 55 66	keratoconus
+T3	Anatomy 70 77	corneal
+T4	Symptom 115 142	corneal morphologic changes
+T5	Disease 154 165	keratoconic
+T6	Diagnostic_tool 207 235	optical coherence tomography
+T7	Diagnostic_tool 237 240	OCT
+T8	Disease 311 322	keratoconic
+T9	Anatomy 323 327	eyes
+T50	Disease 2524 2535	keratoconus
+T51	Disease 2587 2598	keratoconus
+T10	Anatomy 353 357	eyes
+T12	Anatomy 511 527	keratoconus cone
+T11	Diagnostic_tool 385 403	Fourier-domain OCT
+T14	Diagnostic_tool 673 676	OCT
+T13	Disease 556 567	keratoconus
+T16	Diagnostic_tool 851 854	OCT
+T15	Disease 819 830	keratoconus
+T18	Symptom 957 983	structural corneal changes
+T17	Symptom 911 937	structural corneal changes
+T19	Disease 997 1008	keratoconus
+R2	Diagnosed_with Arg1:T18 Arg2:T20
+R3	Diagnosed_with Arg1:T40 Arg2:T45
+R4	Diagnosed_with Arg1:T43 Arg2:T45
+R5	Diagnosed_with Arg1:T43 Arg2:T44
+R6	Diagnosed_with Arg1:T40 Arg2:T44
+R7	Diagnosed_with Arg1:T4 Arg2:T7
+R1	Diagnosed_with Arg1:T4 Arg2:T6

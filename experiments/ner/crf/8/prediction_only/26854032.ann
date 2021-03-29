@@ -1,0 +1,16 @@
+T4	Characteristic 183 186	IOP
+T5	Diagnostic_tool 224 260	contact lens sensor (CLS) correlates
+T6	Symptom 276 329	visual field progression in treated glaucomatous eyes
+T7	Diagnostic_tool 423 441	visual field tests
+T8	Characteristic 521 576	Rates of visual field mean deviation (MD) change before
+T9	Disease 596 599	CLS
+T10	Characteristic 614 628	CLS parameters
+T12	Characteristic 1173 1187	CLS parameters
+T11	Characteristic 660 739	mean peak ratio, wake-to-sleep slope, amplitude and area under the cosine curve
+T14	Symptom 1390 1480	CLS were associated with the rate of visual field progression in treated glaucomatous eyes
+T13	Characteristic 1246 1290	IOP parameters (mean, peak, and fluctuation)
+T16	Disease 1548 1556	glaucoma
+T15	Anatomy 1525 1529	eyes
+T1	Diagnostic_tool 0 51	Visual Field Change and 24-Hour IOP-Related Profile
+T2	Disease 90 98	Glaucoma
+T3	Characteristic 161 181	intraocular pressure

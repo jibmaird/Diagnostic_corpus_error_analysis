@@ -1,0 +1,15 @@
+T4	Diagnostic_tool 220 261	Annual Diabetic Eye Exams Survey (CADEES)
+T5	Disease 329 349	diabetic retinopathy
+T6	Anatomy 361 364	eye
+T7	Disease 440 448	diabetes
+T8	Anatomy 731 734	eye
+T9	Anatomy 1068 1071	eye
+T10	Anatomy 1226 1229	eye
+T12	Diagnostic_tool 1617 1683	eye examination (P  <  0.01), whether obtaining an eye examination
+T11	Anatomy 1510 1513	eye
+T14	Characteristic 1792 1896	Lower hemoglobin A1c levels (P  <  0.01), having insurance (P = 0.01), and a longer duration of diabetes
+T13	Disease 1727 1747	diabetic eye disease
+T15	Anatomy 2467 2470	eye
+T1	Disease 24 36	diabetic eye
+T2	Diagnostic_tool 81 117	withAnnual Diabetic Eye Exams Survey
+T3	Anatomy 177 180	eye

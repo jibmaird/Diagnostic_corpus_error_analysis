@@ -1,0 +1,36 @@
+T21	Disease 1300 1303	AMD
+T20	Disease 1236 1244	late AMD
+T23	Characteristic 1425 1550	18 (12.0%) of left eyes using the blue channel of the color photograph and in 58 (38.4%) of right and 54 (35.8%) of left eyes
+T22	Characteristic 1312 1334	mean age of 80.3 years
+T25	Symptom 1565 1610	Soft drusen and subretinal drusenoid deposits
+T24	Diagnostic_tool 1557 1563	SD-OCT
+T27	Disease 1677 1685	late AMD
+T26	Diagnostic_tool 1623 1629	SD-OCT
+T29	Symptom 1832 1861	subretinal drusenoid deposits
+T28	Diagnostic_tool 1774 1777	OCT
+T1	Symptom 34 124	subretinal drusenoid deposits (reticular pseudodrusen) in age-related macular degeneration
+T2	Symptom 183 236	subretinal drusenoid deposits (reticular pseudodrusen
+T3	Disease 258 290	age-related macular degeneration
+T4	Disease 292 295	AMD
+T5	Disease 389 392	AMD
+T6	Disease 474 477	AMD
+T7	Anatomy 503 506	eye
+T8	Disease 512 520	late AMD
+T9	Symptom 550 608	central geographic atrophy or choroidal neovascularization
+T30	Anatomy 1919 1923	eyes
+T10	Disease 671 674	AMD
+T32	Symptom 1957 2008	soft drusen and subretinal drusenoid deposits occur
+T31	Diagnostic_tool 1930 1936	SD-OCT
+T12	Symptom 836 865	subretinal drusenoid deposits
+T34	Disease 2073 2081	late AMD
+T11	Symptom 703 808	central serous chorioretinopathy, high myopia, retinal detachment, or laser treatment in the macular area
+T33	Disease 2026 2029	AMD
+T14	Diagnostic_tool 999 1005	SD-OCT
+T36	Diagnostic_tool 2233 2239	SD-OCT
+T13	Diagnostic_tool 921 997	color fundus photograph and the spectral domain optical coherence tomography
+T35	Symptom 2143 2149	drusen
+T16	Diagnostic_tool 1050 1074	color fundus photographs
+T15	Symptom 1017 1028	Soft drusen
+T18	Characteristic 1101 1199	Main outcome measures: Prevalence of ocular risk factors and subretinal drusenoid deposits in eyes
+T17	Diagnostic_tool 1092 1098	SD-OCT
+T19	Disease 1205 1208	AMD

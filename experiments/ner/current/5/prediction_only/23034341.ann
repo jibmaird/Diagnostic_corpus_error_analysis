@@ -1,0 +1,21 @@
+T1	Symptom 55 82	meibomian gland dysfunction
+T2	Disease 85 108	Ocular surface disorder
+T3	Disease 114 121	dry eye
+T4	Anatomy 172 175	eye
+T5	Symptom 232 259	meibomian gland dysfunction
+T6	Disease 261 264	MGD
+T7	Disease 288 307	evaporative dry eye
+T8	Disease 342 367	aqueous-deficient dry eye
+T9	Disease 453 456	MGD
+T10	Disease 601 608	dry eye
+T11	Disease 613 616	MGD
+T12	Disease 634 650	ocular disorders
+T13	Disease 793 796	MGD
+T14	Disease 828 852	ocular surface disorders
+T15	Disease 886 889	MGD
+T16	Anatomy 897 911	ocular surface
+T17	Disease 957 960	CME
+T18	Diagnostic_tool 1003 1012	Tear Film
+T19	Anatomy 1017 1031	Ocular Surface
+T20	Disease 1068 1071	MGD
+T21	Disease 1154 1157	MGD

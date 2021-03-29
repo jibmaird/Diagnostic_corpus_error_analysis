@@ -1,0 +1,15 @@
+T4	Anatomy 520 523	eye
+T5	Diagnostic_tool 894 945	Ophthalmic examination and visual electrophysiology
+T6	Symptom 947 1075	Ocular and oculomotor examination (as allowed by patient cooperation), electroretinography, flash visual-evoked potential (fVEP)
+T7	Symptom 1321 1364	primary-position nystagmus (see-saw in 3/5)
+T8	Symptom 1366 1424	Abnormal pursuit (3/7) and a dystrophic retinal appearance
+T9	Symptom 1463 1549	bilateral asymmetric ptosis with unilateral lid elevation during ipsilateral abduction
+T10	Diagnostic_tool 1551 1570	Electroretinography
+T12	Disease 1822 1848	primary position nystagmus
+T11	Symptom 1650 1679	abnormal (asymmetric) and one
+T14	Symptom 2026 2114	asymmetric fVEPs and see-saw nystagmus suggest an abnormality in optic nerve decussation
+T13	Disease 1929 1945	Joubert syndrome
+T15	Disease 2198 2214	Joubert syndrome
+T1	Disease 23 39	Joubert syndrome
+T2	Symptom 114 196	autosomal recessive congenital malformation of the brainstem and cerebellar vermis
+T3	Symptom 260 422	hypotonia, episodic hyperpnea, developmental delay, progressive ataxia) and is confirmed by distinctive neuroradiologic findings (e.g., the  " molar tooth "  sign

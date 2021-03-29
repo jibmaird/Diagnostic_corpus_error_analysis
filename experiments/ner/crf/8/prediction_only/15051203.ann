@@ -1,0 +1,22 @@
+T4	Disease 164 167	DME
+T5	Diagnostic_tool 172 316	stereoscopic slit-lamp biomicroscopic examination of the fundus with a 78-diopter noncontact lens with diagnosis by optical coherence tomography
+T6	Diagnostic_tool 318 321	OCT
+T7	Diagnostic_tool 448 451	OCT
+T8	Disease 480 483	DME
+T9	Symptom 539 557	macular thickening
+T10	Disease 686 689	DME
+T21	Diagnostic_tool 1448 1451	OCT
+T20	Disease 1344 1347	DME
+T12	Anatomy 803 814	foveal zone
+T11	Diagnostic_tool 717 720	OCT
+T22	Disease 1499 1502	DME
+T14	Diagnostic_tool 985 988	OCT
+T13	Disease 977 980	DME
+T16	Diagnostic_tool 1135 1138	OCT
+T15	Diagnostic_tool 1050 1053	OCT
+T18	Characteristic 1211 1287	stereoscopic slit-lamp examination of the fundus, is less sensitive than OCT
+T17	Disease 1196 1199	DME
+T1	Disease 40 62	diabetic macular edema
+T19	Disease 1305 1308	DME
+T2	Diagnostic_tool 81 109	optical coherence tomography
+T3	Disease 140 162	diabetic macular edema

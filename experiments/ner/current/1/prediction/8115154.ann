@@ -1,0 +1,36 @@
+T1	Diagnostic_tool 0 24	Ultrasound biomicroscopy
+T2	Disease 28 55	pigment dispersion syndrome
+T3	Anatomy 101 105	iris
+T4	Anatomy 107 111	lens
+T5	Anatomy 113 130	ciliary processes
+T6	Anatomy 136 143	zonules
+T7	Anatomy 147 151	eyes
+T8	Disease 161 188	pigment dispersion syndrome
+T9	Disease 190 193	PDS
+T10	Diagnostic_tool 196 254	High-resolution, anterior segment ultrasound biomicroscopy
+T11	Anatomy 285 289	eyes
+T12	Disease 310 313	PDS
+T13	Anatomy 345 349	eyes
+T14	Anatomy 382 386	eyes
+T15	Symptom 410 439	Mid-peripheral iris concavity
+T16	Symptom 470 491	irido-zonular contact
+T17	Symptom 504 533	irido-ciliary process contact
+T18	Anatomy 554 558	eyes
+T19	Disease 564 567	PDS
+T20	Anatomy 655 659	iris
+T21	Symptom 660 669	concavity
+T22	Symptom 674 695	irido-zonular contact
+T23	Anatomy 703 707	eyes
+T24	Symptom 735 764	Irido-ciliary process contact
+T25	Anatomy 783 787	eyes
+T26	Anatomy 858 862	iris
+T27	Anatomy 864 868	lens
+T28	Anatomy 870 877	zonules
+T29	Anatomy 883 900	ciliary processes
+T30	Disease 931 934	PDS
+T31	Anatomy 985 989	iris
+T32	Symptom 990 999	concavity
+T33	Symptom 1064 1087	reverse pupillary block
+T34	Symptom 1089 1118	Irido-ciliary process contact
+T35	Symptom 1152 1162	release of
+T36	Symptom 1163 1170	pigment

@@ -1,0 +1,28 @@
+T21	Characteristic 1111 1150	despite nerve fiber layer thinning seen
+T20	Characteristic 1086 1099	visual fields
+T23	Diagnostic_tool 1162 1182	red-free photography
+T22	Diagnostic_tool 1154 1157	OCT
+T25	Anatomy 1320 1336	optic nerve head
+T24	Symptom 1197 1288	significant nerve fiber layer thinning in patients with both glaucoma and optic disk drusen
+T27	Characteristic 1524 1551	nerve fiber layer thickness
+T26	Diagnostic_tool 1463 1466	OCT
+T28	Characteristic 1602 1646	detecting nerve fiber layer thinning earlier
+T1	Symptom 0 48	Evaluation of coexisting optic nerve head drusen
+T2	Disease 53 61	glaucoma
+T3	Diagnostic_tool 67 95	optical coherence tomography
+T4	Symptom 98 184	Optic nerve head drusen often make evaluation of the nerve head difficult to interpret
+T5	Symptom 199 219	visual field defects
+T6	Symptom 256 305	optic disk drusen, resembling glaucomatous damage
+T7	Symptom 339 373	coincident optic nerve head drusen
+T8	Disease 378 386	glaucoma
+T9	Characteristic 408 493	optical coherence tomography (OCT) in evaluating the nerve fiber layer was beneficial
+T10	Symptom 518 592	optic nerve head drusen and glaucoma, one with primary open angle glaucoma
+T12	Symptom 670 698	asymmetric optic disk drusen
+T11	Disease 609 635	pseudoexfoliation glaucoma
+T14	Diagnostic_tool 748 847	Ophthalmologic examination, color and red-free photography, automated Humphrey visual field testing
+T13	Anatomy 743 746	eye
+T16	Symptom 872 894	Nerve fiber layer loss
+T15	Diagnostic_tool 852 855	OCT
+T18	Anatomy 977 993	optic nerve head
+T17	Diagnostic_tool 910 913	OCT
+T19	Diagnostic_tool 998 1038	red-free photography, with visual fields

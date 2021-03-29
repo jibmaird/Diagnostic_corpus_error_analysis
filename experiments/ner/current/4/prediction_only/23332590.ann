@@ -1,0 +1,36 @@
+T1	Disease 27 59	age-related macular degeneration
+T2	Disease 110 142	age-related macular degeneration
+T3	Disease 144 147	AMD
+T4	Disease 224 227	AMD
+T5	Disease 392 395	AMD
+T6	Symptom 840 851	AMD lesions
+T7	Symptom 1012 1026	fundus lesions
+T8	Characteristic 1043 1072	2 disc diameters of the fovea
+T9	Characteristic 1084 1103	older than 55 years
+T10	Disease 1146 1178	age-related macular degeneration
+T11	Symptom 1228 1242	visible drusen
+T12	Symptom 1246 1270	pigmentary abnormalities
+T13	Disease 1312 1315	AMD
+T14	Symptom 1330 1342	small drusen
+T15	Dimension 1345 1352	< 63 μm
+T16	Symptom 1367 1376	drupelets
+T17	Symptom 1407 1413	normal
+T18	Characteristic 1414 1427	aging changes
+T19	Disease 1474 1482	late AMD
+T20	Symptom 1508 1521	medium drusen
+T21	Dimension 1523 1537	≥ 63- < 125 μm
+T22	Symptom 1552 1576	pigmentary abnormalities
+T23	Disease 1602 1605	AMD
+T24	Disease 1636 1645	early AMD
+T25	Symptom 1660 1672	large drusen
+T26	Symptom 1681 1705	pigmentary abnormalities
+T27	Symptom 1731 1744	medium drusen
+T28	Disease 1774 1790	intermediate AMD
+T29	Disease 1829 1844	neovascular AMD
+T30	Symptom 1848 1866	geographic atrophy
+T31	Disease 1896 1904	late AMD
+T32	Disease 1940 1948	late AMD
+T33	Symptom 2035 2055	normal aging changes
+T34	Disease 2086 2102	intermediate AMD
+T35	Disease 2211 2219	late AMD
+T36	Anatomy 2293 2296	eye

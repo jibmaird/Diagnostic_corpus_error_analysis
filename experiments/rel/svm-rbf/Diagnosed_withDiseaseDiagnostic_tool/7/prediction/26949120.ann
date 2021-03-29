@@ -1,0 +1,71 @@
+T21	Disease 1075 1078	DME
+T20	Disease 1051 1073	diabetic macular edema
+T23	Disease 1124 1127	DME
+T22	Disease 1117 1119	DR
+T25	Diagnostic_tool 1183 1187	NMFP
+T24	Diagnostic_tool 1157 1168	UWF imaging
+T27	Disease 1224 1227	DME
+T26	Disease 1189 1191	DR
+T29	Disease 1296 1298	DR
+T28	Anatomy 1279 1283	eyes
+T30	Disease 1302 1314	referable DR
+T32	Disease 1348 1351	DME
+T31	Disease 1316 1344	moderate nonproliferative DR
+T34	Anatomy 1485 1489	eyes
+T33	Diagnostic_tool 1382 1393	UWF imaging
+T36	Diagnostic_tool 1510 1521	UWF imaging
+T35	Disease 1495 1497	DR
+T38	Symptom 1586 1604	peripheral lesions
+T37	Anatomy 1532 1536	eyes
+T39	Disease 1638 1640	DR
+T41	Disease 1708 1710	DR
+T40	Anatomy 1652 1656	eyes
+T43	Diagnostic_tool 1761 1785	nonmydriatic UWF imaging
+T42	Diagnostic_tool 1755 1759	NMFP
+T45	Disease 1864 1866	DR
+T44	Anatomy 1819 1823	eyes
+T47	Disease 1939 1941	DR
+T46	Symptom 1897 1915	peripheral lesions
+T49	Disease 2042 2044	DR
+T48	Diagnostic_tool 2017 2031	imaging method
+T1	Disease 18 38	Diabetic Retinopathy
+T2	Diagnostic_tool 70 93	Ultrawide Field Imaging
+T3	Disease 147 167	diabetic retinopathy
+T4	Disease 169 171	DR
+T5	Diagnostic_tool 223 265	nonmydriatic ultrawide field (UWF) imaging
+T6	Diagnostic_tool 270 312	nonmydriatic multifield fundus photography
+T7	Diagnostic_tool 314 318	NMFP
+T8	Disease 359 361	DR
+T9	Anatomy 535 539	eyes
+T10	Diagnostic_tool 571 575	NMFP
+T12	Diagnostic_tool 621 632	UWF imaging
+T11	Anatomy 587 591	eyes
+T14	Diagnostic_tool 706 710	NMFP
+T13	Diagnostic_tool 658 693	Joslin Vision Network (JVN) imaging
+T16	Characteristic 828 843	American Indian
+T15	Diagnostic_tool 714 725	UWF imaging
+T18	Diagnostic_tool 924 938	retinal images
+T17	Characteristic 848 861	Alaska Native
+T19	Disease 1044 1046	DR
+R2	Diagnosed_with Arg1:T4 Arg2:T5
+R3	Diagnosed_with Arg1:T8 Arg2:T6
+R4	Diagnosed_with Arg1:T22 Arg2:T24
+R5	Diagnosed_with Arg1:T23 Arg2:T24
+R6	Diagnosed_with Arg1:T26 Arg2:T24
+R7	Diagnosed_with Arg1:T30 Arg2:T33
+R8	Diagnosed_with Arg1:T32 Arg2:T33
+R9	Diagnosed_with Arg1:T41 Arg2:T42
+R10	Diagnosed_with Arg1:T45 Arg2:T42
+R21	Diagnosed_with Arg1:T8 Arg2:T5
+R20	Diagnosed_with Arg1:T8 Arg2:T7
+R12	Diagnosed_with Arg1:T49 Arg2:T48
+R11	Diagnosed_with Arg1:T47 Arg2:T48
+R22	Diagnosed_with Arg1:T3 Arg2:T5
+R14	Diagnosed_with Arg1:T41 Arg2:T43
+R13	Diagnosed_with Arg1:T45 Arg2:T43
+R16	Diagnosed_with Arg1:T31 Arg2:T33
+R15	Diagnosed_with Arg1:T35 Arg2:T36
+R18	Diagnosed_with Arg1:T23 Arg2:T25
+R17	Diagnosed_with Arg1:T26 Arg2:T25
+R19	Diagnosed_with Arg1:T22 Arg2:T25
+R1	Diagnosed_with Arg1:T1 Arg2:T2

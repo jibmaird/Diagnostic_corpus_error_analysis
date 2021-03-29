@@ -1,0 +1,68 @@
+T1	Characteristic 10 27	retinal thickness
+T2	Diagnostic_tool 47 83	automated fast macular thickness map
+T3	Characteristic 161 178	retinal thickness
+T4	Diagnostic_tool 203 230	fast macular thickness maps
+T5	Diagnostic_tool 232 236	FMTM
+T6	Characteristic 293 300	retinal
+T7	Diagnostic_tool 317 353	Stratus optical coherence tomography
+T8	Diagnostic_tool 355 358	OCT
+T9	Symptom 448 486	subfoveal choroidal neovascularization
+T10	Symptom 488 491	CNV
+T11	Disease 503 535	age-related macular degeneration
+T12	Disease 537 540	AMD
+T13	Disease 543 565	diabetic macular edema
+T14	Disease 567 570	DME
+T15	Disease 576 613	branch/central retinal vein occlusion
+T16	Disease 615 618	RVO
+T17	Diagnostic_tool 666 670	FMTM
+T18	Diagnostic_tool 702 713	Stratus OCT
+T19	Anatomy 773 780	retinal
+T20	Anatomy 809 816	retinal
+T21	Characteristic 873 898	central retinal thickness
+T22	Symptom 983 1004	epiretinal phenomenon
+T23	Symptom 1006 1020	cystoid spaces
+T24	Symptom 1022 1051	pigment epithelial detachment
+T25	Symptom 1057 1073	subretinal fluid
+T26	Anatomy 1100 1107	retinal
+T27	Anatomy 1140 1145	fovea
+T28	Characteristic 1153 1156	CRB
+T29	Characteristic 1257 1282	central retinal thickness
+T30	Anatomy 1299 1303	eyes
+T31	Anatomy 1324 1328	eyes
+T32	Disease 1334 1347	exudative AMD
+T33	Anatomy 1352 1356	eyes
+T34	Disease 1362 1365	DME
+T35	Anatomy 1374 1378	eyes
+T36	Symptom 1384 1391	macular
+T37	Disease 1392 1397	edema
+T38	Disease 1408 1411	RVO
+T39	Disease 1432 1439	wet AMD
+T40	Symptom 1461 1464	CRB
+T41	Anatomy 1472 1477	fovea
+T42	Anatomy 1482 1499	outside the fovea
+T43	Anatomy 1550 1554	FMTM
+T44	Disease 1605 1608	RLS
+T45	Disease 1636 1639	DME
+T46	Disease 1644 1647	RVO
+T47	Symptom 1669 1672	CRB
+T48	Anatomy 1680 1685	fovea
+T49	Anatomy 1690 1707	outside the fovea
+T50	Anatomy 1758 1762	FMTM
+T51	Anatomy 1813 1816	RLS
+T52	Characteristic 1883 1914	foveal center point thicknesses
+T53	Diagnostic_tool 1918 1922	FMTM
+T54	Diagnostic_tool 1927 1930	RLS
+T55	Characteristic 1982 2007	central retinal thickness
+T56	Disease 2012 2015	AMD
+T57	Disease 2052 2055	DME
+T58	Disease 2060 2063	RVO
+T59	Disease 2094 2107	exudative AMD
+T60	Diagnostic_tool 2113 2125	RLS protocol
+T61	Diagnostic_tool 2170 2183	FMTM protocol
+T62	Characteristic 2193 2227	automated retinal thickness values
+T63	Anatomy 2235 2254	foveal center point
+T64	Anatomy 2256 2272	central subfield
+T65	Characteristic 2296 2332	manual retinal thickness measurement
+T66	Diagnostic_tool 2338 2342	FMTM
+T67	Disease 2347 2350	DME
+T68	Disease 2355 2358	RVO

@@ -1,0 +1,32 @@
+T1	Characteristic 0 15	Quality of life
+T2	Disease 35 43	glaucoma
+T3	Disease 81 89	Glaucoma
+T4	Disease 134 142	Glaucoma
+T5	Disease 231 250	open-angle glaucoma
+T6	Characteristic 349 364	quality-of-life
+T7	Characteristic 366 369	QOL
+T8	Characteristic 443 446	QOL
+T9	Characteristic 871 874	QOL
+T10	Characteristic 1011 1014	QOL
+T11	Characteristic 1020 1023	QOL
+T12	Classification_system 1130 1161	Visual Activities Questionnaire
+T13	Characteristic 1163 1186	Sickness Impact Profile
+T14	Classification_system 1194 1230	Symptom and Health Problem CHECKLIST
+T15	Characteristic 1257 1260	QOL
+T16	Symptom 1367 1396	difficulty with bright lights
+T17	Symptom 1401 1431	with light and dark adaptation
+T18	Characteristic 1486 1501	visual function
+T19	Symptom 1511 1528	visual distortion
+T20	Symptom 1654 1663	blindness
+T21	Classification_system 1676 1707	Visual Activities Questionnaire
+T22	Classification_system 1730 1756	Peripheral Vision subscale
+T23	Symptom 1778 1793	more field loss
+T24	Characteristic 1847 1864	sociodemographics
+T25	Characteristic 1869 1892	nonocular comorbidities
+T26	Symptom 1894 1921	increased visual field loss
+T27	Symptom 1956 1962	higher
+T28	Symptom 1963 1974	dysfunction
+T29	Disease 2046 2054	glaucoma
+T30	Symptom 2091 2115	visual function symptoms
+T31	Symptom 2291 2300	blindness
+T32	Disease 2456 2475	open-angle glaucoma

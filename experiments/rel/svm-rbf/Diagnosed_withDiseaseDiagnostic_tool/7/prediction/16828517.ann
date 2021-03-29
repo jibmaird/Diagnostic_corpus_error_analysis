@@ -1,0 +1,48 @@
+T41	Anatomy 1642 1646	eyes
+T40	Characteristic 1622 1627	CRVEs
+T21	Characteristic 740 756	venular calibers
+T43	Disease 1743 1758	type 2 diabetes
+T20	Characteristic 717 735	Retinal arteriolar
+T42	Anatomy 1698 1702	eyes
+T23	Characteristic 878 882	CRAE
+T45	Symptom 1919 1949	early retinal vascular changes
+T22	Symptom 800 827	panretinal photocoagulation
+T44	Characteristic 1774 1798	retinal vascular caliber
+T25	Characteristic 957 985	mean arterial blood pressure
+T24	Characteristic 917 920	age
+T46	Disease 1953 1961	diabetes
+T27	Characteristic 1026 1040	smoking status
+T26	Characteristic 987 989	BP
+T29	Characteristic 1114 1117	IOP
+T28	Characteristic 1092 1112	intraocular pressure
+T1	Characteristic 0 24	Retinal vascular caliber
+T2	Disease 41 56	type 2 diabetes
+T3	Characteristic 62 71	Wisconsin
+T4	Disease 97 117	Diabetic Retinopathy
+T5	Characteristic 136 160	retinal vascular caliber
+T6	Disease 191 206	type 2 diabetes
+T7	Disease 283 291	diabetes
+T8	Characteristic 292 319	at or after 30 years of age
+T9	Characteristic 344 367	south central Wisconsin
+T30	Characteristic 1156 1160	CRVE
+T10	Diagnostic_tool 387 406	Retinal photographs
+T32	Characteristic 1235 1251	mean arterial BP
+T31	Characteristic 1195 1198	age
+T12	Disease 480 491	retinopathy
+T34	Characteristic 1350 1367	pack-years smoked
+T11	Diagnostic_tool 440 457	light box grading
+T33	Characteristic 1287 1301	smoking status
+T14	Characteristic 588 625	central retinal arteriolar equivalent
+T36	Characteristic 1452 1462	pulse rate
+T13	Diagnostic_tool 544 559	digitized image
+T35	Characteristic 1408 1423	body mass index
+T16	Characteristic 633 651	arteriolar caliber
+T38	Characteristic 1565 1568	IOP
+T15	Characteristic 627 631	CRAE
+T37	Characteristic 1505 1525	retinopathy severity
+T18	Characteristic 693 697	CRVE
+T17	Characteristic 657 691	central retinal venular equivalent
+T39	Characteristic 1604 1617	Smaller CRAEs
+T19	Characteristic 699 714	venular caliber
+R2	Diagnosed_with Arg1:T12 Arg2:T11
+R1	Diagnosed_with Arg1:T12 Arg2:T10

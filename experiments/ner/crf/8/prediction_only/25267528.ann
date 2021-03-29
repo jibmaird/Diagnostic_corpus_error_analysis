@@ -1,0 +1,25 @@
+T21	Symptom 1666 1752	chorioretinal atrophy, as well as coarse hyperpigmented deposits in the posterior pole
+T20	Disease 1579 1591	stage 3 DCMD
+T23	Symptom 1928 2108	progressive retinal dystrophy, characterized primarily by early-onset cystoid fluid collections in the neuroretina, which distinguishes this disorder from other retinal dystrophies
+T22	Disease 1888 1922	Dominant cystoid macular dystrophy
+T25	Diagnostic_tool 2199 2216	retinal dystrophy
+T24	Disease 2134 2138	DCMD
+T1	Disease 0 34	Dominant cystoid macular dystrophy
+T2	Symptom 119 170	autosomal dominant cystoid macular dystrophy (DCMD)
+T3	Disease 226 230	DCMD
+T4	Diagnostic_tool 242 314	ophthalmic examination, including visual acuity (VA), fundus photography
+T5	Diagnostic_tool 316 413	fluorescein angiography (FA), fundus autofluorescence (FAF) imaging, optical coherence tomography
+T6	Diagnostic_tool 415 534	OCT), color vision testing, dark adaptation testing, full-field electroretinography (ERG), and electro-oculography (EOG
+T7	Characteristic 619 705	Age at onset, VA, fundus appearance, and characteristics on FA, FAF, OCT, ERG, and EOG
+T8	Symptom 707 795	Cystoid fluid collections (CFCs) were the first retinal abnormalities detectable in DCMD
+T9	Characteristic 854 888	CFCs decreased in size and number,
+T10	Symptom 947 1030	progressive chorioretinal atrophy and hyperpigmented deposits in the posterior pole
+T12	Diagnostic_tool 1130 1144	ophthalmoscopy
+T11	Disease 1032 1066	Dominant cystoid macular dystrophy
+T14	Symptom 1253 1263	age and VA
+T13	Characteristic 1146 1162	FAF, FA, and OCT
+T16	Characteristic 1325 1346	younger than 20 years
+T15	Disease 1268 1280	stage 1 DCMD
+T18	Disease 1441 1453	stage 2 DCMD
+T17	Symptom 1355 1436	CFCs with fine folding of the internal limiting membrane and mild pigment changes
+T19	Characteristic 1478 1553	CFCs tended to decrease in size, and moderate macular chorioretinal atrophy

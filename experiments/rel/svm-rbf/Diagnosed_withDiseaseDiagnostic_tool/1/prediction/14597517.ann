@@ -1,0 +1,42 @@
+T21	Diagnostic_tool 1043 1066	indirect ophthalmoscopy
+T20	Anatomy 1035 1039	eyes
+T23	Disease 1188 1210	referral-warranted ROP
+T22	Diagnostic_tool 1104 1123	Digital photography
+T25	Anatomy 1328 1332	eyes
+T24	Diagnostic_tool 1245 1264	digital photography
+T27	Diagnostic_tool 1374 1393	digital photography
+T26	Disease 1334 1356	referral-warranted ROP
+T29	Diagnostic_tool 1480 1499	digital photographs
+T28	Diagnostic_tool 1424 1447	indirect ophthalmoscopy
+T1	Disease 39 72	severe retinopathy of prematurity
+T2	Diagnostic_tool 131 158	digital retinal photographs
+T3	Disease 179 233	severe (referral-warranted) retinopathy of prematurity
+T4	Disease 235 238	ROP
+T5	Disease 274 277	ROP
+T6	Characteristic 342 359	premature infants
+T7	Disease 372 375	ROP
+T8	Characteristic 381 388	infants
+T9	Diagnostic_tool 453 476	indirect ophthalmoscopy
+T30	Diagnostic_tool 1510 1520	RetCam-120
+T10	Diagnostic_tool 497 516	digital photography
+T32	Diagnostic_tool 1657 1676	digital photographs
+T31	Disease 1583 1605	referral-warranted ROP
+T12	Disease 693 715	Referral-warranted ROP
+T11	Diagnostic_tool 527 634	RetCam-120 Digital Retinal Camera (Massie Research Laboratories Inc., Dublin, CA) equipped with an ROP lens
+T33	Disease 1720 1723	ROP
+T14	Disease 798 809	stage 3 ROP
+T13	Disease 731 734	ROP
+T16	Anatomy 888 891	eye
+T15	Disease 842 864	referral-warranted ROP
+T18	Characteristic 963 971	infant's
+T17	Characteristic 901 907	infant
+T19	Disease 983 1014	Severe (referral-warranted) ROP
+R2	Diagnosed_with Arg1:T19 Arg2:T21
+R3	Diagnosed_with Arg1:T26 Arg2:T27
+R4	Diagnosed_with Arg1:T31 Arg2:T29
+R5	Diagnosed_with Arg1:T33 Arg2:T32
+R6	Diagnosed_with Arg1:T31 Arg2:T30
+R7	Diagnosed_with Arg1:T26 Arg2:T28
+R8	Diagnosed_with Arg1:T23 Arg2:T22
+R9	Diagnosed_with Arg1:T4 Arg2:T2
+R1	Diagnosed_with Arg1:T3 Arg2:T2

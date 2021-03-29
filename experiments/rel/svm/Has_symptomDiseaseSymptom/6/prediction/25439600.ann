@@ -1,0 +1,50 @@
+T21	Characteristic 852 860	children
+T20	Characteristic 817 846	18 to 24 months corrected age
+T23	Classification_system 962 1009	Bayley cognitive, language, and motor subscales
+T22	Classification_system 884 946	Bayley Scales of Infant and Toddler Development, Third Edition
+T25	Diagnostic_tool 1034 1048	SD OCT imaging
+T24	Characteristic 1020 1028	children
+T27	Characteristic 1106 1114	children
+T26	Classification_system 1077 1090	Bayley Scales
+T29	Characteristic 1139 1146	infants
+T28	Disease 1132 1135	CME
+T30	Characteristic 1174 1182	children
+T32	Classification_system 1283 1301	cognitive subscale
+T31	Disease 1191 1194	CME
+T34	Classification_system 1443 1457	motor subscale
+T33	Classification_system 1362 1379	language subscale
+T36	Characteristic 1527 1539	birth weight
+T35	Characteristic 1507 1522	gestational age
+T38	Characteristic 1573 1609	foveal-to-parafoveal thickness ratio
+T37	Disease 1553 1556	CME
+T39	Disease 1622 1625	CME
+T41	Disease 1724 1745	Cystoid macular edema
+T40	Characteristic 1648 1722	poorer cognitive (R2=0.16, P=0.03) and motor (R2=0.15, P=0.03) development
+T43	Characteristic 1773 1788	preterm infants
+T42	Diagnostic_tool 1758 1764	SD OCT
+T45	Characteristic 1825 1890	poorer language and motor skills at 18 to 24 months corrected age
+T44	Disease 1802 1805	ROP
+T47	Diagnostic_tool 1922 1928	SD-OCT
+T46	Anatomy 1910 1916	retina
+T49	Characteristic 1988 2008	very preterm infants
+T48	Characteristic 1958 1983	neurodevelopmental health
+T1	Symptom 0 34	Poorer neurodevelopmental outcomes
+T2	Disease 51 72	cystoid macular edema
+T3	Characteristic 87 102	preterm infants
+T4	Disease 171 192	cystoid macular edema
+T5	Disease 194 197	CME
+T6	Characteristic 211 231	very preterm infants
+T7	Characteristic 262 291	18 to 24 months corrected age
+T8	Characteristic 307 388	Infants born at or less than 1500 g or at or less than 30 weeks postmenstrual age
+T9	Disease 417 443	retinopathy of prematurity
+T10	Disease 445 448	ROP
+T12	Diagnostic_tool 543 549	SD OCT
+T11	Diagnostic_tool 497 541	spectral-domain optical coherence tomography
+T14	Disease 673 676	ROP
+T13	Characteristic 629 644	preterm infants
+T16	Characteristic 709 733	central foveal thickness
+T15	Disease 704 707	CME
+T18	Characteristic 741 770	inner nuclear layer thickness
+T17	Characteristic 735 738	CFT
+T19	Characteristic 776 812	foveal-to-parafoveal thickness ratio
+R1	Has_symptom Arg1:T2 Arg2:T1

@@ -1,0 +1,42 @@
+T1	Disease 0 14	Coats' disease
+T2	Characteristic 28 37	adulthood
+T3	Disease 97 111	Coats' disease
+T4	Characteristic 125 134	adulthood
+T5	Anatomy 249 253	eyes
+T6	Disease 274 288	Coats' disease
+T7	Characteristic 299 317	after age 35 years
+T8	Disease 380 394	Coats' disease
+T9	Characteristic 405 410	after
+T10	Characteristic 415 430	age of 35 years
+T11	Symptom 495 519	intraocular inflammation
+T12	Disease 521 547	retinal vascular occlusion
+T13	Characteristic 552 567	Coats' response
+T14	Diagnostic_tool 627 651	fluorescein angiographic
+T15	Characteristic 723 756	mean age at diagnosis of 50 years
+T16	Disease 872 886	Coats' disease
+T17	Characteristic 953 970	male predominance
+T18	Symptom 980 1003	vascular telangiectasis
+T19	Symptom 1005 1020	lipid exudation
+T20	Symptom 1022 1035	macular edema
+T21	Symptom 1041 1046	areas
+T22	Symptom 1050 1119	capillary nonperfusion with adjacent webs of filigreelike capillaries
+T23	Anatomy 1226 1269	retinal vasculature anterior to the equator
+T24	Symptom 1341 1361	localized hemorrhage
+T25	Symptom 1421 1450	larger aneurysmal dilatations
+T26	Symptom 1452 1494	Limited exudative detachment of the retina
+T27	Anatomy 1509 1513	eyes
+T28	Symptom 1589 1605	subretinal fluid
+T29	Diagnostic_tool 1614 1641	ocular coherence tomography
+T30	Characteristic 1713 1726	visual acuity
+T31	Characteristic 1773 1790	decline in vision
+T32	Characteristic 1807 1822	improved vision
+T33	Characteristic 1843 1856	stable vision
+T34	Disease 1895 1909	Coats' disease
+T35	Symptom 1919 1942	iris neovascularization
+T36	Symptom 1946 1972	total exudative detachment
+T37	Disease 1974 1988	Coats' disease
+T38	Characteristic 2015 2024	adulthood
+T39	Symptom 2030 2060	retinal vascular abnormalities
+T40	Characteristic 2086 2102	younger patients
+T41	Characteristic 2176 2182	adults
+T42	Symptom 2267 2310	hemorrhage near larger vascular dilatations

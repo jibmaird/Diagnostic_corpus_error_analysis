@@ -1,0 +1,13 @@
+T4	Characteristic 346 364	corneal topography
+T5	Symptom 373 476	regular astigmatism, irregular astigmatism, early keratoconus, and contact lens-induced corneal warpage
+T6	Disease 552 563	keratoconus
+T7	Disease 744 750	myopia
+T8	Disease 794 817	aphakic epikeratophakia
+T9	Disease 834 856	myopic epikeratophakia
+T10	Diagnostic_tool 937 1015	1.0-D intervals (Maguire/Waring scale) and 1.5-D intervals (Klyce/Wilson scale
+T12	Characteristic 1779 1810	corneal topographic instruments
+T11	Diagnostic_tool 1437 1482	Klyce/Wilson scale (constant, 1.5-D intervals
+T13	Characteristic 1899 1924	corneal topography easier
+T1	Characteristic 34 52	corneal topography
+T2	Diagnostic_tool 55 78	Modern videokeratoscopy
+T3	Characteristic 102 115	corneal shape

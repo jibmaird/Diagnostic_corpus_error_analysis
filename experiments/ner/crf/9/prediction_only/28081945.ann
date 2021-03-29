@@ -1,0 +1,32 @@
+T21	Characteristic 1443 1466	eye changes on the DRSS
+T20	Disease 1428 1431	PDR
+T23	Characteristic 1621 1624	FAc
+T22	Disease 1560 1563	PDR
+T25	Symptom 1759 1779	retinal nonperfusion
+T24	Disease 1700 1718	DR and chronic DME
+T27	Disease 1936 1938	DR
+T26	Disease 1835 1838	PDR
+T29	Disease 2254 2256	DR
+T28	Disease 2102 2104	DR
+T1	Disease 106 126	Diabetic Retinopathy
+T2	Disease 210 244	proliferative diabetic retinopathy
+T3	Disease 246 249	PDR
+T4	Symptom 269 283	FAc on changes
+T5	Diagnostic_tool 287 384	Early Treatment Diabetic Retinopathy Study (ETDRS) diabetic retinopathy (DR) severity scale (DRSS
+T6	Disease 429 451	Diabetic Macular Edema
+T7	Disease 453 457	FAME
+T8	Disease 563 569	FAME A
+T9	Disease 598 620	diabetic macular edema
+T30	Disease 2396 2399	DME
+T10	Disease 622 625	DME
+T32	Disease 2489 2509	diabetic retinopathy
+T31	Disease 2460 2463	PDR
+T12	Diagnostic_tool 811 836	stereo fundus photography
+T11	Characteristic 748 787	DRSS grade and retinal perfusion status
+T14	Disease 880 891	Retinopathy
+T13	Diagnostic_tool 841 864	fluorescein angiography
+T16	Disease 1262 1299	nonproliferative diabetic retinopathy
+T15	Disease 1196 1199	PDR
+T18	Disease 1310 1313	PDR
+T17	Disease 1301 1305	NPDR
+T19	Diagnostic_tool 1323 1422	graded fundus photographs, (2) panretinal photocoagulation (PRP), or (3) pars plana vitrectomy (PPV

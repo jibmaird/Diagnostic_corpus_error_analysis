@@ -1,0 +1,41 @@
+T41	Symptom 2149 2165	localized flecks
+T40	Symptom 2105 2112	lose VA
+T21	Disease 1205 1212	stage 1
+T20	Symptom 1170 1189	20/200 VA or better
+T23	Anatomy 1278 1281	eye
+T22	Symptom 1242 1261	20/200 or better VA
+T25	Disease 1406 1413	stage 1
+T24	Disease 1315 1352	stage 2/stage 2-3 Stargardt's disease
+T27	Symptom 1474 1513	20/400 or better VA in at least one eye
+T26	Disease 1436 1453	stage 2/stage 2-3
+T29	Symptom 1596 1609	fundus flecks
+T28	Disease 1557 1584	stage 1 Stargardt's disease
+T1	Symptom 14 32	visual acuity loss
+T2	Disease 70 89	Stargardt's disease
+T3	Symptom 199 212	fundus flecks
+T4	Symptom 257 294	visual acuity (VA) loss beyond 20/200
+T5	Disease 312 331	Stargardt's disease
+T6	Disease 415 434	Stargardt's disease
+T7	Characteristic 436 449	Visual acuity
+T8	Disease 471 490	Stargardt's disease
+T9	Disease 558 577	Stargardt's disease
+T30	Anatomy 1625 1639	posterior pole
+T10	Characteristic 582 606	appearance of the macula
+T32	Disease 1735 1760	stage 2/stage 2-3 disease
+T31	Symptom 1679 1701	VA at 20/200 or better
+T12	Symptom 712 725	fundus flecks
+T34	Disease 1837 1874	stage 2/stage 2-3 Stargardt's disease
+T11	Disease 649 668	Stargardt's disease
+T33	Symptom 1770 1791	diffuse fundus flecks
+T14	Disease 755 774	Stargardt's disease
+T36	Disease 1943 1960	stage 2/stage 2-3
+T13	Characteristic 727 744	Best-corrected VA
+T35	Symptom 1892 1914	VA of 20/200 or better
+T16	Disease 949 976	stage 1 Stargardt's disease
+T38	Disease 2025 2044	Stargardt's disease
+T15	Characteristic 780 804	appearance of the macula
+T37	Symptom 1965 1992	VA levels worse than 20/400
+T18	Anatomy 1039 1042	eye
+T17	Symptom 1003 1022	20/200 or better VA
+T39	Symptom 2049 2070	diffuse fundus flecks
+T19	Disease 1094 1134	stage 2 or stage 2-3 Stargardt's disease

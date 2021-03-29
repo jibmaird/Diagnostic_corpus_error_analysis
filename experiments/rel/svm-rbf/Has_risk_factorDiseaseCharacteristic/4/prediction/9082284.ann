@@ -1,0 +1,26 @@
+T21	Diagnostic_tool 1140 1150	program G1
+T20	Symptom 1109 1129	visual field defects
+T23	Disease 1208 1220	glaucomatous
+T22	Diagnostic_tool 1152 1182	Logistic discriminant analysis
+T25	Disease 1408 1426	early glaucomatous
+T24	Diagnostic_tool 1328 1358	Logistic discriminant analysis
+T26	Symptom 1431 1467	nonglaucomatous visual field defects
+T1	Diagnostic_tool 9 39	logistic discriminant analysis
+T2	Symptom 65 85	visual field defects
+T3	Diagnostic_tool 109 139	logistic discriminant analysis
+T4	Characteristic 169 181	visual field
+T5	Disease 219 238	ophthalmic diseases
+T6	Symptom 280 300	visual field defects
+T7	Symptom 321 346	early glaucomatous damage
+T8	Anatomy 397 401	eyes
+T9	Disease 412 421	cataracts
+T10	Disease 432 452	diabetic retinopathy
+T12	Characteristic 505 518	visual fields
+T11	Disease 466 490	hypertensive retinopathy
+T14	Anatomy 628 631	eye
+T13	Diagnostic_tool 553 578	program G1 of Octopus 500
+T16	Diagnostic_tool 770 777	Octopus
+T15	Characteristic 733 745	visual field
+T18	Symptom 925 945	visual field defects
+T17	Diagnostic_tool 790 820	logistic discriminant analysis
+T19	Disease 949 961	glaucomatous

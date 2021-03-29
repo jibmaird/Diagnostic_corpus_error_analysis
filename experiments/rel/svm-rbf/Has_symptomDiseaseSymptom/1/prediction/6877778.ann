@@ -1,0 +1,29 @@
+T21	Disease 703 740	severe, potentially blinding disorder
+T20	Disease 695 697	HR
+T23	Disease 865 869	CRVO
+T22	Disease 767 771	CRVO
+T25	Disease 944 946	HR
+T24	Disease 936 939	VSR
+T1	Disease 18 48	central retinal vein occlusion
+T2	Anatomy 89 93	eyes
+T3	Disease 99 129	central retinal vein occlusion
+T4	Disease 131 135	CRVO
+T5	Disease 169 173	CRVO
+T6	Anatomy 180 184	eyes
+T7	Disease 219 223	CRVO
+T8	Disease 277 293	Nonischemic CRVO
+T9	Symptom 326 362	stasis of retinal venous circulation
+T10	Disease 375 400	venous stasis retinopathy
+T12	Disease 412 425	Ischemic CRVO
+T11	Disease 402 405	VSR
+T14	Disease 465 467	HR
+T13	Disease 440 463	hemorrhagic retinopathy
+T16	Disease 576 579	VSR
+T15	Disease 566 570	CRVO
+T18	Disease 645 648	VSR
+T17	Disease 584 586	HR
+T19	Disease 654 687	benign and self-limited condition
+R2	Has_symptom Arg1:T10 Arg2:T9
+R3	Has_symptom Arg1:T11 Arg2:T9
+R4	Has_symptom Arg1:T8 Arg2:T9
+R1	Has_symptom Arg1:T7 Arg2:T9

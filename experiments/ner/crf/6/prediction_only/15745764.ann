@@ -1,0 +1,43 @@
+T41	Characteristic 2405 2432	Peripapillary NFL thickness
+T40	Symptom 2245 2403	Peripapillary NFL thickness, however, outperformed both total macular and macular NFL thickness in terms of glaucoma detection and visual function correlation
+T21	Disease 896 926	glaucoma suspects and glaucoma
+T43	Disease 2531 2539	glaucoma
+T20	Characteristic 791 834	total mean, 4 quadrants, and 12 clock hours
+T42	Symptom 2465 2491	macular and peripheral NFL
+T23	Characteristic 1097 1108	macular NFL
+T22	Symptom 1028 1049	visual field function
+T25	Disease 1421 1429	glaucoma
+T24	Symptom 1204 1294	significant difference in macular NFL thickness between normal and glaucoma-suspect groups
+T27	Disease 1492 1521	glaucoma suspects or glaucoma
+T26	Characteristic 1469 1474	AROCs
+T29	Characteristic 1563 1586	total macular thickness
+T28	Characteristic 1537 1558	macular NFL thickness
+T1	Characteristic 14 52	macular and peripapillary measurements
+T2	Disease 74 82	glaucoma
+T3	Diagnostic_tool 87 115	optical coherence tomography
+T4	Symptom 136 200	macular nerve fiber layer (NFL) thickness in glaucomatous damage
+T5	Diagnostic_tool 204 232	optical coherence tomography
+T6	Diagnostic_tool 234 237	OCT
+T7	Disease 283 291	glaucoma
+T8	Disease 296 304	glaucoma
+T9	Characteristic 327 350	total macular thickness
+T30	Characteristic 1624 1650	mean macular NFL thickness
+T10	Characteristic 355 382	peripapillary NFL thickness
+T32	Characteristic 1815 1851	inferior peripapillary NFL thickness
+T31	Symptom 1692 1735	visual function than mean macular thickness
+T12	Anatomy 492 496	eyes
+T34	Symptom 1905 1951	AROC, 0.91) and glaucoma suspects (AROC, 0.67)
+T11	Anatomy 449 453	eyes
+T33	Disease 1895 1903	glaucoma
+T14	Disease 531 539	glaucoma
+T36	Characteristic 2045 2066	Macular NFL thickness
+T13	Anatomy 518 522	eyes
+T35	Symptom 1996 2011	visual function
+T16	Characteristic 560 581	Macular NFL thickness
+T38	Disease 2148 2156	glaucoma
+T15	Anatomy 540 544	eyes
+T37	Disease 2096 2104	glaucoma
+T18	Diagnostic_tool 657 668	Stratus OCT
+T17	Characteristic 583 639	total macular thickness, and peripapillary NFL thickness
+T39	Symptom 2199 2243	visual function than total macular thickness
+T19	Characteristic 728 787	macular NFL, total macular, and peripapillary NFL thickness

@@ -1,0 +1,24 @@
+T1	Disease 0 63	Idiopathic Acute Exudative Polymorphous Vitelliform Maculopathy
+T2	Diagnostic_tool 98 105	Imaging
+T3	Disease 171 223	acute exudative polymorphous vitelliform maculopathy
+T4	Disease 225 230	AEPVM
+T5	Disease 331 347	idiopathic AEPVM
+T6	Diagnostic_tool 376 394	multimodal imaging
+T7	Diagnostic_tool 396 414	electrophysiologic
+T8	Disease 532 548	idiopathic AEPVM
+T9	Characteristic 596 618	age range, 21-74 years
+T10	Disease 645 650	AEPVM
+T11	Symptom 681 699	serous detachments
+T12	Symptom 746 792	yellow-white deposits in the vitelliform space
+T13	Symptom 810 839	hyperautofluorescent material
+T14	Symptom 899 919	curvilinear deposits
+T15	Symptom 1080 1128	fluorescein-negative intraretinal cystic changes
+T16	Symptom 1130 1158	choroidal neovascularization
+T17	Symptom 1160 1209	serous retinal elevations mimicking retinal folds
+T18	Symptom 1211 1240	increased choroidal thickness
+T19	Disease 1347 1399	Acute exudative polymorphous vitelliform maculopathy
+T20	Disease 1475 1501	Paraneoplastic retinopathy
+T21	Disease 1506 1542	autosomal recessive bestrophinopathy
+T22	Disease 1560 1565	AEPVM
+T23	Disease 1685 1690	AEPVM
+T24	Characteristic 1748 1760	demographics

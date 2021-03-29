@@ -1,0 +1,26 @@
+T1	Disease 29 49	diabetic retinopathy
+T2	Disease 92 112	diabetic retinopathy
+T3	Disease 114 116	DR
+T4	Disease 167 178	Retinopathy
+T5	Anatomy 278 286	EyeCheck
+T6	Disease 317 319	DR
+T7	Diagnostic_tool 384 408	Fundus photographic sets
+T8	Diagnostic_tool 426 439	fundus images
+T9	Anatomy 450 453	eye
+T10	Disease 518 526	diabetes
+T11	Disease 570 572	DR
+T12	Diagnostic_tool 578 597	fundus photographic
+T13	Anatomy 643 650	retinal
+T14	Disease 730 732	DR
+T15	Disease 1008 1010	DR
+T16	Disease 1095 1097	DR
+T17	Diagnostic_tool 1140 1148	EyeCheck
+T18	Disease 1308 1310	DR
+T19	Diagnostic_tool 1450 1468	EyeCheck algorithm
+T20	Diagnostic_tool 1495 1518	Challenge2009 algorithm
+T21	Diagnostic_tool 1530 1571	Diabetic retinopathy detection algorithms
+T22	Disease 1917 1925	diabetes
+T23	Disease 1994 1996	DR
+T24	Disease 2024 2032	diabetes
+T25	Disease 2105 2117	early rather
+T26	Disease 2123 2134	advanced DR

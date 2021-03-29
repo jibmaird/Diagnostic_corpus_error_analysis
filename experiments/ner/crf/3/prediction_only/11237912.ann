@@ -1,0 +1,13 @@
+T4	Disease 602 610	diabetes
+T5	Characteristic 612 637	18 years of age or older,
+T6	Characteristic 896 978	knowledge, attitudes, and beliefs about diabetes, vision, and diabetic retinopathy
+T7	Anatomy 1332 1335	eye
+T8	Anatomy 1522 1525	eye
+T9	Characteristic 1779 1809	nonadherence were: younger age
+T10	Characteristic 1836 1879	type 2 diabetes with or without insulin use
+T12	Anatomy 1960 1963	eye
+T11	Characteristic 1916 1941	shorter diabetes duration
+T13	Disease 2398 2418	diabetic retinopathy
+T1	Disease 25 56	diabetes vision care guidelines
+T2	Diagnostic_tool 85 123	Diabetic Retinopathy Awareness Program
+T3	Diagnostic_tool 287 333	Diabetic Retinopathy Awareness Program, and (2

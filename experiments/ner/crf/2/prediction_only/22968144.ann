@@ -1,0 +1,15 @@
+T4	Anatomy 385 388	eye
+T5	Characteristic 508 725	anterior segment optical coherence tomography with measurement of angle-opening distance at 500 μm (AOD500), angle recess area (ARA), iris thickness at 750 μm (IT750), iris curvature, pupil diameter, corneal thickness
+T6	Characteristic 727 866	anterior chamber width (ACW), lens vault (LV), and lens thickness (LT) and measurement of axial length (AL) and anterior chamber depth (ACD
+T7	Characteristic 924 972	2-year change in AOD500 and ARA in the right eye
+T8	Characteristic 1061 1130	mean age at baseline, 52.2 years; standard deviation [SD], 11.5 years
+T9	Characteristic 1198 1230	% (AOD500: 576/745) to 100% (AL)
+T10	Characteristic 1232 1331	Mean AOD500 decreased from 0.25 mm (SD, 0.13 mm) in 2008 to 0.21 mm (SD, 13 mm) in 2010 (difference
+T12	Characteristic 1742 1837	AOD500 and ARA: deeper ACD, steeper iris curvature, smaller LV, greater ARA, and greater AOD500
+T11	Diagnostic_tool 1392 1475	ARA decreased from 21.5 ± 3.73 10(-2) mm(2) to 21.0 ± 3.64 10(-2) mm(2) (difference
+T14	Characteristic 1984 2033	% of variation in 2-year change in AOD500 and ARA
+T13	Symptom 1913 1949	variation in baseline AOD500 and ARA
+T15	Characteristic 2165 2179	AOD500 and ARA
+T1	Characteristic 0 64	Determinants and two-year change in anterior chamber angle width
+T2	Symptom 132 184	longitudinal changes in anterior chamber angle width
+T3	Characteristic 280 330	aged 35 years or more residing in Guangzhou, China

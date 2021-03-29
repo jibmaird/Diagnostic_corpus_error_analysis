@@ -1,0 +1,39 @@
+T21	Characteristic 1204 1241	petaloid pattern of hyperfluorescence
+T20	Diagnostic_tool 1193 1196	OCT
+T23	Symptom 1384 1400	subretinal fluid
+T22	Characteristic 1279 1367	large cystic spaces in the outer nuclear layer (ONL) and the outer plexiform layer (OPL)
+T25	Characteristic 1517 1605	swelling and cystic spaces in ONL, OPL, the inner nuclear, and the inner plexiform layer
+T24	Characteristic 1454 1496	honeycomblike pattern of hyperfluorescence
+T27	Characteristic 1694 1734	characteristic retinal changes in HD OCT
+T26	Characteristic 1633 1670	Diffuse patterns of hyperfluorescence
+T29	Symptom 1850 1866	subretinal fluid
+T28	Symptom 1819 1840	central fluid pooling
+T1	Diagnostic_tool 28 39	angiography
+T2	Diagnostic_tool 44 88	high-resolution optical coherence tomography
+T3	Disease 92 114	diabetic macular edema
+T4	Diagnostic_tool 150 185	fluorescein angiography (FA) images
+T5	Characteristic 190 218	retinal morphologic features
+T6	Diagnostic_tool 222 282	high-definition optical coherence tomography (HD OCT) images
+T7	Disease 286 308	diabetic macular edema
+T8	Anatomy 381 385	eyes
+T9	Disease 392 414	diabetic macular edema
+T30	Diagnostic_tool 1896 1902	HD OCT
+T10	Diagnostic_tool 449 451	FA
+T32	Characteristic 1946 2022	petaloid pattern and a honeycomb pattern of hyperfluorescence observed in FA
+T31	Diagnostic_tool 1914 1916	FA
+T12	Diagnostic_tool 763 783	HD OCT en face image
+T34	Characteristic 2094 2117	diffuse leakage pattern
+T11	Diagnostic_tool 488 494	HD OCT
+T33	Characteristic 2050 2083	characteristic changes in HD OCT,
+T14	Characteristic 823 840	retinal landmarks
+T13	Diagnostic_tool 790 809	late-phase FA image
+T35	Characteristic 2138 2188	nonuniform changes in retinal morphologic features
+T16	Characteristic 1001 1028	retinal morphologic changes
+T15	Characteristic 951 981	type of vascular leakage in FA
+T18	Characteristic 1087 1147	structural alteration in retinal morphologic features in OCT
+T17	Characteristic 1057 1082	Angiographic leakage type
+T19	Diagnostic_tool 1186 1188	FA
+R2	Diagnosed_with Arg1:T7 Arg2:T4
+R3	Diagnosed_with Arg1:T7 Arg2:T6
+R4	Diagnosed_with Arg1:T3 Arg2:T2
+R1	Diagnosed_with Arg1:T3 Arg2:T1

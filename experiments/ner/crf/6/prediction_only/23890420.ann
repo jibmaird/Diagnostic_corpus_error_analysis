@@ -1,0 +1,17 @@
+T4	Disease 372 380	Diabetes
+T5	Characteristic 621 643	PRP, FP, or both since
+T6	Diagnostic_tool 684 702	Fundus photographs
+T7	Diagnostic_tool 810 821	Photographs
+T8	Symptom 865 875	PRP and FP
+T9	Symptom 940 981	PRP and FP were compared in EDIC subjects
+T10	Diagnostic_tool 1097 1107	PRP and FP
+T12	Disease 1405 1407	FP
+T11	Symptom 1296 1368	PRP in one or both eyes, and 1259 (97.5%) of 1291 with valid photographs
+T14	Disease 1765 1785	diabetic retinopathy
+T13	Diagnostic_tool 1413 1423	PRP and FP
+T16	Diagnostic_tool 1907 1925	fundus photographs
+T15	Disease 1846 1861	type 1 diabetes
+T17	Disease 2036 2056	diabetic retinopathy
+T1	Disease 75 86	retinopathy
+T2	Symptom 157 221	panretinal photocoagulation (PRP) and focal photocoagulation (FP
+T3	Diagnostic_tool 237 255	fundus photography

@@ -1,0 +1,19 @@
+T1	Characteristic 0 24	Visual field progression
+T2	Disease 28 36	glaucoma
+T3	Disease 229 237	glaucoma
+T4	Disease 288 307	open-angle glaucoma
+T5	Disease 329 348	open-angle glaucoma
+T6	Anatomy 352 355	eye
+T7	Diagnostic_tool 479 502	Humphrey Field Analyzer
+T8	Diagnostic_tool 627 630	GPA
+T9	Characteristic 845 848	GPA
+T10	Diagnostic_tool 885 888	GPA
+T11	Symptom 1355 1376	false-positive alerts
+T12	Characteristic 1382 1406	visual field variability
+T13	Characteristic 1476 1495	reliability indices
+T14	Symptom 1516 1525	-positive
+T15	Symptom 1530 1544	false-negative
+T16	Characteristic 1545 1554	responses
+T17	Symptom 1556 1571	fixation losses
+T18	Diagnostic_tool 1649 1652	GPA
+T19	Diagnostic_tool 1957 1960	GPA

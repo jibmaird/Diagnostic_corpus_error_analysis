@@ -1,0 +1,12 @@
+T1	Symptom 33 50	optic disc change
+T2	Disease 55 63	glaucoma
+T3	Diagnostic_tool 69 98	stereo optic disc photographs
+T4	Disease 156 168	glaucomatous
+T5	Diagnostic_tool 186 210	optic disc stereo-slides
+T6	Diagnostic_tool 259 283	optic disc stereo-slides
+T7	Diagnostic_tool 378 419	20 degrees optic disc color stereo-slides
+T8	Disease 472 480	Glaucoma
+T9	Disease 1094 1106	glaucomatous
+T10	Symptom 1107 1124	optic disc change
+T11	Symptom 1742 1754	glaucomatous
+T12	Diagnostic_tool 1772 1796	optic disc stereo-slides

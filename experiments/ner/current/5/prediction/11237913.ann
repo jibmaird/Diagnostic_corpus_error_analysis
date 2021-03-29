@@ -1,0 +1,45 @@
+T1	Diagnostic_tool 0 55	Stereo nonmydriatic digital-video color retinal imaging
+T2	Classification_system 70 106	Early Treatment Diabetic Retinopathy
+T3	Diagnostic_tool 134 159	35-mm stereo color photos
+T4	Disease 185 205	diabetic retinopathy
+T5	Disease 264 284	diabetic retinopathy
+T6	Anatomy 313 320	retinal
+T7	Diagnostic_tool 394 454	stereoscopic nonmydriatic digital-video color retinal images
+T8	Classification_system 472 477	Early
+T9	Diagnostic_tool 478 496	Treatment Diabetic
+T10	Classification_system 497 514	Retinopathy Study
+T11	Classification_system 516 521	ETDRS
+T12	Diagnostic_tool 544 587	35-mm stereoscopic color fundus photographs
+T13	Anatomy 682 686	eyes
+T14	Disease 693 699	type 1
+T15	Disease 703 727	type 2 diabetes mellitus
+T16	Disease 809 829	diabetic retinopathy
+T17	Diagnostic_tool 831 904	Nonsimultaneous 45 degrees -field stereoscopic digital-video color images
+T18	Diagnostic_tool 906 916	JVN images
+T19	Diagnostic_tool 1043 1124	ETDRS seven standard field 35-mm stereoscopic color 30 degrees fundus photographs
+T20	Diagnostic_tool 1126 1138	ETDRS photos
+T21	Diagnostic_tool 1155 1183	Joslin Vision Network images
+T22	Diagnostic_tool 1188 1200	ETDRS photos
+T23	Classification_system 1286 1291	ETDRS
+T24	Disease 1310 1330	diabetic retinopathy
+T25	Anatomy 1361 1367	retina
+T26	Characteristic 1455 1460	ETDRS
+T27	Disease 1479 1499	diabetic retinopathy
+T28	Disease 1541 1561	diabetic retinopathy
+T29	Disease 1698 1718	diabetic retinopathy
+T30	Diagnostic_tool 1747 1757	JVN images
+T31	Diagnostic_tool 1766 1786	dilated ETDRS photos
+T32	Anatomy 1883 1886	eye
+T33	Diagnostic_tool 1946 1956	JVN images
+T34	Diagnostic_tool 1965 1977	ETDRS photos
+T35	Classification_system 2039 2044	ETDRS
+T36	Diagnostic_tool 2052 2082	Undilated digital-video images
+T37	Diagnostic_tool 2120 2131	photographs
+T38	Disease 2157 2177	diabetic retinopathy
+T39	Diagnostic_tool 2228 2251	nonmydriatic JVN images
+T40	Diagnostic_tool 2256 2281	dilated ETDRS photographs
+T41	Disease 2398 2418	diabetic retinopathy
+T42	Anatomy 2446 2453	retinal
+T43	Disease 2627 2635	diabetic
+T44	Anatomy 2662 2665	eye
+T45	Anatomy 2767 2770	eye

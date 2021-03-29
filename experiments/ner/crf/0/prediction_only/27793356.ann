@@ -1,0 +1,42 @@
+T41	Disease 2393 2396	AMD
+T40	Diagnostic_tool 2285 2331	Optical coherence tomography-reflective drusen
+T21	Symptom 1298 1300	GA
+T20	Diagnostic_tool 1268 1285	Preatrophy SD OCT
+T42	Disease 2437 2452	GA pathogenesis
+T23	Symptom 1318 1346	choroidal neovascularization
+T22	Characteristic 1302 1312	central GA
+T25	Diagnostic_tool 1358 1375	color photographs
+T24	Symptom 1348 1351	CNV
+T27	Anatomy 1554 1558	eyes
+T26	Symptom 1405 1500	ODS were defined: low reflective cores, high reflective cores, conical debris, and split drusen
+T29	Symptom 1713 1732	preatrophic changes
+T28	Symptom 1596 1659	ODS at baseline were associated with (1) greater macular drusen
+T1	Diagnostic_tool 0 102	Optical Coherence Tomography Reflective Drusen Substructures Predict Progression to Geographic Atrophy
+T2	Disease 106 138	Age-related Macular Degeneration
+T3	Characteristic 141 231	Structural and compositional heterogeneity within drusen comprising lipids, carbohydrates,
+T4	Characteristic 331 433	drusen heterogeneity in the form of optical coherence tomography-reflective drusen substructures (ODS)
+T5	Disease 470 502	age-related macular degeneration
+T6	Disease 504 507	AMD
+T7	Disease 530 533	AMD
+T8	Disease 608 624	intermediate AMD
+T9	Diagnostic_tool 696 758	AREDS2) ancillary spectral-domain optical coherence tomography
+T30	Symptom 1784 1794	macular GA
+T10	Diagnostic_tool 760 766	SD OCT
+T32	Symptom 1883 1886	CNV
+T31	Symptom 1811 1830	preatrophic changes
+T12	Anatomy 802 805	eye
+T34	Symptom 2033 2051	preatrophy changes
+T11	Diagnostic_tool 784 790	SD OCT
+T33	Symptom 1963 1981	preatrophy changes
+T14	Disease 906 909	ODS
+T36	Symptom 2234 2236	GA
+T13	Symptom 852 855	ODS
+T35	Diagnostic_tool 2105 2151	Optical coherence tomography-reflective drusen
+T16	Diagnostic_tool 956 962	SD OCT
+T38	Anatomy 2257 2261	eyes
+T15	Symptom 924 944	AMD-related features
+T37	Symptom 2249 2252	CNV
+T18	Symptom 1092 1106	macular region
+T17	Diagnostic_tool 967 1060	color photographs, including drusen volume, geographic atrophy (GA), and preatrophic features
+T39	Disease 2267 2283	intermediate AMD
+T19	Anatomy 1263 1266	eye

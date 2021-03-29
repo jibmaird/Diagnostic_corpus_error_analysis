@@ -1,0 +1,32 @@
+T21	Disease 1222 1227	onset
+T20	Characteristic 1216 1218	VA
+T23	Characteristic 1309 1364	Mean VA at the 5-year follow-up was significantly lower
+T22	Symptom 1232 1267	visual outcome after 5 and 10 years
+T25	Diagnostic_tool 1400 1411	angiography
+T24	Symptom 1368 1383	macular leakage
+T27	Disease 1583 1586	BCR
+T26	Symptom 1450 1460	loss of VA
+T29	Disease 1757 1774	blinding disorder
+T28	Disease 1604 1611	uveitis
+T1	Disease 0 26	Birdshot chorioretinopathy
+T2	Disease 145 171	birdshot chorioretinopathy
+T3	Disease 173 176	BCR
+T4	Symptom 215 226	visual loss
+T5	Characteristic 307 323	HLA-A29-positive
+T6	Disease 324 327	BCR
+T7	Anatomy 429 432	Eye
+T8	Diagnostic_tool 528 568	photographic and/or angiographic records
+T9	Characteristic 589 605	HLA-A29-positive
+T10	Disease 606 609	BCR
+T12	Characteristic 809 822	visual acuity
+T11	Disease 704 707	BCR
+T14	Symptom 879 889	Loss of VA
+T13	Characteristic 824 826	VA
+T16	Symptom 936 955	VA less than 20/200
+T15	Anatomy 926 930	eyes
+T18	Symptom 1114 1127	macular edema
+T17	Symptom 1081 1095	compromised VA
+T19	Symptom 1132 1147	macular atrophy
+R2	Has_symptom Arg1:T21 Arg2:T22
+R3	Has_symptom Arg1:T3 Arg2:T4
+R1	Has_symptom Arg1:T2 Arg2:T4

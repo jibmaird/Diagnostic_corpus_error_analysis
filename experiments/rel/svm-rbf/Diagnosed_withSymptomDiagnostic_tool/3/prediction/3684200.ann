@@ -1,0 +1,27 @@
+T21	Dimension 757 766	17.1 mmHg
+T20	Dimension 718 727	17.8 mmHg
+T23	Disease 857 877	diabetic retinopathy
+T22	Characteristic 809 818	Eye color
+T25	Disease 930 962	age-related macular degeneration
+T24	Characteristic 892 921	younger- or older-onset group
+T27	Characteristic 982 999	older-onset group
+T26	Disease 966 974	glaucoma
+T1	Characteristic 19 29	iris color
+T2	Disease 35 46	eye disease
+T3	Disease 50 58	diabetes
+T4	Characteristic 61 77	Iris (eye) color
+T5	Disease 109 120	eye disease
+T6	Disease 152 172	diabetic retinopathy
+T7	Characteristic 187 196	Eye color
+T8	Anatomy 229 233	iris
+T9	Diagnostic_tool 239 286	red reflex photograph with standard photographs
+T10	Characteristic 291 321	younger-onset diabetic persons
+T12	Characteristic 382 399	blue or grey eyes
+T11	Disease 333 346	macular edema
+T14	Characteristic 497 514	blue or grey eyes
+T13	Disease 464 473	Cataracts
+T16	Characteristic 620 639	older-onset persons
+T15	Characteristic 576 595	younger-onset group
+T18	Characteristic 674 677	IOP
+T17	Characteristic 652 672	intraocular pressure
+T19	Characteristic 706 716	brown eyes

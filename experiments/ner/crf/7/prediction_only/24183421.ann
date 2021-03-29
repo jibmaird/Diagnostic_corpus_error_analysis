@@ -1,0 +1,24 @@
+T4	Disease 441 445	APAC
+T5	Diagnostic_tool 470 483	ASOCT imaging
+T6	Anatomy 492 496	eyes
+T7	Characteristic 604 849	anterior chamber depth (ACD), anterior chamber area (ACA), anterior chamber volume (ACV), iris curvature (I-Curv), iris area (I-Area), lens vault (LV), and angle opening distance (AOD750), trabecular iris space area (TISA750), and iris thickness
+T8	Characteristic 851 889	IT750) at 750 μm from the scleral spur
+T9	Disease 1034 1038	APAC
+T10	Anatomy 1064 1067	eye
+T21	Disease 1898 1902	APAC
+T20	Characteristic 1795 1881	Shallower ACD and smaller I-Curv were the 2 main anterior segment biometric parameters
+T12	Disease 1141 1145	APAC
+T23	Characteristic 2063 2103	Anatomic changes in the anterior segment
+T11	Characteristic 1087 1124	Anterior segment biometric parameters
+T22	Characteristic 1967 2061	anterior segment biometric parameters of APAC and fellow eyes before therapeutic interventions
+T14	Characteristic 1235 1260	mean intraocular pressure
+T13	Characteristic 1151 1194	mean age of the patients was 60.9±7.5 years
+T24	Characteristic 2154 2169	APAC occurrence
+T16	Characteristic 1306 1358	mmHg in the fellow eye before treatment (P  < 0.001)
+T15	Characteristic 1273 1293	mmHg in the APAC eye
+T18	Characteristic 1646 1713	ACD, and I-Curv) explained 36.7% of the variance in APAC occurrence
+T17	Characteristic 1381 1584	pupil diameter, APAC eyes had smaller ACD, ACA, ACV, I-Curv (all P  < 0.001), AOD750 (P = 0.037), TISA750 (P = 0.043), I-Area (P = 0.027), and IT750 (P = 0.002) and larger LV (P = 0.041) than fellow eyes
+T1	Characteristic 0 131	Pretreatment anterior segment imaging during acute primary angle closure: insights into angle closure mechanisms in the acute phase
+T19	Characteristic 1720 1723	ACD
+T2	Diagnostic_tool 163 251	optical coherence tomography (ASOCT) parameters during acute primary angle closure (APAC
+T3	Characteristic 314 364	biometric parameters of APAC eyes with fellow eyes

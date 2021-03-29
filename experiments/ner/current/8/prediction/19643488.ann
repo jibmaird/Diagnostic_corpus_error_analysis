@@ -1,0 +1,47 @@
+T1	Diagnostic_tool 0 44	Spectral domain optical coherence tomography
+T2	Symptom 56 74	geographic atrophy
+T3	Diagnostic_tool 109 153	spectral domain optical coherence tomography
+T4	Diagnostic_tool 155 161	SD-OCT
+T5	Anatomy 224 248	photoreceptor (PR) layer
+T6	Symptom 267 285	geographic atrophy
+T7	Symptom 287 289	GA
+T8	Anatomy 338 346	PR layer
+T9	Anatomy 351 377	retinal pigment epithelium
+T10	Symptom 396 398	GA
+T11	Symptom 451 453	GA
+T12	Disease 467 514	nonneovascular age-related macular degeneration
+T13	Disease 516 519	AMD
+T14	Diagnostic_tool 675 681	SD-OCT
+T15	Anatomy 691 695	eyes
+T16	Diagnostic_tool 706 707	B
+T17	Anatomy 724 727	eye
+T18	Characteristic 833 845	PR thickness
+T19	Characteristic 898 900	PR
+T20	Symptom 901 918	layer disappeared
+T21	Symptom 940 942	GA
+T22	Symptom 1007 1016	PR losses
+T23	Symptom 1029 1031	GA
+T24	Symptom 1084 1086	GA
+T25	Symptom 1116 1118	GA
+T26	Symptom 1152 1154	GA
+T27	Symptom 1176 1183	PR loss
+T28	Symptom 1201 1203	GA
+T29	Symptom 1229 1231	GA
+T30	Symptom 1261 1263	GA
+T31	Characteristic 1289 1317	Distances from the GA margin
+T32	Symptom 1360 1367	PR loss
+T33	Symptom 1426 1433	PR loss
+T34	Symptom 1458 1465	PR loss
+T35	Symptom 1482 1484	GA
+T36	Symptom 1527 1534	PR loss
+T37	Symptom 1580 1582	GA
+T38	Symptom 1646 1648	GA
+T39	Symptom 1711 1713	GA
+T40	Symptom 1733 1743	Loss of PR
+T41	Symptom 1822 1824	GA
+T42	Symptom 1881 1883	GA
+T43	Symptom 1948 1950	GA
+T44	Disease 1962 1981	non-neovascular AMD
+T45	Symptom 1987 1989	GA
+T46	Diagnostic_tool 1991 1997	SD-OCT
+T47	Symptom 2043 2050	PR loss

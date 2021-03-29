@@ -1,0 +1,14 @@
+T1	Anatomy 12 19	carotid
+T2	Diagnostic_tool 37 59	pulsed Doppler imaging
+T3	Disease 78 98	ophthalmic disorders
+T4	Diagnostic_tool 101 123	Pulsed Doppler imaging
+T5	Anatomy 190 209	carotid bifurcation
+T6	Disease 263 278	amaurosis fugax
+T7	Symptom 283 296	ocular emboli
+T8	Characteristic 330 340	blood flow
+T9	Symptom 348 354	ocular
+T10	Anatomy 355 366	and orbital
+T11	Symptom 367 373	tumors
+T12	Diagnostic_tool 379 402	continuous wave Doppler
+T13	Symptom 430 457	abnormal orbital blood flow
+T14	Symptom 475 499	dural-cavernous fistulae

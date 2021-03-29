@@ -1,0 +1,5 @@
+T1	Disease 0 20	Infectious retinitis
+T2	Diagnostic_tool 88 135	vitreoretinal and sclerochorio-retinal biopsies
+T3	Diagnostic_tool 389 433	immunopathologic and ultrastructural methods
+T4	Diagnostic_tool 435 449	tissue culture
+T5	Diagnostic_tool 455 492	nucleic acid hybridization techniques

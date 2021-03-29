@@ -1,0 +1,50 @@
+T41	Diagnostic_tool 1712 1732	automated static VFs
+T40	Characteristic 1654 1673	Statistical indices
+T21	Characteristic 1025 1125	presence of a low patient reliability comment triggered by 40% or more false-negative (FN) responses
+T43	Symptom 1769 1776	VF loss
+T20	Characteristic 959 1020	glaucoma hemifield test (GHT) not outside normal limits (ONL)
+T42	Disease 1746 1768	end-stage glaucomatous
+T23	Anatomy 1228 1232	eyes
+T45	Characteristic 1815 1834	reliability indices
+T22	Characteristic 1171 1174	VFs
+T44	Characteristic 1791 1810	statistical indices
+T25	Characteristic 1286 1289	PSD
+T24	Characteristic 1246 1280	pattern deviation probability plot
+T27	Characteristic 1299 1303	CPSD
+T26	Characteristic 1291 1294	SF,
+T29	Diagnostic_tool 1420 1423	GHT
+T28	Anatomy 1396 1400	eyes
+T1	Disease 39 64	far-advanced glaucomatous
+T2	Symptom 65 82	visual field loss
+T3	Characteristic 118 146	statistical analysis indices
+T4	Diagnostic_tool 163 193	static automated visual fields
+T5	Diagnostic_tool 195 198	VFs
+T6	Disease 223 244	far-advanced glaucoma
+T7	Anatomy 308 312	eyes
+T8	Disease 333 351	end-stage glaucoma
+T9	Characteristic 368 411	collapse of VF statistical analysis indices
+T30	Characteristic 1428 1431	ONL
+T10	Disease 440 458	End-stage glaucoma
+T32	Characteristic 1465 1501	generalized reduction of sensitivity
+T31	Anatomy 1443 1447	eyes
+T12	Symptom 517 548	mean deviation less than -24 dB
+T34	Anatomy 1517 1521	eyes
+T11	Symptom 474 515	vertical cup-to-disc ratio of 0.9 or more
+T33	Characteristic 1503 1506	GRS
+T14	Characteristic 624 655	Collapse of statistical indices
+T36	Anatomy 1554 1558	eyes
+T13	Symptom 565 622	central or temporal island remaining in the VF gray scale
+T35	Characteristic 1532 1535	GRS
+T16	Characteristic 777 813	corrected pattern standard deviation
+T38	Characteristic 1612 1635	FN score of 40% or more
+T15	Characteristic 693 775	pattern deviation probability plot without a single VF location showing P  <  0.5%
+T37	Characteristic 1560 1583	Low patient reliability
+T18	Characteristic 825 912	pattern standard deviation (PSD) probability less than 5% or within normal limits (WNL)
+T17	Characteristic 815 819	CPSD
+T39	Anatomy 1648 1652	eyes
+T19	Characteristic 914 957	short-term fluctuation (SF) probability WNL
+R2	Has_symptom Arg1:T10 Arg2:T12
+R3	Has_symptom Arg1:T42 Arg2:T43
+R4	Has_symptom Arg1:T10 Arg2:T13
+R5	Has_symptom Arg1:T10 Arg2:T11
+R1	Has_symptom Arg1:T1 Arg2:T2

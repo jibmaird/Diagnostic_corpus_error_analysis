@@ -1,0 +1,39 @@
+T1	Characteristic 0 51	Macular versus Retinal Nerve Fiber Layer Parameters
+T2	Disease 67 84	Manifest Glaucoma
+T3	Characteristic 139 157	Macular parameters
+T4	Characteristic 198 241	retinal nerve fiber layer (RNFL) parameters
+T5	Disease 254 262	glaucoma
+T6	Characteristic 301 319	macular parameters
+T7	Anatomy 338 359	ganglion cell complex
+T8	Anatomy 361 364	GCC
+T9	Anatomy 370 405	ganglion cell inner plexiform layer
+T10	Anatomy 407 412	GCIPL
+T11	Characteristic 436 451	RNFL parameters
+T12	Disease 466 483	manifest glaucoma
+T13	Diagnostic_tool 559 603	spectral domain optical coherence tomography
+T14	Diagnostic_tool 605 611	SD OCT
+T15	Characteristic 627 645	macular parameters
+T16	Disease 723 740	manifest glaucoma
+T17	Diagnostic_tool 760 779	automated perimetry
+T18	Anatomy 797 813	optic nerve head
+T19	Anatomy 815 818	ONH
+T20	Classification_system 907 915	QUADAS 2
+T21	Characteristic 991 1021	macular versus RNFL parameters
+T22	Anatomy 1108 1123	macular or RNFL
+T23	Characteristic 1332 1350	macular parameters
+T24	Diagnostic_tool 1357 1366	RTVue OCT
+T25	Diagnostic_tool 1424 1434	Cirrus OCT
+T26	Diagnostic_tool 1505 1518	3D Topcon OCT
+T27	Anatomy 1631 1638	macular
+T28	Characteristic 1639 1642	and
+T29	Anatomy 1643 1647	RNFL
+T30	Diagnostic_tool 1838 1841	OCT
+T31	Characteristic 1865 1880	RNFL parameters
+T32	Characteristic 1882 1900	macular parameters
+T33	Disease 1956 1964	glaucoma
+T34	Diagnostic_tool 2308 2311	OCT
+T35	Characteristic 2313 2328	RNFL parameters
+T36	Characteristic 2353 2371	macular parameters
+T37	Disease 2387 2404	manifest glaucoma
+T38	Diagnostic_tool 2512 2515	OCT
+T39	Diagnostic_tool 2527 2530	OCT

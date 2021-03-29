@@ -1,0 +1,20 @@
+T1	Diagnostic_tool 76 99	Machine Learning Models
+T2	Disease 104 124	Diabetic Retinopathy
+T3	Disease 166 186	diabetic retinopathy
+T4	Disease 188 190	DR
+T5	Disease 300 302	DR
+T6	Diagnostic_tool 336 343	Retinal
+T7	Diagnostic_tool 344 357	fundus images
+T8	Disease 363 365	DR
+T9	Disease 813 815	DR
+T10	Disease 840 856	mild or worse DR
+T11	Disease 858 878	moderate or worse DR
+T12	Symptom 1084 1105	missing microaneurysm
+T13	Symptom 1107 1110	MAs
+T14	Symptom 1154 1165	hemorrhages
+T15	Disease 1355 1375	moderate or worse DR
+T16	Disease 1558 1574	mild or worse DR
+T17	Diagnostic_tool 1738 1762	higher-resolution images
+T18	Disease 1827 1847	moderate or worse DR
+T19	Disease 1884 1886	DR
+T20	Disease 1923 1925	DR

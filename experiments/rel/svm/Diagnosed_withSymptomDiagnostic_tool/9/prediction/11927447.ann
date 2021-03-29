@@ -1,0 +1,31 @@
+T21	Symptom 1128 1150	nonorganic visual loss
+T20	Diagnostic_tool 1063 1072	optotypes
+T23	Symptom 1227 1249	nonorganic visual loss
+T22	Diagnostic_tool 1182 1191	optotypes
+T25	Diagnostic_tool 1361 1373	pocket chart
+T24	Diagnostic_tool 1261 1273	pocket chart
+T26	Symptom 1410 1421	visual loss
+T1	Diagnostic_tool 6 20	optotype chart
+T2	Symptom 38 60	nonorganic visual loss
+T3	Diagnostic_tool 80 94	optotype chart
+T4	Symptom 112 139	nonorganic decreased vision
+T5	Characteristic 180 199	Optotype thresholds
+T6	Characteristic 223 238	normal subjects
+T7	Symptom 291 309	visual acuity loss
+T8	Diagnostic_tool 317 331	optotype chart
+T9	Diagnostic_tool 355 363	optotype
+T10	Characteristic 430 445	normal subjects
+T12	Diagnostic_tool 518 526	optotype
+T11	Diagnostic_tool 490 498	optotype
+T14	Symptom 634 652	visual acuity loss
+T13	Diagnostic_tool 536 548	pocket chart
+T16	Characteristic 796 815	optotype thresholds
+T15	Characteristic 654 673	Optotype thresholds
+T18	Symptom 925 943	visual acuity loss
+T17	Diagnostic_tool 843 851	optotype
+T19	Symptom 1035 1054	organic visual loss
+R2	Diagnosed_with Arg1:T14 Arg2:T13
+R3	Diagnosed_with Arg1:T26 Arg2:T25
+R4	Diagnosed_with Arg1:T19 Arg2:T20
+R5	Diagnosed_with Arg1:T4 Arg2:T3
+R1	Diagnosed_with Arg1:T2 Arg2:T1

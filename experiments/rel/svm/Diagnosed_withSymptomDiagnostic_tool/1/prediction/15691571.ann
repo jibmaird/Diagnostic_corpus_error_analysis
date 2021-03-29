@@ -1,0 +1,40 @@
+T21	Anatomy 1266 1272	sclera
+T20	Anatomy 1243 1247	EOMs
+T23	Anatomy 1302 1313	rectus EOMs
+T22	Diagnostic_tool 1274 1281	Imaging
+T25	Anatomy 1363 1378	superior rectus
+T24	Anatomy 1340 1345	globe
+T27	Anatomy 1403 1417	lateral rectus
+T26	Anatomy 1382 1395	medial rectus
+T29	Disease 1486 1508	restrictive strabismus
+T28	Symptom 1436 1481	suspected inferior rectus muscle disinsertion
+T1	Disease 0 17	Severe strabismus
+T2	Diagnostic_tool 74 116	high-resolution magnetic resonance imaging
+T3	Disease 119 129	Strabismus
+T4	Symptom 167 185	retinal detachment
+T5	Symptom 213 221	scarring
+T6	Diagnostic_tool 282 308	magnetic resonance imaging
+T7	Diagnostic_tool 310 313	MRI
+T8	Disease 355 365	strabismus
+T9	Disease 521 543	large-angle strabismus
+T30	Disease 1565 1582	myopic staphyloma
+T10	Symptom 591 638	Horizontal and vertical preoperative deviations
+T32	Symptom 1624 1642	anterior migration
+T31	Diagnostic_tool 1584 1610	Magnetic resonance imaging
+T12	Anatomy 776 782	orbits
+T34	Symptom 1718 1734	Disinserted EOMs
+T11	Diagnostic_tool 732 767	Multipositional high-resolution MRI
+T33	Anatomy 1691 1702	rectus EOMs
+T14	Diagnostic_tool 857 892	Coronal, sagittal, and axial images
+T36	Diagnostic_tool 1915 1950	Multipositional high-resolution MRI
+T13	Diagnostic_tool 803 816	surface coils
+T35	Symptom 1897 1913	EOM disinsertion
+T16	Anatomy 1013 1017	EOMs
+T38	Diagnostic_tool 2093 2117	Preoperative orbital MRI
+T15	Anatomy 992 1011	extraocular muscles
+T37	Symptom 2027 2043	disinserted EOMs
+T18	Diagnostic_tool 1069 1095	Magnetic resonance imaging
+T17	Disease 1034 1044	strabismus
+T39	Disease 2188 2205	severe strabismus
+T19	Characteristic 1117 1143	EOM size and contractility
+R1	Diagnosed_with Arg1:T32 Arg2:T31

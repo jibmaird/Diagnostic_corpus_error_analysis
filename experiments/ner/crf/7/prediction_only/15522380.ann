@@ -1,0 +1,17 @@
+T4	Disease 222 230	glaucoma
+T5	Symptom 356 372	visual field (VF
+T6	Disease 392 400	glaucoma
+T7	Disease 547 550	VFD
+T8	Disease 581 600	open-angle glaucoma
+T9	Disease 602 605	OAG
+T10	Disease 675 678	OAG
+T12	Disease 889 906	Advanced Glaucoma
+T11	Characteristic 787 854	total deviation (TD), mean deviation (MD), mean TD of a sectored VF
+T14	Disease 1013 1016	OAG
+T13	Diagnostic_tool 948 957	A VF test
+T16	Symptom 1336 1358	glaucomatous VF series
+T15	Anatomy 1017 1021	eyes
+T17	Diagnostic_tool 2323 2333	VF sectors
+T1	Symptom 98 118	visual field defects
+T2	Disease 122 130	glaucoma
+T3	Symptom 193 217	visual field damage (VFD

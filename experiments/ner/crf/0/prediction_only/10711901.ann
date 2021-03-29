@@ -1,0 +1,37 @@
+T21	Diagnostic_tool 758 761	OCT
+T20	Anatomy 720 741	eyes subretinal fluid
+T23	Disease 798 801	CME
+T22	Anatomy 789 793	eyes
+T25	Diagnostic_tool 817 820	OCT
+T24	Diagnostic_tool 805 808	FFA
+T27	Disease 843 846	CME
+T26	Anatomy 834 838	eyes
+T29	Diagnostic_tool 883 886	OCT
+T28	Diagnostic_tool 868 871	FFA
+T1	Diagnostic_tool 19 47	optical coherence tomography
+T2	Diagnostic_tool 52 82	fundus fluorescein angiography
+T3	Disease 104 125	cystoid macular edema
+T4	Disease 143 150	uveitis
+T5	Diagnostic_tool 164 239	optical coherence tomography (OCT) with fundus fluorescein angiography (FFA
+T6	Disease 262 283	cystoid macular edema
+T7	Disease 285 288	CME
+T8	Disease 307 314	uveitis
+T9	Disease 496 499	CME
+T30	Diagnostic_tool 902 905	FFA
+T10	Diagnostic_tool 510 513	OCT
+T32	Disease 941 944	CME
+T31	Diagnostic_tool 911 914	OCT
+T12	Disease 588 601	macular edema
+T34	Symptom 978 996	subretinal fluid),
+T11	Diagnostic_tool 535 538	FFA
+T33	Anatomy 968 972	eyes
+T14	Diagnostic_tool 654 657	OCT
+T36	Diagnostic_tool 1031 1034	OCT
+T13	Anatomy 621 625	eyes
+T35	Diagnostic_tool 1005 1008	OCT
+T16	Anatomy 677 681	eyes
+T15	Diagnostic_tool 662 665	FFA
+T37	Disease 1064 1067	CME
+T18	Anatomy 697 701	eyes
+T17	Disease 686 689	CME
+T19	Disease 709 712	CME

@@ -1,0 +1,18 @@
+T4	Diagnostic_tool 469 497	monoscopic optic disc images
+T5	Symptom 535 567	optic nerve head contour changes
+T6	Disease 571 579	glaucoma
+T7	Disease 689 697	Glaucoma
+T8	Diagnostic_tool 757 791	Two sets of optic disc photographs
+T9	Anatomy 835 839	eyes
+T10	Symptom 857 892	glaucomatous optic disc progression
+T12	Diagnostic_tool 1013 1038	digital stereochronoscopy
+T11	Characteristic 968 993	Change in disc morphology
+T14	Diagnostic_tool 1380 1402	optic disc photographs
+T13	Characteristic 1220 1267	change or no change in optic nerve head contour
+T16	Symptom 1786 1845	disc changes rendered more obvious with alternation flicker
+T15	Characteristic 1538 1561	vessel position, color,
+T18	Symptom 2044 2074	glaucomatous optic disc change
+T17	Diagnostic_tool 1847 1872	Digital stereochronoscopy
+T1	Symptom 0 96	Computerized stereochronoscopy and alternation flicker to detect optic nerve head contour change
+T2	Diagnostic_tool 99 116	Stereochronoscopy
+T3	Disease 168 176	glaucoma

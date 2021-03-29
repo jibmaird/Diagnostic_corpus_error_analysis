@@ -1,0 +1,21 @@
+T1	Characteristic 31 55	Visual Field Progression
+T2	Disease 95 103	Glaucoma
+T3	Symptom 217 234	visual field loss
+T4	Diagnostic_tool 241 269	standard automated perimetry
+T5	Diagnostic_tool 271 274	SAP
+T6	Anatomy 438 442	eyes
+T7	Disease 464 472	glaucoma
+T8	Diagnostic_tool 547 565	visual field tests
+T9	Diagnostic_tool 661 664	SAP
+T10	Characteristic 777 789	visual field
+T11	Symptom 891 908	visual field loss
+T12	Anatomy 1340 1344	eyes
+T13	Symptom 1353 1360	MD loss
+T14	Symptom 1364 1365	-
+T15	Dimension 1365 1369	2 dB
+T16	Symptom 1369 1374	/year
+T17	Anatomy 1501 1505	eyes
+T18	Symptom 1514 1521	MD loss
+T19	Dimension 1527 1532	.5 dB
+T20	Disease 1729 1737	glaucoma
+T21	Anatomy 1738 1742	eyes

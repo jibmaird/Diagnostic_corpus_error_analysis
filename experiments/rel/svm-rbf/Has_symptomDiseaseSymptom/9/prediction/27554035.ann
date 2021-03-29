@@ -1,0 +1,63 @@
+T41	Disease 1883 1896	POAG subtypes
+T40	Disease 1784 1797	POAG subtypes
+T21	Characteristic 854 875	root canal treatments
+T43	Dimension 1907 1916	< 22 mmHg
+T20	Symptom 814 848	periodontal disease with bone loss
+T42	Symptom 1902 1905	IOP
+T23	Symptom 998 1018	intraocular pressure
+T45	Characteristic 2025 2048	number of natural teeth
+T22	Disease 917 921	POAG
+T44	Symptom 1953 1978	early paracentral VF loss
+T25	Dimension 1025 1040	≥ or  < 22 mmHg
+T47	Symptom 2087 2104	recent tooth loss
+T24	Symptom 1020 1023	IOP
+T46	Disease 2081 2085	POAG
+T27	Symptom 1090 1105	peripheral loss
+T26	Symptom 1045 1067	visual field (VF) loss
+T48	Disease 2146 2150	POAG
+T29	Characteristic 1227 1250	Number of natural teeth
+T28	Symptom 1114 1136	early paracentral loss
+T1	Characteristic 21 32	Oral Health
+T2	Disease 45 72	Primary Open-Angle Glaucoma
+T3	Characteristic 76 79	Men
+T4	Disease 134 144	Tooth loss
+T5	Disease 148 167	periodontal disease
+T6	Symptom 187 219	systemic endothelial dysfunction
+T7	Disease 250 277	primary open-angle glaucoma
+T8	Disease 279 283	POAG
+T9	Characteristic 311 322	oral health
+T30	Disease 1252 1271	periodontal disease
+T10	Disease 327 331	POAG
+T32	Disease 1323 1327	POAG
+T31	Characteristic 1277 1297	root canal treatment
+T12	Disease 439 443	POAG
+T34	Symptom 1389 1425	losing teeth within the past 2 years
+T11	Characteristic 407 426	oral health history
+T33	Symptom 1365 1375	tooth loss
+T14	Characteristic 547 550	men
+T36	Symptom 1558 1570	losing teeth
+T13	Disease 448 461	POAG subtypes
+T35	Disease 1476 1480	POAG
+T16	Disease 675 679	POAG
+T38	Disease 1677 1681	POAG
+T15	Characteristic 646 660	aged 40+ years
+T37	Disease 1607 1626	periodontal disease
+T18	Characteristic 777 800	number of natural teeth
+T17	Anatomy 694 697	eye
+T39	Symptom 1725 1742	recent tooth loss
+T19	Characteristic 802 812	teeth lost
+R2	Has_symptom Arg1:T7 Arg2:T6
+R3	Has_symptom Arg1:T22 Arg2:T23
+R4	Has_symptom Arg1:T35 Arg2:T33
+R5	Has_symptom Arg1:T37 Arg2:T36
+R6	Has_symptom Arg1:T38 Arg2:T36
+R7	Has_symptom Arg1:T41 Arg2:T42
+R8	Has_symptom Arg1:T48 Arg2:T47
+R9	Has_symptom Arg1:T46 Arg2:T47
+R10	Has_symptom Arg1:T40 Arg2:T39
+R12	Has_symptom Arg1:T35 Arg2:T34
+R11	Has_symptom Arg1:T38 Arg2:T33
+R14	Has_symptom Arg1:T8 Arg2:T6
+R13	Has_symptom Arg1:T22 Arg2:T24
+R15	Has_symptom Arg1:T5 Arg2:T6
+R1	Has_symptom Arg1:T4 Arg2:T6

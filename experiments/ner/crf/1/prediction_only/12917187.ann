@@ -1,0 +1,31 @@
+T21	Anatomy 1663 1666	eye
+T20	Diagnostic_tool 1627 1640	eye/V(1) pain
+T23	Diagnostic_tool 1856 1869	eye/V(1) pain
+T22	Symptom 1705 1801	enhancement of the orbital segment and in 60% with enhancement of the other optic nerve segments
+T25	Symptom 2120 2211	field loss associated with a particular location of enhancement, except temporal field loss
+T24	Anatomy 1905 1908	eye
+T27	Characteristic 2320 2368	optic nerve, eye or other V(1) distribution pain
+T26	Symptom 2231 2251	intracranial lesions
+T29	Symptom 2578 2637	temporal field loss in eyes with intracranial nerve lesions
+T28	Anatomy 2399 2402	eye
+T1	Diagnostic_tool 0 66	Optic neuritis: correlation of pain and magnetic resonance imaging
+T2	Diagnostic_tool 96 127	magnetic resonance imaging (MRI
+T3	Anatomy 177 188	optic nerve
+T4	Symptom 230 284	visual field loss associated with acute optic neuritis
+T5	Disease 417 437	acute optic neuritis
+T6	Symptom 536 547	visual loss
+T7	Characteristic 565 692	eye or other fifth cranial nerve (V(1)) pain, and pain with eye movement ipsilateral to the affected optic nerve or no eye pain
+T8	Diagnostic_tool 741 744	MRI
+T9	Anatomy 769 772	eye
+T30	Symptom 2653 2670	visual field loss
+T10	Symptom 778 910	recorded the length and segment (orbital, canalicular, intracranial, or combination of segments) of abnormal optic nerve enhancement
+T31	Symptom 2702 2756	location or length of abnormal optic nerve enhancement
+T12	Characteristic 979 1014	central, arcuate, nasal or temporal
+T11	Symptom 927 947	visual field defects
+T14	Characteristic 1098 1121	optic nerve enhancement
+T13	Symptom 1050 1060	field loss
+T16	Anatomy 1327 1330	eye
+T15	Anatomy 1138 1141	eye
+T18	Anatomy 1489 1492	eye
+T17	Diagnostic_tool 1447 1460	eye/V(1) pain
+T19	Symptom 1527 1588	enhancement of the canalicular, intracranial or both segments

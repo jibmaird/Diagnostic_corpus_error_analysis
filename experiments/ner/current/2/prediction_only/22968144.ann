@@ -1,0 +1,55 @@
+T1	Characteristic 36 64	anterior chamber angle width
+T2	Characteristic 70 88	Chinese population
+T3	Characteristic 156 184	anterior chamber angle width
+T4	Characteristic 212 226	Chinese adults
+T5	Characteristic 280 323	aged 35 years or more residing in Guangzhou
+T6	Characteristic 325 330	China
+T7	Anatomy 385 388	eye
+T8	Diagnostic_tool 457 478	automated keratometry
+T9	Diagnostic_tool 508 553	anterior segment optical coherence tomography
+T10	Characteristic 574 606	angle-opening distance at 500 μm
+T11	Characteristic 608 614	AOD500
+T12	Characteristic 617 634	angle recess area
+T13	Characteristic 636 639	ARA
+T14	Characteristic 642 666	iris thickness at 750 μm
+T15	Characteristic 668 673	IT750
+T16	Characteristic 676 690	iris curvature
+T17	Characteristic 692 706	pupil diameter
+T18	Characteristic 708 725	corneal thickness
+T19	Characteristic 727 749	anterior chamber width
+T20	Characteristic 751 754	ACW
+T21	Characteristic 757 767	lens vault
+T22	Characteristic 769 771	LV
+T23	Characteristic 778 792	lens thickness
+T24	Characteristic 794 796	LT
+T25	Characteristic 817 829	axial length
+T26	Characteristic 831 833	AL
+T27	Characteristic 839 861	anterior chamber depth
+T28	Characteristic 863 866	ACD
+T29	Diagnostic_tool 871 909	partial coherence laser interferometry
+T30	Characteristic 941 947	AOD500
+T31	Characteristic 952 955	ARA
+T32	Anatomy 969 972	eye
+T33	Diagnostic_tool 1020 1037	biometric testing
+T34	Characteristic 1061 1069	mean age
+T35	Characteristic 1143 1149	female
+T36	Characteristic 1237 1243	AOD500
+T37	Characteristic 1392 1395	ARA
+T38	Characteristic 1556 1572	younger subjects
+T39	Characteristic 1597 1603	AOD500
+T40	Characteristic 1742 1748	AOD500
+T41	Characteristic 1753 1756	ARA
+T42	Characteristic 1758 1768	deeper ACD
+T43	Characteristic 1770 1792	steeper iris curvature
+T44	Characteristic 1794 1804	smaller LV
+T45	Characteristic 1814 1817	ARA
+T46	Characteristic 1831 1837	AOD500
+T47	Characteristic 1935 1941	AOD500
+T48	Characteristic 1946 1949	ARA
+T49	Characteristic 2019 2025	AOD500
+T50	Characteristic 2030 2033	ARA
+T51	Characteristic 2049 2064	Younger persons
+T52	Symptom 2084 2115	least crowded anterior chambers
+T53	Characteristic 2165 2171	AOD500
+T54	Characteristic 2176 2179	ARA
+T55	Characteristic 2214 2225	angle width

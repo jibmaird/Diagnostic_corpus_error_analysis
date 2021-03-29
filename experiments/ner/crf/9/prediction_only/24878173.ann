@@ -1,0 +1,9 @@
+T4	Disease 288 307	open-angle glaucoma
+T5	Disease 329 348	open-angle glaucoma
+T6	Anatomy 352 355	eye
+T7	Diagnostic_tool 479 544	Humphrey Field Analyzer, Carl Zeiss Meditec; SITA Standard, 24-2)
+T8	Symptom 1382 1406	visual field variability
+T9	Characteristic 1457 1592	P < 0.001) and the reliability indices (proportion of false-positive and false-negative responses, fixation losses, rho > 0.31, P≤0.10)
+T1	Symptom 0 36	Visual field progression in glaucoma
+T2	Diagnostic_tool 134 199	Guided Progression Analysis (GPA) (Carl Zeiss Meditec, Dublin, CA
+T3	Disease 229 237	glaucoma

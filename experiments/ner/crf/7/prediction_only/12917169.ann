@@ -1,0 +1,17 @@
+T4	Disease 249 252	ARM
+T5	Anatomy 389 393	eyes
+T6	Disease 419 422	ARM
+T7	Disease 437 440	ARM
+T8	Diagnostic_tool 478 527	35-mm film and digital stereoscopic fundus images
+T9	Disease 632 635	ARM
+T10	Characteristic 798 887	Signs of ARM (number, size, and morphologic characteristics of drusen; pigmentary changes
+T12	Disease 998 1001	ARM
+T11	Symptom 889 945	geographic atrophy; and neovascular macular degeneration
+T14	Symptom 1200 1238	atrophic and neovascular end-stage ARM
+T13	Symptom 1132 1177	drusen type and total area occupied by drusen
+T16	Disease 1516 1519	ARM
+T15	Disease 1318 1321	ARM
+T17	Disease 1636 1639	ARM
+T1	Diagnostic_tool 11 82	age-related maculopathy for epidemiological studies: is digital imaging
+T2	Diagnostic_tool 118 178	stereo digital images with stereo 35-mm color transparencies
+T3	Disease 224 247	age-related maculopathy

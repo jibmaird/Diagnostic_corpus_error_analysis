@@ -1,0 +1,46 @@
+T1	Symptom 27 65	retinal nerve fiber layer defect depth
+T2	Diagnostic_tool 72 116	spectral-domain optical coherence tomography
+T3	Symptom 157 197	retinal nerve fiber layer (RNFL) defects
+T4	Diagnostic_tool 206 264	Cirrus high-definition (HD) optical coherence tomography (
+T5	Diagnostic_tool 264 267	OCT
+T6	Characteristic 277 291	RNFL thickness
+T7	Anatomy 365 369	eyes
+T8	Symptom 375 409	localized and diffuse RNFL defects
+T9	Disease 417 425	glaucoma
+T10	Anatomy 443 447	eyes
+T11	Characteristic 455 462	healthy
+T12	Disease 481 489	glaucoma
+T13	Symptom 520 531	RNFL defect
+T14	Diagnostic_tool 546 573	red-free fundus photographs
+T15	Characteristic 654 671	RNFL defect depth
+T16	Diagnostic_tool 679 707	RNFL thickness deviation map
+T17	Characteristic 728 762	RNFL defect depth percentage index
+T18	Characteristic 764 768	RDPI
+T19	Symptom 807 819	RNFL defects
+T20	Characteristic 861 877	RNFL thicknesses
+T21	Characteristic 912 940	age-matched healthy subjects
+T22	Symptom 967 979	RNFL defects
+T23	Characteristic 983 1038	Retinal nerve fiber layer defect depth percentage index
+T24	Characteristic 1102 1143	circumpapillary RNFL (cpRNFL) thicknesses
+T25	Symptom 1161 1172	RNFL defect
+T26	Diagnostic_tool 1268 1271	OCT
+T27	Characteristic 1288 1293	RDPIs
+T28	Symptom 1340 1351	RNFL defect
+T29	Anatomy 1364 1372	superior
+T30	Anatomy 1377 1396	inferior hemifields
+T31	Characteristic 1488 1493	RDPIs
+T32	Anatomy 1540 1550	hemifields
+T33	Characteristic 1603 1621	cpRNFL thicknesses
+T34	Symptom 1658 1679	moderate RNFL defects
+T35	Symptom 1744 1763	severe RNFL defects
+T36	Characteristic 1783 1788	RDPIs
+T37	Anatomy 1835 1845	hemifields
+T38	Characteristic 1891 1909	cpRNFL thicknesses
+T39	Characteristic 2008 2012	RDPI
+T40	Diagnostic_tool 2038 2088	Cirrus HD OCT-derived RNFL thickness deviation map
+T41	Characteristic 2151 2155	RNFL
+T42	Symptom 2156 2162	defect
+T43	Characteristic 2163 2168	depth
+T44	Characteristic 2207 2223	cpRNFL thickness
+T45	Symptom 2250 2280	mild and moderate RNFL defects
+T46	Symptom 2312 2339	moderate and severe defects

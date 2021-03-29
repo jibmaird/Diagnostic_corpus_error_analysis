@@ -1,0 +1,57 @@
+T21	Characteristic 757 767	lens vault
+T20	Characteristic 751 754	ACW
+T23	Characteristic 778 792	lens thickness
+T22	Characteristic 769 771	LV
+T25	Characteristic 817 829	axial length
+T24	Characteristic 794 796	LT
+T27	Characteristic 839 861	anterior chamber depth
+T26	Characteristic 831 833	AL
+T29	Diagnostic_tool 871 909	partial coherence laser interferometry
+T28	Characteristic 863 866	ACD
+T30	Characteristic 941 947	AOD500
+T32	Anatomy 969 972	eye
+T31	Characteristic 952 955	ARA
+T34	Characteristic 1143 1149	female
+T33	Characteristic 1061 1069	mean age
+T36	Characteristic 1227 1229	AL
+T35	Characteristic 1201 1207	AOD500
+T38	Characteristic 1392 1395	ARA
+T37	Characteristic 1232 1243	Mean AOD500
+T39	Characteristic 1556 1572	younger subjects
+T41	Characteristic 1742 1748	AOD500
+T40	Characteristic 1597 1603	AOD500
+T43	Characteristic 1758 1768	deeper ACD
+T42	Characteristic 1753 1756	ARA
+T45	Characteristic 1794 1804	smaller LV
+T44	Characteristic 1770 1792	steeper iris curvature
+T47	Characteristic 1823 1837	greater AOD500
+T46	Characteristic 1806 1817	greater ARA
+T49	Characteristic 1946 1949	ARA
+T48	Characteristic 1935 1941	AOD500
+T1	Characteristic 36 64	anterior chamber angle width
+T2	Characteristic 70 88	Chinese population
+T3	Characteristic 156 184	anterior chamber angle width
+T4	Characteristic 212 226	Chinese adults
+T5	Characteristic 272 293	Persons aged 35 years
+T6	Characteristic 302 330	residing in Guangzhou, China
+T7	Anatomy 385 388	eye
+T8	Diagnostic_tool 467 478	keratometry
+T9	Diagnostic_tool 508 553	anterior segment optical coherence tomography
+T50	Characteristic 2019 2025	AOD500
+T52	Characteristic 2049 2064	Younger persons
+T51	Characteristic 2030 2033	ARA
+T10	Characteristic 574 606	angle-opening distance at 500 μm
+T54	Characteristic 2165 2171	AOD500
+T53	Characteristic 2084 2115	least crowded anterior chambers
+T12	Characteristic 617 634	angle recess area
+T56	Characteristic 2204 2225	change in angle width
+T11	Characteristic 608 614	AOD500
+T55	Characteristic 2176 2179	ARA
+T14	Characteristic 642 666	iris thickness at 750 μm
+T13	Characteristic 636 639	ARA
+T57	Characteristic 2235 2268	demographic and biometric factors
+T16	Characteristic 676 690	iris curvature
+T15	Characteristic 668 673	IT750
+T18	Characteristic 708 725	corneal thickness
+T17	Characteristic 692 706	pupil diameter
+T19	Characteristic 727 749	anterior chamber width

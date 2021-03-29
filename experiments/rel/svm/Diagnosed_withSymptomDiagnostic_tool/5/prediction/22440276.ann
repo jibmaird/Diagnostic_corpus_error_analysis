@@ -1,0 +1,60 @@
+T21	Diagnostic_tool 830 855	macular cube for coverage
+T20	Diagnostic_tool 782 785	OCT
+T23	Diagnostic_tool 906 939	high-resolution horizontal B-scan
+T22	Diagnostic_tool 857 900	19 horizontal B-scans centered on the fovea
+T25	Symptom 1005 1037	hyporeflective wedge-shaped band
+T24	Anatomy 956 962	foveal
+T27	Symptom 1071 1108	hyporeflective wedge-shaped structure
+T26	Symptom 1058 1060	GA
+T29	Anatomy 1196 1217	outer plexiform layer
+T28	Anatomy 1127 1143	Bruch's membrane
+T30	Anatomy 1219 1222	OPL
+T32	Anatomy 1325 1329	eyes
+T31	Anatomy 1292 1298	retina
+T34	Anatomy 1426 1429	OPL
+T33	Symptom 1380 1399	hyporeflective band
+T36	Anatomy 1494 1513	outer nuclear layer
+T35	Diagnostic_tool 1437 1465	eccentric SD-OCT acquisition
+T38	Anatomy 1524 1543	Henle's fiber layer
+T37	Anatomy 1515 1518	ONL
+T39	Anatomy 1545 1548	HFL
+T41	Symptom 1616 1657	atrophy of the retinal pigment epithelium
+T40	Anatomy 1586 1589	ONL
+T43	Symptom 1667 1694	narrow hyperreflective band
+T42	Anatomy 1659 1662	RPE
+T45	Anatomy 1731 1734	RPE
+T44	Anatomy 1723 1726	ONL
+T47	Symptom 1801 1838	hyporeflective wedge-shaped structure
+T46	Symptom 1744 1763	hyporeflective band
+T49	Symptom 1908 1910	GA
+T48	Anatomy 1887 1890	OPL
+T1	Symptom 0 32	Hyporeflective wedge-shaped band
+T2	Symptom 36 54	geographic atrophy
+T3	Disease 68 100	age-related macular degeneration
+T4	Diagnostic_tool 179 223	spectral-domain optical coherence tomography
+T5	Diagnostic_tool 225 231	SD-OCT
+T6	Symptom 253 290	hyporeflective wedge-shaped structure
+T7	Symptom 325 332	atrophy
+T8	Characteristic 409 434	50 years of age and older
+T9	Symptom 440 458	geographic atrophy
+T50	Disease 1924 1927	AMD
+T52	Symptom 2005 2020	axonal swelling
+T51	Anatomy 1978 1981	HFL
+T10	Symptom 460 462	GA
+T54	Diagnostic_tool 2090 2103	SD-OCT images
+T53	Symptom 2024 2041	interaxonal edema
+T12	Disease 511 514	AMD
+T56	Anatomy 2183 2202	photoreceptor cells
+T11	Disease 477 509	age-related macular degeneration
+T55	Anatomy 2111 2123	outer layers
+T14	Diagnostic_tool 663 671	infrared
+T58	Symptom 2291 2293	GA
+T13	Diagnostic_tool 639 661	35° fundus photography
+T57	Anatomy 2211 2214	RPE
+T16	Diagnostic_tool 698 701	FAF
+T15	Diagnostic_tool 673 696	fundus autofluorescence
+T59	Disease 2307 2310	AMD
+T18	Anatomy 737 743	fundus
+T17	Diagnostic_tool 708 714	SD-OCT
+T19	Diagnostic_tool 749 752	FAF
+R1	Diagnosed_with Arg1:T6 Arg2:T4

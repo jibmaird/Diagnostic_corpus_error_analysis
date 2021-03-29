@@ -1,0 +1,25 @@
+T21	Symptom 1555 1570	disc hemorrhage
+T20	Anatomy 1545 1549	eyes
+T23	Disease 1622 1626	PACG
+T22	Symptom 1589 1604	disc hemorrhage
+T25	Symptom 1756 1800	glaucomatous optic neuropathy and VF defects
+T24	Characteristic 1697 1720	disc hemorrhage in PACG
+T1	Symptom 19 34	disc hemorrhage
+T2	Disease 38 68	primary angle-closure glaucoma
+T3	Symptom 105 161	disc hemorrhage in primary angle-closure glaucoma (PACG)
+T4	Disease 222 230	glaucoma
+T5	Symptom 244 281	PACG and a history of disc hemorrhage
+T6	Diagnostic_tool 283 354	Goldmann tonometry, gonioscopy, ophthalmoscopy, and automated perimetry
+T7	Symptom 390 417	duration of disc hemorrhage
+T8	Symptom 433 578	intraocular pressure (IOP) and cup-to-disc ratio (CDR) in eyes with and fellow eyes without hemorrhage; and changes of CDR and visual fields (VFs
+T9	Symptom 684 822	PACG, 44 (5.7%) had disc hemorrhage at some point in their history, of whom 30 (68%) had unilateral and 14 (32%) had bilateral hemorrhages
+T10	Anatomy 869 873	eyes
+T12	Anatomy 938 942	eyes
+T11	Anatomy 919 923	eyes
+T14	Anatomy 1111 1115	eyes
+T13	Anatomy 1067 1100	superotemporal sector of the disc
+T16	Characteristic 1267 1278	IOP and CDR
+T15	Symptom 1121 1147	recurrent disc hemorrhages
+T18	Anatomy 1337 1341	eyes
+T17	Anatomy 1316 1320	eyes
+T19	Symptom 1380 1527	unilateral disc hemorrhage, progressive changes in the CDR were found in both the eyes with and fellow eyes without disc hemorrhage, but VF defects

@@ -1,0 +1,33 @@
+T21	Disease 1541 1549	late ARM
+T20	Symptom 1478 1494	early ARM lesion
+T23	Disease 1765 1773	late ARM
+T22	Disease 1610 1618	late ARM
+T25	Disease 1920 1938	late and early ARM
+T24	Disease 1817 1826	early ARM
+T27	Symptom 1991 2007	early ARM lesion
+T26	Characteristic 1983 1986	age
+T29	Characteristic 2125 2141	older population
+T28	Disease 2063 2071	late ARM
+T1	Disease 41 64	age-related maculopathy
+T2	Disease 140 163	age-related maculopathy
+T3	Disease 165 168	ARM
+T4	Characteristic 176 199	older Australian cohort
+T5	Characteristic 332 350	> or =49 years old
+T6	Diagnostic_tool 550 578	retinal photographic grading
+T7	Classification_system 610 651	Wisconsin Age-Related Maculopathy Grading
+T8	Diagnostic_tool 660 671	Photographs
+T9	Symptom 693 704	ARM lesions
+T30	Disease 2168 2171	ARM
+T10	Disease 840 857	incident late ARM
+T32	Disease 2338 2346	late ARM
+T31	Symptom 2223 2242	early-stage lesions
+T12	Symptom 890 908	geographic atrophy
+T11	Symptom 871 886	neovascular ARM
+T14	Disease 1036 1045	early ARM
+T13	Disease 1000 1018	Incident early ARM
+T16	Symptom 1086 1147	combined soft distinct drusen and retinal pigment abnormality
+T15	Symptom 1047 1082	soft indistinct or reticular drusen
+T18	Disease 1212 1235	Age-related maculopathy
+T17	Disease 1180 1198	early and late ARM
+T19	Disease 1411 1428	incident late ARM
+R1	Diagnosed_with Arg1:T9 Arg2:T8

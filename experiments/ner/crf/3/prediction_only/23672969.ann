@@ -1,0 +1,23 @@
+T4	Diagnostic_tool 264 316	spectral-domain optical coherence tomography (SD-OCT
+T5	Diagnostic_tool 445 451	SD-OCT
+T6	Disease 675 696	cystoid macular edema
+T7	Disease 698 701	CME
+T8	Characteristic 707 742	persistence of inner retinal layers
+T9	Symptom 769 810	foveal retinal lamination, image analysis
+T10	Anatomy 947 952	fovea
+T21	Disease 1728 1731	CME
+T20	Disease 1664 1673	ROP stage
+T12	Characteristic 1213 1215	4A
+T23	Characteristic 1839 1876	macular findings in premature infants
+T11	Symptom 1011 1041	1 or more inner retinal layers
+T22	Diagnostic_tool 1765 1789	Hand-held SD-OCT imaging
+T14	Disease 1328 1349	Cystoid macular edema
+T13	Disease 1231 1252	Cystoid macular edema
+T16	Characteristic 1433 1435	4A
+T15	Disease 1396 1407	maximum ROP
+T18	Disease 1579 1582	CME
+T17	Characteristic 1492 1565	inner retinal layers in premature infants regardless of maximal ROP stage
+T1	Characteristic 0 39	Subclinical macular findings in infants
+T19	Disease 1622 1625	CME
+T2	Diagnostic_tool 85 129	spectral-domain optical coherence tomography
+T3	Characteristic 156 237	macular findings in premature patients at risk of retinopathy of prematurity (ROP

@@ -1,0 +1,34 @@
+T1	Characteristic 13 38	Epstein-Barr virus genome
+T2	Anatomy 42 56	ocular tissues
+T3	Disease 59 77	Epstein-Barr virus
+T4	Disease 79 82	EBV
+T5	Disease 89 116	ubiquitous mucosal pathogen
+T6	Disease 215 218	EBV
+T7	Disease 223 252	ocular inflammatory disorders
+T8	Anatomy 264 278	ocular tissues
+T9	Anatomy 291 295	eyes
+T10	Disease 316 319	EBV
+T11	Anatomy 366 370	eyes
+T12	Anatomy 391 404	limbal cornea
+T13	Anatomy 406 420	central cornea
+T14	Anatomy 422 435	aqueous humor
+T15	Anatomy 437 441	iris
+T16	Anatomy 443 457	vitreous humor
+T17	Anatomy 463 474	optic nerve
+T18	Diagnostic_tool 482 494	cellular DNA
+T19	Characteristic 552 586	EBV's large internal repeat region
+T20	Diagnostic_tool 667 700	32P-labeled oligonucleotide probe
+T21	Anatomy 797 801	eyes
+T22	Diagnostic_tool 844 858	chain reaction
+T23	Disease 891 894	EBV
+T24	Anatomy 936 942	ocular
+T25	Characteristic 961 968	EBV DNA
+T26	Anatomy 979 990	optic nerve
+T27	Characteristic 1021 1028	EBV DNA
+T28	Characteristic 1043 1050	EBV DNA
+T29	Anatomy 1064 1078	ocular tissues
+T30	Disease 1127 1154	persistent mucosal pathogen
+T31	Disease 1181 1184	EBV
+T32	Anatomy 1216 1222	ocular
+T33	Disease 1352 1355	EBV
+T34	Disease 1359 1375	ocular pathology

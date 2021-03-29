@@ -1,0 +1,54 @@
+T21	Anatomy 1081 1091	hemifields
+T20	Characteristic 1029 1049	GCIPL thinning rates
+T23	Characteristic 1123 1151	macular GCIPL thinning rates
+T22	Anatomy 1107 1117	hemifields
+T25	Characteristic 1218 1237	GCIPL thinning rate
+T24	Characteristic 1159 1194	progressor and nonprogressor groups
+T27	Characteristic 1276 1295	GCIPL thinning rate
+T26	Characteristic 1250 1270	glaucoma progression
+T29	Characteristic 1344 1358	nonprogressors
+T28	Characteristic 1324 1335	progressors
+T30	Anatomy 1366 1377	global area
+T32	Anatomy 1439 1476	temporal, vertical, and nasal sectors
+T31	Anatomy 1409 1418	hemifield
+T34	Characteristic 1567 1582	GCIPL thickness
+T33	Anatomy 1493 1502	hemifield
+T36	Characteristic 1627 1647	GCIPL thinning rates
+T35	Anatomy 1605 1621	temporal sectors
+T38	Characteristic 1745 1761	GCIPL parameters
+T37	Anatomy 1713 1722	hemifield
+T39	Characteristic 1771 1901	global (AUC = 0.791), minimum (AUC = 0.755), inferior hemifield (AUC = 0.708), and affected hemifield (AUC = 0.702) thinning rates
+T41	Characteristic 2004 2057	global and inferotemporal sector GCIPL thinning rates
+T40	Characteristic 1907 1969	global circumpapillary retinal nerve fiber layer thinning rate
+T43	Diagnostic_tool 2124 2127	OCT
+T42	Characteristic 2101 2120	GCIPL thinning rate
+T45	Characteristic 2237 2279	GCIPL thinning rate of the temporal sector
+T44	Disease 2171 2179	glaucoma
+T47	Symptom 2361 2380	glaucomatous damage
+T46	Anatomy 2330 2339	hemifield
+T49	Diagnostic_tool 2469 2472	OCT
+T48	Characteristic 2450 2465	GCIPL thickness
+T1	Characteristic 24 77	Ganglion Cell-Inner Plexiform Layer Thickness Changes
+T2	Diagnostic_tool 81 109	Optical Coherence Tomography
+T3	Characteristic 113 133	Glaucoma Progression
+T4	Characteristic 152 225	rate of thinning in ganglion cell-inner plexiform layer (GCIPL) thickness
+T5	Diagnostic_tool 229 257	optical coherence tomography
+T6	Diagnostic_tool 259 262	OCT
+T7	Disease 267 279	glaucomatous
+T8	Anatomy 280 284	eyes
+T9	Characteristic 369 389	glaucoma progression
+T50	Characteristic 2501 2521	glaucoma progression
+T10	Disease 450 477	primary open-angle glaucoma
+T12	Characteristic 562 577	GCIPL thickness
+T11	Diagnostic_tool 527 546	spectral-domain OCT
+T14	Characteristic 643 659	progressor group
+T13	Characteristic 608 627	nonprogressor group
+T16	Diagnostic_tool 716 734	visual field tests
+T15	Diagnostic_tool 692 712	red-free photography
+T18	Anatomy 795 804	hemifield
+T17	Characteristic 740 784	rates of GCIPL thinning in the global region
+T19	Anatomy 812 819	macular
+R2	Diagnosed_with Arg1:T10 Arg2:T11
+R3	Diagnosed_with Arg1:T44 Arg2:T43
+R4	Diagnosed_with Arg1:T7 Arg2:T6
+R1	Diagnosed_with Arg1:T7 Arg2:T5

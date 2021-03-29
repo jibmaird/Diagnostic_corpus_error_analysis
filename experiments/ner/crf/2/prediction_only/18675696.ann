@@ -1,0 +1,36 @@
+T21	Symptom 1300 1377	absolute change in retinal thickness and relative change in retinal thickness
+T20	Characteristic 1251 1255	CSMT
+T23	Characteristic 1430 1466	Macular thinning in the mETDRS group
+T22	Symptom 1391 1428	relative change in retinal thickening
+T25	Symptom 1654 1691	Relative change in macular thickening
+T24	Characteristic 1505 1556	MMG group when absolute change in retinal thickness
+T27	Symptom 1728 1839	mild degrees of baseline thickening, unlike the situation with absolute or relative change in retinal thickness
+T26	Anatomy 1718 1722	eyes
+T29	Diagnostic_tool 1890 1893	OCT
+T28	Characteristic 1841 1872	Central subfield mean thickness
+T1	Diagnostic_tool 0 94	Optical coherence tomography measurements and analysis methods in optical coherence tomography
+T2	Disease 106 128	diabetic macular edema
+T3	Diagnostic_tool 143 171	optical coherence tomography
+T4	Diagnostic_tool 173 176	OCT
+T5	Diagnostic_tool 218 221	OCT
+T6	Disease 241 263	diabetic macular edema
+T7	Disease 265 268	DME
+T8	Diagnostic_tool 296 299	OCT
+T9	Disease 373 376	DME
+T30	Anatomy 1914 1928	central macula
+T10	Diagnostic_tool 455 542	Diabetic Retinopathy Study (mETDRS) versus modified macular grid (MMG) photocoagulation
+T32	Characteristic 2036 2050	macular volume
+T31	Characteristic 1988 2028	other measurements of the central macula
+T12	Disease 604 607	DME
+T34	Characteristic 2111 2147	Absolute change in retinal thickness
+T11	Disease 547 550	DME
+T33	Anatomy 2077 2091	central macula
+T14	Diagnostic_tool 737 740	OCT
+T36	Symptom 2212 2235	mild macular thickening
+T13	Diagnostic_tool 651 654	OCT
+T35	Anatomy 2202 2206	eyes
+T16	Symptom 872 1032	change in macular thickness were analyzed: absolute change in retinal thickness, relative change in retinal thickness, and relative change in retinal thickening
+T15	Characteristic 785 838	OCT measurement changes, and treatment group outcomes
+T18	Characteristic 1109 1131	Center point thickness
+T17	Diagnostic_tool 1073 1076	OCT
+T19	Symptom 1155 1217	central subfield mean thickness (CSMT) at baseline (0.98-0.99)

@@ -1,0 +1,41 @@
+T1	Disease 0 20	Diabetic retinopathy
+T2	Diagnostic_tool 39 53	ophthalmoscopy
+T3	Diagnostic_tool 57 76	nonmydriatic camera
+T4	Diagnostic_tool 83 105	standard fundus camera
+T5	Disease 168 188	diabetic retinopathy
+T6	Disease 266 277	retinopathy
+T7	Diagnostic_tool 297 332	30 degrees stereoscopic photographs
+T8	Diagnostic_tool 357 378	direct ophthalmoscopy
+T9	Anatomy 400 405	pupil
+T10	Diagnostic_tool 407 453	nonstereoscopic 45 degrees retinal photography
+T11	Diagnostic_tool 502 540	nonstereoscopic 45 degrees photography
+T12	Anatomy 559 564	pupil
+T13	Diagnostic_tool 575 596	45 degrees photograph
+T14	Anatomy 618 622	disc
+T15	Anatomy 627 632	fovea
+T16	Diagnostic_tool 647 668	direct ophthalmoscopy
+T17	Anatomy 738 743	pupil
+T18	Diagnostic_tool 769 790	45 degrees photograph
+T19	Diagnostic_tool 831 872	30 degrees stereoscopic color photographs
+T20	Characteristic 876 886	DRS fields
+T21	Diagnostic_tool 924 936	photographic
+T22	Disease 1003 1014	retinopathy
+T23	Symptom 1049 1065	diabetic lesions
+T24	Classification_system 1076 1112	Modified Airlie House Classification
+T25	Disease 1153 1164	retinopathy
+T26	Disease 1172 1188	nonproliferative
+T27	Disease 1192 1205	proliferative
+T28	Diagnostic_tool 1231 1252	direct ophthalmoscopy
+T29	Disease 1268 1279	retinopathy
+T30	Diagnostic_tool 1285 1309	stereoscopic photographs
+T31	Diagnostic_tool 1325 1351	standard 30 degrees camera
+T32	Disease 1403 1414	retinopathy
+T33	Symptom 1422 1436	microaneurysms
+T34	Disease 1453 1481	nonproliferative retinopathy
+T35	Disease 1486 1511	proliferative retinopathy
+T36	Disease 1550 1561	retinopathy
+T37	Anatomy 1616 1622	pupils
+T38	Anatomy 1672 1678	pupils
+T39	Anatomy 1779 1785	pupils
+T40	Diagnostic_tool 1833 1878	45 degrees nonstereoscopic fundus photographs
+T41	Disease 2014 2025	retinopathy

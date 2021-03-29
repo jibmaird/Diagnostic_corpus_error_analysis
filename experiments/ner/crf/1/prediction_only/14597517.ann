@@ -1,0 +1,23 @@
+T4	Disease 372 375	ROP
+T5	Diagnostic_tool 453 560	indirect ophthalmoscopy (gold standard) and digital photography using the RetCam-120 Digital Retinal Camera
+T6	Diagnostic_tool 626 634	ROP lens
+T7	Characteristic 712 715	ROP
+T8	Disease 731 734	ROP
+T9	Disease 762 774	plus disease
+T10	Disease 798 809	stage 3 ROP
+T21	Disease 1602 1605	ROP
+T20	Diagnostic_tool 1480 1499	digital photographs
+T12	Anatomy 1035 1039	eyes
+T23	Disease 1720 1723	ROP
+T11	Anatomy 888 891	eye
+T22	Diagnostic_tool 1657 1676	digital photographs
+T14	Disease 1207 1210	ROP
+T13	Diagnostic_tool 1104 1123	Digital photography
+T16	Anatomy 1328 1332	eyes
+T15	Diagnostic_tool 1245 1264	digital photography
+T18	Diagnostic_tool 1374 1393	digital photography
+T17	Characteristic 1353 1356	ROP
+T1	Disease 39 72	severe retinopathy of prematurity
+T19	Diagnostic_tool 1433 1447	ophthalmoscopy
+T2	Characteristic 131 238	digital retinal photographs in the diagnosis of severe (referral-warranted) retinopathy of prematurity (ROP
+T3	Disease 274 277	ROP

@@ -1,0 +1,29 @@
+T21	Diagnostic_tool 609 632	indirect ophthalmoscopy
+T20	Anatomy 599 603	eyes
+T23	Anatomy 666 673	Retinal
+T22	Symptom 662 664	RD
+T25	Symptom 826 844	macular detachment
+T24	Anatomy 746 750	eyes
+T27	Anatomy 895 899	eyes
+T26	Anatomy 875 879	eyes
+T28	Characteristic 915 927	20/50 vision
+T1	Disease 0 43	Pseudophakic and aphakic retinal detachment
+T2	Disease 54 75	cystoid macular edema
+T3	Anatomy 88 92	eyes
+T4	Disease 159 222	aphakic (8 eyes) or pseudophakic (9 eyes) cystoid macular edema
+T5	Disease 224 227	CME
+T6	Anatomy 260 264	eyes
+T7	Symptom 272 290	retinal detachment
+T8	Symptom 292 294	RD
+T9	Anatomy 307 311	eyes
+T10	Disease 316 319	CME
+T12	Symptom 334 337	RDs
+T11	Symptom 325 327	RD
+T14	Disease 398 401	PVR
+T13	Disease 365 396	Proliferative vitreoretinopathy
+T16	Symptom 454 467	vitreous loss
+T15	Anatomy 419 423	eyes
+T18	Characteristic 519 532	Visual acuity
+T17	Anatomy 513 517	eyes
+T19	Anatomy 570 576	Fundus
+R1	Has_symptom Arg1:T10 Arg2:T11

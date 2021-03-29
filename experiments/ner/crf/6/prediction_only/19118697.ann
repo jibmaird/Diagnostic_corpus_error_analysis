@@ -1,0 +1,26 @@
+T21	Symptom 1850 1866	subretinal fluid
+T20	Symptom 1819 1840	central fluid pooling
+T23	Diagnostic_tool 1914 1916	FA
+T22	Diagnostic_tool 1896 1902	HD OCT
+T25	Diagnostic_tool 2076 2082	HD OCT
+T24	Diagnostic_tool 2020 2022	FA
+T26	Symptom 2094 2188	diffuse leakage pattern was associated with nonuniform changes in retinal morphologic features
+T1	Diagnostic_tool 28 88	angiography and high-resolution optical coherence tomography
+T2	Disease 92 114	diabetic macular edema
+T3	Diagnostic_tool 150 173	fluorescein angiography
+T4	Diagnostic_tool 175 282	FA) images and retinal morphologic features in high-definition optical coherence tomography (HD OCT) images
+T5	Disease 286 308	diabetic macular edema
+T6	Anatomy 381 385	eyes
+T7	Disease 392 414	diabetic macular edema
+T8	Diagnostic_tool 449 494	FA (HRA 2; Heidelberg Engineering) and HD OCT
+T9	Diagnostic_tool 763 783	HD OCT en face image
+T10	Diagnostic_tool 801 809	FA image
+T12	Symptom 1057 1140	Angiographic leakage type and structural alteration in retinal morphologic features
+T11	Symptom 959 1028	vascular leakage in FA and the associated retinal morphologic changes
+T14	Diagnostic_tool 1186 1188	FA
+T13	Diagnostic_tool 1144 1147	OCT
+T16	Symptom 1279 1400	large cystic spaces in the outer nuclear layer (ONL) and the outer plexiform layer (OPL) with or without subretinal fluid
+T15	Diagnostic_tool 1193 1196	OCT
+T18	Characteristic 1653 1734	hyperfluorescence did not correlate with characteristic retinal changes in HD OCT
+T17	Symptom 1530 1605	cystic spaces in ONL, OPL, the inner nuclear, and the inner plexiform layer
+T19	Symptom 1779 1801	morphologic alteration

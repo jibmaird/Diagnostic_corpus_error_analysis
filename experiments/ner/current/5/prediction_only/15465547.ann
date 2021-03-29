@@ -1,0 +1,44 @@
+T1	Diagnostic_tool 27 30	GDx
+T2	Disease 39 47	glaucoma
+T3	Diagnostic_tool 94 97	GDx
+T4	Disease 122 130	glaucoma
+T5	Anatomy 203 206	eye
+T6	Disease 257 284	primary open-angle glaucoma
+T7	Characteristic 288 311	Caucasian racial origin
+T8	Characteristic 334 354	normal visual fields
+T9	Characteristic 356 359	VFs
+T10	Characteristic 362 389	healthy-looking optic discs
+T11	Characteristic 395 416	intraocular pressures
+T12	Dimension 421 435	<  or =21 mmHg
+T13	Anatomy 444 448	eyes
+T14	Disease 450 458	Glaucoma
+T15	Symptom 487 509	glaucomatous VF defect
+T16	Symptom 516 557	glaucomatous appearance of the optic disc
+T17	Anatomy 574 577	eye
+T18	Diagnostic_tool 615 622	GDx VCC
+T19	Anatomy 650 657	corneal
+T20	Symptom 981 996	mild, moderate,
+T21	Symptom 1001 1027	severe glaucomatous damage
+T22	Characteristic 1068 1073	TSNIT
+T23	Characteristic 1075 1121	temporal, superior, nasal, inferior, temporal)
+T24	Characteristic 1167 1172	TSNIT
+T25	Diagnostic_tool 1209 1230	Nerve Fiber Indicator
+T26	Characteristic 1232 1235	NFI
+T27	Diagnostic_tool 1272 1277	TSNIT
+T28	Characteristic 1323 1328	TSNIT
+T29	Characteristic 1344 1347	NFI
+T30	Characteristic 1439 1442	NFI
+T31	Disease 1583 1591	glaucoma
+T32	Characteristic 1605 1608	NFI
+T33	Dimension 1620 1621	<
+T34	Characteristic 1622 1624	35
+T35	Characteristic 1755 1758	NFI
+T36	Disease 1785 1793	glaucoma
+T37	Symptom 1808 1823	mild, moderate,
+T38	Symptom 1828 1841	severe damage
+T39	Diagnostic_tool 1890 1897	GDx VCC
+T40	Disease 1967 1979	glaucomatous
+T41	Anatomy 1980 1984	eyes
+T42	Characteristic 1990 1993	NFI
+T43	Diagnostic_tool 2037 2040	GDx
+T44	Disease 2077 2085	glaucoma

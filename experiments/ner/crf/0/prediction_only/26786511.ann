@@ -1,0 +1,19 @@
+T4	Symptom 502 516	ocular lesions
+T5	Characteristic 553 566	United States
+T6	Diagnostic_tool 696 800	1 examination modality: fundus autofluorescence (FAF), spectral-domain (SD) optical coherence tomography
+T7	Diagnostic_tool 802 836	SD OCT), and/or microperimetry (MP
+T8	Symptom 932 971	Demographic and visual acuity (VA) data
+T9	Diagnostic_tool 1158 1226	Early Treatment Diabetic Retinopathy Study (ETDRS) best-corrected VA
+T10	Characteristic 1228 1247	SD OCT, FAF, and MP
+T12	Characteristic 1470 1529	demographics, and structural and functional retinal metrics
+T11	Symptom 1325 1355	STGD1 in 2 large retrospective
+T14	Symptom 1682 1694	mild VA loss
+T13	Anatomy 1579 1583	eyes
+T16	Symptom 1746 1831	decreased autofluorescence (DDAF) with an average lesion area of 2.5±2.9 mm(2) (range
+T15	Anatomy 1717 1721	eyes
+T18	Symptom 1962 2001	mild VA loss, and 64% had areas of DDAF
+T17	Anatomy 1889 1893	eyes
+T1	Diagnostic_tool 42 146	Atrophy Secondary to Stargardt Disease (ProgStar) Studies: Design and Baseline Characteristics: ProgStar
+T19	Disease 2108 2110	MP
+T2	Diagnostic_tool 269 293	Stargardt disease (STGD1
+T3	Characteristic 472 482	ABCA4 gene

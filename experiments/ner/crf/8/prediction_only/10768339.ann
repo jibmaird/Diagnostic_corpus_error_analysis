@@ -1,0 +1,40 @@
+T40	Disease 2553 2573	diabetic maculopathy
+T21	Anatomy 1155 1159	eyes
+T20	Anatomy 1129 1133	eyes
+T23	Anatomy 1202 1206	eyes
+T22	Diagnostic_tool 1173 1191	entoptic perimetry
+T25	Diagnostic_tool 1242 1260	Entoptic perimetry
+T24	Anatomy 1228 1232	eyes
+T27	Disease 1488 1492	CSME
+T26	Characteristic 1344 1369	Amsler grid (P  <  0.001)
+T29	Anatomy 1556 1560	eyes
+T28	Anatomy 1530 1534	eyes
+T1	Diagnostic_tool 0 49	Entoptic perimetry screening for central diabetic
+T2	Disease 63 76	macular edema
+T3	Diagnostic_tool 116 134	entoptic perimetry
+T4	Disease 247 267	diabetic maculopathy
+T5	Disease 272 285	macular edema
+T6	Anatomy 323 326	eye
+T7	Disease 370 378	diabetes
+T8	Anatomy 414 417	eye
+T9	Diagnostic_tool 434 515	Amsler grid, entoptic perimetry, and Humphrey 10-2 threshold visual field testing
+T30	Characteristic 1570 1702	Amsler grid, 9 of 24 eyes (37.5%) and 59 of 80 eyes (73.8%); and entoptic perimetry, 17 of 24 eyes (70.8%) and 44 of 80 (55.0%) eyes
+T10	Characteristic 517 586	HVF 10-2; Humphrey Instruments Inc., San Leandro, CA) in random order
+T32	Characteristic 1893 1904	Amsler grid
+T31	Symptom 1759 1848	entoptic perimetry being more sensitive and less specific than both subjective impression
+T12	Symptom 651 778	new visual decline since the patient's last clinical examination, the presence or absence of central visual field abnormalities
+T34	Symptom 2050 2119	visual decline (P  <  0.001) and 100% more sensitive than Amsler grid
+T11	Anatomy 588 592	Eyes
+T33	Diagnostic_tool 1975 1993	Entoptic perimetry
+T14	Characteristic 821 829	HVF 10-2
+T36	Disease 2175 2183	diabetic
+T13	Diagnostic_tool 788 819	Amsler grid, entoptic perimetry
+T35	Symptom 2155 2171	central scotomas
+T16	Disease 900 904	CSME
+T38	Diagnostic_tool 2221 2239	entoptic perimetry
+T15	Disease 862 898	clinically significant macular edema
+T37	Disease 2215 2219	CSME
+T18	Anatomy 1067 1071	eyes
+T17	Symptom 964 1056	central diabetic scotomas as evidenced by HVF 10-2 abnormalities were: subjective impression
+T39	Diagnostic_tool 2362 2380	entoptic perimetry
+T19	Anatomy 1093 1097	eyes

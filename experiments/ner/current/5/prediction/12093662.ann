@@ -1,0 +1,62 @@
+T1	Disease 13 29	optic neuropathy
+T2	Disease 33 45	glaucomatous
+T3	Anatomy 46 50	eyes
+T4	Characteristic 63 85	standard visual fields
+T5	Diagnostic_tool 110 146	short-wavelength automated perimetry
+T6	Diagnostic_tool 151 178	pattern electroretinography
+T7	Diagnostic_tool 231 267	short-wavelength automated perimetry
+T8	Diagnostic_tool 269 273	SWAP
+T9	Diagnostic_tool 276 321	frequency-doubling technology (FDT) perimetry
+T10	Diagnostic_tool 327 354	pattern-electroretinography
+T11	Diagnostic_tool 356 360	PERG
+T12	Disease 388 415	primary open-angle glaucoma
+T13	Disease 417 421	POAG
+T14	Diagnostic_tool 445 473	standard automated perimetry
+T15	Diagnostic_tool 475 478	SAP
+T16	Disease 559 563	POAG
+T17	Symptom 578 598	visual field defects
+T18	Anatomy 606 609	eye
+T19	Characteristic 621 643	standard visual fields
+T20	Anatomy 665 668	eye
+T21	Diagnostic_tool 707 711	SWAP
+T22	Diagnostic_tool 713 717	PERG
+T23	Diagnostic_tool 719 722	FDT
+T24	Diagnostic_tool 728 731	SAP
+T25	Anatomy 754 758	eyes
+T26	Characteristic 764 778	global indices
+T27	Disease 835 848	contralateral
+T28	Disease 849 853	POAG
+T29	Anatomy 854 858	eyes
+T30	Symptom 875 894	glaucomatous damage
+T31	Characteristic 959 977	SAP mean deviation
+T32	Characteristic 999 1006	SWAP-MD
+T33	Characteristic 1021 1027	FDT-MD
+T34	Characteristic 1046 1061	PERG amplitudes
+T35	Disease 1101 1105	POAG
+T36	Anatomy 1106 1110	eyes
+T37	Diagnostic_tool 1134 1137	SAP
+T38	Characteristic 1211 1218	SWAP-MD
+T39	Characteristic 1235 1241	FDT-MD
+T40	Characteristic 1256 1275	PERG N1P1-amplitude
+T41	Characteristic 1293 1307	P1N2-amplitude
+T42	Characteristic 1399 1406	SWAP-MD
+T43	Diagnostic_tool 1432 1439	SWAP-MD
+T44	Diagnostic_tool 1459 1465	FDT-MD
+T45	Diagnostic_tool 1511 1517	SAP-MD
+T46	Characteristic 1609 1628	PERG P1N2-amplitude
+T47	Diagnostic_tool 1656 1663	SWAP-MD
+T48	Disease 1685 1695	early POAG
+T49	Anatomy 1699 1703	eyes
+T50	Diagnostic_tool 1727 1730	SAP
+T51	Diagnostic_tool 1774 1781	SWAP-MD
+T52	Characteristic 1786 1805	PERG P1N2-amplitude
+T53	Disease 1819 1848	glaucomatous optic neuropathy
+T54	Disease 1852 1856	POAG
+T55	Anatomy 1857 1861	eyes
+T56	Characteristic 1883 1896	visual fields
+T57	Diagnostic_tool 1906 1912	FDT-MD
+T58	Diagnostic_tool 1917 1924	SWAP-MD
+T59	Diagnostic_tool 1975 1981	SAP-MD
+T60	Anatomy 2017 2020	eye
+T61	Disease 2042 2071	glaucomatous optic neuropathy
+T62	Disease 2100 2104	POAG

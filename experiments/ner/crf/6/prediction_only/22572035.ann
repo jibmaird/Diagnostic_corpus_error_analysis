@@ -1,0 +1,29 @@
+T21	Characteristic 1563 1585	cup-to-disc area ratio
+T20	Diagnostic_tool 1511 1525	HRT optic disc
+T23	Diagnostic_tool 1760 1763	HRT
+T22	Diagnostic_tool 1752 1755	OCT
+T25	Characteristic 1867 1889	OCT rim area (0.093 mm
+T24	Symptom 1809 1821	ICCs ≥ 0.921
+T27	Anatomy 2105 2115	Optic disc
+T26	Diagnostic_tool 1986 1989	HRT
+T29	Diagnostic_tool 2154 2192	confocal scanning laser ophthalmoscopy
+T28	Diagnostic_tool 2130 2149	spectral-domain OCT
+T1	Diagnostic_tool 0 18	Optic disc imaging
+T2	Diagnostic_tool 24 68	spectral-domain optical coherence tomography
+T3	Diagnostic_tool 107 135	Heidelberg retinal tomograph
+T4	Anatomy 167 177	optic disc
+T5	Diagnostic_tool 209 307	Cirrus high-density optical coherence tomography (HD-OCT) and the Heidelberg retina tomograph (HRT
+T6	Disease 454 462	glaucoma
+T7	Anatomy 492 495	eye
+T8	Disease 543 553	optic disc
+T9	Diagnostic_tool 569 582	Cirrus HD-OCT
+T10	Diagnostic_tool 591 594	HRT
+T12	Diagnostic_tool 742 745	OCT
+T11	Symptom 596 698	Areas of the optic disc and the cup, cup volume, vertical cup-to-disc ratio and cup-to-disc area ratio
+T14	Disease 973 981	glaucoma
+T13	Characteristic 877 895	Bland-Altman plots
+T16	Characteristic 1097 1167	ICC) and the reproducibility coefficients of the optic disc parameters
+T15	Diagnostic_tool 1005 1023	optic disc imaging
+T18	Characteristic 1275 1415	OCT measured smaller optic disc and rim areas and greater cup volume, vertical cup-to-disc ratio and cup-to-disc area ratio than the HRT did
+T17	Characteristic 1240 1269	ICCs of optic disc parameters
+T19	Diagnostic_tool 1503 1506	OCT

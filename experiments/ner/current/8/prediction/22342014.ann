@@ -1,0 +1,62 @@
+T1	Characteristic 15 38	fundus autofluorescence
+T2	Diagnostic_tool 44 88	spectral-domain optical coherence tomography
+T3	Characteristic 93 99	vision
+T4	Disease 103 125	diabetic macular edema
+T5	Diagnostic_tool 167 190	fundus autofluorescence
+T6	Diagnostic_tool 192 195	FAF
+T7	Diagnostic_tool 216 260	spectral-domain optical coherence tomography
+T8	Diagnostic_tool 262 268	SD-OCT
+T9	Characteristic 281 294	visual acuity
+T10	Characteristic 296 298	VA
+T11	Disease 317 339	diabetic macular edema
+T12	Disease 341 344	DME
+T13	Disease 461 464	DME
+T14	Diagnostic_tool 566 568	VA
+T15	Diagnostic_tool 573 576	FAF
+T16	Diagnostic_tool 581 594	SD-OCT images
+T17	Diagnostic_tool 651 661	Foveal FAF
+T18	Symptom 722 740	FAF at the foveola
+T19	Characteristic 781 784	FAF
+T20	Characteristic 790 792	VA
+T21	Diagnostic_tool 801 807	SD-OCT
+T22	Characteristic 827 852	central macular thickness
+T23	Characteristic 854 857	CMT
+T24	Characteristic 860 889	outer nuclear layer thickness
+T25	Characteristic 895 938	integrity of the external limiting membrane
+T26	Anatomy 940 943	ELM
+T27	Characteristic 954 1036	integrity of the junction between the inner and outer segment of the photoreceptor
+T28	Anatomy 1038 1040	IS
+T29	Anatomy 1041 1043	OS
+T30	Characteristic 1053 1055	VA
+T31	Anatomy 1077 1080	ELM
+T32	Symptom 1086 1091	IS/OS
+T33	Characteristic 1128 1130	VA
+T34	Disease 1157 1160	DME
+T35	Disease 1162 1183	cystoid macular edema
+T36	Symptom 1214 1242	increased FAF at the foveola
+T37	Characteristic 1262 1265	FAF
+T38	Disease 1304 1307	DME
+T39	Symptom 1315 1330	defect in IS/OS
+T40	Disease 1393 1396	CMT
+T41	Characteristic 1438 1482	logarithm of the minimum angle of resolution
+T42	Characteristic 1484 1490	logMAR
+T43	Symptom 1534 1537	FAF
+T44	Disease 1567 1577	severe DME
+T45	Anatomy 1585 1589	eyes
+T46	Symptom 1610 1613	FAF
+T47	Symptom 1627 1639	IS/OS defect
+T48	Symptom 1644 1659	large logMAR VA
+T49	Anatomy 1665 1669	eyes
+T50	Symptom 1691 1694	FAF
+T51	Disease 1700 1710	severe DME
+T52	Diagnostic_tool 1741 1752	FAF pre-IVB
+T53	Symptom 1781 1797	decreased vision
+T54	Symptom 1837 1871	increased or unchanged good vision
+T55	Characteristic 1899 1902	FAF
+T56	Characteristic 1908 1925	SD-OCT parameters
+T57	Characteristic 1930 1932	VA
+T58	Disease 1950 1953	DME
+T59	Characteristic 2004 2027	photoreceptor integrity
+T60	Disease 2095 2098	DME
+T61	Characteristic 2108 2131	photoreceptor integrity
+T62	Diagnostic_tool 2194 2200	SD-OCT

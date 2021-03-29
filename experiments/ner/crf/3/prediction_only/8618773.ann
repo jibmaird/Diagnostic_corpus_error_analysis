@@ -1,0 +1,14 @@
+T4	Anatomy 291 295	eyes
+T5	Anatomy 366 370	eyes
+T6	Symptom 391 474	limbal cornea, central cornea, aqueous humor, iris, vitreous humor, and optic nerve
+T7	Symptom 552 586	EBV's large internal repeat region
+T8	Anatomy 797 801	eyes
+T9	Disease 891 901	EBV genome
+T10	Anatomy 979 990	optic nerve
+T12	Symptom 1043 1078	EBV DNA in cadaveric ocular tissues
+T11	Disease 1021 1028	EBV DNA
+T14	Symptom 1352 1375	EBV in ocular pathology
+T13	Characteristic 1181 1291	EBV was found at apparently normal ocular sites raises the possibility for viral involvement in disease states
+T1	Symptom 13 56	Epstein-Barr virus genome in ocular tissues
+T2	Diagnostic_tool 59 116	Epstein-Barr virus (EBV) is a ubiquitous mucosal pathogen
+T3	Symptom 215 252	EBV and ocular inflammatory disorders

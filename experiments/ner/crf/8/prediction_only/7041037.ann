@@ -1,0 +1,10 @@
+T4	Symptom 374 540	retinal studies, muscle biopsies also were done to measure capillary basement membrane thickness (CBMT) as an index of early microvascular changes in skeletal muscles
+T5	Characteristic 602 628	retinal findings, and CBMT
+T6	Disease 654 668	No retinopathy
+T10	Symptom 1289 1310	microvascular changes
+T7	Disease 853 864	retinopathy
+T8	Disease 1017 1028	retinopathy
+T9	Disease 1188 1199	retinopathy
+T1	Characteristic 0 97	Retinopathy in adolescents and young adults with onset of insulin-dependent diabetes in childhood
+T2	Diagnostic_tool 229 329	Retinal studies included serial direct ophthalmoscopic examinations, stereoscopic fundus photography
+T3	Diagnostic_tool 334 357	fluorescein angiography

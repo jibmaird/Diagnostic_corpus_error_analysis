@@ -1,0 +1,37 @@
+T1	Diagnostic_tool 0 29	Optical coherence tomographic
+T2	Characteristic 30 37	pattern
+T3	Characteristic 50 56	visual
+T4	Disease 102 124	diabetic macular edema
+T5	Diagnostic_tool 142 170	optical coherence tomography
+T6	Diagnostic_tool 172 175	OCT
+T7	Disease 231 253	diabetic macular edema
+T8	Disease 255 258	DME
+T9	Diagnostic_tool 501 513	macular OCTs
+T10	Anatomy 520 524	eyes
+T11	Disease 620 623	DME
+T12	Anatomy 687 691	eyes
+T13	Characteristic 697 714	high reflectivity
+T14	Characteristic 716 756	bright colors) from inner retinal layers
+T15	Anatomy 778 782	eyes
+T16	Characteristic 792 850	low reflectivity (darker colors) from inner retinal layers
+T17	Characteristic 877 910	angle of resolution visual acuity
+T18	Characteristic 912 914	VA
+T19	Characteristic 920 937	macular thickness
+T20	Diagnostic_tool 950 953	OCT
+T21	Diagnostic_tool 1022 1051	Optical coherence tomographic
+T22	Anatomy 1066 1086	inner retinal layers
+T23	Anatomy 1155 1159	eyes
+T24	Diagnostic_tool 1222 1278	Early Treatment Diabetic Retinopathy Study (ETDRS) chart
+T25	Diagnostic_tool 1392 1403	ETDRS chart
+T26	Diagnostic_tool 1522 1533	ETDRS chart
+T27	Diagnostic_tool 1678 1681	OCT
+T28	Symptom 1699 1740	high reflectivity of inner retinal layers
+T29	Symptom 1758 1760	VA
+T30	Characteristic 1768 1785	macular thickness
+T31	Characteristic 1889 1939	lower optical reflectivity of inner retinal layers
+T32	Symptom 1958 1993	atrophy of the inner retinal layers
+T33	Anatomy 2026 2028	VA
+T34	Characteristic 2061 2108	level of reflectivity from inner retinal layers
+T35	Diagnostic_tool 2112 2115	OCT
+T36	Disease 2177 2180	DME
+T37	Disease 2264 2267	DME

@@ -1,0 +1,29 @@
+T21	Disease 1196 1199	DME
+T20	Diagnostic_tool 1135 1138	OCT
+T23	Anatomy 1253 1259	fundus
+T22	Diagnostic_tool 1211 1245	stereoscopic slit-lamp examination
+T25	Disease 1305 1308	DME
+T24	Diagnostic_tool 1284 1287	OCT
+T27	Diagnostic_tool 1448 1451	OCT
+T26	Disease 1344 1347	DME
+T29	Disease 1499 1502	DME
+T28	Symptom 1476 1493	visual disability
+T1	Disease 40 62	diabetic macular edema
+T2	Diagnostic_tool 81 109	optical coherence tomography
+T3	Disease 140 162	diabetic macular edema
+T4	Disease 164 167	DME
+T5	Diagnostic_tool 172 221	stereoscopic slit-lamp biomicroscopic examination
+T6	Diagnostic_tool 288 316	optical coherence tomography
+T7	Diagnostic_tool 318 321	OCT
+T8	Diagnostic_tool 400 424	slit-lamp biomicroscopic
+T9	Diagnostic_tool 448 451	OCT
+T10	Disease 480 483	DME
+T12	Symptom 539 557	macular thickening
+T11	Anatomy 499 505	retina
+T14	Diagnostic_tool 717 720	OCT
+T13	Disease 686 689	DME
+T16	Anatomy 842 852	parafoveal
+T15	Anatomy 803 809	foveal
+T18	Diagnostic_tool 985 988	OCT
+T17	Disease 977 980	DME
+T19	Diagnostic_tool 1050 1053	OCT

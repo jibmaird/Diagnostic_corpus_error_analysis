@@ -1,0 +1,26 @@
+T21	Characteristic 1889 1939	lower optical reflectivity of inner retinal layers
+T20	Symptom 1720 1857	inner retinal layers achieved greater VA though macular thickness decreased significantly after intravitreal triamcinolone in both groups
+T23	Characteristic 2070 2108	reflectivity from inner retinal layers
+T22	Symptom 1958 2028	atrophy of the inner retinal layers, thus resulting in a failure of VA
+T25	Disease 2177 2180	DME
+T24	Diagnostic_tool 2112 2115	OCT
+T26	Disease 2264 2267	DME
+T1	Diagnostic_tool 0 29	Optical coherence tomographic
+T2	Disease 102 124	diabetic macular edema
+T3	Diagnostic_tool 142 170	optical coherence tomography
+T4	Diagnostic_tool 172 175	OCT
+T5	Disease 231 253	diabetic macular edema
+T6	Disease 255 258	DME
+T7	Disease 620 623	DME
+T8	Anatomy 687 691	eyes
+T9	Characteristic 697 756	high reflectivity (bright colors) from inner retinal layers
+T10	Anatomy 778 782	eyes
+T12	Symptom 886 937	resolution visual acuity (VA) and macular thickness
+T11	Characteristic 792 850	low reflectivity (darker colors) from inner retinal layers
+T14	Characteristic 1022 1086	Optical coherence tomographic appearance of inner retinal layers
+T13	Diagnostic_tool 950 953	OCT
+T16	Diagnostic_tool 1222 1278	Early Treatment Diabetic Retinopathy Study (ETDRS) chart
+T15	Anatomy 1155 1159	eyes
+T18	Diagnostic_tool 1522 1533	ETDRS chart
+T17	Diagnostic_tool 1392 1403	ETDRS chart
+T19	Diagnostic_tool 1678 1681	OCT

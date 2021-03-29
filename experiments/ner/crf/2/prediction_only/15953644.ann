@@ -1,0 +1,12 @@
+T4	Symptom 501 570	diagnosed with the dragged-fovea diplopia syndrome at one institution
+T5	Symptom 710 780	diagnosis of maculopathy, internal limiting membrane, or dragged fovea
+T6	Diagnostic_tool 1001 1020	Amsler grid testing
+T10	Symptom 1700 1828	central diplopia in the presence of peripheral fusion, secondary to dragging of the fovea in one or both eyes by retinal disease
+T7	Characteristic 1051 1244	macular wrinkling, response to prism trial, response to the small-field central fusion test (lights on-off test), and response to partial occlusion with Scotch Satin tape (3M Co., St. Paul, MN)
+T8	Anatomy 1267 1271	eyes
+T12	Anatomy 1892 1895	eye
+T9	Symptom 1420 1534	demonstrating rapid central fusion with room lights off, and recurrence of central diplopia with peripheral fusion
+T11	Characteristic 1834 1850	central diplopia
+T1	Disease 4 35	dragged-fovea diplopia syndrome
+T2	Disease 152 169	diplopia syndrome
+T3	Anatomy 410 414	eyes

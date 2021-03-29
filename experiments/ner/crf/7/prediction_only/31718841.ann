@@ -1,0 +1,24 @@
+T4	Diagnostic_tool 322 384	GFVD from spectral domain OCT (SD OCT) optic nerve head images
+T5	Diagnostic_tool 425 465	A total of 9765 visual field (VF) SD OCT
+T6	Characteristic 522 537	GVFD (1909 eyes
+T7	Diagnostic_tool 581 656	SD OCT retinal nerve fiber layer (RNFL) thickness maps, RNFL en face images
+T8	Diagnostic_tool 662 714	confocal scanning laser ophthalmoscopy (CSLO) images
+T9	Anatomy 727 731	eyes
+T10	Characteristic 737 867	GVFD and predict quantitative VF mean deviation (MD), pattern standard deviation (PSD), and mean VF sectoral pattern deviation (PD
+T21	Disease 1663 1667	GFVD
+T20	Anatomy 1653 1657	eyes
+T12	Characteristic 927 946	mean RNFL thickness
+T23	Diagnostic_tool 1720 1733	SD OCT images
+T11	Diagnostic_tool 874 880	SD OCT
+T22	Symptom 1699 1714	functional loss
+T14	Diagnostic_tool 1177 1196	RNFL en face images
+T13	Characteristic 1051 1076	PSD, and mean sectoral PD
+T24	Diagnostic_tool 1783 1789	SD OCT
+T16	Characteristic 1247 1375	GVFD and 0.82 for detecting mild GVFD significantly (P  <  0.001) better than using mean RNFL thickness measurements (AUC = 0.82
+T15	Anatomy 1237 1241	eyes
+T18	Diagnostic_tool 1563 1582	RNFL en face images
+T17	Characteristic 1444 1458	RNFL thickness
+T1	Diagnostic_tool 0 151	Deep Learning Approaches Predict Glaucomatous Visual Field Damage from OCT Optic Nerve Head En Face Images and Retinal Nerve Fiber Layer Thickness Maps
+T19	Diagnostic_tool 1595 1619	R 2 Deep learning models
+T2	Anatomy 229 233	eyes
+T3	Symptom 251 290	glaucomatous visual field damage (GVFD)

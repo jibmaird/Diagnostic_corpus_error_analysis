@@ -1,0 +1,16 @@
+T4	Disease 355 377	diabetic macular edema
+T5	Disease 379 382	DME
+T6	Diagnostic_tool 453 544	PASCAL system (Pattern Scan Laser, OptiMedica Corporation, Santa Clara, CA), Spectralis OCT
+T7	Diagnostic_tool 646 660	fundus imaging
+T8	Diagnostic_tool 662 705	color fundus photography, and biomicroscopy
+T9	Diagnostic_tool 763 843	Early Treatment Diabetic Retinopathy Study protocol) and fluorescein angiography
+T10	Characteristic 1002 1135	outer retinal layers, that is, the retinal pigment epithelium (RPE), the photoreceptor layer (PRL), and the outer nuclear layer (ONL)
+T12	Diagnostic_tool 1446 1457	PRL and RPE
+T11	Characteristic 1337 1407	ONL, changing direction at the level of the external limiting membrane
+T14	Symptom 1579 1637	local thickening at the lesion site, especially in the PRL
+T13	Characteristic 1539 1564	central retinal thickness
+T16	Symptom 1797 1912	Standardized grid photocoagulation induces characteristic homogenous alteration in the neurosensoric retinal layers
+T15	Diagnostic_tool 1639 1683	Spectral domain optical coherence tomography
+T1	Disease 57 79	diabetic macular edema
+T2	Diagnostic_tool 198 242	spectral domain optical coherence tomography
+T3	Diagnostic_tool 244 250	SD OCT

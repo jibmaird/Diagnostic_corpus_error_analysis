@@ -1,0 +1,38 @@
+T1	Characteristic 14 26	plateau iris
+T2	Disease 30 51	primary angle closure
+T3	Diagnostic_tool 64 88	ultrasound biomicroscopy
+T4	Symptom 128 140	plateau iris
+T5	Disease 156 186	primary angle closure suspects
+T6	Disease 188 193	PACSs
+T7	Diagnostic_tool 201 225	ultrasound biomicroscopy
+T8	Diagnostic_tool 227 230	UBM
+T9	Characteristic 279 303	over the age of 50 years
+T10	Disease 317 322	PACSs
+T11	Anatomy 400 403	eye
+T12	Diagnostic_tool 405 429	Ultrasound biomicroscopy
+T13	Diagnostic_tool 473 504	Ultrasound biomicroscopy images
+T14	Disease 562 574	Plateau iris
+T15	Anatomy 592 600	quadrant
+T16	Symptom 623 655	anteriorly directed ciliary body
+T17	Symptom 660 681	absent ciliary sulcus
+T18	Symptom 685 790	steep iris root from its point of insertion followed by a downward angulation from the corneoscleral wall
+T19	Symptom 806 829	central flat iris plane
+T20	Characteristic 835 854	irido-angle contact
+T21	Anatomy 867 876	quadrants
+T22	Anatomy 917 920	eye
+T23	Characteristic 938 950	plateau iris
+T24	Diagnostic_tool 993 1003	UBM images
+T25	Characteristic 1049 1061	Plateau iris
+T26	Disease 1093 1097	PACS
+T27	Anatomy 1098 1102	eyes
+T28	Anatomy 1166 1170	eyes
+T29	Characteristic 1175 1187	plateau iris
+T30	Anatomy 1245 1254	quadrants
+T31	Anatomy 1278 1287	quadrants
+T32	Characteristic 1289 1301	Plateau iris
+T33	Anatomy 1336 1367	superior and inferior quadrants
+T34	Diagnostic_tool 1388 1391	UBM
+T35	Characteristic 1402 1414	plateau iris
+T36	Disease 1445 1449	PACS
+T37	Anatomy 1450 1454	eyes
+T38	Symptom 1589 1594	PACSs

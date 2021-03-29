@@ -1,0 +1,14 @@
+T4	Characteristic 613 677	clinical, and fluorescein angiographic features and demographics
+T5	Characteristic 723 771	mean age at diagnosis of 50 years (range, 36-79)
+T6	Symptom 953 1119	male predominance (12/13), vascular telangiectasis, lipid exudation, macular edema, and areas of capillary nonperfusion with adjacent webs of filigreelike capillaries
+T7	Anatomy 1488 1494	retina
+T8	Anatomy 1509 1513	eyes
+T9	Symptom 1589 1605	subretinal fluid
+T10	Diagnostic_tool 1614 1641	ocular coherence tomography
+T12	Symptom 1911 1972	such as iris neovascularization or total exudative detachment
+T11	Characteristic 1713 1726	visual acuity
+T14	Symptom 2267 2310	hemorrhage near larger vascular dilatations
+T13	Symptom 2030 2060	retinal vascular abnormalities
+T1	Characteristic 299 317	after age 35 years
+T2	Characteristic 415 430	age of 35 years
+T3	Symptom 475 547	radiation exposure, intraocular inflammation, retinal vascular occlusion

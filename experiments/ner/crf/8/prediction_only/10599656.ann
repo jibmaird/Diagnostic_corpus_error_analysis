@@ -1,0 +1,23 @@
+T4	Characteristic 489 528	11,114 participants (48-73 years of age
+T5	Disease 597 605	diabetes
+T6	Diagnostic_tool 691 718	nonmydriatic fundus cameras
+T7	Diagnostic_tool 759 859	arteriolar narrowing, arteriovenous (AV) nicking, and retinopathy by examining slides on a light box
+T8	Anatomy 924 934	optic disc
+T9	Characteristic 1033 1075	central arteriolar and venular equivalents
+T10	Characteristic 1104 1154	branching, and the ratio of equivalents (A/V ratio
+T21	Diagnostic_tool 2616 2647	nonmydriatic fundus photography
+T20	Disease 2555 2566	retinopathy
+T12	Characteristic 1204 1240	mean arteriolar blood pressure (MABP
+T23	Characteristic 2767 2788	higher blood pressure
+T11	Symptom 1172 1202	Retinal vascular abnormalities
+T22	Symptom 2670 2700	retinal vascular abnormalities
+T14	Characteristic 1521 1627	interquartile range = 0.10), focal arteriolar narrowing was found in 7%, AV nicking in 6%, and retinopathy
+T13	Characteristic 1413 1422	A/V ratio
+T16	Characteristic 1846 1867	higher blood pressure
+T15	Characteristic 1772 1824	race, age, and smoking status, these retinal changes
+T18	Disease 2111 2122	retinopathy
+T17	Characteristic 1899 1914	MABP, A/V ratio
+T1	Symptom 26 128	retinal microvascular abnormalities associated with hypertension/sclerosis in the Atherosclerosis Risk
+T19	Characteristic 2390 2399	A/V ratio
+T2	Characteristic 200 279	retinal vascular abnormalities in the Atherosclerosis Risk in Communities (ARIC
+T3	Symptom 376 417	microvascular changes with blood pressure

@@ -1,0 +1,36 @@
+T21	Symptom 913 945	neovascular macular degeneration
+T20	Symptom 889 907	geographic atrophy
+T23	Symptom 1100 1106	drusen
+T22	Disease 998 1001	ARM
+T25	Symptom 1132 1143	drusen type
+T24	Dimension 1108 1119	< 63 microm
+T27	Disease 1200 1238	atrophic and neovascular end-stage ARM
+T26	Symptom 1148 1177	total area occupied by drusen
+T29	Diagnostic_tool 1455 1469	digital images
+T28	Disease 1318 1321	ARM
+T1	Disease 11 34	age-related maculopathy
+T2	Diagnostic_tool 67 82	digital imaging
+T3	Diagnostic_tool 94 104	35-mm film
+T4	Diagnostic_tool 118 139	stereo digital images
+T5	Diagnostic_tool 145 178	stereo 35-mm color transparencies
+T6	Disease 224 247	age-related maculopathy
+T7	Disease 249 252	ARM
+T8	Anatomy 389 393	eyes
+T9	Disease 419 422	ARM
+T30	Diagnostic_tool 1486 1496	35-mm film
+T10	Disease 437 440	ARM
+T32	Diagnostic_tool 1561 1576	digital imaging
+T31	Disease 1516 1519	ARM
+T12	Diagnostic_tool 478 488	35-mm film
+T11	Anatomy 452 456	eyes
+T33	Disease 1636 1639	ARM
+T14	Diagnostic_tool 561 582	Topcon fundus cameras
+T13	Diagnostic_tool 493 527	digital stereoscopic fundus images
+T16	Classification_system 653 688	International Classification System
+T15	Disease 632 635	ARM
+T18	Symptom 830 868	morphologic characteristics of drusen;
+T17	Disease 807 810	ARM
+T19	Symptom 869 887	pigmentary changes
+R2	Has_symptom Arg1:T22 Arg2:T21
+R3	Has_symptom Arg1:T22 Arg2:T20
+R1	Has_symptom Arg1:T17 Arg2:T18

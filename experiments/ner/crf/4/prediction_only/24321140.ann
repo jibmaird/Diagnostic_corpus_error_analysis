@@ -1,0 +1,38 @@
+T21	Anatomy 1472 1476	eyes
+T20	Characteristic 1239 1354	axial length, central anterior chamber depth (ACD), pupil diameter (PD), anterior chamber width, and lens vault (LV
+T23	Anatomy 1515 1519	eyes
+T22	Disease 1482 1500	malignant glaucoma
+T25	Characteristic 1720 1796	CBTmax, CBT0, CBT1000, and TCA were smaller, whereas APCB was larger in eyes
+T24	Anatomy 1537 1541	eyes
+T27	Anatomy 1848 1852	eyes
+T26	Disease 1802 1820	malignant glaucoma
+T29	Symptom 1887 1948	larger APCB and smaller CBTmax and CBT0 than the matched eyes
+T28	Anatomy 1878 1882	eyes
+T1	Characteristic 0 53	Quantitative measurements of the ciliary body in eyes
+T2	Disease 59 77	malignant glaucoma
+T3	Diagnostic_tool 105 129	ultrasound biomicroscopy
+T4	Symptom 190 246	ciliary body in eyes with and without malignant glaucoma
+T5	Disease 320 338	malignant glaucoma
+T6	Anatomy 344 347	eye
+T7	Disease 425 446	primary angle closure
+T8	Disease 448 468	PAC) or PAC glaucoma
+T9	Disease 470 474	PACG
+T30	Characteristic 1967 2046	ACD, anterior chamber width, and PD were smaller, whereas LV was larger in eyes
+T10	Anatomy 640 644	eyes
+T32	Anatomy 2098 2102	eyes
+T31	Disease 2052 2070	malignant glaucoma
+T12	Characteristic 707 731	glaucoma type, and stage
+T34	Anatomy 2247 2251	eyes
+T11	Disease 662 670	glaucoma
+T33	Characteristic 2150 2234	ACD, anterior chamber width, PD, or LV between the fellow eyes of malignant glaucoma
+T14	Anatomy 820 824	eyes
+T36	Disease 2338 2356	malignant glaucoma
+T13	Diagnostic_tool 733 784	A-scan ultrasonography and ultrasound biomicroscopy
+T35	Anatomy 2328 2332	eyes
+T16	Anatomy 861 865	eyes
+T38	Disease 2431 2449	malignant glaucoma
+T15	Disease 830 848	malignant glaucoma
+T37	Anatomy 2384 2388	eyes
+T18	Anatomy 923 927	eyes
+T17	Disease 887 905	malignant glaucoma
+T19	Characteristic 962 1203	maximum ciliary body thickness (CBTmax), ciliary body thickness at the point of the scleral spur (CBT0) and 1000 μm from the scleral spur (CBT1000), anterior placement of the ciliary body (APCB), and the trabecular-ciliary process angle (TCA

@@ -1,0 +1,23 @@
+T4	Characteristic 201 300	rate of change of retinal nerve fiber layer (RNFL), neuroretinal rim, and visual field measurements
+T5	Disease 304 312	glaucoma
+T6	Disease 362 370	glaucoma
+T7	Characteristic 426 498	at least 2.9 years (median, 3.2 years) for measurement of RNFL thickness
+T8	Diagnostic_tool 508 605	Stratus optical coherence tomograph (OCT) (Carl Zeiss Meditec, Dublin, CA), neuroretinal rim area
+T9	Diagnostic_tool 615 648	Heidelberg Retinal Tomograph (HRT
+T10	Characteristic 676 720	GmbH, Dossenheim, Germany), and visual field
+T21	Characteristic 2123 2176	RNFL, neuroretinal rim, and visual field measurements
+T20	Characteristic 1683 1754	change of VFI, average RNFL thickness, and global neuroretinal rim area
+T12	Characteristic 829 902	visual field index (VFI), RNFL, and neuroretinal rim measurements and age
+T23	Characteristic 2329 2390	interpretation of RNFL, neuroretinal rim, and VFI progression
+T11	Diagnostic_tool 730 756	Humphrey Field Analyzer II
+T22	Characteristic 2195 2243	rate of RNFL, neuroretinal rim, and visual field
+T14	Characteristic 1190 1244	change of RNFL, neuroretinal rim, and VFI measurements
+T13	Characteristic 997 1035	structural and functional measurements
+T16	Anatomy 1416 1420	eyes
+T15	Characteristic 1248 1298	total of 1105 OCT, 1062 HRT, and 1099 visual field
+T18	Characteristic 1513 1549	global neuroretinal rim area, and 35
+T17	Characteristic 1462 1484	average RNFL thickness
+T1	Characteristic 14 51	retinal nerve fiber layer progression
+T19	Anatomy 1586 1589	eye
+T2	Disease 55 63	glaucoma
+T3	Symptom 92 137	neuroretinal rim and visual field progression

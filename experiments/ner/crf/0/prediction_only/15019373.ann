@@ -1,0 +1,26 @@
+T21	Characteristic 1854 1869	VCC (P < 0.021)
+T20	Diagnostic_tool 1694 1697	FCC
+T23	Characteristic 2035 2050	VCC (P < 0.016)
+T22	Symptom 1945 1968	early visual field loss
+T25	Anatomy 2206 2210	eyes
+T24	Disease 2193 2205	glaucomatous
+T26	Disease 2250 2264	early glaucoma
+T1	Disease 73 85	glaucomatous
+T2	Anatomy 86 90	eyes
+T3	Symptom 192 262	fixed corneal compensator (FCC) that neutralizes corneal birefringence
+T4	Anatomy 271 275	eyes
+T5	Diagnostic_tool 329 374	A prototype variable corneal compensator (VCC
+T6	Symptom 552 638	SLP with the FCC and with the VCC to discriminate between normal and glaucomatous eyes
+T7	Anatomy 742 746	eyes
+T8	Disease 754 766	glaucomatous
+T9	Anatomy 767 771	eyes
+T10	Anatomy 824 828	eyes
+T12	Anatomy 849 853	eyes
+T11	Disease 836 848	glaucomatous
+T14	Characteristic 959 1027	Dependency of parameters on age, gender, ethnic origin, and eye side
+T13	Symptom 911 939	SLP with the FCC and the VCC
+T16	Characteristic 1183 1243	area under the receiver operating characteristic (ROC) curve
+T15	Disease 1126 1134	glaucoma
+T18	Anatomy 1307 1311	eyes
+T17	Disease 1294 1306	glaucomatous
+T19	Characteristic 1380 1601	VCC than with the FCC for 6 retardation parameters: nasal average (P = 0.0003), superior maximum (P = 0.0003), ellipse average (P = 0.002), average thickness (P = 0.003), superior average (P = 0.010), and inferior average

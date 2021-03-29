@@ -1,0 +1,20 @@
+T4	Disease 115 123	glaucoma
+T5	Characteristic 319 377	Fifty patients (age range, 52-82 years) with visual acuity
+T6	Symptom 416 454	glaucomatous visual field (VF) defects
+T7	Anatomy 463 467	eyes
+T8	Disease 490 511	very advanced disease
+T9	Characteristic 559 592	monocular VF testing in both eyes
+T10	Diagnostic_tool 601 758	Humphrey Field Analyzer (HFA; Carl Zeiss Meditec, Dublin, CA; 24-2 Swedish interactive threshold algorithm standard tests) and other tests of visual function
+T20	Disease 2283 2291	glaucoma
+T12	Symptom 1113 1120	VF loss
+T11	Symptom 864 871	VF loss
+T14	Symptom 1311 1372	5.8  dB) and -10.5 dB (SD, 7.1 dB) in the right and left eyes
+T13	Characteristic 1226 1272	VF defect severity: average HFA mean deviation
+T16	Symptom 1552 1597	distinct black tunnel effect or black patches
+T15	Symptom 1488 1505	their vision loss
+T18	Disease 2043 2051	glaucoma
+T17	Symptom 1961 1976	visual symptoms
+T1	Disease 9 23	glaucoma look?
+T19	Symptom 2232 2256	glaucomatous vision loss
+T2	Symptom 47 64	visual field loss
+T3	Symptom 100 111	vision loss

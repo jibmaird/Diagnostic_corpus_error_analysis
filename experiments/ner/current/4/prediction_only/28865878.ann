@@ -1,0 +1,23 @@
+T1	Diagnostic_tool 5 14	Perimetry
+T2	Disease 39 47	Glaucoma
+T3	Diagnostic_tool 58 78	Visual field testing
+T4	Disease 143 151	glaucoma
+T5	Characteristic 200 212	visual field
+T6	Diagnostic_tool 236 259	early kinetic perimetry
+T7	Diagnostic_tool 271 299	standard automated perimetry
+T8	Diagnostic_tool 301 304	SAP
+T9	Diagnostic_tool 326 329	SAP
+T10	Disease 366 374	glaucoma
+T11	Disease 493 501	glaucoma
+T12	Diagnostic_tool 619 639	visual field testing
+T13	Diagnostic_tool 669 695	Objective functional tests
+T14	Diagnostic_tool 705 724	electroretinography
+T15	Diagnostic_tool 752 783	subjective visual field testing
+T16	Diagnostic_tool 831 859	Standard automated perimetry
+T17	Diagnostic_tool 945 963	visual field tests
+T18	Diagnostic_tool 1082 1090	Glaucoma
+T19	Diagnostic_tool 1117 1125	analysis
+T20	Diagnostic_tool 1204 1217	deep learning
+T21	Diagnostic_tool 1251 1261	perimetric
+T22	Diagnostic_tool 1411 1431	Visual field testing
+T23	Disease 1507 1515	glaucoma

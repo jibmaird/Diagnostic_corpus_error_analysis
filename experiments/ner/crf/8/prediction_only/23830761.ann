@@ -1,0 +1,29 @@
+T21	Characteristic 1641 1669	new atrophy onset at FUL (OR
+T20	Characteristic 1551 1584	new atrophy onset at 6 months (OR
+T23	Characteristic 1769 1798	atrophy onset at 6 months (OR
+T22	Symptom 1730 1733	HRF
+T25	Characteristic 1926 1930	CT ≤
+T24	Characteristic 1835 1842	FUL (OR
+T27	Symptom 2103 2120	HRF overlying DLs
+T26	Characteristic 1981 2005	atrophy onset at FUL (OR
+T29	Disease 2374 2380	NNVAMD
+T28	Symptom 2227 2262	atrophy onset in the ensuing months
+T1	Diagnostic_tool 0 17	Optical coherence
+T2	Symptom 73 89	drusenoid lesion
+T3	Anatomy 93 97	eyes
+T4	Disease 103 139	dry age-related macular degeneration
+T5	Diagnostic_tool 149 201	spectral domain optical coherence tomography (SD-OCT
+T6	Symptom 265 360	atrophy of drusenoid lesions (DLs) (drusen and drusenoid pigment epithelium detachment) in eyes
+T7	Disease 366 414	non-neovascular age-related macular degeneration
+T8	Disease 416 422	NNVAMD
+T9	Anatomy 449 453	eyes
+T10	Disease 476 482	NNVAMD
+T12	Diagnostic_tool 530 544	SD-OCT imaging
+T11	Disease 498 504	NNVAMD
+T14	Diagnostic_tool 815 834	local atrophy onset
+T13	Characteristic 641 689	atrophy onset at 6 months or last follow-up (FUL
+T16	Symptom 1033 1072	intraretinal hyperreflective foci (HRF)
+T15	Characteristic 882 1008	longitudinal changes in features, including maximum lesion height, lesion diameter, lesion internal reflectivity, and presence
+T18	Characteristic 1105 1139	SFCT) and choroidal thickness (CT)
+T17	Characteristic 1074 1103	Subfoveal choroidal thickness
+T19	Characteristic 1354 1455	DLs (18/571) progressed to atrophy within 18.3 ± 9.5 months (range, 5-28 months) of the initial visit

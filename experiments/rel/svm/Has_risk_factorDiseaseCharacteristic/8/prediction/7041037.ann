@@ -1,0 +1,33 @@
+T21	Disease 657 668	retinopathy
+T20	Characteristic 624 628	CBMT
+T23	Characteristic 866 870	CBMT
+T22	Disease 853 864	retinopathy
+T25	Characteristic 1043 1047	CBMT
+T24	Disease 1017 1028	retinopathy
+T27	Disease 1188 1199	retinopathy
+T26	Characteristic 1140 1144	CBMT
+T29	Characteristic 1360 1373	postpubescent
+T28	Symptom 1289 1310	microvascular changes
+T1	Disease 0 11	Retinopathy
+T2	Characteristic 15 26	adolescents
+T3	Characteristic 31 43	young adults
+T4	Disease 49 84	onset of insulin-dependent diabetes
+T5	Characteristic 88 97	childhood
+T6	Anatomy 100 107	Retinal
+T7	Disease 148 174	insulin-dependent diabetic
+T8	Disease 198 206	diabetes
+T9	Characteristic 207 227	before the age of 20
+T30	Disease 1375 1401	insulin-dependent diabetic
+T10	Anatomy 229 236	Retinal
+T31	Disease 1424 1435	retinopathy
+T12	Diagnostic_tool 298 329	stereoscopic fundus photography
+T11	Diagnostic_tool 261 296	direct ophthalmoscopic examinations
+T14	Anatomy 374 381	retinal
+T13	Diagnostic_tool 334 357	fluorescein angiography
+T16	Characteristic 433 470	capillary basement membrane thickness
+T15	Diagnostic_tool 391 406	muscle biopsies
+T18	Symptom 499 540	microvascular changes in skeletal muscles
+T17	Characteristic 472 476	CBMT
+T19	Anatomy 602 609	retinal
+R2	Has_risk_factor Arg1:T24 Arg2:T25
+R1	Has_risk_factor Arg1:T7 Arg2:T9

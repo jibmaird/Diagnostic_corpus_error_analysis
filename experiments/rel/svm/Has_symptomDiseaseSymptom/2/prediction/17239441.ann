@@ -1,0 +1,35 @@
+T21	Diagnostic_tool 905 908	OCT
+T20	Diagnostic_tool 870 873	OCT
+T23	Diagnostic_tool 1065 1068	SAP
+T22	Characteristic 918 932	RNFL thickness
+T25	Diagnostic_tool 1144 1147	SAP
+T24	Diagnostic_tool 1073 1076	FDT
+T27	Diagnostic_tool 1177 1180	OCT
+T26	Diagnostic_tool 1161 1164	FDT
+T29	Diagnostic_tool 1341 1344	SAP
+T28	Characteristic 1190 1204	RNFL thickness
+T1	Symptom 0 32	Retinal nerve fiber layer damage
+T2	Diagnostic_tool 48 76	optical coherence tomography
+T3	Anatomy 80 84	eyes
+T4	Symptom 92 111	visual field defect
+T5	Diagnostic_tool 124 163	frequency doubling technology perimetry
+T6	Diagnostic_tool 175 203	standard automated perimetry
+T7	Symptom 231 253	visual field (VF) loss
+T8	Diagnostic_tool 266 305	frequency doubling technology perimetry
+T9	Diagnostic_tool 307 310	FDT
+T30	Symptom 1388 1395	VF loss
+T10	Diagnostic_tool 323 351	standard automated perimetry
+T32	Characteristic 1419 1443	decreased RNFL thickness
+T31	Diagnostic_tool 1408 1411	FDT
+T12	Symptom 377 416	retinal nerve fiber layer (RNFL) damage
+T34	Diagnostic_tool 1540 1543	FDT
+T11	Diagnostic_tool 353 356	SAP
+T33	Symptom 1481 1500	glaucomatous damage
+T14	Diagnostic_tool 462 465	OCT
+T13	Diagnostic_tool 432 460	optical coherence tomography
+T35	Disease 1564 1578	early glaucoma
+T16	Diagnostic_tool 680 721	SAP-Swedish Interactive Testing Algorithm
+T15	Disease 624 632	Glaucoma
+T18	Diagnostic_tool 758 774	Stratus OCT test
+T17	Diagnostic_tool 726 740	FDT 24-2 tests
+T19	Characteristic 820 855	Retinal nerve fiber layer thickness

@@ -1,0 +1,48 @@
+T1	Diagnostic_tool 0 30	Anterior chamber angle imaging
+T2	Diagnostic_tool 36 77	swept-source optical coherence tomography
+T3	Symptom 89 117	peripheral anterior synechia
+T4	Disease 121 129	glaucoma
+T5	Diagnostic_tool 158 199	swept-source optical coherence tomography
+T6	Diagnostic_tool 201 204	OCT
+T7	Anatomy 243 271	peripheral anterior synechia
+T8	Anatomy 273 276	PAS
+T9	Disease 307 329	angle-closure glaucoma
+T10	Anatomy 367 371	eyes
+T11	Disease 377 380	PAS
+T12	Diagnostic_tool 394 416	indentation gonioscopy
+T13	Disease 440 462	angle-closure glaucoma
+T14	Anatomy 467 471	eyes
+T15	Disease 476 506	primary angle-closure glaucoma
+T16	Anatomy 513 517	eyes
+T17	Disease 522 544	angle-closure glaucoma
+T18	Disease 558 582	chronic anterior uveitis
+T19	Disease 595 619	Axenfeld-Rieger syndrome
+T20	Characteristic 635 658	anterior chamber angles
+T21	Diagnostic_tool 679 701	indentation gonioscopy
+T22	Diagnostic_tool 716 732	swept-source OCT
+T23	Diagnostic_tool 734 743	Casia OCT
+T24	Diagnostic_tool 871 878	B-scans
+T25	Diagnostic_tool 894 895	-
+T26	Disease 945 948	PAS
+T27	Anatomy 983 986	eye
+T28	Anatomy 1017 1029	scleral spur
+T29	Anatomy 1038 1067	anterior irido-angle adhesion
+T30	Diagnostic_tool 1128 1131	PAS
+T31	Disease 1178 1181	PAS
+T32	Diagnostic_tool 1196 1206	gonioscopy
+T33	Diagnostic_tool 1211 1214	OCT
+T34	Disease 1243 1246	PAS
+T35	Characteristic 1326 1329	PAS
+T36	Disease 1356 1359	PAS
+T37	Disease 1453 1456	PAS
+T38	Disease 1558 1561	PAS
+T39	Disease 1591 1594	PAS
+T40	Disease 1764 1767	PAS
+T41	Disease 1815 1818	PAS
+T42	Disease 1860 1863	PAS
+T43	Diagnostic_tool 1883 1893	gonioscopy
+T44	Diagnostic_tool 1898 1908	OCT images
+T45	Diagnostic_tool 1944 1960	Swept-source OCT
+T46	Anatomy 2038 2041	PAS
+T47	Characteristic 2098 2101	PAS
+T48	Disease 2153 2175	angle-closure glaucoma

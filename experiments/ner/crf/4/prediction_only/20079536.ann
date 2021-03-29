@@ -1,0 +1,18 @@
+T4	Characteristic 346 402	rural-to-urban ratio, 3924:3850) aged 40 years and older
+T5	Characteristic 534 550	CCT measurements
+T6	Diagnostic_tool 559 606	ultrasonic pachymeter and applanation tonometry
+T7	Characteristic 608 633	Central corneal thickness
+T8	Disease 794 802	glaucoma
+T9	Characteristic 841 868	corneal pathologic features
+T10	Characteristic 945 948	CCT
+T12	Characteristic 1111 1114	CCT
+T11	Characteristic 997 1009	CCT in males
+T14	Characteristic 1425 1428	CCT
+T13	Symptom 1184 1218	decreased with age in both genders
+T16	Characteristic 1707 1710	age
+T15	Characteristic 1473 1517	intraocular pressure in the rural population
+T18	Disease 1848 1856	glaucoma
+T17	Characteristic 1743 1763	intraocular pressure
+T1	Characteristic 0 70	Central corneal thickness in adult South Indians: the Chennai Glaucoma
+T2	Symptom 114 174	central corneal thickness (CCT) and its association with age
+T3	Characteristic 176 217	gender, and intraocular pressure in rural

@@ -1,0 +1,18 @@
+T4	Symptom 244 273	healthy and glaucomatous eyes
+T5	Disease 333 341	glaucoma
+T6	Anatomy 438 442	eyes
+T7	Disease 475 483	glaucoma
+T8	Symptom 536 555	visual field defect
+T9	Characteristic 597 732	HRT3, and the diagnostic accuracy of stereometric parameters, Moorfields regression analysis (MRA), and glaucoma probability score (GPS
+T10	Characteristic 763 797	glaucoma stage and optic disc size
+T12	Diagnostic_tool 1059 1081	MRA and GPS algorithms
+T11	Characteristic 969 1020	cup-to-disc area ratio of the inferotemporal sector
+T14	Characteristic 1271 1433	MRA analysis had higher diagnostic accuracy than the global optic nerve head (ONH) analysis (sensitivity of 70% and specificity of 82% in the inferonasal sector),
+T13	Characteristic 1202 1205	MRA
+T16	Characteristic 1742 1794	MRA sensitivity was weak in the early-glaucoma stage
+T15	Symptom 1529 1560	% in the inferotemporal sector)
+T18	Diagnostic_tool 2433 2436	HRT
+T17	Characteristic 1901 1981	very consistent across ONH sectors in each disc size and glaucoma stage subgroup
+T1	Diagnostic_tool 31 79	Heidelberg Retinal Tomograph 3 across disc sizes
+T2	Disease 84 92	glaucoma
+T3	Diagnostic_tool 182 218	Heidelberg Retinal Tomograph 3 (HRT3

@@ -1,0 +1,12 @@
+T4	Disease 376 379	ARM
+T5	Characteristic 639 781	drusen, retinal pigment epithelial irregularities, geographic atrophy, retinal pigment epithelial detachment, and choroidal neovascularization
+T6	Diagnostic_tool 783 801	Fundus photographs
+T10	Anatomy 1602 1606	eyes
+T7	Disease 947 950	ARM
+T8	Disease 1445 1448	ARM
+T12	Disease 2276 2279	ARM
+T9	Diagnostic_tool 1483 1494	photography
+T11	Disease 1705 1746	advanced age-related macular degeneration
+T1	Diagnostic_tool 118 165	Clinical Age-Related Maculopathy Staging (CARMS
+T2	Disease 179 202	age-related maculopathy
+T3	Disease 204 207	ARM

@@ -1,0 +1,9 @@
+T4	Disease 340 371	proliferative vitreoretinopathy
+T5	Disease 384 404	diabetic retinopathy
+T6	Symptom 443 484	stain the ILM or ERM during vitreoretinal
+T7	Characteristic 561 589	moderate, good, or excellent
+T8	Symptom 631 775	ILM or the ERM resulted in a useful bluish staining, facilitating the identification, delineation, and removal of the membranes in all surgeries
+T9	Symptom 875 886	ILM and ERM
+T1	Symptom 105 193	internal limiting membrane (ILM) and epiretinal membranes (ERM) in vitreoretinal surgery
+T2	Anatomy 241 245	eyes
+T3	Symptom 266 303	macular pucker (n = 22), macular hole

@@ -1,0 +1,62 @@
+T61	Disease 2233 2235	DR
+T60	Diagnostic_tool 2186 2190	OCTA
+T62	Disease 2252 2255	DME
+T21	Characteristic 762 777	FAZ circularity
+T20	Characteristic 728 760	foveal avascular zone (FAZ) area
+T23	Characteristic 795 797	VD
+T22	Characteristic 779 793	vessel density
+T25	Characteristic 823 825	FD
+T24	Characteristic 804 821	fractal dimension
+T27	Anatomy 843 846	DCP
+T26	Anatomy 835 838	SCP
+T29	Disease 904 907	DME
+T28	Disease 882 884	DR
+T30	Anatomy 1006 1010	eyes
+T32	Anatomy 1057 1061	eyes
+T31	Disease 1030 1032	DR
+T34	Disease 1108 1111	DME
+T33	Disease 1070 1073	DME
+T36	Characteristic 1217 1225	lower VD
+T35	Characteristic 1113 1128	Larger FAZ area
+T38	Anatomy 1342 1345	DCP
+T37	Characteristic 1280 1288	lower FD
+T39	Disease 1381 1383	DR
+T41	Characteristic 1455 1474	glycated hemoglobin
+T40	Characteristic 1442 1453	DR severity
+T43	Characteristic 1498 1501	age
+T42	Characteristic 1476 1496	duration of diabetes
+T45	Characteristic 1550 1565	Lower VD of SCP
+T44	Characteristic 1507 1535	mean arterial blood pressure
+T47	Diagnostic_tool 1729 1733	OCTA
+T46	Disease 1635 1638	DME
+T49	Characteristic 1800 1815	FAZ area of DCP
+T48	Disease 1784 1786	DR
+T1	Diagnostic_tool 0 15	OCT Angiography
+T2	Disease 47 67	Diabetic Retinopathy
+T3	Disease 87 109	Diabetic Macular Edema
+T4	Diagnostic_tool 180 195	OCT angiography
+T5	Diagnostic_tool 197 201	OCTA
+T6	Disease 214 234	diabetic retinopathy
+T7	Disease 236 238	DR
+T8	Disease 271 293	diabetic macular edema
+T9	Disease 295 298	DME
+T50	Characteristic 1860 1869	VD of DCP
+T52	Disease 1970 1973	DME
+T51	Characteristic 1912 1921	FD of DCP
+T10	Anatomy 350 354	eyes
+T54	Characteristic 2044 2052	FAZ area
+T53	Characteristic 1987 1996	VD of SCP
+T12	Diagnostic_tool 457 461	OCTA
+T56	Characteristic 2062 2071	FD of DCP
+T11	Disease 378 395	diabetes mellitus
+T55	Characteristic 2054 2056	VD
+T14	Diagnostic_tool 494 508	DRI-OCT Triton
+T58	Characteristic 2104 2113	VD of SCP
+T13	Diagnostic_tool 469 492	swept-source OCT device
+T57	Disease 2080 2082	DR
+T16	Anatomy 564 592	superficial capillary plexus
+T15	Diagnostic_tool 549 560	OCTA images
+T59	Disease 2123 2126	DME
+T18	Anatomy 603 624	deep capillary plexus
+T17	Anatomy 594 597	SCP
+T19	Anatomy 626 629	DCP

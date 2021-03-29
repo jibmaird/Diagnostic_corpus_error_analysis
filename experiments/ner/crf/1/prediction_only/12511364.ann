@@ -1,0 +1,37 @@
+T21	Diagnostic_tool 1357 1360	OCT
+T20	Disease 1302 1316	early glaucoma
+T23	Characteristic 1507 1544	normal and advanced glaucomatous eyes
+T22	Characteristic 1408 1498	area under the receiver operator characteristic (AROC) curves comparing mean NFL thickness
+T25	Anatomy 1608 1612	eyes
+T24	Diagnostic_tool 1592 1595	OCT
+T27	Diagnostic_tool 1796 1816	prototype OCT device
+T26	Symptom 1679 1737	macular thickness in normal and advanced glaucomatous eyes
+T29	Characteristic 1855 1880	macular and NFL thickness
+T28	Diagnostic_tool 1845 1848	OCT
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Symptom 44 121	macular and nerve fiber layer thickness in normal and glaucomatous human eyes
+T3	Characteristic 156 173	macular thickness
+T4	Disease 207 215	glaucoma
+T5	Anatomy 269 273	eyes
+T6	Disease 333 341	glaucoma
+T7	Disease 368 382	early glaucoma
+T8	Disease 411 428	advanced glaucoma
+T9	Characteristic 447 538	optical coherence tomography (OCT) to measure macular and nerve fiber layer (NFL) thickness
+T30	Diagnostic_tool 1896 1899	OCT
+T10	Disease 597 612	glaucoma status
+T32	Characteristic 1970 1983	NFL thickness
+T31	Disease 1951 1959	glaucoma
+T12	Anatomy 738 742	eyes
+T34	Diagnostic_tool 2125 2128	OCT
+T11	Diagnostic_tool 656 659	OCT
+T33	Characteristic 2019 2036	macular thickness
+T14	Diagnostic_tool 802 805	OCT
+T36	Diagnostic_tool 2185 2188	OCT
+T13	Characteristic 761 786	Macular and NFL thickness
+T35	Characteristic 2136 2161	Macular and NFL thickness
+T16	Disease 958 975	advanced glaucoma
+T15	Characteristic 811 868	NFL parameters both in prototype and commercial OCT units
+T37	Disease 2239 2247	glaucoma
+T18	Diagnostic_tool 1075 1078	OCT
+T17	Characteristic 1019 1041	mean macular thickness
+T19	Characteristic 1136 1182	normal subjects and advanced glaucomatous eyes

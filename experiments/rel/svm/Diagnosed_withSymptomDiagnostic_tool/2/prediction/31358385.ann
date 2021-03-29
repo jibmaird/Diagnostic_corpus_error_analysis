@@ -1,0 +1,60 @@
+T41	Diagnostic_tool 2179 2192	Deep learning
+T40	Symptom 2113 2115	GA
+T21	Disease 818 821	AMD
+T20	Anatomy 805 809	eyes
+T42	Symptom 2249 2252	CGA
+T23	Diagnostic_tool 848 853	model
+T22	Disease 825 837	advanced AMD
+T25	Diagnostic_tool 924 929	model
+T24	Symptom 877 880	CGA
+T27	Anatomy 985 989	eyes
+T26	Symptom 953 956	CGA
+T29	Anatomy 1155 1162	retinal
+T28	Symptom 995 997	GA
+T1	Diagnostic_tool 2 15	Deep Learning
+T2	Symptom 52 70	Geographic Atrophy
+T3	Diagnostic_tool 76 100	Color Fundus Photographs
+T4	Diagnostic_tool 128 141	deep learning
+T5	Symptom 162 180	geographic atrophy
+T6	Symptom 182 184	GA
+T7	Diagnostic_tool 191 215	color fundus photographs
+T8	Symptom 262 272	central GA
+T9	Symptom 274 277	CGA
+T30	Diagnostic_tool 1259 1279	deep learning models
+T10	Diagnostic_tool 283 301	eep learning model
+T32	Symptom 1295 1298	CGA
+T31	Symptom 1281 1283	GA
+T12	Diagnostic_tool 348 372	color fundus photographs
+T34	Symptom 1354 1356	GA
+T11	Symptom 342 344	GA
+T33	Anatomy 1318 1322	eyes
+T14	Symptom 423 426	CGA
+T36	Diagnostic_tool 1436 1454	GA detection model
+T13	Diagnostic_tool 391 397	models
+T35	Anatomy 1357 1361	eyes
+T16	Disease 550 573	Age-Related Eye Disease
+T38	Diagnostic_tool 1904 1930	centrality detection model
+T15	Diagnostic_tool 469 493	color fundus photographs
+T37	Diagnostic_tool 1778 1797	CGA detection model
+T18	Diagnostic_tool 736 760	color fundus photographs
+T17	Diagnostic_tool 697 716	deep learning model
+T39	Diagnostic_tool 2035 2054	deep learning model
+T19	Symptom 772 774	GA
+R2	Diagnosed_with Arg1:T5 Arg2:T4
+R3	Diagnosed_with Arg1:T6 Arg2:T4
+R4	Diagnosed_with Arg1:T8 Arg2:T4
+R5	Diagnosed_with Arg1:T9 Arg2:T4
+R6	Diagnosed_with Arg1:T11 Arg2:T12
+R7	Diagnosed_with Arg1:T14 Arg2:T13
+R8	Diagnosed_with Arg1:T19 Arg2:T18
+R9	Diagnosed_with Arg1:T32 Arg2:T30
+R10	Diagnosed_with Arg1:T34 Arg2:T30
+R12	Diagnosed_with Arg1:T19 Arg2:T17
+R11	Diagnosed_with Arg1:T31 Arg2:T30
+R14	Diagnosed_with Arg1:T9 Arg2:T7
+R13	Diagnosed_with Arg1:T14 Arg2:T12
+R16	Diagnosed_with Arg1:T6 Arg2:T7
+R15	Diagnosed_with Arg1:T8 Arg2:T7
+R18	Diagnosed_with Arg1:T2 Arg2:T3
+R17	Diagnosed_with Arg1:T5 Arg2:T7
+R1	Diagnosed_with Arg1:T2 Arg2:T1

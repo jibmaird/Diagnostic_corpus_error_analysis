@@ -1,0 +1,18 @@
+T4	Diagnostic_tool 169 209	retinotopic mapping of the visual cortex
+T5	Symptom 217 232	central scotoma
+T6	Diagnostic_tool 279 318	Scanning laser ophthalmoscope perimetry
+T7	Symptom 395 402	scotoma
+T8	Diagnostic_tool 404 462	Functional magnetic resonance imaging of the visual cortex
+T9	Diagnostic_tool 533 573	Retinotopic mapping of the visual cortex
+T10	Symptom 595 665	horseshoe scotoma from geographic atrophy involving the macular region
+T12	Symptom 746 761	atrophic lesion
+T11	Symptom 675 716	loss of stimulation to the cortical areas
+T14	Symptom 839 855	central scotomas
+T13	Diagnostic_tool 763 791	Cortical retinotopic mapping
+T16	Anatomy 942 950	cortical
+T15	Disease 861 876	macular disease
+T17	Anatomy 965 978	visual cortex
+T1	Diagnostic_tool 0 84	Retinotopic mapping of the visual cortex using functional magnetic resonance imaging
+T2	Symptom 103 119	central scotomas
+T3	Disease 125 154	atrophic macular degeneration
+R1	Has_symptom Arg1:T3 Arg2:T2

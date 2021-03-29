@@ -1,0 +1,22 @@
+T4	Disease 273 296	age-related maculopathy
+T5	Disease 298 339	ARM) and age-related macular degeneration
+T6	Disease 341 344	AMD
+T7	Anatomy 411 415	eyes
+T8	Disease 422 436	ARM and/or AMD
+T9	Disease 464 471	ARM/AMD
+T10	Anatomy 486 489	eye
+T21	Diagnostic_tool 2153 2239	stereoscopic color slides and digitized images, digitized nonstereoscopic color images
+T20	Symptom 2031 2046	CNV, the lesion
+T12	Diagnostic_tool 679 719	Zeiss FF-series 30 degrees fundus camera
+T11	Diagnostic_tool 620 639	Retinal photography
+T22	Disease 2271 2282	ARM and AMD
+T14	Diagnostic_tool 1286 1356	stereoscopic slide transparencies and digitized nonstereoscopic images
+T13	Disease 908 911	ARM
+T16	Symptom 1685 1703	geographic atrophy
+T15	Symptom 1362 1401	small hard and intermediate soft drusen
+T18	Symptom 1927 1930	CNV
+T17	Symptom 1768 1801	choroidal neovascularization (CNV
+T1	Diagnostic_tool 16 52	digitizing stereoscopic fundus color
+T19	Symptom 1997 2015	geographic atrophy
+T2	Disease 83 106	age-related maculopathy
+T3	Diagnostic_tool 137 214	35-mm stereoscopic slide transparencies with digitized nonstereoscopic images

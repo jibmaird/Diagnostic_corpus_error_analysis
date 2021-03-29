@@ -1,0 +1,55 @@
+T41	Disease 2398 2418	diabetic retinopathy
+T40	Diagnostic_tool 2256 2281	dilated ETDRS photographs
+T21	Diagnostic_tool 1126 1138	ETDRS photos
+T43	Disease 2627 2635	diabetic
+T20	Diagnostic_tool 1055 1124	standard field 35-mm stereoscopic color 30 degrees fundus photographs
+T42	Diagnostic_tool 2550 2553	JVN
+T23	Diagnostic_tool 1188 1200	ETDRS photos
+T45	Anatomy 2767 2770	eye
+T22	Diagnostic_tool 1155 1183	Joslin Vision Network images
+T44	Anatomy 2662 2665	eye
+T25	Disease 1310 1330	diabetic retinopathy
+T24	Classification_system 1286 1291	ETDRS
+T27	Disease 1479 1499	diabetic retinopathy
+T26	Classification_system 1455 1460	ETDRS
+T29	Disease 1698 1718	diabetic retinopathy
+T28	Disease 1541 1561	diabetic retinopathy
+T1	Diagnostic_tool 0 55	Stereo nonmydriatic digital-video color retinal imaging
+T2	Classification_system 70 112	Early Treatment Diabetic Retinopathy Study
+T3	Diagnostic_tool 119 159	standard field 35-mm stereo color photos
+T4	Disease 185 205	diabetic retinopathy
+T5	Disease 264 284	diabetic retinopathy
+T6	Diagnostic_tool 394 454	stereoscopic nonmydriatic digital-video color retinal images
+T7	Classification_system 472 514	Early Treatment Diabetic Retinopathy Study
+T8	Classification_system 516 521	ETDRS
+T9	Diagnostic_tool 529 587	standard field 35-mm stereoscopic color fundus photographs
+T30	Diagnostic_tool 1737 1757	undilated JVN images
+T10	Anatomy 682 686	eyes
+T32	Anatomy 1883 1886	eye
+T31	Diagnostic_tool 1766 1786	dilated ETDRS photos
+T12	Disease 809 829	diabetic retinopathy
+T34	Diagnostic_tool 1965 1977	ETDRS photos
+T11	Disease 693 727	type 1 or type 2 diabetes mellitus
+T33	Diagnostic_tool 1946 1956	JVN images
+T14	Diagnostic_tool 906 916	JVN images
+T36	Diagnostic_tool 2052 2082	Undilated digital-video images
+T13	Diagnostic_tool 831 904	Nonsimultaneous 45 degrees -field stereoscopic digital-video color images
+T35	Classification_system 2039 2044	ETDRS
+T16	Diagnostic_tool 982 985	JVN
+T38	Disease 2157 2177	diabetic retinopathy
+T15	Diagnostic_tool 959 980	Joslin Vision Network
+T37	Diagnostic_tool 2093 2096	JVN
+T18	Anatomy 1027 1032	pupil
+T17	Anatomy 1001 1006	pupil
+T39	Diagnostic_tool 2228 2251	nonmydriatic JVN images
+T19	Classification_system 1043 1048	ETDRS
+R2	Diagnosed_with Arg1:T5 Arg2:T9
+R10	Diagnosed_with Arg1:T5 Arg2:T6
+R3	Diagnosed_with Arg1:T25 Arg2:T23
+R4	Diagnosed_with Arg1:T29 Arg2:T31
+R5	Diagnosed_with Arg1:T41 Arg2:T39
+R6	Diagnosed_with Arg1:T41 Arg2:T40
+R7	Diagnosed_with Arg1:T38 Arg2:T37
+R8	Diagnosed_with Arg1:T29 Arg2:T30
+R9	Diagnosed_with Arg1:T25 Arg2:T22
+R1	Diagnosed_with Arg1:T4 Arg2:T3

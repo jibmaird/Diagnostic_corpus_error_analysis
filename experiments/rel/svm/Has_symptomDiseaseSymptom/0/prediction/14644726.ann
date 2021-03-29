@@ -1,0 +1,19 @@
+T4	Symptom 164 167	ERM
+T5	Anatomy 241 245	eyes
+T6	Symptom 266 280	macular pucker
+T7	Symptom 291 303	macular hole
+T8	Disease 340 371	proliferative vitreoretinopathy
+T9	Disease 384 404	diabetic retinopathy
+T10	Anatomy 453 456	ILM
+T12	Anatomy 631 634	ILM
+T11	Symptom 460 463	ERM
+T14	Anatomy 875 878	ILM
+T13	Symptom 642 645	ERM
+T15	Symptom 883 886	ERM
+T1	Anatomy 105 131	internal limiting membrane
+T2	Anatomy 133 136	ILM
+T3	Symptom 142 162	epiretinal membranes
+R2	Has_symptom Arg1:T9 Arg2:T6
+R3	Has_symptom Arg1:T9 Arg2:T7
+R4	Has_symptom Arg1:T8 Arg2:T7
+R1	Has_symptom Arg1:T8 Arg2:T6

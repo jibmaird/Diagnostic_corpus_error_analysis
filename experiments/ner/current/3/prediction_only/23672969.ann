@@ -1,0 +1,38 @@
+T1	Symptom 0 19	Subclinical macular
+T2	Characteristic 32 39	infants
+T3	Disease 53 79	retinopathy of prematurity
+T4	Diagnostic_tool 85 129	spectral-domain optical coherence tomography
+T5	Anatomy 156 163	macular
+T6	Characteristic 176 185	premature
+T7	Disease 206 232	retinopathy of prematurity
+T8	Disease 234 237	ROP
+T9	Diagnostic_tool 264 308	spectral-domain optical coherence tomography
+T10	Diagnostic_tool 310 316	SD-OCT
+T11	Characteristic 370 395	prematurely born neonates
+T12	Characteristic 408 415	infants
+T13	Diagnostic_tool 445 451	SD-OCT
+T14	Characteristic 477 495	nonsedated infants
+T15	Characteristic 503 521	neonatal intensive
+T16	Disease 675 696	cystoid macular edema
+T17	Disease 698 701	CME
+T18	Anatomy 722 742	inner retinal layers
+T19	Symptom 769 794	foveal retinal lamination
+T20	Anatomy 947 952	fovea
+T21	Anatomy 979 993	retinal layers
+T22	Symptom 1011 1041	1 or more inner retinal layers
+T23	Symptom 1131 1147	persistent layer
+T24	Disease 1184 1187	ROP
+T25	Disease 1231 1252	Cystoid macular edema
+T26	Disease 1328 1349	Cystoid macular edema
+T27	Disease 1404 1407	ROP
+T28	Anatomy 1492 1512	inner retinal layers
+T29	Characteristic 1516 1533	premature infants
+T30	Disease 1548 1559	maximal ROP
+T31	Disease 1567 1582	Subclinical CME
+T32	Characteristic 1594 1611	premature infants
+T33	Disease 1622 1625	CME
+T34	Disease 1664 1667	ROP
+T35	Disease 1728 1731	CME
+T36	Diagnostic_tool 1765 1789	Hand-held SD-OCT imaging
+T37	Anatomy 1839 1846	macular
+T38	Characteristic 1859 1876	premature infants

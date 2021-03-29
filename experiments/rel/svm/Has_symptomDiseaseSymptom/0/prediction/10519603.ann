@@ -1,0 +1,62 @@
+T61	Characteristic 1598 1625	disc topographic parameters
+T60	Diagnostic_tool 1580 1583	OCT
+T62	Diagnostic_tool 1632 1635	HRT
+T21	Diagnostic_tool 662 665	HRT
+T20	Diagnostic_tool 631 660	Heidelberg Retinal Tomography
+T23	Characteristic 678 704	Topographic HRT parameters
+T22	Diagnostic_tool 673 676	OCT
+T25	Characteristic 717 731	cup-disc ratio
+T24	Characteristic 706 715	disc area
+T27	Characteristic 743 753	rim volume
+T26	Characteristic 733 741	rim area
+T29	Characteristic 774 793	mean RNFL thickness
+T28	Characteristic 755 772	cup shape measure
+T30	Characteristic 799 819	cross-sectional area
+T32	Diagnostic_tool 889 892	OCT
+T31	Characteristic 825 858	mean OCT-generated RNFL thickness
+T34	Anatomy 915 925	optic disc
+T33	Diagnostic_tool 897 900	HRT
+T36	Characteristic 944 962	OCT RNFL thickness
+T35	Anatomy 930 934	RNFL
+T38	Anatomy 1023 1027	eyes
+T37	Disease 1003 1022	ocular-hypertensive
+T39	Disease 1069 1081	glaucomatous
+T41	Diagnostic_tool 1102 1105	HRT
+T40	Anatomy 1082 1086	eyes
+T43	Characteristic 1132 1146	cup-disc ratio
+T42	Characteristic 1122 1130	rim area
+T45	Characteristic 1167 1181	RNFL thickness
+T44	Characteristic 1148 1165	cup shape measure
+T47	Disease 1240 1252	glaucomatous
+T46	Characteristic 1187 1212	RNFL cross-sectional area
+T49	Characteristic 1301 1324	mean OCT RNFL thickness
+T48	Anatomy 1253 1257	eyes
+T1	Diagnostic_tool 0 28	Heidelberg retina tomography
+T2	Diagnostic_tool 33 61	optical coherence tomography
+T3	Disease 73 92	ocular-hypertensive
+T4	Disease 98 110	glaucomatous
+T5	Anatomy 111 115	eyes
+T6	Anatomy 130 140	optic disc
+T7	Anatomy 145 170	retinal nerve fiber layer
+T8	Anatomy 172 176	RNFL
+T9	Disease 200 219	ocular-hypertensive
+T50	Characteristic 1343 1357	RNFL thickness
+T52	Diagnostic_tool 1371 1374	HRT
+T51	Diagnostic_tool 1364 1367	OCT
+T10	Disease 225 237	glaucomatous
+T54	Diagnostic_tool 1434 1454	achromatic perimetry
+T53	Symptom 1402 1426	visual field mean defect
+T12	Diagnostic_tool 254 292	confocal scanning laser ophthalmoscopy
+T56	Diagnostic_tool 1484 1487	OCT
+T11	Anatomy 238 242	eyes
+T55	Diagnostic_tool 1476 1479	HRT
+T14	Diagnostic_tool 327 330	OCT
+T58	Anatomy 1540 1544	eyes
+T13	Diagnostic_tool 297 325	optical coherence tomography
+T57	Disease 1506 1518	glaucomatous
+T16	Disease 457 469	glaucomatous
+T15	Disease 423 442	ocular-hypertensive
+T59	Characteristic 1546 1560	RNFL thickness
+T18	Diagnostic_tool 559 589	achromatic automated perimetry
+T17	Diagnostic_tool 535 557	ophthalmic examination
+T19	Diagnostic_tool 591 629	confocal scanning laser ophthalmoscopy

@@ -1,0 +1,64 @@
+T61	Diagnostic_tool 2285 2313	Optical coherence tomography
+T60	Disease 2267 2283	intermediate AMD
+T63	Disease 2393 2396	AMD
+T62	Symptom 2314 2345	reflective drusen substructures
+T21	Disease 924 927	AMD
+T20	Symptom 906 909	ODS
+T64	Symptom 2437 2439	GA
+T23	Diagnostic_tool 967 984	color photographs
+T22	Diagnostic_tool 956 962	SD OCT
+T25	Symptom 1011 1029	geographic atrophy
+T24	Characteristic 996 1009	drusen volume
+T27	Characteristic 1040 1060	preatrophic features
+T26	Symptom 1031 1033	GA
+T29	Symptom 1202 1205	ODS
+T28	Anatomy 1092 1099	macular
+T30	Symptom 1247 1250	ODS
+T32	Symptom 1268 1293	Preatrophy SD OCT changes
+T31	Anatomy 1263 1266	eye
+T34	Symptom 1302 1312	central GA
+T33	Symptom 1298 1300	GA
+T36	Symptom 1348 1351	CNV
+T35	Symptom 1318 1346	choroidal neovascularization
+T38	Symptom 1405 1408	ODS
+T37	Diagnostic_tool 1358 1375	color photographs
+T39	Symptom 1423 1443	low reflective cores
+T41	Symptom 1468 1482	conical debris
+T40	Symptom 1445 1466	high reflective cores
+T43	Anatomy 1554 1558	eyes
+T42	Symptom 1488 1500	split drusen
+T45	Symptom 1596 1599	ODS
+T44	Symptom 1587 1590	ODS
+T47	Symptom 1713 1732	preatrophic changes
+T46	Symptom 1645 1659	macular drusen
+T49	Symptom 1811 1830	preatrophic changes
+T48	Symptom 1784 1794	macular GA
+T1	Diagnostic_tool 0 28	Optical Coherence Tomography
+T2	Symptom 29 60	Reflective Drusen Substructures
+T3	Symptom 84 102	Geographic Atrophy
+T4	Disease 106 138	Age-related Macular Degeneration
+T5	Symptom 191 197	drusen
+T6	Symptom 331 337	drusen
+T7	Diagnostic_tool 367 395	optical coherence tomography
+T8	Symptom 396 427	reflective drusen substructures
+T9	Symptom 429 432	ODS
+T50	Symptom 1883 1886	CNV
+T52	Symptom 1963 1981	preatrophy changes
+T51	Symptom 1892 1895	ODS
+T10	Disease 470 502	age-related macular degeneration
+T54	Diagnostic_tool 2105 2133	Optical coherence tomography
+T53	Symptom 2033 2051	preatrophy changes
+T12	Disease 530 533	AMD
+T56	Diagnostic_tool 2170 2198	optical coherence tomography
+T11	Disease 504 507	AMD
+T55	Symptom 2134 2165	reflective drusen substructures
+T14	Anatomy 675 678	Eye
+T58	Symptom 2249 2252	CNV
+T13	Disease 608 624	intermediate AMD
+T57	Symptom 2234 2236	GA
+T16	Diagnostic_tool 760 766	SD OCT
+T15	Diagnostic_tool 714 758	spectral-domain optical coherence tomography
+T59	Anatomy 2257 2261	eyes
+T18	Anatomy 802 805	eye
+T17	Diagnostic_tool 784 790	SD OCT
+T19	Symptom 852 855	ODS

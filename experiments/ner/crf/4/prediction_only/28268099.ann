@@ -1,0 +1,13 @@
+T4	Disease 464 472	glaucoma
+T5	Symptom 547 565	visual field tests
+T6	Characteristic 661 683	SAP mean deviation (MD
+T7	Symptom 891 908	visual field loss
+T8	Characteristic 1122 1136	Time (in years
+T9	Anatomy 1340 1344	eyes
+T10	Symptom 1353 1360	MD loss
+T12	Symptom 1514 1521	MD loss
+T11	Anatomy 1501 1505	eyes
+T13	Disease 1729 1737	glaucoma
+T1	Disease 95 103	Glaucoma
+T2	Symptom 217 234	visual field loss
+T3	Diagnostic_tool 241 274	standard automated perimetry (SAP

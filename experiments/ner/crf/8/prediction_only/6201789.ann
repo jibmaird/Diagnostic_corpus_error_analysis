@@ -1,0 +1,9 @@
+T4	Disease 143 164	exudative maculopathy
+T5	Symptom 236 247	visual loss
+T6	Disease 255 276	exudative maculopathy
+T7	Symptom 424 496	focal hyperpigmentation (P less than 0.001) and more than minimal drusen
+T8	Symptom 578 596	more severe drusen
+T9	Symptom 644 685	visual acuity, age, or severity of drusen
+T1	Symptom 27 51	bilateral macular drusen
+T2	Symptom 79 103	bilateral macular drusen
+T3	Anatomy 107 111	eyes

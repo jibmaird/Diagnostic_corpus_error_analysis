@@ -1,0 +1,54 @@
+T21	Characteristic 1145 1154	A/V ratio
+T20	Characteristic 1123 1143	ratio of equivalents
+T23	Characteristic 1204 1234	mean arteriolar blood pressure
+T22	Symptom 1172 1202	Retinal vascular abnormalities
+T25	Anatomy 1339 1346	retinal
+T24	Characteristic 1236 1240	MABP
+T27	Symptom 1446 1478	generalized arteriolar narrowing
+T26	Characteristic 1413 1422	A/V ratio
+T29	Symptom 1594 1604	AV nicking
+T28	Symptom 1550 1576	focal arteriolar narrowing
+T30	Disease 1616 1627	retinopathy
+T32	Characteristic 1772 1776	race
+T31	Characteristic 1764 1770	gender
+T34	Characteristic 1787 1801	smoking status
+T33	Characteristic 1778 1781	age
+T36	Characteristic 1846 1867	higher blood pressure
+T35	Symptom 1809 1824	retinal changes
+T38	Characteristic 1905 1914	A/V ratio
+T37	Characteristic 1899 1903	MABP
+T39	Symptom 1954 1980	focal arteriolar narrowing
+T41	Disease 2111 2122	retinopathy
+T40	Symptom 2056 2066	AV nicking
+T43	Symptom 2221 2236	focal narrowing
+T42	Symptom 2181 2202	generalized narrowing
+T45	Characteristic 2390 2399	A/V ratio
+T44	Characteristic 2241 2245	MABP
+T47	Symptom 2521 2531	AV nicking
+T46	Symptom 2475 2501	focal arteriolar narrowing
+T49	Diagnostic_tool 2616 2647	nonmydriatic fundus photography
+T48	Disease 2555 2566	retinopathy
+T1	Symptom 26 61	retinal microvascular abnormalities
+T2	Disease 78 100	hypertension/sclerosis
+T3	Disease 108 123	Atherosclerosis
+T4	Symptom 200 230	retinal vascular abnormalities
+T5	Disease 238 253	Atherosclerosis
+T6	Symptom 376 397	microvascular changes
+T7	Characteristic 403 417	blood pressure
+T8	Characteristic 510 528	48-73 years of age
+T9	Disease 597 605	diabetes
+T50	Symptom 2670 2700	retinal vascular abnormalities
+T52	Characteristic 2767 2788	higher blood pressure
+T51	Symptom 2710 2731	microvascular changes
+T10	Anatomy 630 633	eye
+T53	Disease 2842 2889	later cerebrovascular or cardiovascular disease
+T12	Symptom 753 779	focal arteriolar narrowing
+T11	Diagnostic_tool 691 718	nonmydriatic fundus cameras
+T14	Disease 813 824	retinopathy
+T13	Symptom 781 807	arteriovenous (AV) nicking
+T16	Anatomy 903 934	zone surrounding the optic disc
+T15	Characteristic 873 897	diameters of all vessels
+T18	Anatomy 1033 1051	central arteriolar
+T17	Characteristic 997 1013	vessel diameters
+T19	Anatomy 1056 1063	venular
+R1	Diagnosed_with Arg1:T50 Arg2:T49

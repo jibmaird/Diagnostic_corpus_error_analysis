@@ -1,0 +1,46 @@
+T41	Characteristic 2096 2127	macular ischemic damage in eyes
+T40	Diagnostic_tool 2069 2072	OCT
+T21	Diagnostic_tool 1237 1290	Early Treatment Diabetic Retinopathy Study (ETDRS) FA
+T43	Diagnostic_tool 2178 2180	FA
+T20	Characteristic 1135 1208	Heidelberg, Germany), and FAZ damage visible during the FA arterial phase
+T42	Disease 2133 2153	diabetic retinopathy
+T23	Diagnostic_tool 1372 1375	OCT
+T45	Diagnostic_tool 2239 2242	OCT
+T22	Symptom 1340 1357	foveal GCL damage
+T44	Symptom 2205 2237	OCT in detecting vascular damage
+T25	Diagnostic_tool 1408 1432	Foveal GCL damage on OCT
+T24	Diagnostic_tool 1380 1382	FA
+T46	Diagnostic_tool 2320 2322	FA
+T27	Characteristic 1489 1563	GCL thickness  < 10 microm), ETDRS grading of FAZ on FA, and visual acuity
+T26	Diagnostic_tool 1461 1464	OCT
+T29	Disease 1589 1609	diabetic retinopathy
+T28	Anatomy 1579 1583	eyes
+T1	Diagnostic_tool 0 33	Foveal ganglion cell layer damage
+T2	Disease 37 66	ischemic diabetic maculopathy
+T3	Diagnostic_tool 83 112	optical coherence tomographic
+T4	Disease 176 205	ischemic diabetic maculopathy
+T5	Diagnostic_tool 209 253	high-resolution optical coherence tomography
+T6	Diagnostic_tool 255 258	OCT
+T7	Characteristic 299 357	foveal avascular zone (FAZ) on fluorescein angiography (FA
+T8	Disease 436 456	diabetic retinopathy
+T9	Diagnostic_tool 472 474	FA
+T30	Symptom 1624 1698	FA evidence of either FAZ damage higher than grade 1 or FAZ capillary loss
+T10	Diagnostic_tool 479 482	OCT
+T32	Diagnostic_tool 1741 1743	FA
+T31	Anatomy 1709 1713	eyes
+T12	Symptom 568 613	unilateral acute central serous choroidopathy
+T34	Symptom 1836 1871	72.9%), and locations of FAZ damage
+T11	Anatomy 531 535	eyes
+T33	Diagnostic_tool 1770 1773	OCT
+T14	Diagnostic_tool 841 880	Foveal ganglion cell layer (GCL) damage
+T36	Symptom 1906 1932	sites of foveal GCL damage
+T13	Diagnostic_tool 644 662	Fourier-domain OCT
+T35	Diagnostic_tool 1880 1882	FA
+T16	Characteristic 931 947	foveal thickness
+T38	Characteristic 1957 2034	normal eyes, the size of the foveola on OCT matched the size of the FAZ on FA
+T15	Diagnostic_tool 899 902	OCT
+T37	Diagnostic_tool 1936 1939	OCT
+T18	Diagnostic_tool 1023 1046	Fluorescein angiography
+T17	Symptom 976 1021	normal fovea or as asymmetry within the fovea
+T39	Symptom 2048 2065	foveal GCL damage
+T19	Diagnostic_tool 1064 1102	confocal scanning laser ophthalmoscope

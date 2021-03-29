@@ -1,0 +1,24 @@
+T4	Diagnostic_tool 199 209	OCT images
+T5	Diagnostic_tool 303 311	1200 OCT
+T6	Disease 337 381	neovascular age-related macular degeneration
+T7	Disease 383 386	AMD
+T8	Disease 398 420	diabetic macular edema
+T9	Disease 422 425	DME
+T10	Characteristic 427 467	n = 400), or retinal vein occlusion (RVO
+T21	Diagnostic_tool 1924 1963	Deep learning in retinal image analysis
+T20	Symptom 1919 1922	SRF
+T12	Symptom 711 770	intraretinal cystoid fluid (IRC) and subretinal fluid (SRF)
+T23	Diagnostic_tool 2103 2106	OCT
+T11	Diagnostic_tool 492 632	Zeiss Cirrus (Carl Zeiss Meditec, Dublin, CA) (n = 600) or Heidelberg Spectralis (Heidelberg Engineering, Heidelberg, Germany) (n = 600) OCT
+T22	Symptom 2026 2098	retinal fluid types across the most prevalent exudative macular diseases
+T14	Symptom 1476 1479	SRF
+T13	Characteristic 1357 1388	AUC) of 0.94 (range, 0.91-0.97)
+T24	Diagnostic_tool 2249 2260	retinal OCT
+T16	Disease 1628 1643	neovascular AMD
+T15	Characteristic 1514 1544	AUC of 0.92 (range, 0.86-0.98)
+T18	Disease 1666 1669	DME
+T17	Disease 1648 1651	RVO
+T1	Characteristic 30 68	Quantification of Macular Fluid in OCT
+T19	Symptom 1787 1831	manual fluid localization and quantification
+T2	Diagnostic_tool 75 88	Deep Learning
+T3	Symptom 169 182	macular fluid

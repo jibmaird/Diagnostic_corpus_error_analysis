@@ -1,0 +1,32 @@
+T21	Characteristic 1523 1557	OSDI scores than glaucoma suspects
+T20	Disease 1474 1482	Glaucoma
+T23	Characteristic 1827 1878	5-decibel decrement in better-eye VF mean deviation
+T22	Characteristic 1655 1669	glaucoma group
+T25	Disease 2145 2153	glaucoma
+T24	Characteristic 1923 1939	total OSDI score
+T27	Disease 2279 2287	Glaucoma
+T26	Symptom 2193 2227	higher total OSDI score or vision-
+T29	Disease 2355 2363	glaucoma
+T28	Disease 2307 2341	significant ocular surface disease
+T1	Disease 14 36	ocular surface disease
+T2	Disease 54 62	glaucoma
+T3	Disease 118 140	ocular surface disease
+T4	Disease 158 166	glaucoma
+T5	Disease 202 210	glaucoma
+T6	Symptom 225 257	bilateral visual field (VF) loss
+T7	Disease 265 273	glaucoma
+T8	Disease 288 298	normal VFs
+T9	Disease 380 388	Glaucoma
+T30	Disease 2471 2493	ocular surface disease
+T10	Diagnostic_tool 397 450	Tear film breakup time (TBUT), corneal staining score
+T32	Symptom 2553 2560	VF loss
+T31	Disease 2497 2505	glaucoma
+T12	Characteristic 622 638	Total OSDI score
+T11	Diagnostic_tool 535 584	Ocular Surface Disease Index (OSDI) questionnaire
+T14	Disease 916 924	glaucoma
+T13	Disease 879 887	glaucoma
+T16	Disease 1038 1055	glaucoma suspects
+T15	Disease 1012 1020	glaucoma
+T18	Disease 1347 1355	glaucoma
+T17	Disease 1222 1230	glaucoma
+T19	Symptom 1426 1452	TBUT or Schirmer's results

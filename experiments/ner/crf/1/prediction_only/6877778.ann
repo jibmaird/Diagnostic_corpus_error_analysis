@@ -1,0 +1,12 @@
+T4	Disease 131 135	CRVO
+T5	Disease 169 173	CRVO
+T6	Diagnostic_tool 219 293	CRVO consists of the following two distinct entities: (1) Nonischemic CRVO
+T10	Disease 767 771	CRVO
+T7	Symptom 336 406	retinal venous circulation; we call it venous stasis retinopathy (VSR)
+T8	Diagnostic_tool 410 467	) Ischemic CRVO: We call this hemorrhagic retinopathy (HR
+T12	Disease 936 946	VSR and HR
+T9	Disease 566 570	CRVO
+T11	Disease 865 869	CRVO
+T1	Disease 18 48	central retinal vein occlusion
+T2	Anatomy 89 93	eyes
+T3	Disease 99 129	central retinal vein occlusion

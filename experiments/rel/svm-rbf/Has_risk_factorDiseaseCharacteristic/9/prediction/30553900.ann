@@ -1,0 +1,17 @@
+T4	Diagnostic_tool 328 341	fundus images
+T5	Disease 352 360	diabetic
+T6	Anatomy 423 429	retina
+T7	Anatomy 445 451	retina
+T8	Disease 476 478	DR
+T9	Diagnostic_tool 501 567	International Clinical Diabetic Retinopathy disease severity scale
+T10	Disease 690 692	DR
+T12	Disease 1330 1332	DR
+T11	Disease 942 944	DR
+T14	Disease 1480 1482	DR
+T13	Disease 1390 1392	DR
+T16	Diagnostic_tool 2248 2272	Deep learning algorithms
+T15	Anatomy 1905 1911	retina
+T17	Disease 2321 2323	DR
+T1	Diagnostic_tool 8 68	Deep Learning Algorithm and Integrated Gradients Explanation
+T2	Disease 91 111	Diabetic Retinopathy
+T3	Diagnostic_tool 142 192	deep learning diabetic retinopathy (DR) algorithms

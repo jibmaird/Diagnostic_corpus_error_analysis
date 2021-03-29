@@ -1,0 +1,23 @@
+T4	Symptom 396 398	GA
+T5	Symptom 451 453	GA
+T6	Disease 467 514	nonneovascular age-related macular degeneration
+T7	Disease 516 519	AMD
+T8	Diagnostic_tool 675 695	SD-OCT to image eyes
+T9	Anatomy 724 727	eye
+T10	Symptom 1007 1098	PR losses relative to GA margins and were categorized as (A) bridging across GA margins, (B
+T21	Symptom 1987 1989	GA
+T20	Disease 1962 1981	non-neovascular AMD
+T12	Symptom 1176 1211	PR loss (bridging across GA margins
+T23	Symptom 2043 2050	PR loss
+T11	Symptom 1116 1133	GA margins, or (C
+T22	Diagnostic_tool 1991 1997	SD-OCT
+T14	Symptom 1360 1367	PR loss
+T13	Symptom 1229 1239	GA margins
+T16	Symptom 1458 1465	PR loss
+T15	Symptom 1426 1433	PR loss
+T18	Symptom 1733 1743	Loss of PR
+T17	Symptom 1527 1534	PR loss
+T1	Diagnostic_tool 0 82	Spectral domain optical coherence tomography imaging of geographic atrophy margins
+T19	Symptom 1948 1950	GA
+T2	Diagnostic_tool 109 161	spectral domain optical coherence tomography (SD-OCT
+T3	Characteristic 224 377	photoreceptor (PR) layer at the margins of geographic atrophy (GA), and if it delineates the relationship between PR layer and retinal pigment epithelium

@@ -1,0 +1,50 @@
+T1	Symptom 24 43	epiretinal membrane
+T2	Anatomy 76 102	internal limiting membrane
+T3	Symptom 197 216	epiretinal membrane
+T4	Symptom 218 221	ERM
+T5	Anatomy 256 282	internal limiting membrane
+T6	Anatomy 284 287	ILM
+T7	Disease 357 360	ILM
+T8	Diagnostic_tool 394 419	-fixed, paraffin-embedded
+T9	Symptom 459 462	ILM
+T10	Disease 483 486	ILM
+T11	Diagnostic_tool 562 578	light microscopy
+T12	Symptom 595 598	ILM
+T13	Diagnostic_tool 618 629	Trypan blue
+T14	Diagnostic_tool 640 657	indocyanine green
+T15	Diagnostic_tool 670 686	brilliant blue G
+T16	Characteristic 722 753	glial fibrillary acidic protein
+T17	Characteristic 761 782	neurofilament protein
+T18	Symptom 803 808	glial
+T19	Characteristic 809 826	or neuronal cells
+T20	Anatomy 847 875	vitreous or retinal surfaces
+T21	Anatomy 883 886	ILM
+T22	Symptom 926 929	ILM
+T23	Symptom 941 968	full-thickness macular hole
+T24	Symptom 970 972	MH
+T25	Symptom 986 989	ILM
+T26	Disease 1036 1039	ERM
+T27	Characteristic 1098 1125	immunohistochemical markers
+T28	Anatomy 1129 1152	neuronal or glial cells
+T29	Anatomy 1160 1188	vitreous or retinal surfaces
+T30	Anatomy 1192 1195	ILM
+T31	Diagnostic_tool 1318 1321	ILM
+T32	Symptom 1331 1358	Glial and/or neuronal cells
+T33	Anatomy 1380 1398	retinal surface of
+T34	Anatomy 1403 1406	ILM
+T35	Disease 1432 1434	MH
+T36	Symptom 1435 1438	ILM
+T37	Anatomy 1478 1481	ILM
+T38	Symptom 1601 1619	neuronal and glial
+T39	Anatomy 1620 1625	cells
+T40	Disease 1673 1676	ILM
+T41	Symptom 1692 1729	cells attached to the retinal surface
+T42	Disease 1800 1803	ERM
+T43	Anatomy 1878 1890	vitreous and
+T44	Anatomy 1895 1911	retinal surfaces
+T45	Anatomy 1915 1918	ILM
+T46	Disease 1968 1971	ERM
+T47	Symptom 1995 2010	sub-ILM changes
+T48	Diagnostic_tool 2053 2056	ILM
+T49	Diagnostic_tool 2111 2115	dyes
+T50	Anatomy 2132 2137	plane

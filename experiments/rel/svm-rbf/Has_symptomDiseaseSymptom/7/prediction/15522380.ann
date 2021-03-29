@@ -1,0 +1,35 @@
+T21	Anatomy 1017 1021	eyes
+T20	Disease 1013 1016	OAG
+T23	Diagnostic_tool 1265 1267	VF
+T22	Characteristic 1162 1177	glaucomatous VF
+T25	Diagnostic_tool 1809 1811	VF
+T24	Characteristic 1336 1351	glaucomatous VF
+T27	Diagnostic_tool 2042 2045	VFs
+T26	Classification_system 1881 1885	AGIS
+T29	Diagnostic_tool 2323 2325	VF
+T28	Classification_system 2266 2270	AGIS
+T1	Symptom 98 118	visual field defects
+T2	Disease 122 130	glaucoma
+T3	Symptom 193 212	visual field damage
+T4	Symptom 214 217	VFD
+T5	Disease 222 230	glaucoma
+T6	Characteristic 356 368	visual field
+T7	Characteristic 370 372	VF
+T8	Disease 392 400	glaucoma
+T9	Symptom 547 550	VFD
+T10	Disease 581 600	open-angle glaucoma
+T12	Symptom 633 636	VFD
+T11	Disease 602 605	OAG
+T14	Disease 675 678	OAG
+T13	Anatomy 645 649	eyes
+T16	Characteristic 852 854	VF
+T15	Characteristic 692 694	VF
+T18	Classification_system 927 931	AGIS
+T17	Classification_system 889 925	Advanced Glaucoma Intervention Study
+T19	Diagnostic_tool 950 957	VF test
+R2	Has_symptom Arg1:T5 Arg2:T4
+R3	Has_symptom Arg1:T11 Arg2:T12
+R4	Has_symptom Arg1:T14 Arg2:T12
+R5	Has_symptom Arg1:T10 Arg2:T12
+R6	Has_symptom Arg1:T5 Arg2:T3
+R1	Has_symptom Arg1:T2 Arg2:T1

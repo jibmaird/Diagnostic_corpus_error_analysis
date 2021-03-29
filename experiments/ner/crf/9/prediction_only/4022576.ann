@@ -1,0 +1,17 @@
+T4	Disease 136 144	glaucoma
+T5	Anatomy 175 179	eyes
+T6	Disease 185 209	traumatic angle cleavage
+T7	Disease 248 256	glaucoma
+T8	Anatomy 279 282	eye
+T9	Disease 433 456	angle cleavage glaucoma
+T10	Symptom 472 512	optic disc or visual field abnormalities
+T12	Diagnostic_tool 666 713	disc photos, goniophotos, and Octopus perimetry
+T11	Anatomy 527 531	eyes
+T14	Anatomy 835 839	eyes
+T13	Symptom 759 820	glaucomatous or suspicious Octopus visual field abnormalities
+T16	Disease 930 949	open-angle glaucoma
+T15	Disease 855 878	angle-cleavage glaucoma
+T17	Anatomy 980 984	eyes
+T1	Disease 18 45	primary open-angle glaucoma
+T2	Anatomy 60 63	eye
+T3	Symptom 81 115	unilateral angle-cleavage glaucoma

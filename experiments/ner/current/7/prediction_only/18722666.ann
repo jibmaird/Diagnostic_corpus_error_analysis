@@ -1,0 +1,55 @@
+T1	Diagnostic_tool 0 21	Drusen ultrastructure
+T2	Diagnostic_tool 35 79	spectral domain optical coherence tomography
+T3	Disease 83 115	age-related macular degeneration
+T4	Symptom 132 153	drusen ultrastructure
+T5	Disease 157 189	age-related macular degeneration
+T6	Disease 191 194	AMD
+T7	Diagnostic_tool 202 246	spectral domain optical coherence tomography
+T8	Diagnostic_tool 248 253	SDOCT
+T9	Diagnostic_tool 273 284	tomographic
+T10	Symptom 302 308	drusen
+T11	Anatomy 358 362	eyes
+T12	Disease 383 402	non-neovascular AMD
+T13	Symptom 418 424	drusen
+T14	Disease 453 456	AMD
+T15	Diagnostic_tool 477 482	SDOCT
+T16	Diagnostic_tool 533 552	Foveal linear scans
+T17	Symptom 616 622	Drusen
+T18	Characteristic 664 669	shape
+T19	Characteristic 671 704	predominant internal reflectivity
+T20	Characteristic 706 717	homogeneity
+T21	Symptom 735 766	overlying hyper-reflective foci
+T22	Symptom 915 920	druse
+T23	Diagnostic_tool 943 954	tomographic
+T24	Characteristic 1051 1073	morphologic parameters
+T25	Diagnostic_tool 1080 1085	SDOCT
+T26	Anatomy 1098 1102	eyes
+T27	Diagnostic_tool 1122 1135	SDOCT B-scans
+T28	Symptom 1233 1239	drusen
+T29	Symptom 1273 1279	drusen
+T30	Characteristic 1301 1321	convex, homogeneous,
+T31	Characteristic 1327 1355	medium internal reflectivity
+T32	Symptom 1369 1400	overlying hyper-reflective foci
+T33	Anatomy 1422 1426	eyes
+T34	Anatomy 1444 1448	eyes
+T35	Symptom 1460 1481	nonhomogeneous drusen
+T36	Symptom 1500 1521	hyper-reflective core
+T37	Symptom 1523 1561	Hyper-reflective foci overlying drusen
+T38	Anatomy 1572 1576	eyes
+T39	Symptom 1605 1644	photographically soft-indistinct drusen
+T40	Characteristic 1657 1661	with
+T41	Characteristic 1662 1690	medium internal reflectivity
+T42	Symptom 1715 1746	overlying hyper-reflective foci
+T43	Diagnostic_tool 1800 1811	tomographic
+T44	Symptom 1874 1880	drusen
+T45	Symptom 1937 1943	drusen
+T46	Characteristic 1954 1966	reflectivity
+T47	Symptom 2004 2010	drusen
+T48	Symptom 2024 2045	Drusen ultrastructure
+T49	Diagnostic_tool 2065 2070	SDOCT
+T50	Diagnostic_tool 2119 2131	Photographic
+T51	Diagnostic_tool 2172 2183	tomographic
+T52	Diagnostic_tool 2326 2331	SDOCT
+T53	Symptom 2362 2368	drusen
+T54	Symptom 2398 2420	ultrastructural drusen
+T55	Anatomy 2454 2458	eyes

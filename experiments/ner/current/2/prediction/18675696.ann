@@ -1,0 +1,51 @@
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Diagnostic_tool 66 94	optical coherence tomography
+T3	Disease 106 128	diabetic macular edema
+T4	Diagnostic_tool 143 171	optical coherence tomography
+T5	Diagnostic_tool 173 176	OCT
+T6	Diagnostic_tool 218 221	OCT
+T7	Disease 241 263	diabetic macular edema
+T8	Disease 265 268	DME
+T9	Diagnostic_tool 296 299	OCT
+T10	Disease 373 376	DME
+T11	Classification_system 436 441	Early
+T12	Disease 455 475	Diabetic Retinopathy
+T13	Classification_system 483 489	mETDRS
+T14	Diagnostic_tool 498 519	modified macular grid
+T15	Diagnostic_tool 521 524	MMG
+T16	Disease 547 550	DME
+T17	Disease 604 607	DME
+T18	Diagnostic_tool 651 654	OCT
+T19	Diagnostic_tool 737 740	OCT
+T20	Diagnostic_tool 785 788	OCT
+T21	Characteristic 882 899	macular thickness
+T22	Characteristic 934 951	retinal thickness
+T23	Characteristic 972 989	retinal thickness
+T24	Characteristic 1014 1032	retinal thickening
+T25	Diagnostic_tool 1073 1076	OCT
+T26	Characteristic 1109 1131	Center point thickness
+T27	Characteristic 1155 1186	central subfield mean thickness
+T28	Characteristic 1188 1192	CSMT
+T29	Characteristic 1251 1255	CSMT
+T30	Characteristic 1319 1336	retinal thickness
+T31	Characteristic 1360 1377	retinal thickness
+T32	Symptom 1410 1428	retinal thickening
+T33	Symptom 1430 1446	Macular thinning
+T34	Classification_system 1454 1460	mETDRS
+T35	Disease 1505 1508	MMG
+T36	Characteristic 1539 1556	retinal thickness
+T37	Characteristic 1654 1691	Relative change in macular thickening
+T38	Anatomy 1718 1722	eyes
+T39	Symptom 1728 1763	mild degrees of baseline thickening
+T40	Characteristic 1822 1839	retinal thickness
+T41	Characteristic 1841 1872	Central subfield mean thickness
+T42	Diagnostic_tool 1890 1893	OCT
+T43	Anatomy 1914 1928	central macula
+T44	Anatomy 2014 2028	central macula
+T45	Characteristic 2030 2050	Total macular volume
+T46	Anatomy 2077 2091	central macula
+T47	Symptom 2111 2147	Absolute change in retinal thickness
+T48	Anatomy 2202 2206	eyes
+T49	Symptom 2212 2235	mild macular thickening
+T50	Symptom 2237 2266	Relative change in thickening
+T51	Symptom 2290 2308	retinal thickening

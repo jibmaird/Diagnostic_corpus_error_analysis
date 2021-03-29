@@ -1,0 +1,27 @@
+T1	Anatomy 21 32	optic discs
+T2	Characteristic 38 51	visual fields
+T3	Characteristic 169 175	Europe
+T4	Diagnostic_tool 185 220	stereoscopic optic disc photographs
+T5	Characteristic 224 237	visual fields
+T6	Characteristic 361 369	European
+T7	Anatomy 429 434	Optic
+T8	Disease 477 485	glaucoma
+T9	Anatomy 515 526	optic discs
+T10	Diagnostic_tool 558 587	stereo optic disc photographs
+T11	Disease 609 621	glaucomatous
+T12	Anatomy 622 626	eyes
+T13	Characteristic 632 644	visual field
+T14	Characteristic 693 706	visual fields
+T15	Characteristic 750 763	visual fields
+T16	Disease 893 905	glaucomatous
+T17	Anatomy 1041 1052	optic discs
+T18	Characteristic 1078 1090	visual field
+T19	Disease 1129 1141	glaucomatous
+T20	Diagnostic_tool 1236 1271	stereoscopic optic disc photographs
+T21	Characteristic 1281 1294	visual fields
+T22	Characteristic 1374 1395	visual field severity
+T23	Anatomy 1420 1424	eyes
+T24	Disease 1430 1444	early glaucoma
+T25	Diagnostic_tool 1552 1587	stereoscopic optic disc photographs
+T26	Characteristic 1611 1623	visual field
+T27	Symptom 1713 1732	visual field damage

@@ -1,0 +1,13 @@
+T4	Disease 163 183	Diabetic retinopathy
+T5	Characteristic 228 345	often results in proliferative retinopathy in the juvenile onset patient and macular edema in the older onset patient
+T6	Diagnostic_tool 347 371	Periodic ophthalmoscopic
+T7	Disease 431 442	retinopathy
+T8	Disease 619 639	diabetic retinopathy
+T9	Anatomy 657 677	midperipheral retina
+T10	Anatomy 900 904	eyes
+T12	Disease 1036 1056	diabetic retinopathy
+T11	Symptom 922 998	vitreous hemorrhage and/or traction retinal detachments involving the macula
+T13	Classification_system 1078 1201	National Eye Institute's Collaborative Diabetic Retinopathy Vitrectomy Study and Early Treatment Diabetic Retinopathy Study
+T1	Disease 0 20	Diabetic retinopathy
+T2	Disease 56 86	diabetic retinopathy symposium
+T3	Disease 118 148	Diabetic Retinopathy Symposium

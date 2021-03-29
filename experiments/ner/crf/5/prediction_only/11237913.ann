@@ -1,0 +1,30 @@
+T21	Diagnostic_tool 1774 1786	ETDRS photos
+T20	Diagnostic_tool 1747 1757	JVN images
+T23	Diagnostic_tool 1946 1956	JVN images
+T22	Anatomy 1883 1886	eye
+T25	Disease 2157 2177	diabetic retinopathy
+T24	Diagnostic_tool 1965 1977	ETDRS photos
+T27	Disease 2398 2418	diabetic retinopathy
+T26	Diagnostic_tool 2228 2281	nonmydriatic JVN images and dilated ETDRS photographs
+T29	Anatomy 2662 2665	eye
+T28	Disease 2627 2635	diabetic
+T1	Diagnostic_tool 0 55	Stereo nonmydriatic digital-video color retinal imaging
+T2	Diagnostic_tool 70 159	Early Treatment Diabetic Retinopathy Study seven standard field 35-mm stereo color photos
+T3	Disease 185 205	diabetic retinopathy
+T4	Disease 264 284	diabetic retinopathy
+T5	Diagnostic_tool 394 454	stereoscopic nonmydriatic digital-video color retinal images
+T6	Diagnostic_tool 472 587	Early Treatment Diabetic Retinopathy Study (ETDRS) seven standard field 35-mm stereoscopic color fundus photographs
+T7	Anatomy 682 686	eyes
+T8	Disease 693 727	type 1 or type 2 diabetes mellitus
+T9	Disease 809 829	diabetic retinopathy
+T30	Anatomy 2767 2770	eye
+T10	Diagnostic_tool 831 916	Nonsimultaneous 45 degrees -field stereoscopic digital-video color images (JVN images
+T12	Diagnostic_tool 1043 1124	ETDRS seven standard field 35-mm stereoscopic color 30 degrees fundus photographs
+T11	Diagnostic_tool 959 985	Joslin Vision Network (JVN
+T14	Diagnostic_tool 1155 1183	Joslin Vision Network images
+T13	Diagnostic_tool 1126 1138	ETDRS photos
+T16	Disease 1310 1330	diabetic retinopathy
+T15	Diagnostic_tool 1188 1200	ETDRS photos
+T18	Disease 1541 1561	diabetic retinopathy
+T17	Disease 1479 1499	diabetic retinopathy
+T19	Disease 1698 1718	diabetic retinopathy

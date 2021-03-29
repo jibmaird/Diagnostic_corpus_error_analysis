@@ -1,0 +1,30 @@
+T21	Diagnostic_tool 1449 1459	OCT images
+T20	Diagnostic_tool 1300 1310	OCT images
+T23	Diagnostic_tool 1689 1699	OCT images
+T22	Symptom 1540 1582	hyperreflective foci in the cystoid spaces
+T25	Diagnostic_tool 1851 1854	OCT
+T24	Symptom 1772 1847	cystoid spaces with microaneurysms had higher or heterogeneous reflectivity
+T27	Anatomy 2062 2065	eye
+T26	Characteristic 2017 2049	lower than in the cystoid spaces
+T29	Characteristic 2190 2235	OCT characteristics of cystoid spaces and SRD
+T28	Diagnostic_tool 2107 2117	OCT images
+T1	Diagnostic_tool 45 74	optical coherence tomographic
+T2	Symptom 91 105	cystoid spaces
+T3	Disease 109 131	diabetic macular edema
+T4	Symptom 190 239	cystoid spaces and serous retinal detachment (SRD
+T5	Diagnostic_tool 244 296	spectral-domain optical coherence tomography (SD-OCT
+T6	Disease 347 369	diabetic macular edema
+T7	Disease 371 374	DME
+T8	Disease 472 508	clinically significant macular edema
+T9	Diagnostic_tool 518 556	SD-OCT and fluorescein angiography (FA
+T30	Disease 2239 2242	DME
+T10	Diagnostic_tool 590 613	Fluorescein angiography
+T12	Diagnostic_tool 718 732	Spectralis OCT
+T11	Diagnostic_tool 620 711	Heidelberg Retina Angiograph 2 (Heidelberg Engineering, Heidelberg, Germany) and OCT images
+T14	Diagnostic_tool 827 837	OCT images
+T13	Symptom 816 819	SRD
+T16	Diagnostic_tool 1062 1075	SD-OCT images
+T15	Diagnostic_tool 940 949	FA images
+T18	Diagnostic_tool 1138 1148	OCT images
+T17	Anatomy 1114 1118	eyes
+T19	Symptom 1198 1223	Fifty-five cystoid spaces

@@ -1,0 +1,60 @@
+T1	Disease 0 14	Optic neuritis
+T2	Diagnostic_tool 40 66	magnetic resonance imaging
+T3	Diagnostic_tool 96 122	magnetic resonance imaging
+T4	Diagnostic_tool 124 127	MRI
+T5	Symptom 149 188	abnormal enhancement of the optic nerve
+T6	Symptom 230 247	visual field loss
+T7	Disease 264 284	acute optic neuritis
+T8	Diagnostic_tool 325 328	MRI
+T9	Characteristic 395 400	women
+T10	Characteristic 408 411	men
+T11	Disease 417 437	acute optic neuritis
+T12	Diagnostic_tool 446 500	high resolution gadolinium-enhanced fat-suppressed MRI
+T13	Symptom 536 547	visual loss
+T14	Symptom 565 609	eye or other fifth cranial nerve (V(1)) pain
+T15	Symptom 615 677	pain with eye movement ipsilateral to the affected optic nerve
+T16	Symptom 684 692	eye pain
+T17	Diagnostic_tool 741 744	MRI
+T18	Anatomy 769 772	eye
+T19	Anatomy 811 818	orbital
+T20	Symptom 878 910	abnormal optic nerve enhancement
+T21	Symptom 927 947	visual field defects
+T22	Anatomy 988 995	arcuate
+T23	Anatomy 997 1002	nasal
+T24	Anatomy 1006 1014	temporal
+T25	Symptom 1050 1060	field loss
+T26	Anatomy 1098 1109	optic nerve
+T27	Anatomy 1138 1141	eye
+T28	Anatomy 1161 1167	nerves
+T29	Symptom 1295 1308	eye/V(1) pain
+T30	Symptom 1322 1339	with eye movement
+T31	Anatomy 1388 1407	orbital optic nerve
+T32	Symptom 1447 1460	eye/V(1) pain
+T33	Symptom 1479 1501	pain with eye movement
+T34	Anatomy 1546 1588	canalicular, intracranial or both segments
+T35	Symptom 1598 1605	orbital
+T36	Symptom 1627 1640	eye/V(1) pain
+T37	Symptom 1653 1675	pain with eye movement
+T38	Anatomy 1724 1739	orbital segment
+T39	Anatomy 1781 1792	optic nerve
+T40	Characteristic 1814 1828	of enhancement
+T41	Symptom 1856 1869	eye/V(1) pain
+T42	Characteristic 1895 1917	pain with eye movement
+T43	Symptom 1954 1972	enhancement longer
+T44	Dimension 1973 1983	than 10 mm
+T45	Symptom 1988 1992	pain
+T46	Dimension 2063 2073	< or=10 mm
+T47	Symptom 2120 2130	field loss
+T48	Symptom 2192 2211	temporal field loss
+T49	Symptom 2231 2251	intracranial lesions
+T50	Disease 2269 2283	optic neuritis
+T51	Anatomy 2297 2331	orbital segment of the optic nerve
+T52	Symptom 2333 2368	eye or other V(1) distribution pain
+T53	Symptom 2389 2411	pain with eye movement
+T54	Symptom 2475 2479	pain
+T55	Anatomy 2520 2535	orbital segment
+T56	Symptom 2578 2597	temporal field loss
+T57	Anatomy 2601 2605	eyes
+T58	Symptom 2611 2637	intracranial nerve lesions
+T59	Symptom 2653 2670	visual field loss
+T60	Symptom 2724 2756	abnormal optic nerve enhancement

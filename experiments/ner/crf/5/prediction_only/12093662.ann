@@ -1,0 +1,37 @@
+T21	Characteristic 1142 1157	normal controls
+T20	Diagnostic_tool 1134 1137	SAP
+T23	Characteristic 1432 1468	SWAP-MD (P  <  0.0001) and FDT-MD (P
+T22	Characteristic 1211 1323	SWAP-MD (P  <  0.0001), FDT-MD (P = 0.0006), PERG N1P1-amplitude (P = 0.0486) and P1N2-amplitude (P  <  0.0001);
+T25	Disease 1656 1663	SWAP-MD
+T24	Disease 1511 1517	SAP-MD
+T27	Anatomy 1699 1703	eyes
+T26	Disease 1691 1695	POAG
+T29	Disease 1774 1781	SWAP-MD
+T28	Diagnostic_tool 1727 1730	SAP
+T1	Disease 13 29	optic neuropathy
+T2	Disease 33 45	glaucomatous
+T3	Anatomy 46 50	eyes
+T4	Characteristic 56 85	normal standard visual fields
+T5	Diagnostic_tool 110 146	short-wavelength automated perimetry
+T6	Diagnostic_tool 151 178	pattern electroretinography
+T7	Diagnostic_tool 231 360	short-wavelength automated perimetry (SWAP), frequency-doubling technology (FDT) perimetry, and pattern-electroretinography (PERG
+T8	Disease 379 415	definite primary open-angle glaucoma
+T9	Disease 417 421	POAG
+T30	Symptom 1786 1848	PERG P1N2-amplitude could detect glaucomatous optic neuropathy
+T10	Diagnostic_tool 445 478	standard automated perimetry (SAP
+T32	Anatomy 1857 1861	eyes
+T31	Disease 1852 1856	POAG
+T12	Symptom 569 668	standard visual field defects in one eye and normal standard visual fields in the contralateral eye
+T34	Disease 1975 1981	SAP-MD
+T11	Disease 559 563	POAG
+T33	Characteristic 1867 1924	normal standard visual fields, whereas FDT-MD and SWAP-MD
+T14	Disease 849 853	POAG
+T36	Disease 2035 2071	severe glaucomatous optic neuropathy
+T13	Characteristic 707 778	SWAP, PERG, FDT, and SAP were performed in all eyes, and global indices
+T35	Anatomy 2017 2020	eye
+T16	Symptom 864 894	asymmetric glaucomatous damage
+T15	Anatomy 854 858	eyes
+T37	Disease 2089 2104	asymmetric POAG
+T18	Disease 1101 1105	POAG
+T17	Characteristic 959 1076	SAP mean deviation (MD) (P  <  0.0001), SWAP-MD (P = 0.0003), FDT-MD (P = 0.0008), and PERG amplitudes (P  <  0.0001)
+T19	Anatomy 1106 1110	eyes

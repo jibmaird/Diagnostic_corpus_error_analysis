@@ -1,0 +1,47 @@
+T41	Characteristic 2030 2050	Total macular volume
+T40	Anatomy 2014 2028	central macula
+T21	Characteristic 995 1032	relative change in retinal thickening
+T43	Characteristic 2111 2147	Absolute change in retinal thickness
+T20	Characteristic 953 989	relative change in retinal thickness
+T42	Anatomy 2077 2091	central macula
+T23	Characteristic 1109 1131	Center point thickness
+T45	Characteristic 2212 2235	mild macular thickening
+T22	Characteristic 1073 1086	OCT variables
+T44	Anatomy 2202 2206	eyes
+T25	Characteristic 1188 1192	CSMT
+T47	Characteristic 2290 2308	retinal thickening
+T24	Characteristic 1155 1186	central subfield mean thickness
+T46	Characteristic 2237 2266	Relative change in thickening
+T27	Characteristic 1300 1336	absolute change in retinal thickness
+T26	Characteristic 1251 1255	CSMT
+T29	Characteristic 1391 1428	relative change in retinal thickening
+T28	Characteristic 1341 1377	relative change in retinal thickness
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Diagnostic_tool 66 94	optical coherence tomography
+T3	Disease 106 128	diabetic macular edema
+T4	Diagnostic_tool 143 171	optical coherence tomography
+T5	Diagnostic_tool 173 176	OCT
+T6	Diagnostic_tool 218 221	OCT
+T7	Disease 241 263	diabetic macular edema
+T8	Disease 265 268	DME
+T9	Characteristic 296 309	OCT variables
+T30	Symptom 1430 1446	Macular thinning
+T10	Disease 373 376	DME
+T32	Characteristic 1580 1608	relative change in thickness
+T31	Characteristic 1520 1556	absolute change in retinal thickness
+T12	Anatomy 507 514	macular
+T34	Characteristic 1673 1691	macular thickening
+T11	Disease 455 475	Diabetic Retinopathy
+T33	Characteristic 1613 1642	relative change in thickening
+T14	Disease 604 607	DME
+T36	Characteristic 1791 1839	absolute or relative change in retinal thickness
+T13	Disease 547 550	DME
+T35	Anatomy 1718 1722	eyes
+T16	Characteristic 737 760	OCT measurement changes
+T38	Characteristic 1890 1905	OCT measurement
+T15	Characteristic 651 664	OCT variables
+T37	Characteristic 1841 1872	Central subfield mean thickness
+T18	Characteristic 872 899	change in macular thickness
+T17	Characteristic 785 808	OCT measurement changes
+T39	Anatomy 1914 1928	central macula
+T19	Characteristic 915 951	absolute change in retinal thickness

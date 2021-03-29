@@ -1,0 +1,21 @@
+T4	Disease 231 250	open-angle glaucoma
+T5	Diagnostic_tool 1020 1034	QOL instrument
+T6	Diagnostic_tool 1130 1161	Visual Activities Questionnaire
+T7	Characteristic 1486 1501	visual function
+T8	Symptom 1511 1528	visual distortion
+T9	Symptom 1654 1663	blindness
+T10	Diagnostic_tool 1676 1707	Visual Activities Questionnaire
+T12	Symptom 1783 1793	field loss
+T11	Diagnostic_tool 1730 1756	Peripheral Vision subscale
+T14	Symptom 1869 1892	nonocular comorbidities
+T13	Characteristic 1847 1864	sociodemographics
+T16	Disease 2046 2054	glaucoma
+T15	Symptom 1904 1921	visual field loss
+T18	Symptom 2291 2300	blindness
+T17	Symptom 2091 2115	visual function symptoms
+T1	Disease 35 43	glaucoma
+T19	Disease 2456 2475	open-angle glaucoma
+T2	Disease 81 89	Glaucoma
+T3	Disease 134 142	Glaucoma
+R2	Diagnosed_with Arg1:T12 Arg2:T11
+R1	Diagnosed_with Arg1:T12 Arg2:T10

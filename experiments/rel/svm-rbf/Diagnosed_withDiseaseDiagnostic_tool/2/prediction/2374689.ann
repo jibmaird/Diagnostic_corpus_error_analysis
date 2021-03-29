@@ -1,0 +1,28 @@
+T4	Characteristic 85 98	visual acuity
+T5	Characteristic 103 117	young children
+T6	Disease 144 153	amblyopia
+T7	Diagnostic_tool 167 189	preschool vision tests
+T8	Diagnostic_tool 219 233	Allen pictures
+T9	Diagnostic_tool 265 284	modified Allen test
+T10	Characteristic 312 340	acuity of amblyopic children
+T21	Diagnostic_tool 816 837	modified picture test
+T20	Anatomy 711 715	eyes
+T12	Characteristic 376 382	adults
+T23	Disease 942 951	amblyopia
+T11	Characteristic 354 362	children
+T22	Diagnostic_tool 885 902	line letter tests
+T14	Characteristic 409 440	Mean acuities of amblyopic eyes
+T13	Anatomy 403 407	eyes
+T24	Characteristic 959 974	preschool child
+T16	Characteristic 563 575	nonamblyopic
+T15	Diagnostic_tool 499 513	logMar Snellen
+T18	Anatomy 587 591	eyes
+T17	Characteristic 580 586	normal
+T1	Diagnostic_tool 0 23	Modified Allen pictures
+T19	Disease 701 710	amblyopic
+T2	Disease 34 43	amblyopia
+T3	Characteristic 47 61	young children
+R2	Diagnosed_with Arg1:T6 Arg2:T8
+R3	Diagnosed_with Arg1:T23 Arg2:T22
+R4	Diagnosed_with Arg1:T6 Arg2:T7
+R1	Diagnosed_with Arg1:T2 Arg2:T1

@@ -1,0 +1,25 @@
+T1	Characteristic 0 25	Central corneal thickness
+T2	Characteristic 89 114	central corneal thickness
+T3	Characteristic 116 119	CCT
+T4	Disease 136 144	glaucoma
+T5	Disease 241 247	Ocular
+T6	Disease 340 348	glaucoma
+T7	Characteristic 384 409	Central corneal thickness
+T8	Diagnostic_tool 432 442	ultrasonic
+T9	Diagnostic_tool 452 462	pachymeter
+T10	Characteristic 496 500	CCTs
+T11	Characteristic 547 577	Mean central corneal thickness
+T12	Characteristic 668 685	corneal thickness
+T13	Anatomy 720 723	eye
+T14	Anatomy 759 762	eye
+T15	Symptom 813 840	increased corneal thickness
+T16	Anatomy 886 890	eyes
+T17	Anatomy 942 951	right eye
+T18	Anatomy 971 975	left
+T19	Anatomy 976 979	eye
+T20	Disease 1058 1066	glaucoma
+T21	Anatomy 1158 1162	eyes
+T22	Anatomy 1216 1220	eyes
+T23	Characteristic 1238 1241	CCT
+T24	Diagnostic_tool 1334 1337	CCT
+T25	Disease 1389 1406	glaucoma suspects

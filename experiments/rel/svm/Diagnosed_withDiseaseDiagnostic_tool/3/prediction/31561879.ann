@@ -1,0 +1,53 @@
+T21	Anatomy 775 778	ONH
+T20	Disease 749 762	referable GON
+T23	Disease 1203 1211	glaucoma
+T22	Disease 1087 1095	diabetic
+T25	Disease 1371 1383	glaucomatous
+T24	Disease 1353 1366	referable GON
+T27	Disease 1422 1435	referable GON
+T26	Anatomy 1384 1387	ONH
+T29	Anatomy 1655 1658	ONH
+T28	Disease 1642 1654	glaucomatous
+T1	Diagnostic_tool 0 13	Deep Learning
+T2	Disease 18 26	Glaucoma
+T3	Anatomy 67 77	Optic Disc
+T4	Disease 98 106	Glaucoma
+T5	Diagnostic_tool 119 137	Fundus Photographs
+T6	Diagnostic_tool 166 179	deep learning
+T7	Diagnostic_tool 181 183	DL
+T8	Disease 209 248	referable glaucomatous optic neuropathy
+T9	Disease 250 253	GON
+T30	Disease 1988 2001	referable GON
+T10	Anatomy 259 275	optic nerve head
+T32	Symptom 2063 2088	neuroretinal rim notching
+T31	Symptom 2020 2061	vertical cup-to-disc ratio of 0.7 or more
+T12	Diagnostic_tool 296 315	color fundus images
+T34	Symptom 2128 2154	bared circumlinear vessels
+T11	Anatomy 277 280	ONH
+T33	Symptom 2090 2122	retinal nerve fiber layer defect
+T14	Anatomy 496 499	eye
+T36	Diagnostic_tool 2182 2195	fundus images
+T13	Disease 397 405	glaucoma
+T35	Diagnostic_tool 2158 2160	DL
+T16	Disease 614 622	glaucoma
+T38	Anatomy 2286 2289	eye
+T15	Diagnostic_tool 560 573	Fundus images
+T37	Disease 2213 2226	referable GON
+T18	Disease 719 731	glaucomatous
+T17	Diagnostic_tool 633 635	DL
+T39	Disease 2405 2413	glaucoma
+T19	Anatomy 732 735	ONH
+R2	Diagnosed_with Arg1:T8 Arg2:T6
+R3	Diagnosed_with Arg1:T8 Arg2:T12
+R4	Diagnosed_with Arg1:T9 Arg2:T7
+R5	Diagnosed_with Arg1:T13 Arg2:T7
+R6	Diagnosed_with Arg1:T16 Arg2:T15
+R7	Diagnosed_with Arg1:T37 Arg2:T35
+R8	Diagnosed_with Arg1:T37 Arg2:T36
+R9	Diagnosed_with Arg1:T20 Arg2:T17
+R10	Diagnosed_with Arg1:T13 Arg2:T12
+R12	Diagnosed_with Arg1:T9 Arg2:T6
+R11	Diagnosed_with Arg1:T13 Arg2:T6
+R14	Diagnosed_with Arg1:T4 Arg2:T5
+R13	Diagnosed_with Arg1:T8 Arg2:T7
+R1	Diagnosed_with Arg1:T2 Arg2:T1

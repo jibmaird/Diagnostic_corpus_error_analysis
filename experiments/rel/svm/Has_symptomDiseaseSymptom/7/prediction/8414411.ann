@@ -1,0 +1,38 @@
+T21	Diagnostic_tool 929 947	fundus photography
+T20	Diagnostic_tool 889 903	ophthalmoscopy
+T23	Symptom 1101 1122	fibrous proliferation
+T22	Disease 1060 1088	nonproliferative retinopathy
+T25	Disease 1190 1199	mydriasis
+T24	Diagnostic_tool 1128 1173	fundus photography with a nonmydriatic camera
+T27	Disease 1254 1265	retinopathy
+T26	Diagnostic_tool 1218 1232	ophthalmoscopy
+T29	Disease 1449 1460	retinopathy
+T28	Disease 1345 1353	diabetes
+T1	Disease 17 37	diabetic retinopathy
+T2	Diagnostic_tool 39 53	Ophthalmoscopy
+T3	Diagnostic_tool 61 79	fundus photography
+T4	Diagnostic_tool 93 111	fundus photography
+T5	Diagnostic_tool 117 131	ophthalmoscopy
+T6	Disease 152 172	diabetic retinopathy
+T7	Diagnostic_tool 174 188	Ophthalmoscopy
+T8	Diagnostic_tool 193 238	fundus photographs with a nonmydriatic camera
+T9	Anatomy 271 277	pupils
+T30	Disease 1475 1486	retinopathy
+T10	Disease 305 316	retinopathy
+T32	Diagnostic_tool 1537 1548	photographs
+T31	Disease 1488 1511	nondiabetic retinopathy
+T12	Disease 358 396	noninsulin-dependent diabetes mellitus
+T11	Characteristic 336 352	Oklahoma Indians
+T33	Symptom 1572 1602	acute changes in visual acuity
+T14	Characteristic 456 495	mean age of participants was 60.3 years
+T13	Anatomy 413 417	eyes
+T16	Diagnostic_tool 630 644	ophthalmoscopy
+T15	Disease 521 529	diabetes
+T18	Disease 717 751	proliferative diabetic retinopathy
+T17	Diagnostic_tool 649 694	fundus photography with a nonmydriatic camera
+T19	Disease 822 847	proliferative retinopathy
+R2	Has_symptom Arg1:T29 Arg2:T33
+R3	Has_symptom Arg1:T31 Arg2:T33
+R4	Has_symptom Arg1:T30 Arg2:T33
+R5	Has_symptom Arg1:T28 Arg2:T33
+R1	Has_symptom Arg1:T22 Arg2:T23

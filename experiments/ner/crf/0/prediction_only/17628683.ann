@@ -1,0 +1,23 @@
+T4	Disease 372 404	age-related macular degeneration
+T5	Disease 406 409	AMD
+T6	Disease 520 535	Neovascular AMD
+T7	Diagnostic_tool 819 850	Stereoscopic fundus photography
+T8	Diagnostic_tool 855 882	fluorescein angiography (FA
+T9	Diagnostic_tool 935 963	Optical coherence tomography
+T10	Diagnostic_tool 965 968	OCT
+T21	Diagnostic_tool 2191 2194	OCT
+T20	Characteristic 2113 2187	At 12 months (final OCT), the mean change in foveal center point thickness
+T12	Symptom 1360 1433	choroidal neovascularization lesion and serous sensory retinal detachment
+T23	Characteristic 2425 2460	visual acuity, FA, and OCT outcomes
+T11	Symptom 1156 1244	choroidal neovascularization and total area of leakage from choroidal neovascularization
+T22	Disease 2335 2350	neovascular AMD
+T14	Symptom 1544 1588	no leakage from choroidal neovascularization
+T13	Symptom 1435 1439	SSRD
+T16	Diagnostic_tool 1729 1732	OCT
+T15	Symptom 1644 1684	subretinal fibrous tissue/disciform scar
+T18	Symptom 1951 2065	choroidal neovascularization lesion, total choroidal neovascularization, leakage from choroidal neovascularization
+T17	Characteristic 1776 1798	center point thickness
+T1	Diagnostic_tool 0 46	Angiographic and optical coherence tomographic
+T19	Symptom 2067 2111	SSRD, and disciform scar/subretinal fibrosis
+T2	Disease 93 137	neovascular age-related macular degeneration
+T3	Symptom 208 254	vascular endothelial growth factor A (VEGF-A),

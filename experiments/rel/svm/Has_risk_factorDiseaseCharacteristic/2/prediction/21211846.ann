@@ -1,0 +1,54 @@
+T21	Characteristic 431 446	normal subjects
+T20	Characteristic 419 430	age-matched
+T23	Diagnostic_tool 487 538	enhanced-depth imaging optical coherence tomography
+T22	Characteristic 448 467	Choroidal thickness
+T25	Anatomy 578 581	eye
+T24	Characteristic 540 569	Subfoveal choroidal thickness
+T27	Characteristic 693 754	Nasal, superior, temporal, and inferior choroidal thicknesses
+T26	Characteristic 617 691	vertical distance from the Bruch's membrane to the innermost scleral layer
+T29	Anatomy 821 825	eyes
+T28	Anatomy 779 792	foveal center
+T30	Characteristic 827 846	Choroidal thickness
+T32	Anatomy 923 927	eyes
+T31	Characteristic 862 919	Mean (± standard deviation) subfoveal choroidal thickness
+T34	Anatomy 968 972	eyes
+T33	Disease 933 936	PCV
+T36	Characteristic 1073 1084	age-matched
+T35	Anatomy 1065 1069	eyes
+T38	Characteristic 1158 1187	Subfoveal choroidal thickness
+T37	Characteristic 1085 1100	normal subjects
+T39	Anatomy 1191 1195	eyes
+T41	Anatomy 1235 1239	eyes
+T40	Disease 1201 1214	exudative AMD
+T43	Characteristic 1296 1307	age-matched
+T42	Disease 1245 1254	early AMD
+T45	Characteristic 1365 1384	Choroidal thickness
+T44	Characteristic 1308 1323	normal subjects
+T47	Anatomy 1495 1499	eyes
+T46	Characteristic 1466 1487	thickening of choroid
+T49	Characteristic 1527 1545	choroidal thinning
+T48	Disease 1505 1508	PCV
+T1	Characteristic 0 19	Choroidal thickness
+T2	Disease 23 56	polypoidal choroidal vasculopathy
+T3	Disease 61 103	exudative age-related macular degeneration
+T4	Characteristic 117 136	choroidal thickness
+T5	Anatomy 145 149	eyes
+T6	Disease 155 188	polypoidal choroidal vasculopathy
+T7	Disease 190 193	PCV
+T8	Anatomy 199 203	eyes
+T9	Disease 209 241	age-related macular degeneration
+T50	Anatomy 1558 1562	eyes
+T52	Disease 1646 1649	PCV
+T51	Disease 1568 1571	AMD
+T10	Disease 243 246	AMD
+T53	Disease 1664 1677	exudative AMD
+T12	Disease 311 314	PCV
+T11	Anatomy 301 305	eyes
+T14	Disease 347 350	PCV
+T13	Anatomy 337 341	eyes
+T16	Disease 365 378	exudative AMD
+T15	Anatomy 355 359	eyes
+T18	Disease 393 402	early AMD
+T17	Anatomy 383 387	eyes
+T19	Anatomy 411 415	eyes
+R1	Has_risk_factor Arg1:T3 Arg2:T1

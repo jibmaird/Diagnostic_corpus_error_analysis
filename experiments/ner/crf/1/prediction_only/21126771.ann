@@ -1,0 +1,25 @@
+T21	Symptom 2038 2152	Optic neuropathies can result in similar topographic changes at the optic disc, particularly in late-stage disease
+T20	Characteristic 2006 2025	ADOA and LHON discs
+T23	Disease 2210 2218	glaucoma
+T22	Disease 2191 2204	ADOA and LHON
+T25	Symptom 2318 2329	visual loss
+T24	Diagnostic_tool 2293 2305	color vision
+T1	Symptom 0 78	Optic disc evaluation in optic neuropathies: the optic disc assessment project
+T2	Characteristic 81 103	Optic nerve morphology
+T3	Disease 149 157	Glaucoma
+T4	Diagnostic_tool 177 280	optic neuropathy; autosomal-dominant optic atrophy (ADOA) and Leber's hereditary optic neuropathy (LHON
+T5	Anatomy 402 418	optic nerve head
+T6	Diagnostic_tool 425 438	ADOA and LHON
+T7	Disease 480 488	glaucoma
+T8	Disease 523 531	glaucoma
+T9	Anatomy 609 619	optic disc
+T10	Diagnostic_tool 721 788	high-resolution stereoscopic optic disc photographs (15 ADOA images
+T12	Disease 1060 1068	glaucoma
+T11	Disease 802 810	glaucoma
+T14	Characteristic 1248 1292	normal, glaucoma, ADOA, and LHON disc groups
+T13	Symptom 1150 1176	optic nerve head phenotype
+T16	Disease 1421 1433	glaucomatous
+T15	Characteristic 1355 1375	ADOA and LHON groups
+T18	Symptom 1844 1866	ADOA or LHON disc sets
+T17	Disease 1453 1461	glaucoma
+T19	Anatomy 1923 1941	glaucomatous discs

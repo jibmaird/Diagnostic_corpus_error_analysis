@@ -1,0 +1,39 @@
+T1	Disease 0 23	Progressive keratolysis
+T2	Symptom 24 44	with pseudopterygium
+T3	Symptom 56 60	with
+T4	Disease 61 78	erythema elevatum
+T5	Disease 130 153	progressive keratolysis
+T6	Symptom 159 174	pseudopterygium
+T7	Disease 191 217	erythema elevatum diutinum
+T8	Symptom 219 222	EED
+T9	Disease 315 318	EED
+T10	Characteristic 337 354	64-year-old woman
+T11	Symptom 370 389	recurrent pterygium
+T12	Symptom 394 461	painful corneal thinning with impending perforation of the left eye
+T13	Symptom 484 518	intensely inflamed pseudopterygium
+T14	Symptom 520 566	paracentral and peripheral corneal ulcerations
+T15	Symptom 572 609	descemetocele with a pinpoint leakage
+T16	Symptom 672 697	Disseminated skin lesions
+T17	Symptom 793 876	red to violaceous, firm nodules and plaques on the knuckles and dorsum of the hands
+T18	Anatomy 886 918	extensor surface of the forearms
+T19	Anatomy 920 926	elbows
+T20	Anatomy 928 933	knees
+T21	Anatomy 935 946	right ankle
+T22	Anatomy 952 960	buttocks
+T23	Diagnostic_tool 964 975	skin biopsy
+T24	Symptom 990 997	lesions
+T25	Symptom 1007 1055	dense and diffuse inflammatory cell infiltration
+T26	Symptom 1071 1112	neutrophilic infiltrates and nuclear dust
+T27	Symptom 1114 1130	leukocytoclasis)
+T28	Symptom 1140 1180	around small blood vessels in the dermis
+T29	Disease 1215 1218	EED
+T30	Disease 1237 1265	progressive keratolysis with
+T31	Symptom 1266 1281	pseudopterygium
+T32	Symptom 1298 1301	EED
+T33	Symptom 1350 1378	cutaneous and ocular lesions
+T34	Disease 1411 1437	Erythema elevatum diutinum
+T35	Anatomy 1511 1517	ocular
+T36	Disease 1534 1565	Peripheral ulcerative keratitis
+T37	Anatomy 1594 1600	ocular
+T38	Disease 1654 1657	EED
+T39	Disease 1745 1793	ulcerative or nonulcerative peripheral keratitis

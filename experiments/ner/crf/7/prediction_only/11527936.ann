@@ -1,0 +1,19 @@
+T4	Disease 211 239	age-related maculopathy (ARM
+T5	Diagnostic_tool 272 287	fundus features
+T6	Characteristic 351 394	aged 55 years and older living in Rotterdam
+T7	Disease 507 519	atrophic AMD
+T8	Disease 596 599	ARM
+T9	Diagnostic_tool 601 622	Fundus transparencies
+T10	Disease 651 654	ARM
+T12	Symptom 768 774	drusen
+T11	Disease 702 705	ARM
+T14	Disease 871 874	AMD
+T13	Symptom 791 816	pigmentary irregularities
+T16	Symptom 1091 1121	macular area covered by drusen
+T15	Characteristic 907 937	subjects of 85 years and older
+T18	Symptom 1401 1492	early ARM stages occurs in a distinct pattern at a stable rate, with a large area of drusen
+T17	Disease 1316 1319	AMD
+T1	Disease 38 61	age-related maculopathy
+T19	Symptom 1509 1527	pigmentary changes
+T2	Disease 127 159	age-related macular degeneration
+T3	Disease 161 164	AMD

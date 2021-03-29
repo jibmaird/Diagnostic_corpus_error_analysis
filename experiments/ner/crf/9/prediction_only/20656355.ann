@@ -1,0 +1,38 @@
+T21	Characteristic 1206 1317	foveal morphology in OCT images, 44 eyes presented foveal cystoid spaces (cystoid macular edema [CME]), 25 eyes
+T20	Characteristic 1103 1187	pathologic changes in perifoveal capillaries in FA and foveal pathomorphology in OCT
+T23	Anatomy 1483 1487	eyes
+T22	Symptom 1322 1473	serous retinal detachment (SRD) at the foveal center, and 17 eyes had foveal thickening without cystoid spaces or retinal detachment (retinal swelling)
+T25	Symptom 1575 1589	MAs in the PCN
+T24	Disease 1493 1513	ischemic maculopathy
+T27	Disease 1629 1632	CME
+T26	Anatomy 1619 1623	eyes
+T29	Symptom 1665 1714	SRD (0.40 ± 1.04; P  <  0.01) or retinal swelling
+T28	Anatomy 1655 1659	eyes
+T1	Characteristic 0 21	Foveal cystoid spaces
+T2	Symptom 42 117	enlarged foveal avascular zone and microaneurysms in diabetic macular edema
+T3	Diagnostic_tool 204 248	spectral domain optical coherence tomography
+T4	Diagnostic_tool 250 256	SD-OCT
+T5	Symptom 262 322	vascular changes around the fovea in fluorescein angiography
+T6	Diagnostic_tool 324 326	FA
+T7	Disease 345 367	diabetic macular edema
+T8	Disease 369 372	DME
+T9	Anatomy 453 457	eyes
+T30	Anatomy 1770 1774	eyes
+T10	Disease 480 516	clinically significant macular edema
+T32	Anatomy 1848 1852	eyes
+T31	Disease 1780 1783	CME
+T12	Diagnostic_tool 533 539	SD-OCT
+T34	Anatomy 1984 1988	eyes
+T11	Disease 518 522	CSME
+T33	Symptom 1858 1915	SRD (0.302 ± 0.245 mm(2); P  <  0.01) or retinal swelling
+T14	Diagnostic_tool 579 677	Fluorescein angiography using HRA2 (Heidelberg Engineering, Heidelberg, Germany) and SD-OCT images
+T36	Symptom 2047 2082	cystoid spaces at the foveal center
+T13	Diagnostic_tool 544 546	FA
+T35	Anatomy 2037 2041	eyes
+T16	Symptom 756 867	Microaneurysms (MAs) in the perifoveal capillary network (PCN) and foveal avascular zone (FAZ) in the FA images
+T38	Symptom 2110 2152	MAs in the PCN and larger FAZ in FA images
+T15	Diagnostic_tool 684 698	Spectralis OCT
+T37	Diagnostic_tool 2097 2100	OCT
+T18	Diagnostic_tool 943 953	OCT images
+T17	Anatomy 912 925	foveal center
+T19	Characteristic 1000 1076	pathologic perifoveal capillaries in FA and the neuroglial morphology in OCT

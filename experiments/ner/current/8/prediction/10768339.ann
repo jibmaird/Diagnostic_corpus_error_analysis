@@ -1,0 +1,61 @@
+T1	Diagnostic_tool 0 18	Entoptic perimetry
+T2	Disease 33 58	central diabetic scotomas
+T3	Disease 63 76	macular edema
+T4	Diagnostic_tool 116 134	entoptic perimetry
+T5	Diagnostic_tool 142 165	conventional television
+T6	Diagnostic_tool 170 181	Amsler grid
+T7	Symptom 203 214	visual loss
+T8	Disease 236 267	functional diabetic maculopathy
+T9	Disease 272 285	macular edema
+T10	Anatomy 323 326	eye
+T11	Disease 370 378	diabetes
+T12	Anatomy 394 400	retina
+T13	Anatomy 414 417	eye
+T14	Diagnostic_tool 434 445	Amsler grid
+T15	Diagnostic_tool 447 465	entoptic perimetry
+T16	Diagnostic_tool 471 515	Humphrey 10-2 threshold visual field testing
+T17	Diagnostic_tool 517 525	HVF 10-2
+T18	Anatomy 588 592	Eyes
+T19	Symptom 651 669	new visual decline
+T20	Symptom 744 778	central visual field abnormalities
+T21	Diagnostic_tool 788 794	Amsler
+T22	Symptom 795 799	grid
+T23	Diagnostic_tool 801 819	entoptic perimetry
+T24	Symptom 821 824	HVF
+T25	Characteristic 825 829	10-2
+T26	Disease 862 898	clinically significant macular edema
+T27	Disease 900 904	CSME
+T28	Symptom 964 989	central diabetic scotomas
+T29	Symptom 1006 1028	HVF 10-2 abnormalities
+T30	Anatomy 1067 1071	eyes
+T31	Anatomy 1093 1097	eyes
+T32	Diagnostic_tool 1107 1118	Amsler grid
+T33	Anatomy 1129 1133	eyes
+T34	Anatomy 1155 1159	eyes
+T35	Diagnostic_tool 1173 1191	entoptic perimetry
+T36	Anatomy 1202 1206	eyes
+T37	Anatomy 1228 1232	eyes
+T38	Diagnostic_tool 1242 1260	Entoptic perimetry
+T39	Diagnostic_tool 1344 1355	Amsler grid
+T40	Disease 1488 1492	CSME
+T41	Anatomy 1530 1534	eyes
+T42	Anatomy 1556 1560	eyes
+T43	Diagnostic_tool 1570 1581	Amsler grid
+T44	Anatomy 1591 1595	eyes
+T45	Anatomy 1617 1621	eyes
+T46	Diagnostic_tool 1635 1653	entoptic perimetry
+T47	Anatomy 1664 1668	eyes
+T48	Anatomy 1698 1702	eyes
+T49	Diagnostic_tool 1759 1777	entoptic perimetry
+T50	Diagnostic_tool 1893 1904	Amsler grid
+T51	Diagnostic_tool 1975 1993	Entoptic perimetry
+T52	Symptom 2050 2064	visual decline
+T53	Diagnostic_tool 2108 2119	Amsler grid
+T54	Symptom 2155 2171	central scotomas
+T55	Disease 2175 2183	diabetic
+T56	Disease 2215 2219	CSME
+T57	Diagnostic_tool 2221 2239	entoptic perimetry
+T58	Diagnostic_tool 2330 2341	Amsler grid
+T59	Diagnostic_tool 2362 2380	entoptic perimetry
+T60	Diagnostic_tool 2411 2421	television
+T61	Disease 2553 2573	diabetic maculopathy

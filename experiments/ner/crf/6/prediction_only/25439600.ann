@@ -1,0 +1,25 @@
+T21	Disease 1724 1745	Cystoid macular edema
+T20	Disease 1622 1625	CME
+T23	Disease 1802 1805	ROP
+T22	Diagnostic_tool 1758 1764	SD OCT
+T25	Diagnostic_tool 1922 1928	SD-OCT
+T24	Anatomy 1910 1916	retina
+T1	Disease 51 72	cystoid macular edema
+T2	Disease 171 192	cystoid macular edema
+T3	Disease 194 197	CME
+T4	Characteristic 307 388	Infants born at or less than 1500 g or at or less than 30 weeks postmenstrual age
+T5	Characteristic 417 449	retinopathy of prematurity (ROP)
+T6	Diagnostic_tool 480 541	Bedside handheld spectral-domain optical coherence tomography
+T7	Diagnostic_tool 543 610	SD OCT; Envisu, Bioptigen, Inc, Research Triangle Park, NC) imaging
+T8	Disease 673 676	ROP
+T9	Disease 704 707	CME
+T10	Symptom 709 812	central foveal thickness (CFT), inner nuclear layer thickness, and foveal-to-parafoveal thickness ratio
+T12	Characteristic 912 946	Toddler Development, Third Edition
+T11	Characteristic 833 860	corrected age, the children
+T14	Diagnostic_tool 1034 1048	SD OCT imaging
+T13	Characteristic 962 1009	Bayley cognitive, language, and motor subscales
+T16	Disease 1191 1194	CME
+T15	Disease 1132 1135	CME
+T18	Disease 1553 1556	CME
+T17	Characteristic 1507 1539	gestational age and birth weight
+T19	Characteristic 1573 1609	foveal-to-parafoveal thickness ratio

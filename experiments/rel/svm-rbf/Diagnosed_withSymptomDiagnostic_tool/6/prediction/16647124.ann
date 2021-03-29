@@ -1,0 +1,31 @@
+T21	Anatomy 995 1021	peripheral corneal surface
+T20	Anatomy 964 976	Goblet cells
+T23	Anatomy 1067 1071	eyes
+T22	Anatomy 1029 1033	eyes
+T25	Anatomy 1414 1431	peripheral cornea
+T24	Anatomy 1109 1121	goblet cells
+T27	Symptom 1496 1498	NV
+T26	Disease 1479 1481	BK
+T29	Symptom 1636 1654	neovascularization
+T28	Symptom 1523 1550	limbal stem cell deficiency
+T1	Disease 0 33	Long-standing bullous keratopathy
+T2	Symptom 53 83	peripheral conjunctivalization
+T3	Symptom 88 105	limbal deficiency
+T4	Symptom 131 168	peripheral corneal neovascularization
+T5	Disease 172 191	bullous keratopathy
+T6	Disease 193 195	BK
+T7	Symptom 207 226	conjunctivalization
+T8	Symptom 238 265	limbal stem cell deficiency
+T9	Disease 309 311	BK
+T10	Disease 359 361	BK
+T12	Disease 438 440	BK
+T11	Symptom 370 399	peripheral neovascularization
+T14	Symptom 515 534	conjunctivalization
+T13	Symptom 446 464	neovascularization
+T16	Symptom 622 652	peripheral vascularized cornea
+T15	Diagnostic_tool 561 604	acid-Schiff staining of impression cytology
+T18	Diagnostic_tool 876 895	impression cytology
+T17	Anatomy 857 869	goblet cells
+T19	Disease 909 911	BK
+R2	Diagnosed_with Arg1:T16 Arg2:T15
+R1	Diagnosed_with Arg1:T14 Arg2:T15

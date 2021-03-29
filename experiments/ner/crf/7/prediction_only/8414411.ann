@@ -1,0 +1,26 @@
+T21	Symptom 1101 1122	fibrous proliferation
+T20	Disease 1060 1088	nonproliferative retinopathy
+T23	Diagnostic_tool 1154 1232	nonmydriatic camera, performed with mydriasis, is comparable to ophthalmoscopy
+T22	Diagnostic_tool 1128 1146	fundus photography
+T25	Disease 1449 1511	retinopathy, questionable retinopathy, nondiabetic retinopathy
+T24	Disease 1254 1265	retinopathy
+T26	Characteristic 1572 1602	acute changes in visual acuity
+T1	Disease 17 37	diabetic retinopathy
+T2	Diagnostic_tool 39 79	Ophthalmoscopy versus fundus photography
+T3	Diagnostic_tool 93 111	fundus photography
+T4	Diagnostic_tool 117 131	ophthalmoscopy
+T5	Disease 152 172	diabetic retinopathy
+T6	Diagnostic_tool 174 211	Ophthalmoscopy and fundus photographs
+T7	Diagnostic_tool 219 277	nonmydriatic camera, both performed through dilated pupils
+T8	Disease 305 316	retinopathy
+T9	Disease 336 344	Oklahoma
+T10	Disease 379 396	diabetes mellitus
+T12	Characteristic 456 543	mean age of participants was 60.3 years, with a mean duration of diabetes of 17.3 years
+T11	Anatomy 413 417	eyes
+T14	Diagnostic_tool 649 667	fundus photography
+T13	Diagnostic_tool 630 644	ophthalmoscopy
+T16	Disease 717 751	proliferative diabetic retinopathy
+T15	Diagnostic_tool 675 694	nonmydriatic camera
+T18	Diagnostic_tool 889 903	ophthalmoscopy
+T17	Disease 822 847	proliferative retinopathy
+T19	Diagnostic_tool 929 947	fundus photography

@@ -1,0 +1,24 @@
+T4	Symptom 136 160	retinal vascular caliber
+T5	Disease 191 206	type 2 diabetes
+T6	Characteristic 275 367	to have diabetes at or after 30 years of age in an 11-county area in south central Wisconsin
+T7	Diagnostic_tool 387 406	Retinal photographs
+T8	Disease 480 491	retinopathy
+T9	Symptom 588 715	central retinal arteriolar equivalent (CRAE; arteriolar caliber) and central retinal venular equivalent (CRVE; venular caliber)
+T10	Characteristic 717 756	Retinal arteriolar and venular calibers
+T21	Anatomy 1698 1702	eyes
+T20	Anatomy 1642 1646	eyes
+T12	Characteristic 917 934	age (per 10 years
+T23	Symptom 1774 1798	retinal vascular caliber
+T11	Characteristic 860 882	refractive error, CRAE
+T22	Disease 1743 1758	type 2 diabetes
+T14	Characteristic 1026 1040	smoking status
+T13	Characteristic 957 990	mean arterial blood pressure (BP)
+T24	Characteristic 1925 1961	retinal vascular changes in diabetes
+T16	Symptom 1156 1301	CRVE was associated independently with age (per 10 years, beta = -2.5 microm), mean arterial BP (per 10 mmHg, beta = -2.1 microm), smoking status
+T15	Symptom 1092 1130	intraocular pressure (IOP) (per 1 mmHg
+T18	Disease 1505 1516	retinopathy
+T17	Characteristic 1408 1423	body mass index
+T1	Characteristic 0 24	Retinal vascular caliber
+T19	Characteristic 1565 1568	IOP
+T2	Disease 41 56	type 2 diabetes
+T3	Disease 97 121	Diabetic Retinopathy: XX

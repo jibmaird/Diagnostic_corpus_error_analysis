@@ -1,0 +1,18 @@
+T4	Characteristic 149 191	retinal nerve fiber layer (RNFL) thickness
+T5	Characteristic 204 283	optical coherence tomography (OCT) in patients with dominant optic atrophy (DOA
+T6	Symptom 354 407	DOA harboring heterozygous mutations in the OPA1 gene
+T7	Disease 460 463	DOA
+T8	Diagnostic_tool 489 492	OCT
+T9	Characteristic 552 587	age and optic nerve head (ONH) size
+T10	Characteristic 589 624	Retinal nerve fiber layer thickness
+T12	Characteristic 681 792	RNFL thickness reduction in all quadrants, with a preferential involvement of the temporal and inferior sectors
+T11	Disease 626 648	Dominant optic atrophy
+T14	Characteristic 841 844	age
+T13	Characteristic 821 835	RNFL thickness
+T16	Anatomy 1152 1166	nasal quadrant
+T15	Characteristic 877 1012	healthy subjects and was more evident in the 2 quadrants with higher residual amounts of fibers, that is, the superior and the inferior
+T18	Symptom 1386 1458	optic nerve axons and support the hypothesis that subsequent visual loss
+T17	Symptom 1231 1315	taken in conjunction with the authors' previous description of small ONH size in DOA
+T1	Characteristic 0 61	Retinal nerve fiber layer thickness in dominant optic atrophy
+T2	Diagnostic_tool 78 106	optical coherence tomography
+T3	Characteristic 128 131	age

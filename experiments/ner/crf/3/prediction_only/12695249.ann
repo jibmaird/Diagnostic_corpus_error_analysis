@@ -1,0 +1,23 @@
+T4	Disease 250 282	age-related macular degeneration
+T5	Disease 284 287	AMD
+T6	Characteristic 350 381	6418 persons 55 years and older
+T7	Disease 430 433	ARM
+T8	Diagnostic_tool 488 519	stereoscopic fundus photography
+T9	Disease 573 596	Age-related maculopathy
+T10	Disease 677 688	ARM and AMD
+T21	Disease 1592 1595	AMD
+T20	Disease 1528 1543	neovascular AMD
+T12	Disease 867 897	neovascular-atrophic AMD of 1.
+T23	Symptom 1725 1790	ARM stages follows, after the appearance of the first soft drusen
+T11	Disease 830 833	AMD
+T22	Symptom 1601 1643	function of age and early ARM fundus signs
+T14	Symptom 994 1052	older with indistinct drusen and pigmentary irregularities
+T13	Disease 921 924	AMD
+T16	Disease 1156 1167	stage 3 ARM
+T15	Characteristic 1064 1080	Age, but not sex
+T18	Symptom 1264 1366	AMD were 10 or more large drusen (> or =125 microm) and 10% or more of the grid area covered by drusen
+T17	Disease 1208 1218	ARM fundus
+T1	Disease 34 57	age-related maculopathy
+T19	Disease 1391 1403	atrophic AMD
+T2	Disease 154 177	age-related maculopathy
+T3	Disease 179 182	ARM

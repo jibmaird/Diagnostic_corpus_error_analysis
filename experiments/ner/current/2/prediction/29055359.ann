@@ -1,0 +1,13 @@
+T1	Disease 50 65	Dry Eye Disease
+T2	Disease 68 83	Dry eye disease
+T3	Disease 85 88	DED
+T4	Symptom 142 165	tear film insufficiency
+T5	Symptom 195 220	ocular surface irritation
+T6	Disease 253 256	DED
+T7	Disease 722 725	DED
+T8	Disease 768 771	DED
+T9	Characteristic 776 796	tear film osmolarity
+T10	Characteristic 798 821	inflammatory biomarkers
+T11	Diagnostic_tool 827 850	meibomian gland imaging
+T12	Disease 896 905	meibomian
+T13	Disease 1017 1020	DED

@@ -1,0 +1,15 @@
+T4	Disease 477 485	glaucoma
+T5	Diagnostic_tool 558 601	stereo optic disc photographs of 40 healthy
+T6	Disease 609 621	glaucomatous
+T7	Anatomy 622 626	eyes
+T8	Symptom 632 651	visual field chosen
+T9	Symptom 893 917	glaucomatous or healthy)
+T10	Symptom 1078 1141	visual field and of classifying them as healthy or glaucomatous
+T12	Characteristic 1374 1424	visual field severity (P < 0.001), notably in eyes
+T11	Diagnostic_tool 1236 1271	stereoscopic optic disc photographs
+T14	Diagnostic_tool 1552 1587	stereoscopic optic disc photographs
+T13	Disease 1430 1444	early glaucoma
+T15	Symptom 1713 1732	visual field damage
+T1	Characteristic 38 113	visual fields: the European Structure and Function Assessment Trial (ESAFAT
+T2	Diagnostic_tool 185 220	stereoscopic optic disc photographs
+T3	Diagnostic_tool 429 464	Optic Disc Assessment Trial (EODAT)

@@ -1,0 +1,36 @@
+T1	Disease 13 41	postvitrectomy macular edema
+T2	Diagnostic_tool 48 76	optical coherence tomography
+T3	Disease 166 194	postvitrectomy macular edema
+T4	Disease 196 198	ME
+T5	Anatomy 244 248	eyes
+T6	Anatomy 292 296	Eyes
+T7	Characteristic 358 375	retinal thickness
+T8	Diagnostic_tool 382 410	optical coherence tomography
+T9	Characteristic 455 483	best-corrected visual acuity
+T10	Characteristic 485 489	BCVA
+T11	Disease 492 505	Macular edema
+T12	Characteristic 521 547	central subfield thickness
+T13	Dimension 549 566	>  or =272 microm
+T14	Characteristic 568 585	Retinal thickness
+T15	Characteristic 587 599	inflammation
+T16	Characteristic 605 609	BCVA
+T17	Symptom 624 626	ME
+T18	Diagnostic_tool 630 658	optical coherence tomography
+T19	Characteristic 721 734	visual acuity
+T20	Characteristic 760 800	logarithm of minimum angle of resolution
+T21	Characteristic 802 808	logMAR
+T22	Characteristic 844 850	logMAR
+T23	Characteristic 887 893	logMAR
+T24	Characteristic 929 964	Mean 1-month center point thickness
+T25	Characteristic 966 969	CPT
+T26	Characteristic 972 988	central subfield
+T27	Characteristic 990 993	CSF
+T28	Characteristic 1000 1020	total macular volume
+T29	Symptom 1108 1134	postoperative inflammation
+T30	Characteristic 1145 1162	retinal thickness
+T31	Anatomy 1286 1290	Eyes
+T32	Characteristic 1317 1320	CSF
+T33	Disease 1445 1447	ME
+T34	Symptom 1496 1522	postoperative inflammation
+T35	Disease 1555 1557	ME
+T36	Symptom 1665 1677	inflammation

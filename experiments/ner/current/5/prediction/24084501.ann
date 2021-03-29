@@ -1,0 +1,21 @@
+T1	Disease 44 64	diabetic retinopathy
+T2	Disease 176 196	diabetic retinopathy
+T3	Disease 198 200	DR
+T4	Disease 388 394	type 1
+T5	Disease 399 414	type 2 diabetic
+T6	Disease 495 497	DR
+T7	Disease 529 531	DR
+T8	Disease 767 769	DR
+T9	Disease 911 931	Diabetic retinopathy
+T10	Disease 933 946	macular edema
+T11	Symptom 948 957	blindness
+T12	Disease 1052 1054	DR
+T13	Characteristic 1156 1172	aged  < 80 years
+T14	Characteristic 1182 1195	racial groups
+T15	Disease 1331 1333	DR
+T16	Characteristic 1367 1373	age of
+T17	Characteristic 1437 1446	nonwhites
+T18	Characteristic 1520 1522	by
+T19	Characteristic 1810 1825	age of patients
+T20	Characteristic 1955 1965	aged older
+T21	Characteristic 1971 1979	80 years

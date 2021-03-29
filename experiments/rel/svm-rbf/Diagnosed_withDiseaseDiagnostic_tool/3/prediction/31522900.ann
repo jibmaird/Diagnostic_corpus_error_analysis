@@ -1,0 +1,33 @@
+T21	Diagnostic_tool 1712 1727	FTF examination
+T20	Disease 1667 1683	glaucoma suspect
+T23	Disease 1763 1766	AMD
+T22	Disease 1729 1761	Age-related macular degeneration
+T25	Diagnostic_tool 2193 2206	TECS protocol
+T24	Diagnostic_tool 1833 1846	TECS protocol
+T27	Disease 2285 2297	eye diseases
+T26	Diagnostic_tool 2241 2256	FTF examination
+T28	Diagnostic_tool 2343 2346	OCT
+T1	Anatomy 40 43	Eye
+T2	Anatomy 80 83	Eye
+T3	Anatomy 176 179	eye
+T4	Anatomy 381 384	Eye
+T5	Anatomy 489 492	eye
+T6	Diagnostic_tool 533 552	retinal photography
+T7	Anatomy 554 557	Eye
+T8	Disease 707 715	glaucoma
+T9	Disease 748 756	glaucoma
+T10	Disease 757 773	glaucoma suspect
+T12	Disease 1060 1074	ocular disease
+T11	Diagnostic_tool 964 994	face-to-face (FTF) examination
+T14	Diagnostic_tool 1256 1271	FTF examination
+T13	Anatomy 1150 1153	eye
+T16	Diagnostic_tool 1493 1508	FTF examination
+T15	Diagnostic_tool 1356 1371	FTF examination
+T18	Disease 1584 1604	diabetic retinopathy
+T17	Disease 1560 1568	cataract
+T19	Disease 1658 1666	glaucoma
+R2	Diagnosed_with Arg1:T20 Arg2:T21
+R3	Diagnosed_with Arg1:T27 Arg2:T26
+R4	Diagnosed_with Arg1:T27 Arg2:T25
+R5	Diagnosed_with Arg1:T19 Arg2:T21
+R1	Diagnosed_with Arg1:T12 Arg2:T11

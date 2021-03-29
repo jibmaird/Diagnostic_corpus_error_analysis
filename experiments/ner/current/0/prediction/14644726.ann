@@ -1,0 +1,21 @@
+T1	Diagnostic_tool 0 20	Trypan blue staining
+T2	Diagnostic_tool 76 87	trypan blue
+T3	Anatomy 105 131	internal limiting membrane
+T4	Anatomy 133 136	ILM
+T5	Anatomy 142 162	epiretinal membranes
+T6	Anatomy 164 167	ERM
+T7	Symptom 266 280	macular pucker
+T8	Symptom 291 303	macular hole
+T9	Disease 340 371	proliferative vitreoretinopathy
+T10	Disease 384 404	diabetic retinopathy
+T11	Diagnostic_tool 414 430	Trypan blue 0.2%
+T12	Anatomy 453 456	ILM
+T13	Anatomy 460 463	ERM
+T14	Characteristic 498 540	intraoperative visibility of the membranes
+T15	Diagnostic_tool 610 621	trypan blue
+T16	Anatomy 631 634	ILM
+T17	Anatomy 642 645	ERM
+T18	Diagnostic_tool 667 682	bluish staining
+T19	Diagnostic_tool 851 869	Trypan blue stains
+T20	Diagnostic_tool 875 878	ILM
+T21	Diagnostic_tool 883 886	ERM

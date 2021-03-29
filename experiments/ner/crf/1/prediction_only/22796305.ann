@@ -1,0 +1,23 @@
+T4	Characteristic 388 439	Latinos aged ≥40 years from Los Angeles, California
+T5	Disease 458 461	OAG
+T6	Disease 675 678	OAG
+T7	Symptom 718 816	glaucomatous visual field abnormality and/or evidence of glaucomatous optic nerve damage in ≥1 eye
+T8	Disease 981 984	OAG
+T9	Disease 1077 1080	OAG
+T10	Characteristic 1140 1161	OAG include older age
+T21	Anatomy 1957 1960	eye
+T20	Characteristic 1823 1870	axial length and thin central corneal thickness
+T12	Characteristic 1280 1283	IOP
+T23	Disease 2061 2064	OAG
+T11	Characteristic 1258 1278	intraocular pressure
+T22	Disease 1994 1997	OAG
+T14	Characteristic 1392 1448	P < 0.001), thinner central cornea (OR per 40 μm thinner
+T13	Characteristic 1323 1354	P < 0.001), longer axial length
+T16	Characteristic 1574 1598	lack of vision insurance
+T15	Characteristic 1487 1512	higher waist-to-hip ratio
+T18	Characteristic 1699 1702	IOP
+T17	Characteristic 1665 1690	IOP of 14 mmHg in Latinos
+T1	Disease 54 73	open-angle glaucoma
+T19	Disease 1746 1749	OAG
+T2	Disease 260 279	open-angle glaucoma
+T3	Disease 281 284	OAG

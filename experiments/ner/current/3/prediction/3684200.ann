@@ -1,0 +1,36 @@
+T1	Characteristic 19 29	iris color
+T2	Disease 35 46	eye disease
+T3	Disease 50 58	diabetes
+T4	Characteristic 61 77	Iris (eye) color
+T5	Disease 109 120	eye disease
+T6	Disease 152 172	diabetic retinopathy
+T7	Characteristic 176 185	Wisconsin
+T8	Characteristic 187 196	Eye color
+T9	Characteristic 229 233	iris
+T10	Diagnostic_tool 239 260	red reflex photograph
+T11	Diagnostic_tool 266 286	standard photographs
+T12	Characteristic 291 304	younger-onset
+T13	Disease 305 313	diabetic
+T14	Characteristic 314 321	persons
+T15	Disease 333 346	macular edema
+T16	Characteristic 382 399	blue or grey eyes
+T17	Characteristic 420 432	intermediate
+T18	Characteristic 438 446	or brown
+T19	Disease 464 473	Cataracts
+T20	Characteristic 497 514	blue or grey eyes
+T21	Characteristic 535 547	intermediate
+T22	Characteristic 554 564	or brown (
+T23	Characteristic 576 595	younger-onset group
+T24	Characteristic 620 639	older-onset persons
+T25	Characteristic 652 672	intraocular pressure
+T26	Characteristic 674 677	IOP
+T27	Characteristic 706 711	brown
+T28	Anatomy 712 716	eyes
+T29	Characteristic 743 755	blue or grey
+T30	Characteristic 771 783	intermediate
+T31	Characteristic 809 818	Eye color
+T32	Disease 857 877	diabetic retinopathy
+T33	Characteristic 892 921	younger- or older-onset group
+T34	Disease 930 962	age-related macular degeneration
+T35	Disease 966 974	glaucoma
+T36	Characteristic 982 999	older-onset group

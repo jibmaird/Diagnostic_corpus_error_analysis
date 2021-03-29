@@ -1,0 +1,47 @@
+T41	Characteristic 2253 2264	Small discs
+T40	Diagnostic_tool 2072 2121	Heidelberg Retinal Tomograph 3 sectorial analysis
+T21	Characteristic 940 963	stereometric parameters
+T43	Characteristic 2341 2353	larger discs
+T20	Characteristic 782 797	optic disc size
+T42	Anatomy 2313 2331	inferonasal sector
+T23	Characteristic 1059 1062	MRA
+T45	Characteristic 2433 2447	HRT parameters
+T22	Characteristic 969 1020	cup-to-disc area ratio of the inferotemporal sector
+T44	Anatomy 2402 2423	inferotemporal sector
+T25	Anatomy 1125 1146	inferotemporal sector
+T24	Characteristic 1067 1070	GPS
+T46	Diagnostic_tool 2452 2477	classification algorithms
+T27	Characteristic 1226 1229	GPS
+T26	Characteristic 1202 1205	MRA
+T29	Diagnostic_tool 1324 1362	global optic nerve head (ONH) analysis
+T28	Diagnostic_tool 1261 1283	sectorial MRA analysis
+T1	Diagnostic_tool 31 61	Heidelberg Retinal Tomograph 3
+T2	Disease 84 92	glaucoma
+T3	Diagnostic_tool 182 212	Heidelberg Retinal Tomograph 3
+T4	Diagnostic_tool 214 218	HRT3
+T5	Disease 256 268	glaucomatous
+T6	Anatomy 269 273	eyes
+T7	Characteristic 319 328	disc size
+T8	Disease 333 341	glaucoma
+T9	Anatomy 438 442	eyes
+T30	Anatomy 1413 1431	inferonasal sector
+T10	Characteristic 452 467	normal subjects
+T32	Characteristic 1573 1596	stereometric parameters
+T31	Anatomy 1538 1559	inferotemporal sector
+T12	Symptom 525 555	repeatable visual field defect
+T34	Characteristic 1742 1757	MRA sensitivity
+T11	Disease 475 483	glaucoma
+T33	Characteristic 1715 1730	optic disc size
+T14	Characteristic 634 657	stereometric parameters
+T36	Characteristic 1873 1896	GPS diagnostic accuracy
+T13	Diagnostic_tool 597 601	HRT3
+T35	Disease 1774 1788	early-glaucoma
+T16	Characteristic 691 694	MRA
+T38	Characteristic 1944 1953	disc size
+T15	Characteristic 659 689	Moorfields regression analysis
+T37	Anatomy 1924 1935	ONH sectors
+T18	Characteristic 729 732	GPS
+T17	Characteristic 701 727	glaucoma probability score
+T39	Disease 1958 1966	glaucoma
+T19	Disease 763 771	glaucoma
+R1	Has_symptom Arg1:T11 Arg2:T12

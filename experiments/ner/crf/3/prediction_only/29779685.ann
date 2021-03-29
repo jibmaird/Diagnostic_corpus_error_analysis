@@ -1,0 +1,37 @@
+T21	Disease 1170 1173	PDR
+T20	Disease 1130 1132	DR
+T23	Characteristic 1239 1316	duration of diabetes, and other factors, retinal arteriolar simple tortuosity
+T22	Disease 1186 1190	CSME
+T25	Symptom 1442 1473	Retinal venular branching angle
+T24	Disease 1372 1374	DR
+T27	Characteristic 1557 1593	retinal venular curvature tortuosity
+T26	Disease 1523 1525	DR
+T29	Characteristic 1684 1719	retinal venular branching angle (OR
+T28	Disease 1645 1648	PDR
+T1	Diagnostic_tool 20 44	Retinal Vessel Geometric
+T2	Disease 97 117	Diabetic Retinopathy
+T3	Diagnostic_tool 152 199	retinal vessel geometric characteristics (RVGCs
+T4	Disease 237 257	diabetic retinopathy
+T5	Disease 259 261	DR
+T6	Disease 342 366	type 1 diabetes mellitus
+T7	Disease 396 420	type 2 diabetes mellitus
+T8	Characteristic 422 426	T2DM
+T9	Disease 639 659	Diabetic retinopathy
+T30	Disease 1797 1801	CSME
+T10	Disease 664 677	macular edema
+T32	Characteristic 2022 2076	retinal vessel diameter and baseline DR severity level
+T31	Disease 1873 1875	DR
+T12	Diagnostic_tool 859 912	digitized copy of 1 of the field 1 fundus photographs
+T34	Disease 2178 2180	DR
+T11	Diagnostic_tool 706 747	30° stereoscopic color fundus photographs
+T33	Characteristic 2078 2141	Retinal vessel geometric characteristics of the retinal venules
+T14	Disease 996 998	DR
+T36	Disease 2323 2325	DR
+T13	Disease 977 979	DR
+T35	Diagnostic_tool 2223 2251	digitized fundus photographs
+T16	Disease 1053 1056	PDR
+T15	Disease 1017 1051	proliferative diabetic retinopathy
+T37	Characteristic 2369 2382	T1DM and T2DM
+T18	Disease 1100 1104	CSME
+T17	Disease 1062 1098	clinically significant macular edema
+T19	Anatomy 1115 1119	eyes

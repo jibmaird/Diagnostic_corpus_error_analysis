@@ -1,0 +1,29 @@
+T21	Anatomy 783 787	eyes
+T20	Characteristic 735 764	Irido-ciliary process contact
+T23	Disease 931 934	PDS
+T22	Characteristic 827 908	structural relations among the iris, lens, zonules, and ciliary processes in vivo
+T25	Characteristic 985 999	iris concavity
+T24	Disease 936 942	Miotic
+T27	Characteristic 1089 1118	Irido-ciliary process contact
+T26	Symptom 1064 1087	reverse pupillary block
+T1	Diagnostic_tool 0 24	Ultrasound biomicroscopy
+T2	Disease 28 55	pigment dispersion syndrome
+T3	Characteristic 73 151	positional relations of the iris, lens, ciliary processes, and zonules in eyes
+T4	Disease 161 188	pigment dispersion syndrome
+T5	Disease 190 193	PDS
+T6	Diagnostic_tool 196 254	High-resolution, anterior segment ultrasound biomicroscopy
+T7	Anatomy 285 289	eyes
+T8	Disease 310 313	PDS
+T9	Anatomy 345 349	eyes
+T10	Disease 356 362	miotic
+T12	Characteristic 410 439	Mid-peripheral iris concavity
+T11	Anatomy 382 386	eyes
+T14	Characteristic 504 533	irido-ciliary process contact
+T13	Characteristic 470 491	irido-zonular contact
+T16	Disease 564 567	PDS
+T15	Anatomy 554 558	eyes
+T18	Characteristic 674 695	irido-zonular contact
+T17	Characteristic 655 669	iris concavity
+T19	Anatomy 703 707	eyes
+R2	Diagnosed_with Arg1:T8 Arg2:T6
+R1	Diagnosed_with Arg1:T2 Arg2:T1

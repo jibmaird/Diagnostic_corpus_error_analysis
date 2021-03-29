@@ -1,0 +1,29 @@
+T21	Diagnostic_tool 1898 1926	HRT linear cup-to-disc ratio
+T20	Characteristic 1826 1863	pupil diameter and HVF mean deviation
+T23	Disease 2001 2013	glaucomatous
+T22	Symptom 1955 1996	several other optic nerve head parameters
+T25	Symptom 2107 2147	visual field loss and optic disc cupping
+T24	Anatomy 2014 2018	eyes
+T27	Characteristic 2225 2231	ipRGCs
+T26	Disease 2152 2156	POAG
+T29	Disease 2384 2392	glaucoma
+T28	Symptom 2270 2336	damage to retinal ganglion cells that mediate image-forming vision
+T1	Disease 65 73	Glaucoma
+T2	Diagnostic_tool 107 134	chromatic pupillometry test
+T3	Symptom 192 237	photosensitive retinal ganglion cells (ipRGCs
+T4	Disease 256 283	primary open-angle glaucoma
+T5	Disease 285 289	POAG
+T6	Symptom 346 380	optic nerve damage and visual loss
+T7	Disease 518 522	POAG
+T8	Disease 549 557	glaucoma
+T9	Characteristic 584 617	Chinese) 50 years of age or older
+T10	Characteristic 850 856	ipRGCs
+T12	Disease 1068 1072	POAG
+T11	Diagnostic_tool 935 957	infrared pupillography
+T14	Disease 1207 1211	POAG
+T13	Characteristic 1133 1152	corneal irradiances
+T16	Diagnostic_tool 1347 1392	Dublin, CA) and scanning laser ophthalmoscopy
+T15	Diagnostic_tool 1260 1325	standard automated perimetry testing (Humphrey Visual Field [HVF]
+T18	Disease 1545 1549	POAG
+T17	Diagnostic_tool 1405 1434	Heidelberg Retinal Tomography
+T19	Characteristic 1628 1634	ipRGCs

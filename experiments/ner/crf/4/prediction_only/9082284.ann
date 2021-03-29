@@ -1,0 +1,14 @@
+T4	Anatomy 397 401	eyes
+T5	Disease 432 452	diabetic retinopathy
+T6	Disease 466 490	hypertensive retinopathy
+T7	Characteristic 505 518	visual fields
+T8	Diagnostic_tool 567 617	Octopus 500 (Interzeag AG, Schlieren, Switzerland)
+T9	Anatomy 628 631	eye
+T10	Diagnostic_tool 770 870	Octopus and applied logistic discriminant analysis (SAS Logistic Procedures, SAS Institute, Cary, NC
+T12	Symptom 1109 1129	visual field defects
+T11	Symptom 925 980	visual field defects as glaucomatous or nonglaucomatous
+T14	Symptom 1408 1467	early glaucomatous and nonglaucomatous visual field defects
+T13	Symptom 1208 1261	glaucomatous or nonglaucomatous origin of the defects
+T1	Symptom 65 85	visual field defects
+T2	Symptom 280 300	visual field defects
+T3	Symptom 321 346	early glaucomatous damage

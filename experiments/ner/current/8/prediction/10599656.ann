@@ -1,0 +1,55 @@
+T1	Symptom 26 61	retinal microvascular abnormalities
+T2	Disease 78 100	hypertension/sclerosis
+T3	Disease 108 123	Atherosclerosis
+T4	Symptom 200 230	retinal vascular abnormalities
+T5	Classification_system 238 253	Atherosclerosis
+T6	Symptom 376 397	microvascular changes
+T7	Characteristic 403 417	blood pressure
+T8	Characteristic 510 528	48-73 years of age
+T9	Disease 597 605	diabetes
+T10	Anatomy 630 633	eye
+T11	Diagnostic_tool 691 718	nonmydriatic fundus cameras
+T12	Symptom 753 779	focal arteriolar narrowing
+T13	Symptom 781 807	arteriovenous (AV) nicking
+T14	Disease 813 824	retinopathy
+T15	Characteristic 873 934	diameters of all vessels in a zone surrounding the optic disc
+T16	Diagnostic_tool 938 963	enhanced digitized images
+T17	Symptom 974 995	generalized narrowing
+T18	Characteristic 997 1013	vessel diameters
+T19	Characteristic 1033 1075	central arteriolar and venular equivalents
+T20	Characteristic 1145 1154	A/V ratio
+T21	Symptom 1172 1202	Retinal vascular abnormalities
+T22	Symptom 1204 1208	mean
+T23	Characteristic 1209 1234	arteriolar blood pressure
+T24	Characteristic 1236 1240	MABP
+T25	Diagnostic_tool 1270 1281	photographs
+T26	Diagnostic_tool 1400 1411	photographs
+T27	Characteristic 1413 1422	A/V ratio
+T28	Symptom 1446 1478	generalized arteriolar narrowing
+T29	Symptom 1550 1576	focal arteriolar narrowing
+T30	Symptom 1594 1604	AV nicking
+T31	Disease 1616 1627	retinopathy
+T32	Characteristic 1764 1770	gender
+T33	Characteristic 1772 1776	race
+T34	Characteristic 1778 1781	age
+T35	Characteristic 1787 1801	smoking status
+T36	Symptom 1809 1824	retinal changes
+T37	Characteristic 1846 1867	higher blood pressure
+T38	Characteristic 1899 1903	MABP
+T39	Characteristic 1905 1914	A/V ratio
+T40	Symptom 1954 1980	focal arteriolar narrowing
+T41	Symptom 2056 2066	AV nicking
+T42	Disease 2111 2122	retinopathy
+T43	Symptom 2181 2202	generalized narrowing
+T44	Symptom 2221 2236	focal narrowing
+T45	Characteristic 2241 2245	MABP
+T46	Dimension 2262 2266	mmHg
+T47	Characteristic 2390 2399	A/V ratio
+T48	Symptom 2475 2501	focal arteriolar narrowing
+T49	Symptom 2521 2531	AV nicking
+T50	Disease 2555 2566	retinopathy
+T51	Diagnostic_tool 2616 2647	nonmydriatic fundus photography
+T52	Symptom 2670 2700	retinal vascular abnormalities
+T53	Symptom 2710 2731	microvascular changes
+T54	Characteristic 2767 2788	higher blood pressure
+T55	Disease 2842 2889	later cerebrovascular or cardiovascular disease

@@ -1,0 +1,33 @@
+T21	Anatomy 983 986	eye
+T20	Characteristic 745 796	Tomey, Nagoya, Japan) in room light and in the dark
+T23	Diagnostic_tool 1211 1214	OCT
+T22	Diagnostic_tool 1196 1206	gonioscopy
+T25	Characteristic 1348 1416	area of PAS (mean ± standard deviation) was 20.8 ± 16.9 mm(2) (range
+T24	Characteristic 1243 1342	PAS involvement, and the intraclass correlation coefficient (ICC) of interobserver PAS measurements
+T27	Disease 1764 1767	PAS
+T26	Characteristic 1558 1606	PAS (P = 0.90) and the degree of PAS involvement
+T29	Diagnostic_tool 1883 1908	gonioscopy and OCT images
+T28	Symptom 1815 1830	PAS involvement
+T1	Diagnostic_tool 0 117	Anterior chamber angle imaging with swept-source optical coherence tomography: measuring peripheral anterior synechia
+T2	Disease 121 129	glaucoma
+T3	Diagnostic_tool 158 199	swept-source optical coherence tomography
+T4	Diagnostic_tool 201 204	OCT
+T5	Symptom 243 289	peripheral anterior synechia (PAS) involvement
+T6	Disease 307 329	angle-closure glaucoma
+T7	Anatomy 367 371	eyes
+T8	Symptom 377 416	PAS (detected by indentation gonioscopy
+T9	Disease 440 462	angle-closure glaucoma
+T30	Diagnostic_tool 1957 1960	OCT
+T10	Anatomy 467 471	eyes
+T32	Characteristic 2098 2113	PAS progression
+T31	Characteristic 2038 2053	PAS involvement
+T12	Anatomy 513 517	eyes
+T11	Disease 476 506	primary angle-closure glaucoma
+T33	Disease 2153 2175	angle-closure glaucoma
+T14	Disease 558 582	chronic anterior uveitis
+T13	Disease 522 544	angle-closure glaucoma
+T16	Characteristic 635 658	anterior chamber angles
+T15	Characteristic 595 619	Axenfeld-Rieger syndrome
+T18	Diagnostic_tool 716 732	swept-source OCT
+T17	Diagnostic_tool 691 701	gonioscopy
+T19	Diagnostic_tool 734 743	Casia OCT

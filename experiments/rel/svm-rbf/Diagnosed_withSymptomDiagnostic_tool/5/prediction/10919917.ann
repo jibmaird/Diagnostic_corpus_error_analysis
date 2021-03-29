@@ -1,0 +1,117 @@
+T61	Characteristic 2129 2144	hypercyanescent
+T60	Symptom 2118 2122	LLUS
+T63	Diagnostic_tool 2180 2200	ICG videoangiography
+T62	Characteristic 2163 2176	isocyanescent
+T21	Characteristic 894 932	ICG videoangiography hyperfluorescence
+T65	Diagnostic_tool 2239 2259	ICG videoangiography
+T20	Characteristic 856 892	moderate or intense hypercyanescence
+T64	Anatomy 2225 2229	eyes
+T23	Characteristic 979 1014	ICG videoangiography isocyanescence
+T67	Diagnostic_tool 2315 2317	FA
+T22	Characteristic 938 977	absence of fluorescence over background
+T66	Characteristic 2284 2299	hypercyanescent
+T25	Anatomy 1080 1083	eye
+T69	Symptom 2345 2374	elevated blocked fluorescence
+T24	Characteristic 1034 1063	ICG videoangiography features
+T68	Symptom 2335 2341	drusen
+T27	Symptom 1128 1131	CNV
+T26	Symptom 1098 1126	choroidal neovascularization
+T29	Anatomy 1146 1149	eye
+T28	Diagnostic_tool 1136 1138	FA
+T70	Diagnostic_tool 2376 2410	Indocyanine green videoangiography
+T72	Characteristic 2456 2472	hypercyanescence
+T71	Anatomy 2431 2435	eyes
+T30	Diagnostic_tool 1180 1182	FA
+T74	Disease 2520 2523	AMD
+T73	Anatomy 2487 2491	eyes
+T32	Diagnostic_tool 1229 1249	ICG videoangiography
+T76	Diagnostic_tool 2588 2603	stereoscopic FA
+T31	Diagnostic_tool 1183 1203	ICG videoangiography
+T75	Diagnostic_tool 2525 2559	Indocyanine green videoangiography
+T34	Symptom 1293 1364	serous pigment epithelial detachments (SPEDs) both with and without CNV
+T78	Symptom 2632 2637	FVPED
+T33	Symptom 1269 1291	classic and occult CNV
+T77	Symptom 2624 2628	CCNV
+T36	Anatomy 1444 1448	eyes
+T35	Symptom 1366 1384	macular hemorrhage
+T79	Symptom 2666 2670	LLUS
+T38	Diagnostic_tool 1492 1494	FA
+T37	Symptom 1470 1488	macular hemorrhage
+T39	Diagnostic_tool 1510 1512	FA
+T81	Symptom 2731 2735	SPED
+T80	Symptom 2707 2710	CNV
+T83	Diagnostic_tool 2759 2779	ICG videoangiography
+T82	Symptom 2739 2757	macular hemorrhage
+T41	Symptom 1560 1570	hemorrhage
+T40	Symptom 1522 1525	CNV
+T84	Diagnostic_tool 2818 2820	FA
+T43	Characteristic 1636 1660	hypercyanescent features
+T42	Diagnostic_tool 1582 1585	ICG
+T45	Symptom 1708 1713	SPEDs
+T44	Diagnostic_tool 1686 1688	FA
+T47	Diagnostic_tool 1725 1727	FA
+T46	Symptom 1718 1721	CNV
+T49	Symptom 1797 1801	SPED
+T48	Characteristic 1764 1780	hypercyanescence
+T1	Diagnostic_tool 16 52	stereoscopic fluorescein angiography
+T2	Diagnostic_tool 58 92	indocyanine green videoangiography
+T3	Disease 96 128	age-related macular degeneration
+T4	Diagnostic_tool 156 196	indocyanine green (ICG) videoangiography
+T5	Diagnostic_tool 202 237	stereo film fluorescein angiography
+T6	Diagnostic_tool 239 241	FA
+T7	Disease 262 294	age-related macular degeneration
+T8	Disease 296 299	AMD
+T9	Disease 408 411	AMD
+T50	Diagnostic_tool 1810 1830	ICG videoangiography
+T52	Symptom 1866 1905	classic choroidal neovascular membranes
+T51	Anatomy 1856 1860	eyes
+T10	Diagnostic_tool 434 436	FA
+T54	Anatomy 1934 1938	eyes
+T53	Symptom 1907 1911	CCNV
+T12	Disease 490 493	AMD
+T56	Symptom 1990 1995	FVPED
+T11	Diagnostic_tool 437 457	ICG videoangiography
+T55	Symptom 1944 1988	fibrovascular pigment epithelial detachments
+T14	Diagnostic_tool 538 558	ICG videoangiography
+T58	Anatomy 2066 2070	eyes
+T13	Diagnostic_tool 535 537	FA
+T57	Characteristic 2012 2027	hypercyanescent
+T16	Disease 736 739	AMD
+T15	Characteristic 721 732	FA features
+T59	Symptom 2081 2116	late leakage of undetermined source
+T18	Characteristic 799 814	hypocyanescence
+T17	Characteristic 766 795	ICG videoangiography features
+T19	Characteristic 816 853	ICG videoangiography hypofluorescence
+R21	Diagnosed_with Arg1:T78 Arg2:T76
+R20	Diagnosed_with Arg1:T80 Arg2:T83
+R23	Diagnosed_with Arg1:T69 Arg2:T67
+R22	Diagnosed_with Arg1:T77 Arg2:T76
+R25	Diagnosed_with Arg1:T60 Arg2:T63
+R24	Diagnosed_with Arg1:T68 Arg2:T67
+R27	Diagnosed_with Arg1:T46 Arg2:T47
+R26	Diagnosed_with Arg1:T49 Arg2:T50
+R29	Diagnosed_with Arg1:T37 Arg2:T38
+R28	Diagnosed_with Arg1:T41 Arg2:T39
+R1	Diagnosed_with Arg1:T26 Arg2:T28
+R2	Diagnosed_with Arg1:T26 Arg2:T31
+R3	Diagnosed_with Arg1:T27 Arg2:T30
+R4	Diagnosed_with Arg1:T33 Arg2:T32
+R5	Diagnosed_with Arg1:T35 Arg2:T32
+R6	Diagnosed_with Arg1:T40 Arg2:T39
+R7	Diagnosed_with Arg1:T45 Arg2:T47
+R8	Diagnosed_with Arg1:T49 Arg2:T47
+R9	Diagnosed_with Arg1:T59 Arg2:T63
+R30	Diagnosed_with Arg1:T34 Arg2:T32
+R10	Diagnosed_with Arg1:T68 Arg2:T65
+R32	Diagnosed_with Arg1:T27 Arg2:T28
+R31	Diagnosed_with Arg1:T27 Arg2:T31
+R12	Diagnosed_with Arg1:T77 Arg2:T75
+R11	Diagnosed_with Arg1:T69 Arg2:T65
+R33	Diagnosed_with Arg1:T26 Arg2:T30
+R14	Diagnosed_with Arg1:T79 Arg2:T76
+R13	Diagnosed_with Arg1:T78 Arg2:T75
+R16	Diagnosed_with Arg1:T81 Arg2:T84
+R15	Diagnosed_with Arg1:T80 Arg2:T84
+R18	Diagnosed_with Arg1:T82 Arg2:T83
+R17	Diagnosed_with Arg1:T82 Arg2:T84
+R19	Diagnosed_with Arg1:T81 Arg2:T83

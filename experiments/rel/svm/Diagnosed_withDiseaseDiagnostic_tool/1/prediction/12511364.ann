@@ -1,0 +1,56 @@
+T21	Characteristic 761 786	Macular and NFL thickness
+T20	Anatomy 738 742	eyes
+T23	Characteristic 811 825	NFL parameters
+T22	Diagnostic_tool 802 805	OCT
+T25	Disease 949 975	early or advanced glaucoma
+T24	Diagnostic_tool 859 862	OCT
+T27	Diagnostic_tool 1075 1078	OCT
+T26	Characteristic 991 1041	Inner ring, outer ring, and mean macular thickness
+T29	Anatomy 1178 1182	eyes
+T28	Disease 1156 1177	advanced glaucomatous
+T30	Characteristic 1202 1212	outer ring
+T32	Disease 1302 1316	early glaucoma
+T31	Characteristic 1226 1243	macular parameter
+T34	Characteristic 1480 1498	mean NFL thickness
+T33	Diagnostic_tool 1357 1360	OCT
+T36	Anatomy 1540 1544	eyes
+T35	Disease 1518 1539	advanced glaucomatous
+T38	Anatomy 1608 1612	eyes
+T37	Diagnostic_tool 1592 1595	OCT
+T39	Characteristic 1674 1696	mean macular thickness
+T41	Anatomy 1733 1737	eyes
+T40	Disease 1711 1732	advanced glaucomatous
+T43	Diagnostic_tool 1845 1848	OCT
+T42	Diagnostic_tool 1806 1809	OCT
+T45	Diagnostic_tool 1896 1899	OCT
+T44	Characteristic 1855 1880	macular and NFL thickness
+T47	Characteristic 1970 1983	NFL thickness
+T46	Disease 1951 1959	glaucoma
+T49	Diagnostic_tool 2125 2128	OCT
+T48	Characteristic 2019 2036	macular thickness
+T1	Diagnostic_tool 0 28	Optical coherence tomography
+T2	Characteristic 44 83	macular and nerve fiber layer thickness
+T3	Disease 98 110	glaucomatous
+T4	Anatomy 117 121	eyes
+T5	Characteristic 156 173	macular thickness
+T6	Disease 207 215	glaucoma
+T7	Anatomy 269 273	eyes
+T8	Anatomy 290 294	eyes
+T9	Anatomy 322 326	eyes
+T50	Characteristic 2136 2161	Macular and NFL thickness
+T52	Disease 2239 2247	glaucoma
+T51	Diagnostic_tool 2185 2188	OCT
+T10	Disease 333 341	glaucoma
+T12	Disease 368 382	early glaucoma
+T11	Anatomy 356 360	eyes
+T14	Disease 411 428	advanced glaucoma
+T13	Anatomy 400 404	eyes
+T16	Diagnostic_tool 477 480	OCT
+T15	Diagnostic_tool 447 475	optical coherence tomography
+T18	Disease 597 605	glaucoma
+T17	Characteristic 493 538	macular and nerve fiber layer (NFL) thickness
+T19	Diagnostic_tool 656 659	OCT
+R2	Diagnosed_with Arg1:T46 Arg2:T45
+R3	Diagnosed_with Arg1:T52 Arg2:T51
+R4	Diagnosed_with Arg1:T32 Arg2:T33
+R1	Diagnosed_with Arg1:T28 Arg2:T27

@@ -1,0 +1,16 @@
+T4	Characteristic 124 176	integrity of the blood-ocular barrier to fluorescein
+T5	Disease 206 223	diabetes mellitus
+T6	Disease 225 233	Diabetic
+T7	Disease 259 281	background retinopathy
+T8	Symptom 286 332	increased vitreous accumulation of fluorescein
+T9	Characteristic 380 383	age
+T10	Disease 402 433	Streptozotocin-induced diabetes
+T12	Anatomy 552 568	pancreatic islet
+T11	Characteristic 451 471	vitreous fluorescein
+T14	Disease 703 711	diabetes
+T13	Symptom 590 642	breakdown of the blood-ocular barrier to fluorescein
+T1	Diagnostic_tool 0 25	Vitreous fluorophotometry
+T2	Disease 29 46	diabetes mellitus
+T3	Diagnostic_tool 49 74	Vitreous fluorophotometry
+R2	Diagnosed_with Arg1:T5 Arg2:T3
+R1	Diagnosed_with Arg1:T2 Arg2:T1

@@ -1,0 +1,12 @@
+T4	Disease 250 253	AMD
+T5	Characteristic 369 426	maintenance organization (HMO) in Israel  >  50 years old
+T6	Diagnostic_tool 530 544	PDT procedures
+T10	Characteristic 2204 2260	place of birth, socioeconomic status, and hyperlipidemia
+T7	Disease 549 552	AMD
+T8	Characteristic 944 1135	HMO members matched in age, gender, chronic diseases (systemic hypertension, diabetes, hyperlipemia, and ischemic heart disease), place of residence, country of birth and socioeconomic status
+T12	Disease 2364 2377	subfoveal AMD
+T9	Symptom 2141 2162	PDT were advanced age
+T11	Disease 2344 2347	PDT
+T1	Disease 78 110	age-related macular degeneration
+T2	Characteristic 177 210	rate of photodynamic therapy (PDT
+T3	Disease 216 248	age-related macular degeneration

@@ -1,0 +1,12 @@
+T4	Symptom 306 342	retinopathy in a diabetic population
+T5	Diagnostic_tool 456 474	fundus photography
+T6	Disease 636 647	retinopathy
+T10	Disease 1117 1128	retinopathy
+T7	Disease 665 689	type I diabetes mellitus
+T8	Disease 895 919	type I diabetes mellitus
+T12	Disease 1275 1295	Diabetic Retinopathy
+T9	Disease 1057 1065	diabetic
+T11	Diagnostic_tool 1177 1195	fundus photography
+T1	Disease 23 34	retinopathy
+T2	Disease 52 76	type I diabetes mellitus
+T3	Disease 102 122	Diabetic retinopathy

@@ -1,0 +1,41 @@
+T21	Diagnostic_tool 1252 1262	Spectralis
+T20	Anatomy 1226 1243	superior quadrant
+T23	Diagnostic_tool 1308 1314	Cirrus
+T22	Characteristic 1278 1299	global RNFL thickness
+T25	Anatomy 1456 1470	nasal quadrant
+T24	Diagnostic_tool 1330 1335	RTVue
+T27	Diagnostic_tool 1529 1534	RTVue
+T26	Diagnostic_tool 1514 1524	Spectralis
+T29	Characteristic 1711 1738	superior quadrant thickness
+T28	Diagnostic_tool 1553 1559	Cirrus
+T1	Diagnostic_tool 47 105	Spectralis, Cirrus, and RTVue optical coherence tomography
+T2	Disease 117 125	glaucoma
+T3	Characteristic 168 210	retinal nerve fiber layer (RNFL) thickness
+T4	Diagnostic_tool 242 252	Spectralis
+T5	Diagnostic_tool 300 306	Cirrus
+T6	Diagnostic_tool 345 350	RTVue
+T7	Disease 408 416	glaucoma
+T8	Disease 483 495	glaucomatous
+T9	Disease 565 573	Glaucoma
+T30	Diagnostic_tool 1757 1767	Spectralis
+T10	Characteristic 600 615	African Descent
+T32	Diagnostic_tool 1899 1905	Cirrus
+T31	Characteristic 1866 1882	global thickness
+T12	Characteristic 683 697	RNFL thickness
+T34	Characteristic 2023 2039	global thickness
+T11	Disease 620 628	Glaucoma
+T33	Diagnostic_tool 2012 2017	RTVue
+T14	Diagnostic_tool 727 733	Cirrus
+T36	Diagnostic_tool 2195 2201	SD-OCT
+T13	Diagnostic_tool 715 725	Spectralis
+T35	Diagnostic_tool 2151 2193	spectral-domain optic coherence tomography
+T16	Characteristic 832 835	age
+T15	Diagnostic_tool 739 744	RTVue
+T37	Disease 2288 2296	glaucoma
+T18	Characteristic 863 936	quadrants (superior, nasal, inferior, temporal) and global RNFL thickness
+T17	Characteristic 840 844	race
+T19	Characteristic 1171 1185	RNFL thickness
+R2	Diagnosed_with Arg1:T37 Arg2:T35
+R3	Diagnosed_with Arg1:T37 Arg2:T36
+R4	Diagnosed_with Arg1:T7 Arg2:T6
+R1	Diagnosed_with Arg1:T2 Arg2:T1

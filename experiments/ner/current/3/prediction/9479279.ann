@@ -1,0 +1,39 @@
+T1	Symptom 26 45	glaucomatous damage
+T2	Anatomy 53 67	posterior pole
+T3	Diagnostic_tool 71 96	retinal thickness mapping
+T4	Symptom 118 153	posterior pole ganglion cell bodies
+T5	Characteristic 189 206	retinal thickness
+T6	Diagnostic_tool 272 307	scanning retinal thickness analysis
+T7	Symptom 309 324	retinal changes
+T8	Anatomy 332 346	posterior pole
+T9	Symptom 354 373	glaucomatous damage
+T10	Anatomy 415 419	eyes
+T11	Disease 437 464	chronic open-angle glaucoma
+T12	Characteristic 493 534	superoinferior asymmetry in visual fields
+T13	Symptom 540 560	localized field loss
+T14	Symptom 566 590	nerve fiber layer defect
+T15	Diagnostic_tool 602 613	photography
+T16	Anatomy 642 646	eyes
+T17	Diagnostic_tool 684 688	slit
+T18	Diagnostic_tool 703 705	on
+T19	Anatomy 710 716	retina
+T20	Anatomy 774 780	fundus
+T21	Anatomy 872 904	central 20 degrees of the fundus
+T22	Diagnostic_tool 910 932	optical cross-sections
+T23	Characteristic 1028 1115	asymmetry (difference) between the visual sensitivity of the upper and lower hemifields
+T24	Characteristic 1138 1190	asymmetry in retinal thickness deviation from normal
+T25	Symptom 1192 1204	Large losses
+T26	Symptom 1214 1215	%
+T27	Symptom 1217 1237	in retinal thickness
+T28	Anatomy 1259 1273	posterior pole
+T29	Disease 1291 1299	glaucoma
+T30	Symptom 1311 1350	loss of ganglion cells and nerve fibers
+T31	Symptom 1414 1450	asymmetry in visual sensitivity loss
+T32	Characteristic 1459 1503	asymmetry in deviation from normal thickness
+T33	Characteristic 1530 1537	Mapping
+T34	Characteristic 1541 1544	the
+T35	Characteristic 1545 1562	retinal thickness
+T36	Symptom 1630 1660	early glaucomatous tissue loss
+T37	Anatomy 1668 1682	posterior pole
+T38	Symptom 1756 1773	neuroretinal loss
+T39	Anatomy 1781 1804	central field of vision

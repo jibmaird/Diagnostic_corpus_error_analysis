@@ -1,0 +1,28 @@
+T1	Disease 25 33	diabetes
+T2	Classification_system 34 40	vision
+T3	Disease 85 93	Diabetic
+T4	Classification_system 94 105	Retinopathy
+T5	Classification_system 185 193	Diabetes
+T6	Disease 271 279	diabetes
+T7	Disease 287 307	Diabetic Retinopathy
+T8	Disease 602 610	diabetes
+T9	Characteristic 612 636	18 years of age or older
+T10	Characteristic 647 656	residents
+T11	Characteristic 660 684	Suffolk County, New York
+T12	Disease 871 879	diabetes
+T13	Disease 936 944	diabetes
+T14	Disease 946 952	vision
+T15	Disease 958 978	diabetic retinopathy
+T16	Disease 1107 1115	diabetes
+T17	Anatomy 1332 1335	eye
+T18	Anatomy 1522 1525	eye
+T19	Characteristic 1798 1809	younger age
+T20	Disease 1836 1851	type 2 diabetes
+T21	Characteristic 1852 1856	with
+T22	Symptom 1857 1859	or
+T23	Characteristic 1860 1879	without insulin use
+T24	Characteristic 1916 1941	shorter diabetes duration
+T25	Anatomy 1960 1963	eye
+T26	Disease 2088 2096	diabetes
+T27	Disease 2130 2138	diabetes
+T28	Disease 2398 2418	diabetic retinopathy

@@ -1,0 +1,44 @@
+T1	Diagnostic_tool 27 59	stereoscopic fundus color slides
+T2	Anatomy 64 71	macular
+T3	Disease 83 106	age-related maculopathy
+T4	Disease 111 123	degeneration
+T5	Diagnostic_tool 137 176	35-mm stereoscopic slide transparencies
+T6	Diagnostic_tool 182 214	digitized nonstereoscopic images
+T7	Dimension 236 242	pixels
+T8	Disease 273 296	age-related maculopathy
+T9	Disease 298 301	ARM
+T10	Disease 307 339	age-related macular degeneration
+T11	Disease 341 344	AMD
+T12	Anatomy 411 415	eyes
+T13	Disease 422 425	ARM
+T14	Disease 433 436	AMD
+T15	Disease 464 467	ARM
+T16	Disease 468 471	AMD
+T17	Anatomy 486 489	eye
+T18	Characteristic 593 607	United Kingdom
+T19	Diagnostic_tool 620 639	Retinal photography
+T20	Disease 659 668	mydriasis
+T21	Diagnostic_tool 679 757	Zeiss FF-series 30 degrees fundus camera on Ektachrome slide transparency film
+T22	Anatomy 791 797	macula
+T23	Diagnostic_tool 803 823	color transparencies
+T24	Disease 908 911	ARM
+T25	Anatomy 980 987	retinal
+T26	Diagnostic_tool 1173 1185	color slides
+T27	Diagnostic_tool 1190 1206	digitized images
+T28	Diagnostic_tool 1286 1319	stereoscopic slide transparencies
+T29	Diagnostic_tool 1324 1356	digitized nonstereoscopic images
+T30	Symptom 1362 1401	small hard and intermediate soft drusen
+T31	Anatomy 1519 1536	macular subfields
+T32	Symptom 1568 1585	hyperpigmentation
+T33	Symptom 1685 1703	geographic atrophy
+T34	Symptom 1768 1796	choroidal neovascularization
+T35	Symptom 1798 1801	CNV
+T36	Symptom 1927 1930	CNV
+T37	Symptom 1997 2015	geographic atrophy
+T38	Symptom 2031 2034	CNV
+T39	Diagnostic_tool 2061 2077	digitized images
+T40	Diagnostic_tool 2153 2178	stereoscopic color slides
+T41	Diagnostic_tool 2183 2199	digitized images
+T42	Diagnostic_tool 2201 2239	digitized nonstereoscopic color images
+T43	Disease 2271 2274	ARM
+T44	Disease 2279 2282	AMD

@@ -1,0 +1,42 @@
+T1	Disease 0 34	Circumscribed choroidal hemangioma
+T2	Diagnostic_tool 65 99	indocyanine green videoangiography
+T3	Diagnostic_tool 146 180	indocyanine green videoangiography
+T4	Diagnostic_tool 182 187	ICG-V
+T5	Symptom 206 226	choroidal hemangioma
+T6	Anatomy 280 284	eyes
+T7	Disease 331 351	choroidal hemangioma
+T8	Diagnostic_tool 353 387	Indocyanine green videoangiography
+T9	Diagnostic_tool 392 427	intravenous fluorescein angiography
+T10	Diagnostic_tool 429 433	IVFA
+T11	Characteristic 503 508	ICG-V
+T12	Diagnostic_tool 540 544	IVFA
+T13	Disease 562 596	circumscribed choroidal hemangioma
+T14	Diagnostic_tool 621 626	ICG-V
+T15	Diagnostic_tool 631 635	IVFA
+T16	Diagnostic_tool 640 645	ICG-V
+T17	Characteristic 656 673	hyperfluorescence
+T18	Symptom 677 711	circumscribed choroidal hemangioma
+T19	Characteristic 783 808	maximum hyperfluorescence
+T20	Anatomy 882 886	eyes
+T21	Characteristic 923 935	fluorescence
+T22	Anatomy 950 954	eyes
+T23	Characteristic 1023 1028	ICG-V
+T24	Symptom 1038 1055	intrinsic vessels
+T25	Anatomy 1062 1066	eyes
+T26	Symptom 1076 1101	late hyperfluorescent rim
+T27	Anatomy 1108 1112	eyes
+T28	Symptom 1124 1144	late frame hot spots
+T29	Anatomy 1151 1155	eyes
+T30	Diagnostic_tool 1166 1170	IVFA
+T31	Characteristic 1185 1202	hyperfluorescence
+T32	Characteristic 1272 1279	maximum
+T33	Characteristic 1280 1297	hyperfluorescence
+T34	Characteristic 1369 1386	hyperfluorescence
+T35	Characteristic 1454 1471	intrinsic vessels
+T36	Anatomy 1478 1482	eyes
+T37	Anatomy 1527 1531	eyes
+T38	Disease 1539 1573	Circumscribed choroidal hemangioma
+T39	Diagnostic_tool 1607 1612	ICG-V
+T40	Diagnostic_tool 1642 1646	IVFA
+T41	Diagnostic_tool 1664 1669	ICG-V
+T42	Disease 1732 1752	choroidal hemangioma

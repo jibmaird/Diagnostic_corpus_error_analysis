@@ -1,0 +1,42 @@
+T1	Symptom 15 33	geographic atrophy
+T2	Disease 37 69	age-related macular degeneration
+T3	Diagnostic_tool 82 126	spectral domain optical coherence tomography
+T4	Characteristic 173 175	ER
+T5	Symptom 180 198	geographic atrophy
+T6	Symptom 200 202	GA
+T7	Disease 221 253	age-related macular degeneration
+T8	Disease 255 258	AMD
+T9	Diagnostic_tool 270 314	spectral domain optical coherence tomography
+T10	Diagnostic_tool 316 322	SD-OCT
+T11	Diagnostic_tool 324 336	fundus image
+T12	Anatomy 399 403	eyes
+T13	Symptom 462 464	GA
+T14	Disease 478 481	AMD
+T15	Anatomy 511 518	Macular
+T16	Diagnostic_tool 550 563	Cirrus SD-OCT
+T17	Symptom 611 613	GA
+T18	Diagnostic_tool 632 652	SD-OCT fundus images
+T19	Diagnostic_tool 677 694	digitizing tablet
+T20	Symptom 761 763	GA
+T21	Characteristic 844 855	lesion area
+T22	Characteristic 883 899	Enlargement rate
+T23	Symptom 903 905	GA
+T24	Anatomy 927 931	eyes
+T25	Symptom 953 955	GA
+T26	Characteristic 966 976	total area
+T27	Characteristic 1319 1330	lesion size
+T28	Symptom 1381 1383	ER
+T29	Symptom 1387 1389	GA
+T30	Symptom 1457 1459	ER
+T31	Symptom 1496 1498	GA
+T32	Characteristic 1631 1637	lesion
+T33	Characteristic 1681 1692	lesion size
+T34	Characteristic 1698 1700	ER
+T35	Symptom 1835 1837	ER
+T36	Symptom 1986 1988	GA
+T37	Diagnostic_tool 1994 2013	SD-OCT fundus image
+T38	Symptom 2052 2054	GA
+T39	Diagnostic_tool 2140 2147	imaging
+T40	Symptom 2201 2203	GA
+T41	Symptom 2219 2276	loss of photoreceptors and the retinal pigment epithelium
+T42	Symptom 2308 2331	loss of visual function

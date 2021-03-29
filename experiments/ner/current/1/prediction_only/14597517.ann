@@ -1,0 +1,36 @@
+T1	Disease 39 72	severe retinopathy of prematurity
+T2	Diagnostic_tool 131 158	digital retinal photographs
+T3	Disease 179 233	severe (referral-warranted) retinopathy of prematurity
+T4	Disease 235 238	ROP
+T5	Disease 274 277	ROP
+T6	Characteristic 342 359	premature infants
+T7	Disease 372 375	ROP
+T8	Characteristic 381 388	infants
+T9	Diagnostic_tool 453 476	indirect ophthalmoscopy
+T10	Diagnostic_tool 497 516	digital photography
+T11	Diagnostic_tool 527 560	RetCam-120 Digital Retinal Camera
+T12	Anatomy 626 629	ROP
+T13	Disease 693 702	Referral-
+T14	Disease 712 715	ROP
+T15	Disease 731 734	ROP
+T16	Disease 798 809	stage 3 ROP
+T17	Disease 861 864	ROP
+T18	Anatomy 888 891	eye
+T19	Characteristic 901 907	infant
+T20	Characteristic 963 969	infant
+T21	Disease 983 991	Severe (
+T22	Disease 1009 1014	) ROP
+T23	Anatomy 1035 1039	eyes
+T24	Diagnostic_tool 1043 1066	indirect ophthalmoscopy
+T25	Diagnostic_tool 1104 1123	Digital photography
+T26	Disease 1207 1210	ROP
+T27	Diagnostic_tool 1245 1264	digital photography
+T28	Anatomy 1328 1332	eyes
+T29	Disease 1353 1356	ROP
+T30	Diagnostic_tool 1374 1393	digital photography
+T31	Diagnostic_tool 1424 1447	indirect ophthalmoscopy
+T32	Diagnostic_tool 1480 1499	digital photographs
+T33	Diagnostic_tool 1510 1520	RetCam-120
+T34	Disease 1602 1605	ROP
+T35	Diagnostic_tool 1657 1676	digital photographs
+T36	Disease 1720 1723	ROP

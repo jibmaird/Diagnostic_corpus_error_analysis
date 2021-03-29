@@ -1,0 +1,20 @@
+T4	Symptom 257 280	visual acuity (VA) loss
+T5	Disease 312 331	Stargardt's disease
+T6	Disease 415 434	Stargardt's disease
+T7	Characteristic 436 449	Visual acuity
+T8	Disease 471 490	Stargardt's disease
+T9	Anatomy 600 606	macula
+T10	Symptom 712 725	fundus flecks
+T20	Characteristic 2049 2112	diffuse fundus flecks, the majority of patients did not lose VA
+T12	Symptom 981 1042	whom 97.5% maintained 20/200 or better VA in at least one eye
+T11	Symptom 727 804	Best-corrected VA, stage of Stargardt's disease, and appearance of the macula
+T14	Symptom 1205 1281	stage 1 were more likely to maintain 20/200 or better VA in at least one eye
+T13	Characteristic 1177 1179	VA
+T16	Symptom 1596 1691	fundus flecks limited to the posterior pole are more likely to maintain a level of VA at 20/200
+T15	Symptom 1484 1524	better VA in at least one eye (chi2(1) =
+T18	Characteristic 1965 1967	VA
+T17	Symptom 1892 1914	VA of 20/200 or better
+T1	Symptom 14 32	visual acuity loss
+T19	Disease 2025 2044	Stargardt's disease
+T2	Disease 70 89	Stargardt's disease
+T3	Diagnostic_tool 199 212	fundus flecks

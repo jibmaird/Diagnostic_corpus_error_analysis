@@ -1,0 +1,19 @@
+T4	Disease 333 351	end-stage glaucoma
+T5	Diagnostic_tool 380 403	VF statistical analysis
+T6	Disease 440 458	End-stage glaucoma
+T7	Symptom 474 515	vertical cup-to-disc ratio of 0.9 or more
+T8	Symptom 565 622	central or temporal island remaining in the VF gray scale
+T9	Characteristic 777 1021	corrected pattern standard deviation (CPSD) and pattern standard deviation (PSD) probability less than 5% or within normal limits (WNL); short-term fluctuation (SF) probability WNL; glaucoma hemifield test (GHT) not outside normal limits (ONL);
+T10	Symptom 1086 1125	% or more false-negative (FN) responses
+T12	Anatomy 1228 1232	eyes
+T11	Characteristic 1127 1151	Visual field statistical
+T14	Characteristic 1286 1314	PSD, SF, and CPSD parameters
+T13	Characteristic 1239 1280	normal pattern deviation probability plot
+T16	Characteristic 1420 1447	GHT was ONL in 7 of 13 eyes
+T15	Anatomy 1396 1400	eyes
+T18	Symptom 1612 1652	FN score of 40% or more in 10 of 16 eyes
+T17	Characteristic 1477 1558	reduction of sensitivity (GRS) in three eyes, and only GRS in two additional eyes
+T1	Symptom 52 82	glaucomatous visual field loss
+T19	Symptom 1743 1776	in end-stage glaucomatous VF loss
+T2	Diagnostic_tool 163 198	static automated visual fields (VFs
+T3	Disease 223 244	far-advanced glaucoma

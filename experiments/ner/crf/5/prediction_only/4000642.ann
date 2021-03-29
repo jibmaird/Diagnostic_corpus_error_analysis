@@ -1,0 +1,18 @@
+T4	Disease 266 277	retinopathy
+T5	Diagnostic_tool 300 332	degrees stereoscopic photographs
+T6	Diagnostic_tool 434 453	retinal photography
+T7	Anatomy 618 632	disc and fovea
+T8	Diagnostic_tool 647 668	direct ophthalmoscopy
+T9	Diagnostic_tool 834 872	degrees stereoscopic color photographs
+T10	Disease 1003 1014	retinopathy
+T12	Diagnostic_tool 1231 1309	direct ophthalmoscopy and grading of retinopathy from stereoscopic photographs
+T11	Symptom 1153 1212	retinopathy (none, nonproliferative or proliferative) exact
+T14	Disease 1453 1481	nonproliferative retinopathy
+T13	Disease 1403 1414	retinopathy
+T16	Disease 1550 1561	retinopathy
+T15	Disease 1486 1511	proliferative retinopathy
+T18	Disease 2014 2025	retinopathy
+T17	Diagnostic_tool 1844 1878	nonstereoscopic fundus photographs
+T1	Disease 0 20	Diabetic retinopathy
+T2	Diagnostic_tool 39 105	ophthalmoscopy, a nonmydriatic camera and a standard fundus camera
+T3	Disease 168 188	diabetic retinopathy

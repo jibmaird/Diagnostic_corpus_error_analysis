@@ -1,0 +1,32 @@
+T21	Characteristic 1261 1274	drusen volume
+T20	Anatomy 1207 1211	eyes
+T23	Anatomy 1523 1527	eyes
+T22	Symptom 1368 1397	drusen volume and drusen area
+T25	Symptom 1623 1636	drusen volume
+T24	Symptom 1535 1560	decrease in drusen volume
+T27	Anatomy 1756 1760	eyes
+T26	Characteristic 1722 1735	drusen volume
+T29	Symptom 1878 1884	drusen
+T28	Diagnostic_tool 1821 1827	SD-OCT
+T1	Characteristic 0 36	Natural history of drusen morphology
+T2	Disease 40 72	age-related macular degeneration
+T3	Diagnostic_tool 79 123	spectral domain optical coherence tomography
+T4	Symptom 165 171	drusen
+T5	Diagnostic_tool 178 239	spectral-domain optical coherence tomography (SD-OCT) imaging
+T6	Anatomy 243 247	eyes
+T7	Disease 267 312	nonexudative age-related macular degeneration
+T8	Disease 314 317	AMD
+T9	Symptom 458 464	drusen
+T30	Symptom 1977 2007	quantitative changes in drusen
+T10	Disease 478 494	nonexudative AMD
+T32	Disease 2226 2242	nonexudative AMD
+T31	Diagnostic_tool 2031 2045	SD-OCT imaging
+T12	Anatomy 544 548	Eyes
+T11	Diagnostic_tool 518 542	Cirrus SD-OCT instrument
+T14	Symptom 761 790	Drusen volume and drusen area
+T13	Symptom 674 702	volumetric changes in drusen
+T16	Symptom 1018 1041	Change in drusen volume
+T15	Symptom 957 970	drusen volume
+T18	Anatomy 1139 1143	eyes
+T17	Anatomy 1107 1111	eyes
+T19	Anatomy 1171 1175	eyes

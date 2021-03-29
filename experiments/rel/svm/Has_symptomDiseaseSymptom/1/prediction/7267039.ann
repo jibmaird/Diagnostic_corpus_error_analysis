@@ -1,0 +1,18 @@
+T4	Symptom 183 197	normal maculas
+T5	Symptom 199 233	minimal pigment epithelial changes
+T6	Symptom 235 251	atrophic maculae
+T7	Symptom 256 277	fibrous macular scars
+T8	Anatomy 300 304	Eyes
+T9	Symptom 310 347	vitelliform or pseudohypopyon lesions
+T10	Disease 362 391	later atrophic macular stages
+T12	Characteristic 417 429	after age 40
+T11	Symptom 393 416	Visual acuity decreased
+T14	Symptom 483 496	fibrous scars
+T13	Symptom 462 478	atrophic maculas
+T16	Symptom 552 565	fibrous scars
+T15	Symptom 532 548	atrophic maculas
+T17	Symptom 628 639	lose vision
+T1	Disease 38 66	Best's vitelliform dystrophy
+T2	Disease 98 114	Best's dystrophy
+T3	Anatomy 173 177	eyes
+R1	Has_symptom Arg1:T10 Arg2:T9

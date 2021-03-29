@@ -1,0 +1,18 @@
+T4	Disease 322 337	type 1 diabetic
+T5	Disease 372 380	Diabetes
+T6	Disease 496 504	Diabetes
+T7	Diagnostic_tool 684 702	Fundus photographs
+T8	Diagnostic_tool 810 821	Photographs
+T9	Diagnostic_tool 918 928	photograph
+T10	Diagnostic_tool 1225 1245	gradable photographs
+T12	Diagnostic_tool 1357 1368	photographs
+T11	Anatomy 1315 1319	eyes
+T14	Disease 1846 1861	type 1 diabetes
+T13	Disease 1765 1785	diabetic retinopathy
+T16	Disease 2036 2056	diabetic retinopathy
+T15	Diagnostic_tool 1907 1925	fundus photographs
+T1	Disease 27 42	type 1 diabetic
+T2	Disease 75 86	retinopathy
+T3	Diagnostic_tool 237 255	fundus photography
+R2	Diagnosed_with Arg1:T16 Arg2:T15
+R1	Diagnosed_with Arg1:T14 Arg2:T15

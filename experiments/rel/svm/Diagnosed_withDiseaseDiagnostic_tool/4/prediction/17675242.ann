@@ -1,0 +1,55 @@
+T41	Characteristic 1826 1839	visual acuity
+T40	Anatomy 1782 1795	foveal region
+T21	Symptom 1165 1192	large foveal cystoid spaces
+T43	Diagnostic_tool 1866 1872	3D OCT
+T20	Diagnostic_tool 1151 1157	3D OCT
+T42	Disease 1856 1859	CME
+T23	Symptom 1275 1289	Cystoid spaces
+T45	Anatomy 1982 1985	ELM
+T22	Symptom 1228 1273	small cystoid spaces in the parafoveal region
+T44	Anatomy 1925 1938	retinal layer
+T25	Anatomy 1337 1358	outer plexiform layer
+T47	Disease 2040 2043	CME
+T24	Anatomy 1313 1332	inner nuclear layer
+T46	Diagnostic_tool 1998 2004	3D OCT
+T27	Diagnostic_tool 1420 1426	3D OCT
+T26	Anatomy 1400 1414	retinal layers
+T29	Anatomy 1519 1522	ELM
+T28	Anatomy 1491 1517	external limiting membrane
+T1	Diagnostic_tool 0 25	Three-dimensional imaging
+T2	Disease 29 50	cystoid macular edema
+T3	Disease 54 76	retinal vein occlusion
+T4	Disease 121 142	cystoid macular edema
+T5	Disease 144 147	CME
+T6	Disease 165 187	retinal vein occlusion
+T7	Diagnostic_tool 191 242	three-dimensional (3D) optical coherence tomography
+T8	Diagnostic_tool 244 247	OCT
+T9	Characteristic 305 320	visual function
+T30	Anatomy 1530 1534	eyes
+T10	Disease 381 403	retinal vein occlusion
+T32	Anatomy 1595 1598	ELM
+T31	Symptom 1546 1560	cystoid spaces
+T12	Diagnostic_tool 440 458	Fourier-domain OCT
+T34	Anatomy 1648 1651	ELM
+T11	Diagnostic_tool 417 423	3D OCT
+T33	Anatomy 1604 1608	eyes
+T14	Disease 965 968	CME
+T36	Anatomy 1668 1672	eyes
+T13	Diagnostic_tool 818 843	Three-dimensional imaging
+T35	Anatomy 1657 1661	eyes
+T16	Diagnostic_tool 1015 1026	Stratus OCT
+T38	Symptom 1725 1752	large foveal cystoid spaces
+T15	Diagnostic_tool 1001 1007	3D OCT
+T37	Anatomy 1678 1681	ELM
+T18	Disease 1113 1116	CME
+T17	Diagnostic_tool 1057 1071	3D OCT imaging
+T39	Anatomy 1771 1774	ELM
+T19	Anatomy 1145 1149	eyes
+R2	Diagnosed_with Arg1:T4 Arg2:T7
+R3	Diagnosed_with Arg1:T6 Arg2:T7
+R4	Diagnosed_with Arg1:T18 Arg2:T17
+R5	Diagnosed_with Arg1:T47 Arg2:T46
+R6	Diagnosed_with Arg1:T14 Arg2:T15
+R7	Diagnosed_with Arg1:T5 Arg2:T7
+R8	Diagnosed_with Arg1:T3 Arg2:T1
+R1	Diagnosed_with Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+T4	Symptom 536 609	peripheral corneal ulcerations, and descemetocele with a pinpoint leakage
+T5	Characteristic 812 960	firm nodules and plaques on the knuckles and dorsum of the hands, and the extensor surface of the forearms, elbows, knees, right ankle, and buttocks
+T6	Characteristic 1017 1180	diffuse inflammatory cell infiltration, predominantly neutrophilic infiltrates and nuclear dust (leukocytoclasis), located around small blood vessels in the dermis
+T10	Symptom 1654 1657	EED
+T7	Disease 1215 1218	EED
+T8	Symptom 1237 1301	progressive keratolysis with pseudopterygium associated with EED
+T9	Symptom 1312 1378	Spontaneous, rapid resolution of both cutaneous and ocular lesions
+T11	Symptom 1745 1793	ulcerative or nonulcerative peripheral keratitis
+T1	Symptom 130 223	progressive keratolysis with pseudopterygium associated with erythema elevatum diutinum (EED)
+T2	Symptom 292 318	ocular presentation of EED
+T3	Symptom 370 461	recurrent pterygium and painful corneal thinning with impending perforation of the left eye

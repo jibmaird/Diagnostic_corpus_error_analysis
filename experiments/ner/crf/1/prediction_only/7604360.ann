@@ -1,0 +1,19 @@
+T4	Disease 280 283	ARM
+T5	Disease 312 315	ARM
+T6	Disease 344 347	ARM
+T7	Characteristic 397 419	> or = 50 years of age
+T8	Diagnostic_tool 448 475	color fundus transparencies
+T9	Symptom 499 727	following abnormalities in the macular area: soft drusen > or = 63 microns, hyperpigmentation and/or hypopigmentation of the retinal pigment epithelium (RPE), RPE and associated neurosensory detachment, (peri)retinal hemorrhages
+T10	Symptom 729 846	geographic atrophy of the RPE, or (peri)retinal fibrous scarring in the absence of other retinal (vascular) disorders
+T12	Disease 900 903	ARM
+T11	Characteristic 848 861	Visual acuity
+T14	Symptom 945 984	drusen and RPE pigmentary abnormalities
+T13	Disease 905 914	Early ARM
+T16	Disease 1025 1057	age-related macular degeneration
+T15	Disease 1002 1010	late ARM
+T18	Disease 1077 1084	dry AMD
+T17	Disease 1059 1062	AMD
+T1	Disease 58 118	age-related maculopathy and age-related macular degeneration
+T19	Symptom 1086 1198	geographic atrophy of the RPE in the absence of neovascular AMD) or neovascular AMD (RPE detachment, hemorrhages
+T2	Disease 138 141	ARM
+T3	Disease 255 278	age-related maculopathy

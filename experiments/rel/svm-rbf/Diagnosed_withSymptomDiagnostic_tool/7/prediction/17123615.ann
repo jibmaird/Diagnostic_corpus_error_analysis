@@ -1,0 +1,49 @@
+T21	Characteristic 671 684	visual acuity
+T20	Characteristic 644 666	center point thickness
+T23	Characteristic 740 766	OCT center point thickness
+T22	Characteristic 719 732	visual acuity
+T25	Characteristic 1043 1065	center point thickness
+T24	Characteristic 999 1012	visual acuity
+T27	Characteristic 1252 1278	OCT center point thickness
+T26	Characteristic 1172 1185	visual acuity
+T29	Characteristic 1285 1299	hemoglobin A1C
+T28	Characteristic 1280 1283	age
+T30	Characteristic 1305 1336	severity of fluorescein leakage
+T32	Symptom 1400 1427	OCT center point thickening
+T31	Characteristic 1372 1385	visual acuity
+T34	Characteristic 1582 1595	visual acuity
+T33	Anatomy 1542 1546	eyes
+T36	Characteristic 1693 1706	visual acuity
+T35	Symptom 1611 1634	center point thickening
+T38	Characteristic 1818 1853	OCT-measured center point thickness
+T37	Symptom 1726 1749	center point thickening
+T39	Characteristic 1858 1871	visual acuity
+T41	Characteristic 1933 1946	visual acuity
+T40	Characteristic 1910 1928	retinal thickening
+T43	Characteristic 2009 2022	visual acuity
+T42	Disease 1979 1982	DME
+T45	Diagnostic_tool 2091 2094	OCT
+T44	Disease 2061 2074	retinal edema
+T47	Characteristic 2232 2245	visual acuity
+T46	Characteristic 2111 2128	retinal thickness
+T49	Characteristic 2373 2386	visual acuity
+T48	Diagnostic_tool 2330 2333	OCT
+T1	Diagnostic_tool 21 49	optical coherence tomography
+T2	Characteristic 59 84	central retinal thickness
+T3	Characteristic 89 102	visual acuity
+T4	Disease 106 128	diabetic macular edema
+T5	Diagnostic_tool 142 170	optical coherence tomography
+T6	Diagnostic_tool 172 175	OCT
+T7	Characteristic 186 203	retinal thickness
+T8	Characteristic 208 221	visual acuity
+T9	Anatomy 225 229	eyes
+T10	Disease 235 257	diabetic macular edema
+T12	Anatomy 286 293	macular
+T11	Disease 259 262	DME
+T14	Disease 399 402	DME
+T13	Anatomy 388 392	eyes
+T16	Diagnostic_tool 500 503	OCT
+T15	Characteristic 464 481	Retinal thickness
+T18	Disease 574 594	Diabetic Retinopathy
+T17	Characteristic 508 521	visual acuity
+T19	Diagnostic_tool 606 634	Optical coherence tomography
