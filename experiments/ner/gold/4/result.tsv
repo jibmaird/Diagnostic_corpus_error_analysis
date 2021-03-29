@@ -1,0 +1,68 @@
+index	sentence	label
+0	Quantitative measurements of the ciliary body in eyes with @Disease$ after trabeculectomy using @Diagnostic_tool$.	1
+1	A-scan ultrasonography and @Diagnostic_tool$ measurements were performed on the eyes with malignant glaucoma, the fellow eyes of the patients with @Disease$, and the matched eyes.	0
+2	@Diagnostic_tool$ and ultrasound biomicroscopy measurements were performed on the eyes with malignant glaucoma, the fellow eyes of the patients with @Disease$, and the matched eyes.	0
+3	A-scan ultrasonography and @Diagnostic_tool$ measurements were performed on the eyes with @Disease$, the fellow eyes of the patients with malignant glaucoma, and the matched eyes.	0
+4	@Diagnostic_tool$ and ultrasound biomicroscopy measurements were performed on the eyes with @Disease$, the fellow eyes of the patients with malignant glaucoma, and the matched eyes.	0
+5	@Diagnostic_tool$ of cystoid macular edema in @Disease$.	1
+6	@Diagnostic_tool$ of @Disease$ in retinal vein occlusion.	1
+7	To study the pathomorphologic features of cystoid macular edema (@Disease$) associated with retinal vein occlusion by @Diagnostic_tool$ (OCT) and to study the relationship of the ocular findings to visual function.	1
+8	To study the pathomorphologic features of cystoid macular edema (@Disease$) associated with retinal vein occlusion by three-dimensional (3D) optical coherence tomography (@Diagnostic_tool$) and to study the relationship of the ocular findings to visual function.	0
+9	To study the pathomorphologic features of @Disease$ (CME) associated with retinal vein occlusion by @Diagnostic_tool$ (OCT) and to study the relationship of the ocular findings to visual function.	1
+10	To study the pathomorphologic features of @Disease$ (CME) associated with retinal vein occlusion by three-dimensional (3D) optical coherence tomography (@Diagnostic_tool$) and to study the relationship of the ocular findings to visual function.	0
+11	To study the pathomorphologic features of cystoid macular edema (CME) associated with @Disease$ by @Diagnostic_tool$ (OCT) and to study the relationship of the ocular findings to visual function.	1
+12	To study the pathomorphologic features of cystoid macular edema (CME) associated with @Disease$ by three-dimensional (3D) optical coherence tomography (@Diagnostic_tool$) and to study the relationship of the ocular findings to visual function.	0
+13	Images of @Disease$ pathologic features obtained by 3D OCT and by @Diagnostic_tool$ (Carl Zeiss, Dublin, CA).	1
+14	Images of @Disease$ pathologic features obtained by @Diagnostic_tool$ and by Stratus OCT (Carl Zeiss, Dublin, CA).	1
+15	The @Diagnostic_tool$ system generates a realistic 3D image of @Disease$ with high resolution.	1
+16	Observation of @Disease$ using @Diagnostic_tool$ enabled visualization of its spatial extent in each retinal layer and discernment of its relationship to the ELM.	1
+17	The use of @Diagnostic_tool$ thus may improve the monitoring of @Disease$ progression and its response to treatment.	1
+18	Incidence of @Disease$ using @Diagnostic_tool$.	1
+19	Incidence of @Disease$ on @Diagnostic_tool$ was 47% (95% confidence interval [CI], 37%-56%).	0
+20	Advantages and disadvantages of current @Diagnostic_tool$ and recommendations for their use in @Disease$ trials.	1
+21	In studies of @Disease$ (without evident signs of active or regressed neovascularization [NV] at baseline), @Diagnostic_tool$ may be sufficient at baseline and end-of-study visit.	1
+22	Diagnostic sensitivity of @Diagnostic_tool$ in @Disease$: a comparison between different test programs.	1
+23	Studies using spectral domain optical coherence tomography (@Diagnostic_tool$) and reporting macular parameters were included if they allowed the extraction of accuracy data for diagnosing manifest @Disease$, as confirmed with automated perimetry or a clinician's optic nerve head (ONH) assessment.	1
+24	Studies using @Diagnostic_tool$ (SD OCT) and reporting macular parameters were included if they allowed the extraction of accuracy data for diagnosing manifest @Disease$, as confirmed with automated perimetry or a clinician's optic nerve head (ONH) assessment.	1
+25	Studies using spectral domain optical coherence tomography (SD OCT) and reporting macular parameters were included if they allowed the extraction of accuracy data for diagnosing manifest @Disease$, as confirmed with automated perimetry or a clinician's @Diagnostic_tool$.	1
+26	Studies using spectral domain optical coherence tomography (SD OCT) and reporting macular parameters were included if they allowed the extraction of accuracy data for diagnosing manifest @Disease$, as confirmed with @Diagnostic_tool$ or a clinician's optic nerve head (ONH) assessment.	1
+27	For all @Diagnostic_tool$ devices, compared with RNFL parameters, macular parameters were similarly or slightly less accurate for detecting @Disease$ at the highest reported specificity, which was confirmed in analyses at the lowest specificity.	1
+28	With the use of @Diagnostic_tool$, RNFL parameters are still preferable to macular parameters for diagnosing manifest @Disease$, but the differences are small.	1
+29	The authors evaluate @Diagnostic_tool$ as a method for interpreting visual field results in initial stages of several @Disease$.	1
+30	The authors created a database with all visual field information provided by @Diagnostic_tool$ and applied logistic discriminant analysis (SAS Logistic Procedures, SAS Institute, Cary, NC) to obtain classification rules capable of qualifying visual field defects as @Disease$ or nonglaucomatous.	1
+31	The authors created a database with all visual field information provided by Octopus and applied @Diagnostic_tool$ (SAS Logistic Procedures, SAS Institute, Cary, NC) to obtain classification rules capable of qualifying visual field defects as @Disease$ or nonglaucomatous.	1
+32	@Diagnostic_tool$ correctly identified the @Disease$ or nonglaucomatous origin of the defects with a sensitivity of 65% to 85% and a specificity of 60% to 92%.	1
+33	@Diagnostic_tool$ is a useful tool to aid in the interpretation of @Disease$ and nonglaucomatous visual field defects.	1
+34	Methods: Following development of a detailed scale for individual eyes based on gradings of @Diagnostic_tool$ in the Age-Related Eye Disease Study, rates of progression to @Disease$ were assessed in cross-tabulations of presence or absence in each eye of 2 easily identified retinal abnormalities, drusen and pigment abnormalities.	1
+35	Conclusion: This simplified scale provides convenient risk categories for development of @Disease$ that can be determined by clinical examination or by less demanding @Diagnostic_tool$ than used in the Age-Related Eye Disease Study.	1
+36	@Diagnostic_tool$ for early detection of @Disease$.	1
+37	To investigate the ability of Cirrus high-definition optical coherence tomography (Cirrus HD-OCT; Carl Zeiss Meditec, Dublin, CA) macular ganglion cell analysis (@Diagnostic_tool$) sector, deviation, and thickness maps to detect @Disease$.	1
+38	To investigate the ability of Cirrus high-definition optical coherence tomography (@Diagnostic_tool$; Carl Zeiss Meditec, Dublin, CA) macular ganglion cell analysis (GCA) sector, deviation, and thickness maps to detect @Disease$.	1
+39	To investigate the ability of @Diagnostic_tool$ (Cirrus HD-OCT; Carl Zeiss Meditec, Dublin, CA) macular ganglion cell analysis (GCA) sector, deviation, and thickness maps to detect @Disease$.	1
+40	To investigate the ability of Cirrus high-definition optical coherence tomography (Cirrus HD-OCT; Carl Zeiss Meditec, Dublin, CA) @Diagnostic_tool$ (GCA) sector, deviation, and thickness maps to detect @Disease$.	1
+41	Among the 131 @Disease$ eyes, 105 (80.2%), 115 (87.8%), and 104 (79.4%) showed structural abnormalities in the @Diagnostic_tool$ sector, deviation, and thickness maps, respectively.	0
+42	The absence of abnormal findings in the @Diagnostic_tool$ of @Disease$ eyes was associated with the presence of RNFL defects in the superior hemisphere, a greater angular distance between the fovea and the RNFL defect, a narrower width of the RNFL defect, less severe visual field defects, or an isolated peripheral nasal step (outside 10 degrees of fixation) (P < 0.05).	0
+43	@Diagnostic_tool$ showed a good ability to detect @Disease$.	1
+44	However, @Diagnostic_tool$ did not show abnormal findings in @Disease$ eyes when the angular distance between fovea and RNFL defect was great.	0
+45	These findings should be considered when diagnosing @Disease$ using @Diagnostic_tool$.	1
+46	@Diagnostic_tool$ results are correlated with optical coherence tomography retinal nerve fiber layer thickness measurements in @Disease$ eyes.	1
+47	Short-wavelength automated perimetry results are correlated with @Diagnostic_tool$ retinal nerve fiber layer thickness measurements in @Disease$ eyes.	1
+48	Subjects were recruited from the longitudinal University of California, San Diego, Diagnostic Innovations in Glaucoma Study and included 29 @Disease$ patients with OCT imaging and reliable @Diagnostic_tool$ testing within a 6-month window.	1
+49	Subjects were recruited from the longitudinal University of California, San Diego, Diagnostic Innovations in Glaucoma Study and included 29 @Disease$ patients with @Diagnostic_tool$ and reliable SWAP visual field (VF) testing within a 6-month window.	1
+50	Subjects were recruited from the longitudinal University of California, San Diego, Diagnostic Innovations in @Disease$ Study and included 29 glaucoma patients with OCT imaging and reliable @Diagnostic_tool$ testing within a 6-month window.	0
+51	Subjects were recruited from the longitudinal University of California, San Diego, Diagnostic Innovations in @Disease$ Study and included 29 glaucoma patients with @Diagnostic_tool$ and reliable SWAP visual field (VF) testing within a 6-month window.	0
+52	Natural history of drusen morphology in @Disease$ using @Diagnostic_tool$.	0
+53	To characterize the natural history of drusen using @Diagnostic_tool$ of eyes from patients with nonexudative age-related macular degeneration (@Disease$).	0
+54	To characterize the natural history of drusen using @Diagnostic_tool$ of eyes from patients with @Disease$ (AMD).	0
+55	Patients with drusen secondary to @Disease$ were scanned using the @Diagnostic_tool$ instrument.	0
+56	An appreciation of the quantitative changes in drusen volume over time using @Diagnostic_tool$ provides a novel strategy for following normal disease progression and for identifying novel clinical trial end points to be used when investigating therapies for the treatment of @Disease$.	0
+57	Retinal nerve fiber layer thickness in @Disease$ measurements by @Diagnostic_tool$ and correlation with age.	1
+58	To measure the retinal nerve fiber layer (RNFL) thickness by means of @Diagnostic_tool$ (OCT) in patients with dominant optic atrophy (@Disease$).	1
+59	To measure the retinal nerve fiber layer (RNFL) thickness by means of optical coherence tomography (@Diagnostic_tool$) in patients with dominant optic atrophy (@Disease$).	1
+60	To measure the retinal nerve fiber layer (RNFL) thickness by means of @Diagnostic_tool$ (OCT) in patients with @Disease$ (DOA).	1
+61	To measure the retinal nerve fiber layer (RNFL) thickness by means of optical coherence tomography (@Diagnostic_tool$) in patients with @Disease$ (DOA).	1
+62	The RNFLs of @Disease$ patients were studied by @Diagnostic_tool$ and compared with those of 43 healthy subjects matched for age and optic nerve head (ONH) size.	1
+63	Will @Diagnostic_tool$ Be Performed to Monitor @Disease$ in 2025?	1
+64	@Diagnostic_tool$ has played an essential role in the diagnosis and management of @Disease$ for more than a century.	1
+65	Clinicians now use @Diagnostic_tool$ for the diagnosis and management of @Disease$ throughout the world.	1
+66	@Diagnostic_tool$ will continue to have an important role in the diagnosis and management of @Disease$.	1

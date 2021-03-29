@@ -1,0 +1,3 @@
+index	sentence	label
+0	@Diagnostic_tool$ from @Disease$ screening programs.	1
+1	By using a small number of adjudicated consensus grades as a tuning dataset and @Diagnostic_tool$ as input, the algorithm improved in AUC from 0.934 to 0.986 for @Disease$.	0

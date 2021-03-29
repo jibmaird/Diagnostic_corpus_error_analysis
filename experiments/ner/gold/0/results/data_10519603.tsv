@@ -1,0 +1,14 @@
+index	sentence	label
+0	@Diagnostic_tool$ and optical coherence tomography in normal, @Disease$, and glaucomatous eyes.	0
+1	Heidelberg retina tomography and @Diagnostic_tool$ in normal, @Disease$, and glaucomatous eyes.	0
+2	@Diagnostic_tool$ and optical coherence tomography in normal, ocular-hypertensive, and @Disease$ eyes.	0
+3	Heidelberg retina tomography and @Diagnostic_tool$ in normal, ocular-hypertensive, and @Disease$ eyes.	0
+4	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, @Disease$, and glaucomatous eyes undergoing @Diagnostic_tool$ and optical coherence tomography (OCT).	0
+5	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, @Disease$, and glaucomatous eyes undergoing confocal scanning laser ophthalmoscopy and @Diagnostic_tool$ (OCT).	0
+6	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, @Disease$, and glaucomatous eyes undergoing confocal scanning laser ophthalmoscopy and optical coherence tomography (@Diagnostic_tool$).	0
+7	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, ocular-hypertensive, and @Disease$ eyes undergoing @Diagnostic_tool$ and optical coherence tomography (OCT).	0
+8	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, ocular-hypertensive, and @Disease$ eyes undergoing confocal scanning laser ophthalmoscopy and @Diagnostic_tool$ (OCT).	0
+9	To evaluate optic disc and retinal nerve fiber layer (RNFL) appearance in normal, ocular-hypertensive, and @Disease$ eyes undergoing confocal scanning laser ophthalmoscopy and optical coherence tomography (@Diagnostic_tool$).	0
+10	@Diagnostic_tool$ measurements of rim area, cup-disc ratio, cup shape measure, RNFL thickness, and RNFL cross-sectional area were significantly less in @Disease$ eyes (all P  <  0.005) and were correlated with mean OCT RNFL thickness (all P  <  0.02).	0
+11	Both @Diagnostic_tool$ and OCT can differentiate @Disease$ from nonglaucomatous eyes.	1
+12	Both HRT and @Diagnostic_tool$ can differentiate @Disease$ from nonglaucomatous eyes.	1

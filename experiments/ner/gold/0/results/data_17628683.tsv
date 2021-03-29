@@ -1,0 +1,6 @@
+index	sentence	label
+0	@Diagnostic_tool$ and optical coherence tomographic results of the MARINA study of ranibizumab in @Disease$.	1
+1	Angiographic and @Diagnostic_tool$ results of the MARINA study of ranibizumab in @Disease$.	1
+2	Patients with minimally classic or occult with no @Disease$ treated with ranibizumab demonstrated improvement that was consistent for @Diagnostic_tool$, FA, and OCT outcomes and superior to that in sham-treated patients.	0
+3	Patients with minimally classic or occult with no @Disease$ treated with ranibizumab demonstrated improvement that was consistent for visual acuity, @Diagnostic_tool$, and OCT outcomes and superior to that in sham-treated patients.	0
+4	Patients with minimally classic or occult with no @Disease$ treated with ranibizumab demonstrated improvement that was consistent for visual acuity, FA, and @Diagnostic_tool$ outcomes and superior to that in sham-treated patients.	0

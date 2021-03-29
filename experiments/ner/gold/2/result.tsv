@@ -1,0 +1,73 @@
+index	sentence	label
+0	A review of the medical and @Diagnostic_tool$ of 55 patients with HLA-A29-positive @Disease$.	1
+1	The most notable new diagnostic tests in @Disease$ are tear film osmolarity, inflammatory biomarkers, and @Diagnostic_tool$.	1
+2	The most notable new diagnostic tests in @Disease$ are @Diagnostic_tool$, inflammatory biomarkers, and meibomian gland imaging.	1
+3	The most notable new diagnostic tests in @Disease$ are tear film osmolarity, @Diagnostic_tool$, and meibomian gland imaging.	1
+4	What is lost by @Diagnostic_tool$ for macular grading in @Disease$?	0
+5	To compare 35-mm stereoscopic slide transparencies with @Diagnostic_tool$ (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (ARM) and age-related macular degeneration (@Disease$).	0
+6	To compare @Diagnostic_tool$ with digitized nonstereoscopic images (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (ARM) and age-related macular degeneration (@Disease$).	0
+7	To compare 35-mm stereoscopic slide transparencies with @Diagnostic_tool$ (resolution 1024x768 pixels) for grading abnormalities in @Disease$ (ARM) and age-related macular degeneration (AMD).	1
+8	To compare @Diagnostic_tool$ with digitized nonstereoscopic images (resolution 1024x768 pixels) for grading abnormalities in @Disease$ (ARM) and age-related macular degeneration (AMD).	1
+9	To compare 35-mm stereoscopic slide transparencies with @Diagnostic_tool$ (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (ARM) and @Disease$ (AMD).	0
+10	To compare @Diagnostic_tool$ with digitized nonstereoscopic images (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (ARM) and @Disease$ (AMD).	1
+11	To compare 35-mm stereoscopic slide transparencies with @Diagnostic_tool$ (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (@Disease$) and age-related macular degeneration (AMD).	0
+12	To compare @Diagnostic_tool$ with digitized nonstereoscopic images (resolution 1024x768 pixels) for grading abnormalities in age-related maculopathy (@Disease$) and age-related macular degeneration (AMD).	0
+13	Because of the close agreement for most categories between the grading of @Diagnostic_tool$ and digitized images, digitized nonstereoscopic color images prove to be useful for grading ARM and @Disease$.	1
+14	Because of the close agreement for most categories between the grading of stereoscopic color slides and @Diagnostic_tool$, digitized nonstereoscopic color images prove to be useful for grading ARM and @Disease$.	1
+15	Because of the close agreement for most categories between the grading of stereoscopic color slides and digitized images, @Diagnostic_tool$ prove to be useful for grading ARM and @Disease$.	1
+16	Because of the close agreement for most categories between the grading of @Diagnostic_tool$ and digitized images, digitized nonstereoscopic color images prove to be useful for grading @Disease$ and AMD.	1
+17	Because of the close agreement for most categories between the grading of stereoscopic color slides and @Diagnostic_tool$, digitized nonstereoscopic color images prove to be useful for grading @Disease$ and AMD.	1
+18	Because of the close agreement for most categories between the grading of stereoscopic color slides and digitized images, @Diagnostic_tool$ prove to be useful for grading @Disease$ and AMD.	1
+19	@Diagnostic_tool$ imaging in @Disease$: a corneal structural classification.	0
+20	To study corneal morphologic changes in a large @Disease$ population and to establish a structural @Diagnostic_tool$ (OCT) classification.	0
+21	To study corneal morphologic changes in a large @Disease$ population and to establish a structural optical coherence tomography (@Diagnostic_tool$) classification.	0
+22	All scans were analyzed by @Disease$ specialists who were not given access to patients' clinical and topographic data, and who established an @Diagnostic_tool$ classification.	0
+23	Evaluation of the structural corneal changes occurring in @Disease$ cases with various stages of severity based on @Diagnostic_tool$ findings.	1
+24	@Diagnostic_tool$ classification containing 5 distinct @Disease$ stages is proposed.	1
+25	Clinical and paraclinical characteristics of @Disease$, including visual acuity, corneal epithelium and stromal thickness changes, corneal topography, biomechanical corneal characteristics, and microstructural changes observed on @Diagnostic_tool$, were concordant with our OCT grading.	0
+26	Clinical and paraclinical characteristics of @Disease$, including visual acuity, corneal epithelium and stromal thickness changes, corneal topography, biomechanical corneal characteristics, and microstructural changes observed on confocal microscopy, were concordant with our @Diagnostic_tool$ grading.	0
+27	@Diagnostic_tool$ provides an accurate assessment of structural changes occurring in @Disease$ eyes.	1
+28	@Diagnostic_tool$ to assess @Disease$ in young children.	1
+29	"To produce a test of visual acuity for young children that is more sensitive to @Disease$ than current preschool vision tests, the authors surrounded four @Diagnostic_tool$ with  "" crowding ""  bars."	1
+30	"To produce a test of visual acuity for young children that is more sensitive to @Disease$ than current @Diagnostic_tool$, the authors surrounded four Allen pictures with  "" crowding ""  bars."	1
+31	These results suggest that the @Diagnostic_tool$ induces contour interaction similar to that of line letter tests, and thus, is a more sensitive test of @Disease$ in the preschool child than isolated symbols.	1
+32	These results suggest that the modified picture test induces contour interaction similar to that of @Diagnostic_tool$, and thus, is a more sensitive test of @Disease$ in the preschool child than isolated symbols.	1
+33	Annual examination of all @Disease$ patients and semi-annual examination of those with retinopathy was more effective than annual examination with @Diagnostic_tool$.	0
+34	Annual examination of all diabetic patients and semi-annual examination of those with @Disease$ was more effective than annual examination with @Diagnostic_tool$.	0
+35	These results support the validity of @Diagnostic_tool$ as a tool to detect @Disease$.	1
+36	In so doing, we compared the sensitivity of ophthalmoscopy, @Diagnostic_tool$, and fluorescein angiography in detecting @Disease$.	1
+37	In so doing, we compared the sensitivity of ophthalmoscopy, photography, and @Diagnostic_tool$ in detecting @Disease$.	1
+38	In so doing, we compared the sensitivity of @Diagnostic_tool$, photography, and fluorescein angiography in detecting @Disease$.	1
+39	Photography was far more reliable than @Diagnostic_tool$ in detecting @Disease$ and equivalent to angiography.	1
+40	@Diagnostic_tool$ was far more reliable than ophthalmoscopy in detecting @Disease$ and equivalent to angiography.	1
+41	Photography was far more reliable than ophthalmoscopy in detecting @Disease$ and equivalent to @Diagnostic_tool$.	1
+42	A total of 59 812 @Diagnostic_tool$ from longitudinal follow-up of 4582 participants in the @Disease$ Study (AREDS) dataset.	0
+43	A @Diagnostic_tool$ was trained to use color fundus photographs to predict GA presence from a population of eyes with no AMD to @Disease$.	0
+44	A deep learning model was trained to use @Diagnostic_tool$ to predict GA presence from a population of eyes with no AMD to @Disease$.	0
+45	A @Diagnostic_tool$ was trained to use color fundus photographs to predict GA presence from a population of eyes with no @Disease$ to advanced AMD.	0
+46	A deep learning model was trained to use @Diagnostic_tool$ to predict GA presence from a population of eyes with no @Disease$ to advanced AMD.	0
+47	@Diagnostic_tool$ measurements and analysis methods in optical coherence tomography studies of @Disease$.	0
+48	Optical coherence tomography measurements and analysis methods in @Diagnostic_tool$ studies of @Disease$.	1
+49	To evaluate @Diagnostic_tool$ (OCT) measurements and methods of analysis of OCT data in studies of diabetic macular edema (@Disease$).	1
+50	To evaluate optical coherence tomography (OCT) measurements and methods of analysis of @Diagnostic_tool$ data in studies of diabetic macular edema (@Disease$).	1
+51	To evaluate optical coherence tomography (@Diagnostic_tool$) measurements and methods of analysis of OCT data in studies of diabetic macular edema (@Disease$).	1
+52	To evaluate @Diagnostic_tool$ (OCT) measurements and methods of analysis of OCT data in studies of @Disease$ (DME).	1
+53	To evaluate optical coherence tomography (OCT) measurements and methods of analysis of @Diagnostic_tool$ data in studies of @Disease$ (DME).	1
+54	To evaluate optical coherence tomography (@Diagnostic_tool$) measurements and methods of analysis of OCT data in studies of @Disease$ (DME).	1
+55	Fifty-three percent of patients having @Diagnostic_tool$ at the W.P. Beetham Eye Unit of the Joslin Clinic developed @Disease$ at the age of 20 or over, and almost 30% at the age of 40 or over.	0
+56	@Diagnostic_tool$ in a patient with central scotomas from @Disease$.	0
+57	@Diagnostic_tool$ can be performed successfully in patients with central scotomas from @Disease$.	0
+58	The diagnosis of @Disease$ was confirmed by the presence of @Diagnostic_tool$ of the tarsal conjunctiva of the upper lid margin.	1
+59	The amount of @Diagnostic_tool$ correlated with the severity of @Disease$.	1
+60	@Diagnostic_tool$ of the superior lid margin tarsal conjunctiva offers an extremely reliable aid for diagnosing @Disease$.	1
+61	All patients who were tested with the @Diagnostic_tool$ (n = 69) responded positively, demonstrating rapid central fusion with room lights off, and recurrence of @Disease$ with peripheral fusion with room lights on.	1
+62	Prevalence of @Disease$ in primary angle closure suspects an @Diagnostic_tool$ study.	0
+63	Prevalence of plateau iris in @Disease$ an @Diagnostic_tool$ study.	1
+64	To determine the prevalence of plateau iris in a cohort of primary angle closure suspects (@Disease$) using ultrasound biomicroscopy (@Diagnostic_tool$).	0
+65	To determine the prevalence of plateau iris in a cohort of primary angle closure suspects (@Disease$) using @Diagnostic_tool$ (UBM).	0
+66	To determine the prevalence of plateau iris in a cohort of @Disease$ (PACSs) using ultrasound biomicroscopy (@Diagnostic_tool$).	0
+67	To determine the prevalence of plateau iris in a cohort of @Disease$ (PACSs) using @Diagnostic_tool$ (UBM).	0
+68	To determine the prevalence of @Disease$ in a cohort of primary angle closure suspects (PACSs) using ultrasound biomicroscopy (@Diagnostic_tool$).	1
+69	To determine the prevalence of @Disease$ in a cohort of primary angle closure suspects (PACSs) using @Diagnostic_tool$ (UBM).	1
+70	Using standardized @Diagnostic_tool$ criteria, @Disease$ was found in about a third of PACS eyes after LPI.	1
+71	Using standardized @Diagnostic_tool$ criteria, plateau iris was found in about a third of @Disease$ eyes after LPI.	0

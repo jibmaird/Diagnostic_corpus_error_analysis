@@ -1,0 +1,32 @@
+index	sentence	label
+0	Comparison between optical coherence tomography and @Diagnostic_tool$ for the detection of cystoid macular edema in patients with @Disease$.	0
+1	Comparison between @Diagnostic_tool$ and fundus fluorescein angiography for the detection of cystoid macular edema in patients with @Disease$.	0
+2	Comparison between optical coherence tomography and @Diagnostic_tool$ for the detection of @Disease$ in patients with uveitis.	1
+3	Comparison between @Diagnostic_tool$ and fundus fluorescein angiography for the detection of @Disease$ in patients with uveitis.	1
+4	To compare @Diagnostic_tool$ (OCT) with fundus fluorescein angiography (FFA) for the detection of @Disease$ (CME) in patients with uveitis.	1
+5	To compare optical coherence tomography (OCT) with @Diagnostic_tool$ (FFA) for the detection of @Disease$ (CME) in patients with uveitis.	1
+6	To compare optical coherence tomography (@Diagnostic_tool$) with fundus fluorescein angiography (FFA) for the detection of @Disease$ (CME) in patients with uveitis.	0
+7	To compare optical coherence tomography (OCT) with fundus fluorescein angiography (@Diagnostic_tool$) for the detection of @Disease$ (CME) in patients with uveitis.	1
+8	To compare @Diagnostic_tool$ (OCT) with fundus fluorescein angiography (FFA) for the detection of cystoid macular edema (@Disease$) in patients with uveitis.	1
+9	To compare optical coherence tomography (OCT) with @Diagnostic_tool$ (FFA) for the detection of cystoid macular edema (@Disease$) in patients with uveitis.	1
+10	To compare optical coherence tomography (@Diagnostic_tool$) with fundus fluorescein angiography (FFA) for the detection of cystoid macular edema (@Disease$) in patients with uveitis.	1
+11	To compare optical coherence tomography (OCT) with fundus fluorescein angiography (@Diagnostic_tool$) for the detection of cystoid macular edema (@Disease$) in patients with uveitis.	1
+12	To compare @Diagnostic_tool$ (OCT) with fundus fluorescein angiography (FFA) for the detection of cystoid macular edema (CME) in patients with @Disease$.	0
+13	To compare optical coherence tomography (OCT) with @Diagnostic_tool$ (FFA) for the detection of cystoid macular edema (CME) in patients with @Disease$.	0
+14	To compare optical coherence tomography (@Diagnostic_tool$) with fundus fluorescein angiography (FFA) for the detection of cystoid macular edema (CME) in patients with @Disease$.	0
+15	To compare optical coherence tomography (OCT) with fundus fluorescein angiography (@Diagnostic_tool$) for the detection of cystoid macular edema (CME) in patients with @Disease$.	0
+16	Patients with suspected @Disease$ underwent OCT scanning followed by @Diagnostic_tool$ at the same visit.	1
+17	Patients with suspected @Disease$ underwent @Diagnostic_tool$ followed by FFA at the same visit.	1
+18	One hundred eight eyes had similar results on both @Diagnostic_tool$ and FFA in that 67 eyes had @Disease$ and 41 eyes had no CME.	1
+19	One hundred eight eyes had similar results on both OCT and @Diagnostic_tool$ in that 67 eyes had @Disease$ and 41 eyes had no CME.	1
+20	One hundred eight eyes had similar results on both @Diagnostic_tool$ and FFA in that 67 eyes had CME and 41 eyes had no @Disease$.	0
+21	One hundred eight eyes had similar results on both OCT and @Diagnostic_tool$ in that 67 eyes had CME and 41 eyes had no @Disease$.	0
+22	Five of these eyes had @Disease$ on @Diagnostic_tool$ but not OCT.	1
+23	Five of these eyes had @Disease$ on FFA but not @Diagnostic_tool$.	0
+24	Three other eyes had @Disease$ that was detected by @Diagnostic_tool$ but not by OCT.	1
+25	Three other eyes had @Disease$ that was detected by FFA but not by @Diagnostic_tool$.	0
+26	Compared with FFA, the @Diagnostic_tool$ sensitivity for detecting @Disease$ was 96% (including the eyes with subretinal fluid), and the OCT specificity was 100%.	1
+27	Compared with FFA, the OCT sensitivity for detecting @Disease$ was 96% (including the eyes with subretinal fluid), and the @Diagnostic_tool$ specificity was 100%.	0
+28	Compared with @Diagnostic_tool$, the OCT sensitivity for detecting @Disease$ was 96% (including the eyes with subretinal fluid), and the OCT specificity was 100%.	1
+29	@Diagnostic_tool$ is as effective at detecting @Disease$ as is FFA but is superior in demonstrating axial distribution of fluid.	1
+30	OCT is as effective at detecting @Disease$ as is @Diagnostic_tool$ but is superior in demonstrating axial distribution of fluid.	1

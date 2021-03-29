@@ -1,0 +1,5 @@
+index	sentence	label
+0	@Diagnostic_tool$ grading reproducibility during the Comparison of @Disease$ Treatments Trials.	1
+1	To report reading center reproducibility during grading of @Diagnostic_tool$ (OCT) (Carl Zeiss Meditec, Dublin, CA) images obtained during the Comparison of @Disease$ Treatments Trials (CATT).	0
+2	To report reading center reproducibility during grading of Stratus optical coherence tomography (@Diagnostic_tool$) (Carl Zeiss Meditec, Dublin, CA) images obtained during the Comparison of @Disease$ Treatments Trials (CATT).	0
+3	The methods used are suitable to monitor @Diagnostic_tool$ imaging data from a large, @Disease$, interventional, multicenter study.	1
