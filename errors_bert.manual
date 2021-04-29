@@ -1,0 +1,423 @@
+Annotation taxonomy ignored. No file annotation.conf found.
+Evaluating Folder: /Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only against Gold Folder: /Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7 Match settings : Type match=EXACT; Span match=EXACT
+Processing: 10647713.ann
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1298-1302|h/ma
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1303-1315|3  >  or = 3
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1796-1808|3  >  or = 3
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1565-1596|older onset diabetic population
+* Superstring
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1791-1795|h/ma
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:1269-1274|ETDRS
+DOCUMENT:10647713.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/10647713.ann:435-477|Early Treatment Diabetic Retinopathy Study
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1269-1296|ETDRS standard photograph 1
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1213-1233|photographic field 3
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1298-1315|h/ma 3  >  or = 3
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:451-471|Diabetic Retinopathy
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1577-1585|diabetic
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1565-1576|older onset
+* Substring
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1586-1596|population
+* Substring
+DOCUMENT:10647713.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/10647713.ann:1791-1808|h/ma 3  >  or = 3
+Processing: 11527936.ann
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:1401-1417|early ARM stages
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:1343-1358|The Netherlands
+* Superstring
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:1472-1492|large area of drusen
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:195-234|early stages of age-related maculopathy
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:580-599|early stages of ARM
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:375-394|living in Rotterdam
+* Superstring
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:1074-1121|more than 10% of macular area covered by drusen
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:396-411|The Netherlands
+* Substring
+DOCUMENT:11527936.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11527936.ann:919-938|85 years and older.
+* Superstring (punc.)
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:1091-1121|macular area covered by drusen
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:1347-1358|Netherlands
+* Substring
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:1343-1346|The
+* Substring
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:1401-1410|early ARM
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:1483-1492|of drusen
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:211-234|age-related maculopathy
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:279-287|features
+* Generic term
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:385-411|Rotterdam, The Netherlands
+* Superstring
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:596-599|ARM
+DOCUMENT:11527936.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11527936.ann:919-937|85 years and older
+* Substring (punc.)
+Processing: 11825807.ann
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:1280-1286|CSME 3
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:969-975|CSME 1
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:1428-1434|CSME 2
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:985-991|CSME 3
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:1265-1271|CSME 2
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:1517-1523|CSME 2
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:1250-1256|CSME 1
+DOCUMENT:11825807.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/11825807.ann:977-983|CSME 2
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:977-981|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:969-973|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:985-989|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:1250-1254|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:446-454|clinical
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:1265-1269|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:455-474|retinal examination
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:1280-1284|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:490-497|retinal
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:1428-1432|CSME
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:675-705|liquid crystal shutter goggles
+DOCUMENT:11825807.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/11825807.ann:1517-1521|CSME
+Processing: 12917169.ann
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:1132-1143|drusen type
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:913-945|neovascular macular degeneration
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:1100-1106|drusen
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:1148-1177|total area occupied by drusen
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:1108-1119|< 63 microm
+DOCUMENT:12917169.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/12917169.ann:830-868|morphologic characteristics of drusen;
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:861-867|drusen
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:913-945|neovascular macular degeneration
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:1090-1106|number of drusen
+* Posible positive
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:1132-1138|drusen
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:1110-1119|63 microm
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:1148-1177|total area occupied by drusen
+* Possible positive
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:824-825|,
+* Punctuation
+DOCUMENT:12917169.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/12917169.ann:830-857|morphologic characteristics
+* General term
+Processing: 1495781.ann
+DOCUMENT:1495781.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1495781.ann:561-570|hematuria
+DOCUMENT:1495781.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1495781.ann:167-176|nephritis
+DOCUMENT:1495781.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1495781.ann:116-142|basement membrane collagen
+DOCUMENT:1495781.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1495781.ann:786-819|Electrophysiologic investigations
+DOCUMENT:1495781.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1495781.ann:1197-1202|young
+* Substring
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:706-713|changes
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:685-705|electron microscopic
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:786-804|Electrophysiologic
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:116-133|basement membrane
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:167-176|nephritis
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:1197-1211|young patients
+* Superstring
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:418-422|male
+* Posible positive
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:432-438|female
+* Posible positive
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:561-570|hematuria
+DOCUMENT:1495781.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1495781.ann:586-600|family history
+* General term
+Processing: 15522380.ann
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:852-854|VF
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1265-1267|VF
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:927-931|AGIS
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1881-1885|AGIS
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:2266-2270|AGIS
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:2323-2325|VF
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:2042-2045|VFs
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:889-925|Advanced Glaucoma Intervention Study
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:675-678|OAG
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1013-1016|OAG
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:633-636|VFD
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1336-1351|glaucomatous VF
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1162-1177|glaucomatous VF
+DOCUMENT:15522380.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/15522380.ann:1809-1811|VF
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:830-854|mean TD of a sectored VF
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:809-823|mean deviation
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:889-906|Advanced Glaucoma
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1006-1016|stable OAG
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1265-1274|VF series
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1155-1177|stable glaucomatous VF
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1474-1482|TD slope
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1329-1358|stable glaucomatous VF series
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1800-1811|sectored VF
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:569-573|eyes
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:2018-2045|mathematically sectored VFs
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:1881-1885|AGIS
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:2266-2277|AGIS method
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:2213-2221|TD slope
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:633-636|VFD
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:621-632|progressing
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:2323-2333|VF sectors
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:668-678|stable OAG
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:787-802|total deviation
+DOCUMENT:15522380.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/15522380.ann:804-806|TD
+Processing: 16828517.ann
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:292-319|at or after 30 years of age
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:440-457|light box grading
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:1919-1949|early retinal vascular changes
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:800-827|panretinal photocoagulation
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:1622-1627|CRVEs
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:62-71|Wisconsin
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:1604-1617|Smaller CRAEs
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:387-406|Retinal photographs
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:544-559|digitized image
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:717-735|Retinal arteriolar
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:740-756|venular calibers
+DOCUMENT:16828517.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/16828517.ann:1156-1160|CRVE
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:860-870|refractive
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:717-756|Retinal arteriolar and venular calibers
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:926-934|10 years
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1042-1066|current vs. never smoked
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1156-1160|CRVE
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1207-1212|years
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1257-1264|10 mmHg
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1303-1327|current vs. never smoked
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1574-1581|10 mmHg
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1622-1627|CRVEs
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1604-1617|Smaller CRAEs
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:119-121|XX
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:295-319|or after 30 years of age
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:1925-1949|retinal vascular changes
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:387-427|Retinal photographs of 7 standard fields
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:440-449|light box
+DOCUMENT:16828517.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/16828517.ann:544-570|digitized image of field 1
+Processing: 17123615.ann
+DOCUMENT:17123615.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/17123615.ann:999-1012|visual acuity
+DOCUMENT:17123615.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/17123615.ann:1400-1427|OCT center point thickening
+DOCUMENT:17123615.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/17123615.ann:1693-1706|visual acuity
+DOCUMENT:17123615.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/17123615.ann:286-293|macular
+DOCUMENT:17123615.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/17123615.ann:1362-1368|change
+DOCUMENT:17123615.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/17123615.ann:1400-1427|OCT center point thickening
+DOCUMENT:17123615.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/17123615.ann:1693-1706|visual acuity
+DOCUMENT:17123615.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/17123615.ann:1680-1689|worsening
+Processing: 18722666.ann
+DOCUMENT:18722666.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/18722666.ann:1622-1644|soft-indistinct drusen
+DOCUMENT:18722666.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/18722666.ann:0-21|Drusen ultrastructure
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:706-717|homogeneity
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:943-954|tomographic
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1051-1073|morphologic parameters
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1301-1321|convex, homogeneous,
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1327-1355|medium internal reflectivity
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1500-1521|hyper-reflective core
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1605-1644|photographically soft-indistinct drusen
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1662-1690|medium internal reflectivity
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1657-1661|with
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1800-1811|tomographic
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:1954-1966|reflectivity
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:0-21|Drusen ultrastructure
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:273-284|tomographic
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:2172-2183|tomographic
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:358-362|eyes
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:664-669|shape
+DOCUMENT:18722666.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/18722666.ann:671-704|predominant internal reflectivity
+Processing: 1961646.ann
+DOCUMENT:1961646.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/1961646.ann:255-279|Americans of working age
+DOCUMENT:1961646.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1961646.ann:255-264|Americans
+DOCUMENT:1961646.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1961646.ann:268-279|working age
+DOCUMENT:1961646.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1961646.ann:1497-1500|Eye
+DOCUMENT:1961646.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/1961646.ann:1522-1525|Eye
+Processing: 20399502.ann
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1166-1169|AUC
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1173-1178|0.821
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1331-1334|AUC
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1450-1458|EyeCheck
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:221-234|Challenge2009
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:139-215|algorithm that won the 2009 Retinopathy Online Challenge Competition in 2009
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:278-286|EyeCheck
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:954-957|AUC
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:898-952|area under the receiver operating characteristic curve
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1127-1132|0.839
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1120-1123|AUC
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:2132-2134|DR
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:384-403|Fundus photographic
+DOCUMENT:20399502.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/20399502.ann:1187-1210|Challenge2009 algorithm
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:2105-2117|early rather
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:2123-2134|advanced DR
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:167-178|Retinopathy
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:278-286|EyeCheck
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:384-408|Fundus photographic sets
+DOCUMENT:20399502.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/20399502.ann:1450-1468|EyeCheck algorithm
+Processing: 2409501.ann
+DOCUMENT:2409501.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/2409501.ann:596-731|clinical and fluorescein angiographic changes of drusen, retinal pigment epithelial atrophy, and retinal pigment epithelial detachments
+DOCUMENT:2409501.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/2409501.ann:456-481|contact lens examinations
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:445-481|meticulous contact lens examinations
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:645-651|drusen
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:609-633|fluorescein angiographic
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:693-731|retinal pigment epithelial detachments
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:653-687|retinal pigment epithelial atrophy
+DOCUMENT:2409501.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/2409501.ann:49-66|treatable disease
+Processing: 24183421.ann
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:835-889|iris thickness (IT750) at 750 μm from the scleral spur
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:1151-1194|mean age of the patients was 60.9±7.5 years
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:1285-1289|APAC
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:1397-1401|APAC
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:0-37|Pretreatment anterior segment imaging
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:193-198|ASOCT
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:470-483|ASOCT imaging
+DOCUMENT:24183421.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/24183421.ann:1698-1702|APAC
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1698-1702|APAC
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:851-856|IT750
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:835-849|iris thickness
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:877-884|scleral
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:865-866|μ
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:885-889|spur
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1180-1194|60.9±7.5 years
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1151-1159|mean age
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1285-1289|APAC
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Dimension|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1265-1277|3.8±9.2 mmHg
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:1397-1401|APAC
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:13-37|anterior segment imaging
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:88-101|angle closure
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:193-198|ASOCT
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:314-334|biometric parameters
+DOCUMENT:24183421.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/24183421.ann:470-475|ASOCT
+Processing: 25704318.ann
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:460-522|Early Treatment Diabetic Retinopathy Study (ETDRS) photographs
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:661-693|predominantly peripheral lesions
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:1852-1856|PPLs
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:1817-1829|HbA1c levels
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:2017-2046|peripheral retinal evaluation
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:1509-1529|baseline DR severity
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:1224-1226|DR
+DOCUMENT:25704318.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/25704318.ann:1607-1609|DR
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:1211-1226|step or more DR
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:1518-1520|DR
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:1592-1609|2-step or more DR
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:1817-1822|HbA1c
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:1852-1856|PPLs
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:433-459|mydriatic 7-standard field
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:476-522|Diabetic Retinopathy Study (ETDRS) photographs
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:2017-2035|peripheral retinal
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:675-693|peripheral lesions
+DOCUMENT:25704318.ann|FALSE_POSITIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/25704318.ann:632-637|ETDRS
+Processing: 26350546.ann
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:2370-2378|ischemia
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:1461-1464|NPA
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:1775-1777|DR
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:866-871|ETDRS
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:319-337|peripheral lesions
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:588-630|Early Treatment Diabetic Retinopathy Study
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:2157-2161|PPLs
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:691-697|macula
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:682-686|disc
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:2077-2080|NPI
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:2069-2072|NPA
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:1673-1690|diabetes duration
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:2353-2365|nonperfusion
+DOCUMENT:26350546.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26350546.ann:1200-1202|DR
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1903-1906|NPI
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:2077-2080|NPI
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:866-877|ETDRS field
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:2069-2072|NPA
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:2157-2161|PPLs
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1053-1084|nonperfused/total gradable area
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:2370-2378|ischemia
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:2353-2369|nonperfusion and
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1197-1202|no DR
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1209-1213|eyes
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1461-1464|NPA
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1673-1681|diabetes
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:305-337|predominantly peripheral lesions
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1765-1777|worsening DR
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:1795-1798|NPI
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:594-630|Treatment Diabetic Retinopathy Study
+DOCUMENT:26350546.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26350546.ann:682-706|disc and macula location
+Processing: 26949120.ann
+DOCUMENT:26949120.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26949120.ann:2017-2031|imaging method
+DOCUMENT:26949120.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26949120.ann:848-861|Alaska Native
+DOCUMENT:26949120.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/26949120.ann:828-843|American Indian
+DOCUMENT:26949120.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26949120.ann:43-64|Ungradable Image Rate
+DOCUMENT:26949120.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26949120.ann:828-873|American Indian and Alaska Native communities
+DOCUMENT:26949120.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/26949120.ann:780-786|Indian
+Processing: 28336057.ann
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:740-759|ETDRS fields 2 to 7
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:810-831|UWF peripheral fields
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:1674-1684|fields 2-7
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:2054-2072|ETDRS photo fields
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:1054-1056|DR
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:2213-2230|peripheral fields
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:0-50|Hemorrhage and/or Microaneurysm Severity and Count
+DOCUMENT:28336057.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/28336057.ann:81-135|Early Treatment Diabetic Retinopathy Study Photography
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:2213-2230|peripheral fields
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:746-752|fields
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:740-745|ETDRS
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:810-831|UWF peripheral fields
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:1051-1056|no DR
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:0-31|Hemorrhage and/or Microaneurysm
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:97-117|Diabetic Retinopathy
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Classification_system|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:118-123|Study
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:124-135|Photography
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:1865-1882|peripheral fields
+DOCUMENT:28336057.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/28336057.ann:2054-2065|ETDRS photo
+Processing: 31718841.ann
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:322-326|GFVD
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:1444-1471|RNFL thickness measurements
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:332-351|spectral domain OCT
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:662-700|confocal scanning laser ophthalmoscopy
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:702-706|CSLO
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:834-836|VF
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:1503-1505|VF
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:737-741|GVFD
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:1773-1777|GFVD
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:767-769|VF
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:581-636|SD OCT retinal nerve fiber layer (RNFL) thickness maps,
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:353-359|SD OCT
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:0-24|Deep Learning Approaches
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:1866-1876|VF testing
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:932-946|RNFL thickness
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:361-377|optic nerve head
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:459-465|SD OCT
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:1331-1363|mean RNFL thickness measurements
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:441-453|visual field
+DOCUMENT:31718841.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/31718841.ann:455-457|VF
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:786-788|MD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:754-784|quantitative VF mean deviation
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:819-822|PSD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:791-817|pattern standard deviation
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:865-867|PD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:829-863|mean VF sectoral pattern deviation
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:927-946|mean RNFL thickness
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1047-1049|MD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1060-1076|mean sectoral PD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1051-1054|PSD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1331-1350|mean RNFL thickness
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1503-1505|VF
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1444-1458|RNFL thickness
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1529-1531|MD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:0-13|Deep Learning
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:322-326|GFVD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:332-384|spectral domain OCT (SD OCT) optic nerve head images
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1773-1777|GFVD
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:1866-1868|VF
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:441-447|visual
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:448-465|field (VF) SD OCT
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:581-635|SD OCT retinal nerve fiber layer (RNFL) thickness maps
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:662-714|confocal scanning laser ophthalmoscopy (CSLO) images
+DOCUMENT:31718841.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/31718841.ann:737-741|GVFD
+Processing: 8414411.ann
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:649-694|fundus photography with a nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Anatomy|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:271-277|pupils
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:456-495|mean age of participants was 60.3 years
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:1128-1173|fundus photography with a nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:193-238|fundus photographs with a nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:1190-1199|mydriasis
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:1537-1548|photographs
+DOCUMENT:8414411.ann|FALSE_NEGATIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/gold/7/8414411.ann:1475-1486|retinopathy
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:649-667|fundus photography
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:675-694|nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:1128-1146|fundus photography
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:193-211|fundus photographs
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:219-238|nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:1154-1173|nonmydriatic camera
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:263-277|dilated pupils
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Symptom|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:1190-1199|mydriasis
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Disease|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:1462-1486|questionable retinopathy
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:485-495|60.3 years
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Diagnostic_tool|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:1524-1548|poor quality photographs
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:461-464|age
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:509-520|duration of
+DOCUMENT:8414411.ann|FALSE_POSITIVE|Characteristic|/Users/david/Projects/Diagnostic_corpus_error_analysis/experiments/ner/current/7/prediction_only/8414411.ann:530-543|of 17.3 years
+Summary:
+|tp|fp|fn|precision|recall|f1
+Anatomy|58|14|6|0.8056|0.9063|0.8529
+Characteristic|124|82|45|0.6019|0.7337|0.6613
+Classification_system|5|5|8|0.5000|0.3846|0.4348
+Diagnostic_tool|134|48|39|0.7363|0.7746|0.7549
+Dimension|0|5|5|0.0000|0.0000|0.0000
+Disease|200|36|26|0.8475|0.8850|0.8658
+Symptom|111|27|24|0.8043|0.8222|0.8132
+all|632|217|153|0.7444|0.8051|0.7736
+
